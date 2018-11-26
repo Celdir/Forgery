@@ -1,0 +1,3406 @@
+TOY STORY
+
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+FADE IN:
+
+INT. ANDY'S BEDROOM
+
+A row of moving boxes lie on the floor of the room.  They
+
+are drawn up in crayon to look like a miniature Western town.
+
+The bedroom is lined with cloud wallpaper giving the
+
+impression of sky.
+
+One of the boxes has a children's illustrated "WANTED"
+
+poster of a Mr. Potato Head taped to it.
+
+A MR. POTATO HEAD DOLL is set in front of the poster.  The
+
+VOICE OVER of ANDY, a 6-year-old boy, can be heard acting
+
+out all the voices of the scene.
+
+A GROUP OF TOYS have been crowded together in front of the
+
+"BANK" box.
+
+Andy's hand lowers a CERAMIC PIGGY BANK in front of Mr.
+
+Potato Head and shakes out a pile of coins to the floor.  Mr.
+
+Potato Head kisses the coins.
+
+A porcelain figurine of the shepherdess, BO PEEP, is brought
+
+into the scene.
+
+The companion porcelain sheep are placed in the center of a
+
+Hot Wheels track loop.
+
+WOODY, a pull-string doll cowboy, enters into the scene
+
+opposite the inanimate spud.
+
+Andy's hand pulls on the ring in the center of Woody's back.
+
+Andy's hand pulls out one of Mr. Potato Head's eyes.
+
+Andy places a TOY DOG, with a SLINKY for a mid-section, in
+
+front of Mr. Potato Head and stretches him out.
+
+Andy reveals a PLASTIC TYRANNOSAURUS REX, who stomps on the
+
+Slinky Dog.
+
+Andy picks up Mr. Potato Head and places him in a baby crib
+
+in the room.
+
+A cardboard sign is taped to the bars with the word "JAIL"
+
+written in crayon.
+
+Andy's 1-year-old sister, MOLLY, crawls over and picks up Mr.
+
+Potato Head.  She sucks on him for a beat then proceeds to
+
+pound the toy repeatedly against the rail of her crib,
+
+forcing some of his parts loose.
+
+Andy, wearing a cowboy hat himself, picks up Woody off the
+
+floor.
+
+BEGIN TITLES
+
+SONG "YOU'VE GOT A FRIEND IN ME" plays while Andy does
+
+various activities with Woody:
+
+-- Andy turns the Western town boxes around to reveal cows
+
+drawn on the other side.  He grabs a jump rope and pretends
+
+Woody is lassoing the cattle.
+
+-- Andy then rides Woody around on an RC (remote control)
+
+car, and herds the remaining "cow" boxes under Molly's crib.
+
+INT. STAIRWELL
+
+-- Andy places Woody on the top of the stairwell banister
+
+allowing the doll to slide downstairs.  Andy races ahead and
+
+catches him at the bottom.
+
+INT. DOWNSTAIRS LIVING ROOM
+
+-- Andy & Woody fall into the La-Z-Boy chair and spin around
+
+and around.
+
+Next, Andy uses the La-Z-Boy foot rest as a catapult.
+
+Andy flings Woody across the room to the sofa.
+
+SONG ENDS
+
+Woody lies limp on the sofa while Andy is heard talking to
+
+his mother.
+
+ANGLE: THE ADJOINING DINING ROOM
+
+MRS. DAVIS, Andy's thirty eight-year-old mom, has just
+
+finished decorating the area with streamers and balloons.  A
+
+banner is draped across the archway.  It reads: "Happy
+
+Birthday Andy."
+
+Woody's frozen face stares in the direction of the birthday
+
+decorations.
+
+Andy picks up Woody from the couch and runs upstairs.
+
+INT. ANDY'S BEDROOM - CONTINUOUS
+
+Andy and Woody enter the room.  Molly is still banging
+
+Potato Head against her crib railing.  Andy tips Woody's hat
+
+at her.
+
+He deposits Woody on the bed and pulls his string one last
+
+time.
+
+Andy exits.
+
+END TITLES
+
+Woody's eyes come to life.  The cowboy doll sits up, his
+
+expression changing from a smile to worry.
+
+Woody thinks.
+
+The bedroom comes alive.  TOYS emerge from the toy box, the
+
+closet, the shelves, etc... in a flurry of activity.
+
+POTATO HEAD, his body parts strewn across the floor, sits
+
+himself upright and begins to re-assemble himself.
+
+HAMM, the piggy bank, flips one last penny into his coin
+
+slot.  Potato Head walks up to him.  All his facial pieces
+
+are in the wrong slots.
+
+Hamm walks away.
+
+Potato Head walks past, revealing a hockey puck figurine.
+
+Woody sits on the edge of the bed observing all the activity.
+
+He turns to a plastic green army man, SARGENT, standing on
+
+the night stand.
+
+Woody hops off the bed.
+
+A toy Slinky dog, SLINKY, appears from under the bed pushing
+
+out a checker board set.  He begins to place the checkers on
+
+the board.
+
+Woody covers up Slinky's mouth, aware that the other toys in
+
+the room are watching.  He leans in close to Slinky.
+
+Slinky shuffles off.
+
+Slinky perks up his gait and LAUGHS HARD.
+
+Woody proceeds in the other direction.  He passes a toy
+
+ROBOT and SNAKE partially hidden under the bedspread.
+
+Robot and Snake come out from under the bed and reluctantly
+
+follow Woody.
+
+Woody walks past an Etch-A-Sketch, ETCH, going the other
+
+direction.
+
+Both Etch and Woody whip around like gunfighters.
+
+Before Woody can fully extend his arm out, the Etch-A-Sketch
+
+etches a gun on its screen.
+
+Slinky passes a group of toys on the floor.
+
+Robot and Snake begin constructing a podium made out of
+
+Legos and a Tinker Toy tub while Woody searches the floor.
+
+Woody spots the doodle pad on the floor by the desk and
+
+walks over to it.  As he reaches down to pick it up...
+
+REX, the plastic dinosaur, jumps out to scare Woody.
+
+Rex suddenly turns timid.
+
+Woody heads back to the podium.  Rex follows.
+
+A crook suddenly grabs Woody's neck and jerks him towards BO
+
+PEEP, the porcelain figurine.
+
+Bo saunters back towards her lamp stand, passing a stack of
+
+ABC blocks.
+
+Woody is left lovestruck.
+
+All the rest of the toys in the room are filing past Slinky.
+
+Woody remains lovestruck in the middle of the room.
+
+Woody snaps out of his trance and rushes over to the podium.
+
+The toys crowd together as Woody steps up to the podium.
+
+MIKE, a toy tape recorder, waddles up next to Woody and
+
+indicates his microphone.
+
+SFX: FEEDBACK
+
+Mike waddles back a step to stop the feedback.
+
+The toys all MOAN.
+
+The toys LAUGH and SNICKER.
+
+The words "You're welcome" scroll across Mr. Spell's display
+
+screen as he speaks.
+
+The toys all PANIC.
+
+While Slinky speaks, Potato Head takes off his mouth and
+
+mimes kissing his own butt.
+
+Woody steps down from the podium and walks towards the crowd.
+
+Everyone is now looking down, sheepish.
+
+Too late.  The toys PANIC and stampede over Woody towards
+
+the bedroom window, leaving him alone on the floor.
+
+The toys all crowd around the bedroom window, trying to get
+
+a peek outside.
+
+Unable to see over the crowd, Potato Head pulls his eyes out
+
+of his head and holds them up over the other toys.
+
+ANGLE: TOY'S POV OF ANDY'S FRONT YARD
+
+CHILDREN file towards the front door carrying presents.
+
+The presents keep coming.
+
+At first, the kid's present appears to be a little box, but
+
+then the kid turns -- the present is four feet long.  The
+
+toys SCREAM.
+
+Down on the floor, Woody smacks his hand to his forehead in
+
+surrender.
+
+The toys turn inside and look down at Woody.
+
+Woody jumps up onto Andy's bed and turns to the Sargent on
+
+the nightstand.
+
+The green army man hops down to the floor where a "BUCKET O'
+
+SOLDIERS" sits.
+
+THE GREEN ARMY MEN file out of the bucket and march in
+
+formation across the bedroom floor.
+
+INT. UPSTAIRS HALLWAY
+
+Andy's door creaks open and a lone army man ventures forth
+
+to make sure the coast is clear.  Satisfied, he motions for
+
+the others to proceed.  Squads of soldiers march into the
+
+hall carrying a baby monitor and a jump rope.
+
+The army men each leapfrog behind the stairway banisters and
+
+hold their positions while the Sargent surveys the scene
+
+below through his binoculars.
+
+ANGLE: SARGENT'S BINOCULAR VIEW OF DOWNSTAIRS
+
+Directly below, Mrs. Davis passes through the hallway
+
+rounding up Andy and all his birthday guests.
+
+Once Mrs. Davis and the children are out of sight, the
+
+Sargent motions to his men with a silent hand signal.
+
+TWO PARATROOPERS jump out through the railing, parachuting
+
+down to the floor below.
+
+INT. DOWNSTAIRS HALLWAY - CONTINUOUS
+
+The paratroopers sweep the area with their plastic rifles,
+
+then give the "all clear" sign.
+
+The jump rope is lowered, and more soldiers rappel down.
+
+INT. ANDY'S BEDROOM
+
+The toys race towards the nightstand where Woody has placed
+
+the receiving half of the baby monitor.
+
+INT. DOWNSTAIRS HALLWAY
+
+The green army men march in formation across the floor when
+
+suddenly...
+
+SFX: FOOTSTEPS
+
+Can be heard approaching from behind the connecting kitchen
+
+door.  Immediately the Sargent signals for his men to freeze
+
+in their various classic action poses.
+
+The door opens and Mrs. Davis' foot comes down hard on top
+
+of a soldier.
+
+With a sweep of her foot, she brushes the army men out of
+
+her path and continues on to the living room.
+
+INT. ANDY'S BEDROOM
+
+INT. DOWNSTAIRS HALLWAY
+
+As soon as Mom is gone, the Sargent motions for his men to
+
+proceed toward a nearby houseplant that looks into the
+
+living room.
+
+The Sargent then notices an injured soldier struggling to
+
+drag himself forward -- a casualty of Mrs. Davis' foot.  The
+
+Sargent helps the injured soldier to his feet.
+
+The Sargent motions to the remaining men above.  They lower
+
+themselves via jump rope, riding the baby monitor.  Once
+
+downstairs, they hustle the baby monitor towards the
+
+houseplant.  Suddenly...
+
+A BALL
+
+bounces into the hallway, followed by the sound of footsteps
+
+and kid clamor.
+
+The Sargent, supporting his wounded man, reaches the plant,
+
+right on the heels of the squad with the baby monitor.  They
+
+conceal themselves in the house plant just before the
+
+children run by.
+
+INT. DOWNSTAIRS - HOUSE PLANT - CONTINUOUS
+
+While the baby monitor is set in place, A MEDIC evaluates
+
+the wounded soldier and gives the "thumb's up" signal.
+
+The Sargent scans the party with his binoculars.
+
+ANGLE: BINOCULAR VIEW OF BIRTHDAY PRESENTS
+
+The pile of brightly wrapped gifts sits atop the living room
+
+coffee table.
+
+INT. ANDY'S BEDROOM
+
+The toys perk up as STATIC suddenly emits from the baby
+
+monitor.
+
+INT. LIVING ROOM
+
+ANGLE: BINOCULAR VIEW OF PRESENTS
+
+ANGLE: BINOCULAR VIEW OF A SINGULAR PRESENT
+
+INT. ANDY'S BEDROOM
+
+The toys CHEER WITH RELIEF.
+
+Hamm gives Potato Head a congratulatory pat on the back,
+
+sending his facial features flying.
+
+INT. DOWNSTAIRS - HOUSE PLANT
+
+INT. ANDY'S BEDROOM
+
+INT. DOWNSTAIRS - HOUSE PLANT
+
+The platoon is preparing to exit the plant when...
+
+The Sargent lifts his binoculars back to his eyes.
+
+ANGLE: BINOCULAR VIEW OF LIVING ROOM
+
+Mrs. Davis can be seen opening the closet and pulling out
+
+another large present.
+
+INT. ANDY'S BEDROOM - CONTINUOUS
+
+All the toys tense up.
+
+INT. DOWNSTAIRS - HOUSE PLANT - CONTINUOUS
+
+INT. ANDY'S BEDROOM - CONTINUOUS
+
+The sound of children CHEERING emits from the monitor,
+
+cutting off the Sargent.
+
+Rex grabs a leg of the nightstand and shakes it, making the
+
+monitor drop to the floor.  The impact causes the batteries
+
+to roll out.
+
+Everyone rushes to the fallen monitor.  Potato Head tries to
+
+correctly insert the batteries.
+
+Woody jumps down off the bed and shoves both Hamm and Potato
+
+Head aside.
+
+INT. LIVING ROOM
+
+The kids rush past the houseplant.
+
+INT. ANDY'S BEDROOM - CONTINUOUS
+
+Woody puts the last battery back in.
+
+The toys PANIC and scatter about the room.
+
+Frantic, Rex slams into a trashcan and falls over.
+
+Everyone scurries to their places as the KIDS' FOOTSTEPS
+
+grow louder.
+
+Woody falls limp in his spot on the bed just as...
+
+Andy's bedroom door flies open and a flood of children's
+
+feet rush in.
+
+Woody is flung off Andy's pillow and slides, unnoticed, down
+
+the gap between the bed and the back wall.
+
+The kids all run out as fast as they entered, SLAMMING THE
+
+DOOR behind them.
+
+BEAT
+
+The toys slowly come to life and make their way toward the bed.
+
+Woody crawls out from under the bed.  The toys are shocked
+
+to discover him there.
+
+The toys give each other a look of doubt.
+
+Woody climbs slowly up the side of the bed, peeking over the
+
+edge.  His eyes widen at the sight of...
+
+BUZZ LIGHTYEAR
+
+We see Buzz as Woody does - an expensive looking space age
+
+action figure, covered with buttons and stickers from head
+
+to toe.  The imposing "G.I. Joe-sized" doll stands heroically
+
+in the center of the bed, his back to Woody.
+
+Woody GULPS.
+
+Buzz comes alive and looks around.
+
+ANGLE: BUZZ'S POV THROUGH HIS HELMET
+
+While he scans the bedroom a "DARTH VADER" LIKE BREATHING is
+
+heard.
+
+Buzz eyes it all suspiciously and pushes a button on his chest.
+
+SFX: ELECTRONIC BEEP
+
+Nothing.  He pushes the button again.
+
+Just then, Buzz catches sight of his ripped packaging.  The
+
+box is designed to look like a spaceship.
+
+He runs up to the box and investigates the damage.
+
+Buzz flips open a plastic compartment on his arm -- his
+
+wrist communicator.
+
+Buzz springs up and down on the squishy surface of the bed.
+
+He taps the sticker of controls on his wrist communicator.
+
+ANGLE: BUZZ'S POV THROUGH HIS HELMET
+
+Woody's face suddenly pops into view.
+
+Buzz jumps back, taking a fighting stance.  He presses a
+
+button on his arm that turns on a red "laser beam" light on
+
+his wrist.  Buzz aims the red beam on Woody's forehead and
+
+holds it there.
+
+While Woody is speaking, Buzz notices the sheriff's badge on
+
+Woody's vest.
+
+Buzz begins walking around the bed, surveying the situation.
+
+Woody tries to keep up.
+
+Buzz shoves Woody down on the bed and re-activates his wrist
+
+laser.
+
+The other toys are peeking over the edge of the bed.
+
+Buzz walks over to the toys.
+
+Rex steps forward and eagerly shakes Buzz's hand.
+
+Buzz presses a button on his chest.
+
+The toys all GASP IN AWE.
+
+As Buzz speaks, Woody glances down at the box in which Buzz
+
+arrived.
+
+ANGLE: BACK OF BUZZ'S BOX
+
+There is a cartoon drawing of Buzz giving the exact, word-
+
+for-word spiel that Buzz is now giving.
+
+Woody walks over to Bo Peep.
+
+Slinky presses the button on Buzz's arm, activating his
+
+laser light.  Buzz quickly pulls his arm away.
+
+Buzz calmly hits a button and wings pop out.
+
+Again the toys GASP IN AWE.
+
+The crowd of toys make room for Buzz as he heads towards the
+
+edge of the bed and climbs up the bedpost.  He poses like a
+
+high diver, shuts his eyes...
+
+...and leaps off the bed.
+
+Buzz plummets straight down, hits a big rubber ball and
+
+bounces right back up.
+
+He then lands on a Hotwheels car, which races him down the
+
+track, through the loop, and off a ramp.  Buzz soars upward
+
+into a plane mobile hanging from the ceiling.
+
+Buzz becomes wedged between the plane's wheels.  The impact
+
+turns on the PLANE'S MOTOR making it (and Buzz) spin around
+
+and around.
+
+All the other toys watch from the bed, mesmerized.
+
+Finally the centrifugal force causes Buzz to separate from
+
+the plane, sailing him across the room toward the bed.
+
+Buzz makes a perfect landing right in front of Woody and
+
+then opens his eyes.
+
+The crowd of toys rush Buzz, CHEERING AND CLAPPING WITH
+
+ADORATION.
+
+Woody stands alone at the other end of the bed, fuming.
+
+Slinky, caught up in the euphoria, approaches Woody.
+
+MONTAGE
+
+SONG: STRANGE THINGS plays over montage.
+
+INT. ANDY'S BEDROOM - LATER
+
+A) Andy plays with Woody: jumping up and down on the bed,
+
+running around the room.
+
+B) Andy sets Woody down on the floor.  Next he "lands" Buzz
+
+Lightyear on the floor opposite Woody.  Andy shoots Buzz's
+
+laser at Woody and then smacks Woody across the room as if
+
+he'd been blown away by the laser.
+
+C) Andy runs into his closet wearing his cowboy hat and
+
+cowboy pajamas.
+
+Andy runs out of the closet clad in Buzz Lightyear pajamas
+
+and a homemade spaceman's helmet.
+
+D) Woody observes all the cowboy-themed items in the bedroom
+
+transform to space motif: the posters, the drawings on the
+
+wall, the pillow, the bedspread.
+
+E) Buzz watches Rex execute a WIMPY ROAR.  The space ranger
+
+suggests a few tips for the dinosaur.  Rex tries again, this
+
+time giving a "JURASSIC PARK" ROAR.
+
+The roar blasts Potato Head's features right off his face.
+
+F) Woody passes Etch-A-Sketch, who's sporting a portrait of
+
+Buzz.
+
+Woody looks across the room to see Buzz combing Troll Doll's
+
+hair, chatting away like a hair dresser.
+
+Woody angrily shakes Etch, removing Buzz's image.
+
+G) Rocky, Snake, Troll Doll and Rex are lifting Tinkertoys
+
+as weights.  Buzz works out on top of an upside down Robot,
+
+using his feet as a treadmill.
+
+Potato Head attempts to lift his Tinkertoy barbell but ends
+
+up tumbling backwards, leaving his arms connected to the
+
+barbell.
+
+H) Woody looks under the bed for Slinky, finding only the
+
+checkerboard.
+
+Woody peeks around the corner of the bed to see Slinky and
+
+Robot, under Buzz's direction, setting Buzz's "ship" up on
+
+top of ABC blocks for repair.
+
+In frustration, Woody kicks the checkerboard, sending the
+
+pieces flying.  One of the checkers ricochets off the
+
+dresser and boomerangs into Woody's mouth.
+
+I) On Andy's bed, Buzz pets Slinky whose back end is
+
+stretched over to the other side where Woody sits.  Slinky's
+
+wagging tail whacks Woody in the face repeatedly.
+
+Woody shoves Slinky's rear end off the bed, leaving his
+
+front end no choice but to eventually follow.
+
+J) At bedtime, Andy loads his toys into the toybox until
+
+just Woody and Buzz are left.  He deliberates as to which
+
+toy to keep and which to toss into the toybox.
+
+INT. ANDY'S BEDROOM - LATER THAT NIGHT
+
+Andy is sound asleep, with Buzz tucked under the covers next
+
+to him.
+
+Woody peeks out at them from the toybox and then sadly sinks
+
+back into the box, closing the lid to...
+
+BLACK
+
+END MONTAGE/SONG ENDS
+
+The black screen splits horizontally to become...
+
+INT. ANDY'S BEDROOM - MORNING - WOODY'S POV OF THE BEDROOM
+
+FROM THE TOY BOX
+
+All is clear -- no sign of Andy.  Woody throws open the lid
+
+of the toy box.
+
+He takes a couple DEEP BREATHS of fresh air, then discovers
+
+that his hat is missing.
+
+The rubber shark pops up wearing Woody's cowboy hat.
+
+Woody leaps out of the toy box.
+
+Woody looks up to see Buzz chatting with Rex and Slinky.
+
+Buzz puts his foot out so that Slinky and Rex can see the
+
+sole of his boot.
+
+The name "ANDY" is written on it in permanent marker.
+
+Buzz walks away.
+
+Woody looks at HIS foot -- "Andy" is written on it also but
+
+in a much more childish scrawl, and is largely faded.
+
+Hearing Bo, Woody puts his foot back down and quickly
+
+straightens up.
+
+Woody angrily marches across the room.
+
+Across the room, Buzz's cardboard ship is still up on the
+
+ABC blocks.  Buzz lies down on a skateboard and slides under
+
+the ship like a mechanic.  Snake and Robot stand by waiting
+
+for instructions.  Buzz's hand reaches out from under the ship.
+
+Robot turns towards Snake who stands in readiness by a tape
+
+dispenser.
+
+Snake rips off a piece of tape with his mouth.
+
+Woody approaches the skateboard, grabs hold of Buzz's foot
+
+and rolls him out from under the ship.
+
+Buzz rolls himself back under.  Woody rolls him out again.
+
+Buzz stands up, face to face with Woody.
+
+Woody pushes Buzz in the chest, accidentally activating a
+
+button that makes the spaceman's helmet open.
+
+Buzz grabs his neck, GASPING FOR AIR.  He drops to his knees
+
+and begins to writhe on the ground, holding his breath.
+
+Woody is unsure how to react.
+
+Suddenly, Buzz SNIFFS the air.
+
+Buzz rises and points an accusing finger at Woody.
+
+Buzz closes his helmet.
+
+Buzz falls for the trick and turns around.
+
+Woody kneels over with LAUGHTER.
+
+SFX: DOG BARKING
+
+Woody stops short.  All the toys look to the bedroom window.
+
+Slinky hides under the bed.
+
+The toys rush over to the window.
+
+From out the window, SID PHILLIPS, a hyperactive ten-year-
+
+old, and his dog, SCUD, can be roughly made out jumping
+
+around in their backyard.
+
+A tiny figure stands isolated in the center of the yard.
+
+Sid pummels the figure with rocks while Scud strains at his
+
+leash, barking wildly.
+
+Woody turns to see, LENNY, a pair of wind-up binoculars,
+
+approaching him from the other end of the desk.  Woody picks
+
+Lenny up and looks through him to survey the scene.
+
+ANGLE: BINOCULAR VIEW OF SID'S BACKYARD
+
+A full size toy soldier is posed in a running stance in the
+
+center of the backyard.  A huge M-80 is strapped to the
+
+doll's back with masking tape.
+
+Buzz breaks through the crowd.
+
+Buzz grabs Lenny from Woody and looks through him.
+
+ANGLE: BINOCULAR VIEW OF THE DOG, SCUD
+
+Again, Woody readjusts Buzz's view.
+
+ANGLE: BINOCULAR VIEW OF SID
+
+He is sporting a skull t-shirt and LAUGHING HIDEOUSLY.
+
+Buzz steps up onto the window ledge.  The toys GASP IN SHOCK.
+
+Woody presses Buzz's laser button.  It emits a WIMPY
+
+ELECTRONIC BEEP.  Buzz quickly pulls his arm away.
+
+While Woody and Buzz banter, Lenny witnesses Sid lighting
+
+the fuse of the M80.
+
+The toys jump away from the window.
+
+SFX: EXPLOSION
+
+Dirt clouds and toy shrapnel rain down along the side of
+
+Andy's house.
+
+Andy's toys peek over the window sill.
+
+ANGLE: SID'S YARD
+
+A large black scorch mark is all that remains where Combat
+
+Carl once stood.  Sid jumps up and down victoriously while
+
+Scud resumes his BARKING.
+
+Sid CACKLES and dances around the crater.
+
+EXT. ANDY'S FRONT YARD - SUNSET
+
+A "FOR SALE" real estate sign stands in the front yard.
+
+Another sign reading "SOLD" hangs from the bottom.
+
+INT. UPSTAIRS HALL/ANDY'S BEDROOM
+
+Mom opens the door to Andy's room and steps in.  The room is
+
+full of packing boxes, most of them half full.  Andy is
+
+playing with Woody and Buzz.
+
+Andy throws the two toys on his desk with Buzz landing right
+
+on top of Woody.
+
+The minute the door is closed Woody comes alive and shoves
+
+Buzz off of him.
+
+Woody perks up with concern.
+
+He glances over his shoulder at Buzz, who is walking away
+
+towards the opposite end of the desk.
+
+Woody picks up a Magic 8 Ball left beside him on the desk.
+
+With his back to Buzz, Woody quietly shakes the 8 ball.
+
+He tips the 8 ball over.  The triangular oracle floats up to
+
+the surface.  Its prediction reads: DON'T COUNT ON IT.
+
+Woody throws down the 8 ball in disgust.  It rolls across
+
+the desk and falls behind it with a LOUD THUD.
+
+Woody suddenly becomes interested in the back of the desk
+
+and peers down it.
+
+ANGLE: BACK OF THE DESK
+
+The 8 ball is wedged way down near the bottom.  The space is
+
+a black chasm, dark and deep, just big enough to fit...a toy.
+
+Woody looks across the desk at Buzz.
+
+He is HUMMING TO HIMSELF as he forages through Andy's
+
+pen/pencil tray looking for "tools" to repair his ship with.
+
+Right behind Buzz sits
+
+THE RC CAR
+
+It rests on the desktop, pointing in the direction where the
+
+8 ball fell, with the remote laying by its side.
+
+Woody smiles for a beat and then runs in a panic over to Buzz.
+
+Buzz runs over and looks down the back of the desk.
+
+Woody picks up the remote for the RC Car and switches it on.
+
+RC's eyes (headlights) open sleepily.
+
+Woody hits the "FORWARD" button on the remote and steers the
+
+RC Car straight for Buzz.
+
+Buzz turns to see RC headed straight for him.  He dives out
+
+of the way as the RC Car SMASHES into the base of...
+
+A BULLETIN BOARD
+
+The impact forces pushpins to fly out of the board.  Buzz
+
+ducks as pins land all around him, sticking into the desk
+
+like arrows.
+
+POTATO HEAD
+
+sits on the floor in the midst of a card game with Hamm.
+
+He looks up at the desk and GASPS as the bulletin board
+
+slams down onto...
+
+A GLOBE
+
+knocking it out of its stand.  The globe starts rolling
+
+right at Buzz.
+
+Woody stands frozen in disbelief at the chaos he's created.
+
+Buzz runs along the desk, the globe rolling right behind
+
+him, Indiana Jones style.  Buzz gets stuck "log rolling" on
+
+a pile of pencils, but at the last second jumps out of the
+
+way onto the window ledge.
+
+The globe lumbers past Buzz and strikes a Luxo-style
+
+desklamp.  The arm of the lamp swings all the way around,
+
+barely missing Woody...
+
+...and knocks Buzz out the window.
+
+Woody looks out the window.  No sign of Buzz.  All the other
+
+toys rush over to the sill.
+
+Woody backs away from the COMMOTION, unnoticed.
+
+Rex looks over at RC.  The remote control car is bouncing up
+
+and down excitedly.
+
+The toys turn from the window to RC.
+
+The toys turn to Woody who suddenly realizes how this looks.
+
+The Sargent pops out of the army bucket next to Woody.
+
+Woody seals the lid back on the bucket.
+
+Potato Head starts closing in on Woody.
+
+Potato Head has driven Woody back to the very edge of the
+
+desk -- trapped.
+
+Suddenly, the lid pops off the bucket of army men.
+
+The army men yell CHARGE and pounce on Woody, while all the
+
+rest of the toys close in.
+
+The toys all drop Woody and rush back to their places.
+
+Andy enters the room and heads straight for the desk where
+
+Woody is lying.  Andy overlooks Woody and begins searching
+
+around the room.
+
+Woody painfully watches as Andy searches in vain for Buzz.
+
+Woody looks across the room.
+
+Potato Head and Etch-A-Sketch peek out of a packing box.
+
+Etch-A-Sketch scribbles a hangman's noose while Potato Head
+
+points an accusing finger in Woody's direction.
+
+Woody GULPS.
+
+He grabs Woody and walks out of the room.
+
+EXT. ANDY'S HOUSE - CONTINUOUS
+
+Andy exits the house dragging Woody as he heads toward the
+
+family van in the driveway.
+
+A BUSH
+
+next to the van begins to rustle.  Hands part the foliage,
+
+revealing Buzz.  He eyes Woody going into the van and does a
+
+slow burn.
+
+The van ENGINE STARTS UP.  Buzz races out of the bush, and
+
+with a mighty leap, grabs the rear fender of the van as it
+
+pulls out of the driveway.
+
+ANGLE: SIDE OF ANDY'S HOUSE
+
+A chain of monkeys falls into view, dangling a considerable
+
+distance above the ground.
+
+EXT. ANDY'S BEDROOM WINDOW - CONTINUOUS
+
+The rest of Andy's toys have regrouped at the window,
+
+supervising the lowering of the "monkey chain."
+
+Rex throws the barrel down and runs back to the ledge.
+
+EXT. GAS STATION - LATER
+
+The Davis' family van pulls up to one of the pumps.
+
+INT. VAN - CONTINUOUS
+
+Andy sits in the rear seat with Woody lying next to him.
+
+Both Mrs. Davis and Andy exit the van while baby Molly
+
+sleeps up front in her car seat.
+
+With Mom and Andy out of range, Woody comes to life.  He
+
+stares out the sun roof, still reeling from everything.
+
+Suddenly, Buzz appears over the edge of the sun roof.
+
+Buzz jumps down on the back seat to face Woody.  He is furious.
+
+No response from Buzz.  Just an angry stare.
+
+Buzz lunges for Woody.  The two toys fly off the seat and
+
+out the open side door of the van.
+
+EXT. GAS STATION - CONTINUOUS
+
+Woody and Buzz hit the ground and roll under the van, locked
+
+in mortal combat.
+
+Buzz lands a punch that sends Woody's head spinning around.
+
+Woody lunges with all his might.  He smacks Buzz in the
+
+face, making it SQUEAK with every blow.
+
+Buzz closes his helmet on Woody's hand.
+
+Woody pounds on Buzz's chest with his free hand, activating
+
+BUZZ'S SAMPLED VOICE buttons.
+
+SFX: CAR DOOR SLAM
+
+The toys stop fighting.  Before they can react...
+
+The van drives off.
+
+Woody starts to run in the direction of the van but it
+
+drives out of sight, leaving Buzz and Woody stranded.
+
+Meanwhile, Buzz checks the surroundings.  He flips open his
+
+wrist communicator.
+
+Woody whips around, his expression changing from panic to
+
+seething anger.  He charges at Buzz.
+
+SFX: LOUD TRUCK HORN
+
+Just then the toys are bathed in the headlight beams of a
+
+behemoth tanker truck pulling into the station.
+
+Buzz dives off to the side while Woody collapses right where
+
+he stands on the pavement.  The truck ROARS over him.
+
+A GIGANTIC TIRE
+
+stops just millimeters from Woody's nose.
+
+Petrified, Woody inches away from the tire, moving back
+
+under the truck until he bumps into Buzz.
+
+Buzz walk to the edge of the truck tire and points up to the
+
+stars.
+
+Woody explodes.
+
+Beat.
+
+Buzz walks off.
+
+Woody walks away in the opposite direction.
+
+SFX: SCREECHING TIRES FOLLOWED BY GAS STATION BELL
+
+Woody looks in the direction of the bell.  His face lights
+
+up at the sight of...
+
+A PIZZA PLANET DELIVERY TRUCK.
+
+Woody takes a step forward and then stops.
+
+Woody runs back under the tanker truck.  Buzz is at the far
+
+end of the truck, walking away from Woody.
+
+Woody looks back at the delivery truck in desperation and
+
+then eyes...
+
+ANGLE: DELIVERY TRUCK ROOF SIGN
+
+Atop the truck is a rocket with the Pizza Planet logo.
+
+Buzz stops walking away and looks back at Woody.
+
+EXT. GAS STATION - A FEW MINUTES LATER
+
+The delivery truck's engine has stalled and is off.
+
+Woody and Buzz eye the parked delivery truck from within the
+
+safety of a nearby oilcan display.
+
+Buzz makes a beeline for the passenger side door of the
+
+pizza truck.  Woody chases after him.
+
+In a flash, Buzz has scaled the front tire, grabbed the rear
+
+view mirror, and swung himself up and into the cab.
+
+SFX: ENGINE STARTING
+
+Woody runs around to the back of the truck, scrambles up the
+
+bumper and throws open the back hatch to climb inside.
+
+Woody lets out a YELL, as the back hatch slams back down on
+
+his rear, sending him flying into the bed of the truck.
+
+INT. PIZZA PLANET DELIVERY TRUCK - CONTINUOUS
+
+Woody peeks through the dividing window into the cab.
+
+Buzz is hidden from THE PIZZA DRIVER's view by a stack of
+
+pizzas in their insulated covers.  Buzz prudently fastens
+
+his safety belt.
+
+The driver shifts into gear and hits the gas, propelling
+
+Woody to the back of the truck.
+
+The pizza deliverer drives like a maniac, taking sharp turns
+
+and hills at high speeds.  Woody is helplessly thrown around
+
+the truck.  With every blow, Woody YELPS in pain.
+
+The truck climbs a steep hill.  Woody looks up just in time
+
+to see...
+
+A LARGE TOOL BOX
+
+barreling towards him.
+
+BAM!!!
+
+A STAR-FILLED BLACK NIGHT SKY
+
+We MOVE DOWN to reveal...
+
+EXT. PIZZA PLANET - NIGHT
+
+The delivery truck barrels into the parking lot and parks.
+
+INT. DELIVERY TRUCK - CAB - CONTINUOUS
+
+After the driver leaves the truck, Buzz peeks out from the
+
+passenger window.
+
+ANGLE: THE FRONT ENTRANCE
+
+Two imposing animatronic robots guard the doorway.  As
+
+CUSTOMERS approach the front, the guards part their crossed
+
+"pizza spears," allowing the patrons to enter.
+
+VARIOUS ANNOUNCEMENTS blare out from speakers:
+
+Excited, Buzz pries open the window between the cab and
+
+truck bed.
+
+Woody is gone.  Just the toolbox and strewn trash.
+
+The toolbox falls on its side revealing Woody.  He peels off
+
+the back of the truck and falls into a pile of trash.
+
+Woody rises from the trash with a "MEGA-GULP" cup on his head.
+
+EXT. PIZZA PLANET - FRONT ENTRANCE
+
+In the f.g. sits a trashcan with fast food containers
+
+littered around it.  MORE CUSTOMERS approach the "guarded"
+
+entrance.
+
+The front doors automatically swing open as the people pass
+
+through.  Suddenly two pieces of trash -- a burger container
+
+and "MEGA-GULP" cup stand up.
+
+The two disguised toys make a dash through the closing doors.
+
+INT. PIZZA PLANET - FRONT ENTRANCE - CONTINUOUS
+
+Woody and Buzz just make it inside but then freeze
+
+immediately as a GROUP OF KIDS run past, forcing the toys to
+
+pose as discarded trash.
+
+Once the coast is clear, Woody and Buzz resume walking.
+
+Buzz bumps into Woody.
+
+They sneak in between two long rows of video games and throw
+
+off their disguises.  They then take a good look at...
+
+THE ARCADE
+
+The space-themed arena is filled with hordes of children
+
+playing video games.  A sea of HI-TECH SOUNDS and lights
+
+overwhelm the place.
+
+Buzz is beaming with hope.
+
+Woody is busy looking at all the children in the arcade, but
+
+none of the kids look familiar to him.  Just then he HEARS...
+
+Woody turns around and through the video games he spots...
+
+ANDY
+
+standing with Mom and Molly in her stroller.
+
+The family begins to walk away.
+
+Buzz is about to head off in the opposite direction when
+
+Woody grabs him and quickly pulls him down the video corridor.
+
+The toys manage to get ahead of Andy.  Woody peeks around
+
+the corner of one of the video games and waits for Mom and
+
+Andy to approach.
+
+Buzz stops short at the sight of...
+
+A CRANE GAME
+
+It is modeled to look like a spaceship ready to launch.
+
+Buzz heads for the crane game, but Woody does not notice,
+
+his eyes locked on the approaching stroller.
+
+Woody turns and realizes Buzz is gone.  He looks across the
+
+way just in time to see Buzz leap into the crane game
+
+through the "PRIZE" slot.
+
+Woody turns back in the direction of the stroller.
+
+It has already gone past.
+
+Woody runs towards the crane game, but is forced to hold
+
+back for a moment as some SCREAMING children pass by.
+
+INT. CRANE GAME
+
+Buzz climbs over the partition that divides the deposit slot
+
+from the prize toys and leaps into a pile of...
+
+SQUEEZE TOY ALIENS
+
+There are hundreds of them, all identical and way too cute.
+
+The squeeze toys rush Buzz like JABBERING excited children.
+
+EXT. CRANE GAME
+
+With the kids gone, Woody crosses the aisle to the crane
+
+game and dives through the prize slot.
+
+INT. CRANE GAME - CONTINUOUS
+
+Woody clambers up the side of the deposit slot.
+
+Woody peeks over the partition to witness Buzz surround by
+
+the cute alien toys.
+
+All the aliens point upward.
+
+Woody and Buzz look up.
+
+ANGLE: CRANE GAME CLAW
+
+It dangles directly above the toys.
+
+Woody GASPS at the recognition of Sid's voice.  He turns to
+
+see Sid heading straight for the crane game.
+
+Woody leaps off the partition and tackles Buzz, pushing the
+
+two of them deep into the pile of aliens.
+
+Sid approaches the crane game and fishes quarters out of his
+
+pants pocket.
+
+ANGLE: CLAW
+
+It moves into position and hovers directly above the area
+
+where Woody and Buzz are hiding.
+
+The crane drops and grabs hold of the alien toy that is
+
+right on top of Buzz.
+
+Positioned with his back to Sid, the alien is lifted up by
+
+the claw.
+
+With the alien gone, Buzz's upper torso becomes exposed,
+
+forcing the space ranger to freeze.  Sid suddenly spots Buzz.
+
+Woody, still hidden, frantically looks around for some way
+
+to escape.  Behind him, through the aliens, he eyes...
+
+A SMALL REPAIR DOOR
+
+Woody swims through the alien squeeze toys toward the door.
+
+He grabs hold of the locking latch and, after a few
+
+attempts, is able to pry the door open.
+
+The shadow of the crane lines up over Buzz, lowers, and
+
+grabs his head.
+
+The claw begins to lift Buzz up.
+
+Woody grabs hold of Buzz's feet.
+
+Woody and the claw begin to have a tug-of-war with Buzz.
+
+Woody pulls down hard, forcing Buzz to sink into the pile of
+
+aliens, out of Sid's view.
+
+Still tugging against the crane, Woody is almost out the
+
+door with Buzz.  Just then, the aliens at the bottom of the
+
+pile pull Buzz and Woody back inside.
+
+Woody and Buzz are pushed up to the surface and into the
+
+air, dangling lifelessly in front of Sid.
+
+Woody and Buzz are dropped into the prize door slot and
+
+snatched up by Sid.
+
+ANGLE: CLOSEUP OF SKULL ON SID'S T-SHIRT
+
+EXT. SID'S HOUSE - LATER THAT NIGHT
+
+From out of the darkness appears Sid on his skateboard.  He
+
+is HUMMING to rock music from his walkman while carrying his
+
+backpack in his hand.
+
+Sid leaps off the skateboard and walks up the front path
+
+towards the front door.
+
+Through the open zipper, Buzz peeks out of the backpack to
+
+see Sid's house.  He recognizes Andy's house next door.
+
+INT. BACKPACK - CONTINUOUS
+
+Buzz, Woody and a squeeze toy alien are scrunched up in the
+
+backpack.
+
+ANGLE: TOYS' POV FROM OUT BACKPACK
+
+The front door opens to reveal Scud.  The dog lunges
+
+straight for the backpack, BARKING.
+
+The dog begrudgingly obeys.
+
+Sid's hand reaches into the backpack.
+
+The toys go still.  Sid's hand grabs the alien out of the
+
+backpack.  The alien is then placed sideways along Scud's
+
+snout.
+
+In one quick motion, Scud flips the alien up, catches it in
+
+his mouth, and rabidly shakes it back and forth.
+
+Buzz and Woody react in horror.
+
+Woody and Buzz glance up to see HANNAH, Sid's frail little
+
+sister, carrying her Janie Doll.
+
+He grabs the doll.
+
+Sid bolts upstairs with Hannah in pursuit.
+
+INT. UPSTAIRS HALL - CONTINUOUS
+
+Sid races to his bedroom door.  Hannah is right behind.
+
+Sid just LAUGHS.  He charges into the room and slams the
+
+door in his sister's face.
+
+INT. SID'S ROOM - CONTINUOUS
+
+Sid carelessly tosses the backpack on the bed and walks over
+
+to a makeshift workbench.
+
+Sid CLICKS on a bare bulb dangling above his "operating
+
+table."
+
+Woody and Buzz look on from the safety of the backpack as
+
+Sid places the Janie doll's head in a vise.
+
+Sid grabs a painter's mask from his toolchest and dons it
+
+like a surgeon's mask.
+
+Sid grabs a toy pterodactyl from a nearby crate full of junk.
+
+Sid struggles for a moment with his "patient" then stops.
+
+He opens the door.  Hannah is standing there, looking worried.
+
+He hands her Janie -- her head has been replaced with a
+
+pterodactyl's.  Hannah SCREAMS at the sight of the
+
+monstrosity and bolts down the hallway.
+
+Sid throws the doll to the ground and runs after Hannah,
+
+slamming the door behind him.
+
+Woody and Buzz peer out of the backpack at their new
+
+surroundings.  Heavy metal posters, discarded toy remains
+
+and power tools adorn the messy room.
+
+They are in Hell...toy Hell.
+
+Woody leaps from the bed to the doorknob and struggles to
+
+open it.  No good.  Woody drops to the floor.
+
+SFX: ROLLING SOUND
+
+Woody is startled by the noise.
+
+A small yo-yo rolls out from behind a box and falls on its
+
+side.
+
+Spooked, Woody grabs a pencil from the floor and brandishes
+
+it like a weapon.
+
+Just then a shadow passes by Woody.  He turns quickly but
+
+sees nothing.
+
+Woody hurriedly trades his pencil for a larger flashlight.
+
+He hears a NOISE from under Sid's bed.  Woody turns on the
+
+flashlight and shines the beam in the direction of the
+
+noise, illuminating...
+
+A BABY DOLL HEAD'S PROFILE
+
+The baby doll moves out from under the bed, revealing a one-
+
+eyed doll head atop a spider-like body made of erector set
+
+pieces.
+
+The creature extends its legs and rises up taller than Woody.
+
+Scared speechless, Woody keeps his flashlight beam locked on
+
+BABYFACE.
+
+Various other MUTANT TOYS begin to emerge from the shadows:
+
+a toy fishing pole with fashion doll legs, a skateboard with
+
+a combat soldier's torso screwed to the front end, a jack-
+
+in-the-box with a rubber hand for a head, (and others).
+
+Woody leaps onto the bed and hides behind Buzz.
+
+Buzz and Woody look on as the mutants have a tug of war as
+
+they grab all the Janie and pterodactyl parts, dragging them
+
+off into the shadows.
+
+Woody retreats back into the backpack.
+
+INT. BACKPACK - CONTINUOUS
+
+Woody cowers in the corner as Buzz enters.  He punches a
+
+button on his chest.
+
+No response.
+
+Buzz adjusts his laser light.  It emits a short BLIP.
+
+EXT. ANDY'S HOUSE - NIGHT
+
+Rex points a flashlight out of Andy's bedroom window while
+
+Bo Peep, Slinky, Hamm and Potato Head look on.
+
+Some bushes rustle below.
+
+Rex points the flashlight beam at the shaking bushes.  The
+
+annoyed MEOW of a cat is heard.
+
+SFX: APPROACHING CAR
+
+Rex turns off the flashlight.
+
+The toys duck behind the sill.
+
+The Davis' family van pulls into the driveway.  Andy and Mrs.
+
+Davis get out.
+
+The toys all look at one another.
+
+Hamm, Potato Head and Rex walk away from the window.
+
+Bo Peep and Slinky are left alone at the window, visibly
+
+crestfallen.
+
+EXT. SID'S BEDROOM WINDOW - DAY
+
+SFX: HAND SLAP
+
+INT. SID'S ROOM - CONTINUOUS
+
+An inanimate Woody flies across the room, landing hard on
+
+the floor.
+
+Sid crosses to the window.
+
+Sid opens the window shade.  Bright sunlight shines down
+
+onto Woody.
+
+Sid pulls out a magnifying glass from his back pocket and
+
+focuses the beam on Woody's forehead.
+
+A bright white hot dot forms on Woody's forehead and begins
+
+to smolder.
+
+Sid pulls the magnifying glass away.
+
+Sid runs out of the room.  As soon as he's gone, Woody jumps
+
+up SCREAMING, his forehead burning.
+
+He runs to a bowl of half-eaten cereal (with milk) on the
+
+floor, and dunks his head in.
+
+Buzz runs over to Woody, pausing to remove two suction cup
+
+darts from his person before pulling Woody out of the bowl.
+
+Two colorful Froot-Loops stick to each of Woody's eyes like
+
+glasses.
+
+Woody looks at his reflection in the back of the cereal
+
+spoon and rubs the burn mark on his forehead.
+
+Woody's eyes light up.
+
+ANGLE: SPOON
+
+Sid's bedroom door can be seen in the reflection.  It's open.
+
+Woody runs for the door.  Buzz follows.
+
+THE MUTANT TOYS
+
+suddenly appear and block their path to the doorway.  Woody
+
+hides behind Buzz.
+
+Buzz fires his laser at them.  The little red beam just
+
+flickers against Babyface's head.  The mutant toys look
+
+confusedly at each other.
+
+Grabbing Buzz like a hostage, Woody fends off the mutant
+
+toys by pushing a large button on Buzz's back, making Buzz's
+
+arm involuntarily "chop" up and down.
+
+Woody circles around the mutant toys to the open doorway,
+
+continually chopping Buzz's arm.
+
+Woody drops Buzz and runs out the door.
+
+INT. UPSTAIRS HALLWAY - CONTINUOUS
+
+Woody races down the corridor...
+
+...turns onto the top of the stairwell, down a few steps,
+
+and is confronted by...
+
+SCUD
+
+asleep on the landing.
+
+Woody freezes inches away from the sleeping beast.  He
+
+slowly backs up the stairs.
+
+Suddenly Buzz appears and pulls Woody back against the
+
+hallway wall.  He covers Woody's mouth with his hand.
+
+Buzz checks to make sure Scud is still asleep and then darts
+
+across the stairwell opening to the other end of the hallway.
+
+Once safely across, he motions for Woody to follow.
+
+Woody cowardly crawls on all fours across the open area and
+
+meets up with Buzz.
+
+As he stands...
+
+WOODY'S PULLSTRING RING
+
+gets caught on one of the curls of the wrought iron railing.
+
+The toys begin to creep down the hallway, unaware that
+
+Woody's pullstring is being pulled farther and farther
+
+until --
+
+It SNAPS off the iron railing and flies back towards Woody.
+
+Both Buzz and Woody leap in surprise at the sound of Woody's
+
+voice box.
+
+ANGLE: SCUD'S EYE
+
+It opens.
+
+Woody vainly attempts to stifle the recoiling pullstring.
+
+GROWLING, Scud starts up the stairs.
+
+Woody and Buzz take off running.
+
+Two doors are ajar at the other end of the hallway.  Buzz
+
+dives behind one while Woody jumps into...
+
+A CLOSET
+
+Woody slams the door shut just as Scud reaches the top of
+
+the landing.  CRASHED can be heard from behind the closet
+
+door, getting Scud's attention.
+
+Buzz peeks out from his doorway at Scud SNIFFING AND
+
+GROWLING at the closet.
+
+Sensing movement behind him, Scud whips around and starts to
+
+enter Buzz's doorway.
+
+SFX: SNORING
+
+The noise stops the dog in his tracks.  Both Scud and Buzz
+
+look up to see...
+
+INT. SID'S DAD'S DEN - CONTINUOUS
+
+MR. PHILLIPS is asleep on a La-Z-Boy recliner in front of
+
+the T.V.
+
+Scud backs out and heads down the stairs.
+
+Buzz turns to exit the room when he hears...
+
+Buzz opens up his wrist communicator and is just about to
+
+speak into it when he is interrupted.
+
+Buzz turns around to see...
+
+A TELEVISION SET
+
+Buzz's space ranger logo is on the screen over a field of
+
+stars.  The image quickly changes to two young boys playing
+
+in their backyard with a Buzz Lightyear doll.
+
+Buzz reacts with confusion at what he is watching.  He walks
+
+slowly towards the television set.
+
+ANGLE: TV COMMERCIAL
+
+The Buzz Lightyear doll is now out of the box and being
+
+displayed.
+
+With every feature demonstrated on the TV, Buzz compares the
+
+same feature on himself.
+
+Buzz presses the same button on his uniform.
+
+On the TV screen, the Buzz Lightyear action figure appears
+
+to be launched through the air.  The words:  NOT A FLYING
+
+TOY flash across the bottom of the screen.
+
+Buzz slowly shakes his head in wide-eyed disbelief.
+
+The image on the screen changes to a shot of hundreds of
+
+Buzzes in their boxes lining either side of a store aisle.
+
+Buzz is stricken.  He looks down at his wrist communicator
+
+and opens it.
+
+ANGLE: WRIST COMMUNICATOR
+
+Molded on the underside of the cover are three words: "MADE
+
+IN TAIWAN."
+
+SONG: "I WILL GO SAILING NO MORE" BEGINS
+
+INT. UPSTAIRS HALLWAY - CONTINUOUS
+
+Buzz walks dejectedly out of the den and down the hallway.
+
+As he passes the top of the stairwell he pauses to look up
+
+through the railing at...
+
+A SMALL WINDOW
+
+It is open, revealing the blue sky beyond.  A bird flies past.
+
+The taunting voice of Woody echoes in his head.
+
+Buzz bows his head, defeated.
+
+BEAT
+
+Slowly Buzz raises his head, determination in his eyes.  He
+
+slams the offending wrist communicator shut, as if to deny
+
+its message of "Made in Taiwan."
+
+Buzz climbs up the railing to the banister.  He pops open
+
+his wings, and aims himself towards the window above.
+
+Buzz leaps off the banister...
+
+and falls.
+
+In SLOW MOTION Buzz watches his square of blue sky pull
+
+farther away from him as he plummets to the floor below.
+
+INT. SID'S HOUSE/ENTRYWAY - CONTINUOUS
+
+Buzz CRASHES on the entryway floor.
+
+Buzz opens his eyes to see...
+
+HIS SEVERED LEFT ARM
+
+The broken arm lies a few inches away from his now empty arm
+
+socket.
+
+Buzz drops his head back in defeat.
+
+SONG ENDS
+
+Hannah walks into the entryway, and not seeing Buzz, steps
+
+on him.
+
+Hannah picks up Buzz (and his arm) and smiles.
+
+INT. UPSTAIRS HALLWAY - LATER
+
+ANGLE: CLOSET
+
+The knob jiggles for a moment.  Suddenly, the door flies
+
+open revealing Woody, entangled in Christmas lights,
+
+standing atop a pile of boxes to be at doorknob height.
+
+Woody and the rest of the junk topple over.
+
+A bowling ball topples out, smashing Woody square on the head.
+
+Woody creeps down the hallway, dragging the Christmas lights
+
+with him.
+
+Woody peeks into the open doorway of...
+
+INT. HANNAH'S BEDROOM/UPSTAIRS HALLWAY - CONTINUOUS
+
+Hannah is pretending to have a tea party.  Her guests are
+
+dolls, headless dolls, that is except for...
+
+BUZZ
+
+He is seated at the miniature table, dressed up in a frilly
+
+apron and fashionable party hat.
+
+Hannah has placed a tiny teapot in Buzz's severed arm and
+
+pours imaginary tea with it.
+
+Woody steps back into the hallway.
+
+Woody thinks for a moment, then takes a few steps further
+
+down the hall.  He CLEARS HIS THROAT.
+
+Hannah stops pouring tea and looks up.
+
+As soon as Hannah exits the room Buzz keels over face-down
+
+onto the table.
+
+Hannah passes Woody, hidden in the Christmas lights, and
+
+walks downstairs.
+
+Woody bolts into Hannah's room.
+
+Buzz lifts his head up and wails in drunken despair.
+
+Woody picks up Buzz's severed arm.
+
+The headless dolls turn and wave.
+
+Woody removes the teapot from the severed arm and sets it on
+
+the table.
+
+Woody presses Buzz's helmet open, slaps him across the face
+
+with his own detached arm, and then politely closes the helmet.
+
+Buzz sobers up and calmly takes his severed arm from Woody.
+
+Buzz walks out of the room while Woody follows.
+
+INT. UPSTAIRS HALLWAY - CONTINUOUS
+
+Buzz reaches the center of the hallway and drops to his knees.
+
+Woody stops short.  He looks down the hallway in the
+
+direction of Sid's room.
+
+ANGLE: SID'S BEDROOM WINDOW
+
+Woody can see straight out Sid's window across the way to
+
+Andy's bedroom window.
+
+Woody grabs the coil of Christmas lights and drags Buzz
+
+towards Sid's room.
+
+EXT. ANDY'S HOUSE/ANDY'S BEDROOM WINDOW
+
+Mr. Potato Head and Hamm are playing Battleship.  Hamm's
+
+wearing Potato Head's hat.
+
+Potato Head reaches for his ear.
+
+He is about to hand his nose over to Hamm when...
+
+Both toys look across the way.
+
+EXT. SID'S WINDOW/ANDY'S BEDROOM WINDOW - CONTINUOUS
+
+Woody has just finished lifting Sid's window and waves to
+
+the toys.
+
+INT. ANDY'S BEDROOM - CONTINUOUS
+
+Slinky, Bo Peep and Rex look to the window.
+
+INT. SID'S ROOM
+
+Buzz is not there.  Woody looks down at the floor.
+
+Buzz is sitting on the floor, playing "bombs away" with his
+
+broken arm.
+
+EXT. ANDY'S BEDROOM WINDOW/SID'S WINDOW
+
+The rest of Andy's toys gather around the window to see Woody.
+
+Woody tosses one end of the Christmas lights over.  Slinky
+
+catches them.
+
+Potato Head grabs the string of lights away from Slinky.
+
+ANGLE: BUZZ
+
+He doesn't respond, preoccupied with peeling off the sticker
+
+on his wrist communicator.  He crumples it up and tosses it
+
+aside.
+
+INT. SID'S ROOM - CONTINUOUS
+
+Frantic, Woody walks over to the edge of the desk.
+
+Buzz's severed arm comes flying into view and lands by
+
+Woody's feet.
+
+EXT. SID'S WINDOW/ANDY'S WINDOW
+
+Woody reappears at the edge of Sid's window.  He pretends to
+
+notice something out of the other toy's view.
+
+BUZZ'S SEVERED ARM
+
+suddenly appears with Woody holding the end just out of
+
+sight.  Woody throws his voice, pretending to be Buzz.
+
+Woody makes Buzz's arm grab his neck and pull him forward.
+
+Woody innocently shrugs and throws both his hands up...
+
+...exposing the severed arm.
+
+The toys all SCREAM in horror.  Rex clasps his hands to his
+
+mouth and turns away to BARF.
+
+Realizing his mistake, Woody tries to hide the arm, but it's
+
+too late.
+
+Potato Head drops the lights.
+
+All the toys leave the window except Slinky.
+
+Unable to look Woody in the eye, Slinky closes the blinds.
+
+SFX: THUNDER
+
+As storm clouds roll over Sid's house, Woody slumps over the
+
+window sill in defeat.
+
+INT. SID'S ROOM - CONTINUOUS
+
+BROKEN TOY SOUNDS emit from behind Woody.  He turns from the
+
+window to see...
+
+THE MUTANT TOYS
+
+converging all around Buzz.
+
+Still holding onto Buzz's arm, Woody jumps down from the
+
+desk and runs to Buzz's rescue.
+
+Babyface turns from the fray and charges at Woody with his
+
+erector-set pinchers.
+
+Woody cowers, shielding himself from Buzz's arm.
+
+Babyface clamps onto the arm and has a tug-o-war with Woody.
+
+Woody loses his grip on the arm and sails across the room,
+
+crashing into the wall.
+
+By now there is no sight of Buzz within the swarming mass of
+
+mutant toys.
+
+Woody attacks the mob with a vengeance.
+
+He furiously throws the mutant toys aside, digging his way
+
+to...
+
+BUZZ
+
+He is sitting up, his broken arm now newly-attached.
+
+Woody's anger turns to confusion.
+
+Woody shakes Buzz's arm to confirm what he's seeing is real
+
+when he looks to the mutants.
+
+The mutant toys part to reveal the recent victims of Sid's
+
+last "operation": The Janie Doll and Pterodactyl.  Their
+
+heads have been taped back on the correct bodies.
+
+The mutants all innocently stare at Woody.
+
+Immediately, the mutant toys retreat back into the dark
+
+corners of the room.
+
+FOOTSTEPS approach the bedroom.  Woody tries to pick up the
+
+still depressed Buzz, but he just goes limp.
+
+Woody begins dragging Buzz towards the bed, but their
+
+progress is too slow.  He shakes Buzz hard.
+
+Woody leaves Buzz sitting alone in the middle of the floor
+
+and hides underneath a nearby milkcrate just as...
+
+Sid enters carrying a big box.
+
+Sid runs over to his workbench and rips open the box.
+
+He pulls out a rocket with "THE BIG ONE" written on it.
+
+Sid spots the milkcrate and picks it up.
+
+No Woody.
+
+ANGLE: UNDERSIDE OF MILKCRATE
+
+Out of Sid's view, Woody presses against the inside, hanging
+
+on for dear life.
+
+SFX: BUZZ'S LASER
+
+Sid looks down and notices he's stepping on Buzz, activating
+
+his laser.
+
+He places Buzz and the milkcrate on the workbench and throws
+
+a toolbox on top of the crate.
+
+The impact of the toolbox dislodges Woody from his hiding
+
+place.  Woody quickly ducks under a magazine on the floor of
+
+the crate "jail."
+
+Woody watches helplessly as Sid fishes out a roll of
+
+electrical tape from the toolbox and, with an IRREVERENT
+
+CHUCKLE, tapes Buzz to the rocket.
+
+SFX: THUNDERCLAP
+
+A flash of lightning interrupts the moment.
+
+Sid crosses to the window to see a huge rainstorm commence.
+
+Sullenly, he smacks his head against the window.
+
+Woody heaves a SIGH of relief.
+
+Suddenly Sid's face brightens.  He turns his focus from the
+
+rain to the Buzzrocket.
+
+Sid smacks Buzz down on the desk, winds his alarm clock, and
+
+places it next to Buzz.
+
+INT. ANDY'S BEDROOM - THAT NIGHT
+
+Andy is being tucked into bed by his mother.  She hands him
+
+his cowboy hat.
+
+Andy's eyes shut.  Mom turns out the light and quietly exits
+
+the room.
+
+A moving box on the floor, with the words "Andy's Toys!"
+
+scrawled on it, begins to shake from side to side.
+
+Rex pops out of the top of the box, COUGHING a packing
+
+styrofoam peanut out of his mouth.  Potato Head appears
+
+beside him.
+
+Potato Head drops back down into the box.
+
+BO PEEP
+
+peeks around the corner of one of the boxes and looks up at
+
+Andy fast asleep clutching his cowboy hat.
+
+EXT. SID'S HOUSE - LATER THAT NIGHT
+
+THUNDER RUMBLES as rain pours down outside the spooky dwelling.
+
+INT. SID'S ROOM
+
+Sid is in bed fast asleep.
+
+Woody struggles to move his milkcrate jail, but with the
+
+weight of the toolbox on top it won't budge.
+
+Woody looks across the desktop at Buzz sitting dejectedly
+
+with the rocket strapped to his back.
+
+No reaction from Buzz.
+
+Woody picks up a stray washer from the desktop and flings it
+
+at Buzz, striking his helmet.
+
+Buzz lifts his head and turns lifelessly to look at Woody.
+
+Buzz just looks away from Woody and bows his head.
+
+Woody pauses and looks at himself.
+
+Woody pulls his own pull-string.
+
+Woody bows his head.
+
+Woody slumps dejectedly against the crate, his back to Buzz.
+
+Buzz lifts up his foot.
+
+ANGLE: THE SOLE OF BUZZ'S FOOT
+
+The signature "ANDY" reads through the dirt and scuff marks.
+
+Buzz gazes back at Woody.  A look of determination spreads
+
+across his face.
+
+Silence.
+
+Woody turns around.
+
+Buzz is gone.
+
+Suddenly, the entire milkcrate begins to shake.  Woody looks
+
+up to see...
+
+BUZZ
+
+He is on top of the milkcrate, trying to push the tool box off.
+
+Both Buzz and Woody push the milkcrate and together, they
+
+finally get it to move but it's slow progress.
+
+SFX: TRUCK
+
+The two toys stop to look out the window by the workbench.
+
+ANGLE: OUT SID'S BEDROOM WINDOW
+
+With the rain stopped and the sun beginning to rise...
+
+A MOVING TRUCK
+
+can be seen pulling up in front of Andy's house.
+
+Buzz braces himself between the tool chest and the wall.
+
+Using his legs, Buzz pushes with all his might.  The toolbox
+
+begins to move.
+
+Woody notices that with every shove Buzz gives to the tool
+
+chest, the milkcrate begins to edge out over the lip of the
+
+desk.
+
+Finally the gap is wide enough for Woody to jump through.
+
+Woody drops down to the floor below.
+
+Buzz doesn't hear Woody and continues to shove the toolbox
+
+(and milkcrate) farther out.
+
+Woody looks up just in time to see the entire toolbox and
+
+milkcrate topple towards him.
+
+The toolbox CRASHES right on top of Woody.
+
+Buzz falls onto the desktop and glances over to Sid, who
+
+stirs...
+
+Sid does not wake.  Buzz heaves a SIGH OF RELIEF, then peers
+
+over the edge of the workbench.
+
+Woody lifts himself out from under the rubble.
+
+SFX: ALARM CLOCK
+
+It goes off by Sid's bed.  Woody drops back under the
+
+toolbox and Buzz goes limp.
+
+Sid groggily sits up for a beat, then his eyes light up.
+
+Sid jumps out of bed, grabs Buzz and bolts out of the room.
+
+Woody leaps to his feet, runs across the room, and catches
+
+the door just before it closes.  As he swings the door back
+
+open Woody is confronted by...
+
+SCUD
+
+The dog barrels down the hallway straight for Woody.
+
+Woody slams the door shut just in time.  Scud BARKS AND
+
+SCRATCHES at the door.
+
+Woody looks across the room.
+
+THE MUTANT TOYS
+
+have appeared all around the room.
+
+The mutant toys all scatter and hide.
+
+No response.
+
+Woody then notices Babyface timidly peeking out of the
+
+shadows from under the bed.
+
+Babyface crawls out and bangs in code on the side of Sid's
+
+metal bedpost.
+
+The mutant toys emerge from the shadows, and gather around
+
+Woody.  He kneels down into a huddle with them.
+
+INT. ANDY'S BEDROOM
+
+THE MOVERS cart out the last load.  A forlorn Andy clutches
+
+onto Buzz's "spaceship" box in one hand and his cowboy hat
+
+in the other.
+
+Andy scans the empty room and heaves a sad SIGH.
+
+EXT. BACKYARD SHED
+
+Sid comes out of the she carrying a bunch of materials under
+
+his arm.
+
+He drops the junk down beside an inanimate Buzz.
+
+SID'S UPSTAIRS HALLWAY
+
+Scud is planted right outside Sid's bedroom door, poised to
+
+attack anything that exits.
+
+INT. SID'S ROOM - CONTINUOUS
+
+Woody has created a little diagram of the house and yard out
+
+of dominoes and Scrabble tiles.  He points to it with a
+
+pencil as he addresses the mutants.
+
+LEGS, the toy fishing rod with fashion doll legs, steps
+
+forward from the crowd.
+
+The mutants all give an affirmative nod.
+
+The toys all break.
+
+Legs and DUCKY, a duck head Pez dispenser with baby doll
+
+torso and plunger base, rush over to a heating grate and
+
+pull the face plate off the wall.  They disappear into the
+
+heating duct.
+
+INT. HEATING DUCT - CONTINUOUS
+
+Ducky and Legs come to an intersection.  Ducky QUACKS and
+
+they head down the right tunnel.
+
+INT. SID'S ROOM
+
+HAND-IN-THE-BOX, the rubber hand in the Jack-in-the-box,
+
+stacks on top of several mutant toys to reach the doorknob
+
+of the bedroom door.
+
+Woody hops onto ROLLERBOB, a skateboard with a soldier's
+
+upper torso tied to its front.
+
+WALKING CAR, a Hot Wheels car with baby arms, begins winding
+
+up THE FROG, a tin wind-up frog with monster truck wheels
+
+instead of legs.
+
+INT. SID'S HOUSE/PORCH ATTIC
+
+A bottom of wall insulation is pushed aside to reveal Ducky
+
+and Legs.  They make their way towards a junction box
+
+sitting in the center of the floor.
+
+Ducky and Legs lift the loose junction box.
+
+EXT. SID'S HOUSE/FRONT PORCH - CONTINUOUS
+
+THE BROKEN PORCH LIGHT
+
+suddenly lifts upward and disappears into the roof.
+
+Ducky extends his Pez neck out of the hole to check that the
+
+coast is clear.
+
+INT. SID'S ROOM
+
+All the toys have manned their positions and wait silently,
+
+their eyes fixed on Woody.
+
+INT. PORCH ATTIC
+
+Ducky takes the end of the line off Legs' fishing reel,
+
+hooks it onto himself, and is then lowered down through the
+
+open hole.
+
+EXT. FRONT PORCH - CONTINUOUS
+
+Hanging halfway down the front door, Ducky begins to swing.
+
+Eventually he swings far enough to reach his destination:
+
+the doorbell.
+
+Ducky presses it.
+
+SFX: DOORBELL
+
+INT. SID'S ROOM
+
+Woody throws his arm down.
+
+Hand-in-the-box throws open the door and The Frog is let loose.
+
+The Frog zips through Scud's legs and down the hallway.
+
+Scud chases after it and follows it down the stairs.
+
+SFX: DOORBELL
+
+Woody helps the rest of the mutant toys onto the skateboard.
+
+Using his front arms, Rollerbob propels the skateboard and
+
+crew out into the hallway.
+
+INT. SID'S HOUSE/ENTRYWAY
+
+SFX: DOORBELL
+
+Hannah walks to the front door...
+
+...and opens it.
+
+EXT./INT. FRONT DOORWAY - CONTINUOUS
+
+Nobody's there.
+
+Hannah doesn't notice Ducky stuck to the porch floor by his
+
+plunger.
+
+THE FROG
+
+zooms down the stairs with Scud BARKING right behind.  The
+
+Frog leaps off the last step, speeds through Hannah's legs
+
+and out the open front door.
+
+Hannah looks back inside at Scud.  In that moment, Ducky
+
+catches the Frog and is quickly reeled upwards back into the
+
+roof.
+
+Scud bursts through Hannah's legs, knocking her over, and
+
+runs out onto the empty porch.
+
+Scud suddenly realizes he's been duped, but before he can
+
+get back inside, Hannah slams the front door shut.
+
+Scud smashes into the closed door and begins BARKING furiously.
+
+As Hannah storms off into another room she doesn't notice
+
+Woody and the mutants zipping off the stairs and round the
+
+corner, heading straight into the kitchen.
+
+INT. KITCHEN - CONTINUOUS
+
+By now RollerBob has really picked up speed.  He shoots
+
+underneath the kitchen table, through the maze of chair
+
+legs, straight towards...
+
+THE PET DOOR
+
+The mutants all push back causing the RollerBob to do a
+
+wheelie.  They smash through the doggie door...
+
+EXT. SID'S BACKYARD - CONTINUOUS
+
+...and catapult into the bushes.
+
+The toys peek out from the bush to see Buzz strapped to the
+
+launchpad.  Sid is still in the toolshed.
+
+Ducky, Legs, and the Frog shoot out into the yard from a
+
+drain pipe.  They exchange a thumbs-up with Woody.
+
+The mutants disperse to their designated places in the yard.
+
+Woody runs towards Buzz, who spots Woody approaching.
+
+Woody stops a few feet away from Buzz.
+
+Woody deliberately falls down limp on the grass.
+
+Sid emerges from the tool shed.  Buzz freezes.
+
+Sid picks up Woody, examines him for a beat and then smiles.
+
+He sticks a match prominently in Woody's holster and tosses
+
+him onto the grill of an open barbecue.
+
+During Sid's countdown, all the mutants scurry into their
+
+final positions.
+
+Sid lights a match.
+
+Sid grins menacingly as the match moves towards the fuse.
+
+Sid pulls back from lighting the fuse.  He turns to look at
+
+Woody still lying lifelessly atop the barbecue except for
+
+the sound emitting from his voice box.
+
+Sid walks over to Woody and picks him up.
+
+He raises Woody up, about to throw him away --
+
+Sid stops short and looks at Woody again.
+
+While Woody's voice box talks, Sid checks the pullstring.
+
+It isn't moving.  Sid GULPS.
+
+The remains of broken toys in the yard, led by the bedroom
+
+mutants, begin rising from the ground in "NIGHT OF THE
+
+LIVING DEAD" fashion.
+
+The toys march forward, forming a circle around Sid.  Sid is
+
+too frightened to scream or move.
+
+Woody's inanimate head rotates 360 degrees.
+
+For a split second Woody's face comes to life.
+
+Sid drops Woody and bolts inside the house.
+
+Woody and all the toys CHEER VICTORIOUSLY.
+
+INT. SID'S ENTRYWAY
+
+Hannah has just come downstairs carrying a new doll when Sid
+
+rushes up to her.
+
+Sid eyes Hannah's doll and pats it gently on the head.
+
+Hannah, sensing Sid's fear, suddenly thrusts the doll in
+
+Sid's face.  He SCREAMS and runs upstairs.  Hannah chases
+
+after him, taunting.
+
+EXT. SID'S BACKYARD
+
+The toys are all congratulating one another.
+
+Woody turns around and looks at Buzz, who's still affixed to
+
+Sid's launchpad.  Buzz extends his hand to Woody.
+
+They shake.
+
+SFX: VAN HORN HONKING
+
+Buzz and Woody look in the direction of Andy's house.
+
+ANGLE: ANDY'S DRIVEWAY - THE FAMILY VAN
+
+Through the fence, Andy and his family can be seen getting
+
+into the van.
+
+Woody quickly hoists Buzz off the pole he was tied to.
+
+With the rocket still taped to Buzz, the two toys sprint
+
+towards the fence.
+
+SFX: VAN ENGINE STARTING
+
+Woody easily slips through the slats in the fence, but
+
+Buzz's rocket causes him to become stuck.
+
+EXT. ANDY'S DRIVEWAY - CONTINUOUS
+
+Woody has climbed up on to the rear bumper of the van before
+
+realizing that Buzz is missing.  He looks back to discover
+
+Buzz stuck in the fence.
+
+Woody jumps down and runs back for Buzz.
+
+The van begins pulling out of the driveway.
+
+Woody tugs on a loosened slat and breaks Buzz free of the
+
+fence.
+
+The two toys run out into the street just in time to see the
+
+van driving off down the street.
+
+SFX: TRUCK ENGINE
+
+Woody and Buzz turn around.
+
+THE MOVING VAN
+
+drives right over them.  Woody and Buzz SCREAM, ducking just
+
+in time.
+
+After the truck passes, Buzz runs after it with Woody a few
+
+steps behind.
+
+ANGLE: SID'S FRONT PORCH
+
+Scud is lying on the porch when he suddenly perks up at the
+
+sight of the two tiny toys running down the street after the
+
+moving truck.
+
+Scud bears his teeth and GROWLS.
+
+EXT. NEIGHBORHOOD STREET
+
+Buzz runs up close to the truck with Woody still back a few
+
+paces.
+
+A STRAP
+
+dangles off the back of the truck.  Buzz makes a leap for it
+
+and grabs hold.  He climbs up the strap and onto the bumper.
+
+Woody then lunges for the strap but it stays just out of reach.
+
+Woody gives a mighty leap and catches hold of the strap.
+
+Woody begins climbing up when suddenly Buzz goes pale.
+
+Woody looks behind him to see...
+
+SCUD
+
+The dog leaps forward and bites down on one of Woody's legs.
+
+Scud tugs on Woody, pulling him down to the end of the strap.
+
+Buzz leaps off of the truck and onto Scuds snout.  He grabs
+
+Scud's eyelids and snaps them hard.  Scud YELPS, letting go
+
+of Woody.  The dog bucks wildly with Buzz hanging onto his
+
+face.
+
+The moving truck continues down the street leaving Buzz and
+
+Scud behind.
+
+Still hanging onto the strap, Woody scrambles up onto the
+
+bumper.  He unlocks the back door of the truck and tries to
+
+lift up the heavy door.
+
+Suddenly, the family van and moving truck come to a stop at
+
+a traffic light.
+
+Woody slams into the door, causing it to fly upward taking
+
+Woody with it.
+
+Hanging from the door, Woody scans the inside of the truck
+
+until he spots what he's looking for.
+
+A PILE OF MOVING BOXES
+
+with the words "ANDY'S TOYS" written on them in crayon.
+
+EXT. NEIGHBORHOOD STREET
+
+Scud flings Buzz off his face.  Buzz goes tumbling under a
+
+parked car.  Scud runs over to the car, but is too big to
+
+get under it.
+
+INT. BACK OF MOVING TRUCK
+
+Woody rips into one of Andy's boxes.
+
+ANGLE: INSIDE OF BOX
+
+All the toys wince and MOAN as they cover their eyes from
+
+the sudden brightness.
+
+Woody's response is to slide the box aside and begin
+
+rummaging through the next box.
+
+Slinky, Potato Head, Rex and the other toys GRUMBLE IN
+
+CONFUSION as they poke their heads up out of the first box.
+
+Woody pulls the RC Car and its remote out of the second box.
+
+Woody runs to the back of the truck and throws the RC Car
+
+out onto the street.  The other toys SCREAM in horror.
+
+INTERCUT - EXT. STREET/INT. REAR OF MOVING TRUCK
+
+Woody turns on the remote and steers the RC car past Scud
+
+and under the parked car where Buzz is hiding.
+
+RC's motor WHIRRS happily at the sight of Buzz.
+
+The traffic light turns green allowing the van and truck to
+
+cross the intersection.
+
+All the toys pour out of their boxes and CHARGE on Woody.
+
+Woody continues to steer the remote while trying to avoid
+
+the angry mob of toys.
+
+Buzz jumps on to the RC car and they zoom back towards the
+
+moving truck.
+
+Scud is right on their heels and is about to chomp down on
+
+Buzz --
+
+Rocky picks up Woody and spins him over his head.
+
+-- The RC car suddenly swerves from Scud's jaws and starts
+
+doing doughnuts (matching Woody's) in the middle of the street.
+
+Rocky throws Woody to the floor.
+
+-- RC resumes his course straight down the street with Scud
+
+giving close chase.
+
+Hamm leaps off a pile of boxes and onto Woody.
+
+-- The RC car hops up in the air, tossing Buzz up and off.
+
+Buzz manages to land back on RC, but facing backwards.
+
+ANGLE: TRAFFIC LIGHT
+
+It changes red again and the wall of cross traffic resumes.
+
+Buzz and the RC car drive straight into it.
+
+Scud blindly follows them into the traffic and skids to a
+
+halt just missing a car.  The car swerves and CRASHES into
+
+another car.  Soon there is a multi-car pile up that
+
+encircles Scud, entrapping the dog.
+
+Buzz and the RC car emerge from the intersection safely on
+
+the other side.
+
+INT. BACK OF MOVING TRUCK
+
+The mob of toys lift up Woody (still holding the remote) and
+
+head for the open back.
+
+The toys toss him out into the road.  As the truck drives
+
+off, the toys CHEER.
+
+EXT. STREET - CONTINUOUS
+
+SFX: CAR HORN
+
+Woody turns around and ducks just in time as a car passes
+
+over him.
+
+Shaken, Woody tries to get up again when...
+
+BUZZ & RC
+
+come barreling towards him.
+
+The RC Car sweeps up Woody and keeps driving.
+
+Woody finds himself sitting in front of Buzz (still holding
+
+the remote).
+
+The toys are about to slam into the rear tire of the car
+
+that had passed over Woody earlier.
+
+Woody SCREAMS and gives the steering wheel on the remote a
+
+hard left, missing the tire by inches.  The RC Car moves up
+
+under the car.
+
+ANGLE: RC REMOTE
+
+Woody flicks a switch from "ON" to "TURBO."
+
+The RC Car speeds up towards the moving truck.
+
+INT. BACK OF MOVING TRUCK
+
+The toys are busy CONGRATULATING one another when Lenny, the
+
+wind-up binoculars, glances out the back and spots Buzz and
+
+Woody.
+
+The toys rush to the edge of the open truck.  Bo picks up
+
+Lenny and looks through him.
+
+ANGLE: BINOCULAR VIEW OF BUZZ & WOODY
+
+EXT. STREET/BACK OF MOVING TRUCK
+
+The RC Car begins to gain on the truck.
+
+Rocky, the wrestler doll, rushes over to a lever on the side
+
+of the back.  The sign above it reads "RAMP: UP/DOWN."
+
+Rocky pushes down hard on the lever.  The ramp begins to lower.
+
+Woody & Buzz look up to see the ramp about to come down
+
+right on top of them.
+
+The RC Car pulls back just before the heavy ramp slams into
+
+the road.  Sparks fly everywhere from the metal scraping the
+
+pavement.
+
+Potato Head and Rex grabs on to Slinky's tail allowing
+
+Slinky's front end to jump off the truck and onto the ramp.
+
+Slinky leans forward with his paw outstretched to Woody.
+
+Woody hands the remote to Buzz and leans forward to grab
+
+Slinky's hand.
+
+ANGLE: WOODY & SLINKY'S HANDS
+
+They grab hold of one another.
+
+All of a sudden, the RC Car begins to slow down pulling
+
+Slinky's front end off the ramp.
+
+His slinky middle begins to stretch and stretch...
+
+RC's headlight eyes sag.  The car slows even more.
+
+As Slinky continues stretching.  The RC Car begins to weave
+
+side-to-side like a water skier.
+
+INT. FAMILY VAN
+
+With Mom and Andy preoccupied, baby Molly looks in her
+
+sideview mirror.
+
+ANGLE: PASSENGER SIDE MIRROR
+
+The RC Car (w/ Woody and Buzz) weaves into view and then
+
+back out.
+
+Molly SQUEALS with delight.
+
+EXT. STREET/BACK OF MOVING TRUCK
+
+With Slinky's mid-section stretched to the limit, he begins
+
+to lose his grip on Woody.
+
+Slinky's hand slips, sending his front shooting back into
+
+the moving truck and knocking over all the toys.
+
+The RC Car sputters to a stop.
+
+Woody and Buzz watch in vain as the family van and moving
+
+truck disappear.
+
+Buzz tosses the remote to the ground in frustration.
+
+BEAT
+
+Woody pulls out the match from his holster that Sid had put
+
+there earlier.
+
+Woody runs around behind Buzz, strikes the match against
+
+RC's back tire, and is about to light the fuse when...
+
+A CAR
+
+whizzes right over them, blowing out the match.
+
+Woody clenches the burnt match in his hands and falls
+
+prostrate to the ground.
+
+Unable to watch a cowboy cry, Buzz bows his head, causing
+
+his helmet to block the sun from Woody.
+
+As Buzz's shadow passes over him, Woody stops whimpering and
+
+looks at his hand.
+
+A WHITE HOT DOT
+
+like the one generated from Sid's magnifying glass, appears
+
+on the back of Woody's hand.
+
+Woody leaps up, grabs Buzz's helmet and aligns it so the
+
+white dot hits the tip of the fuse.
+
+The fuse lights.
+
+Woody jumps back onto the car then suddenly stops smiling.
+
+SFX: ROCKET EXPLOSION
+
+The RC Car rockets forward.  Speeding along the dividing
+
+line in the road, it easily passes car after car until the
+
+moving truck can be seen on the horizon.
+
+EXT. BACK OF MOVING TRUCK
+
+The toys are gathered around Slinky, his spring splayed out
+
+on the floor.
+
+Lenny looks out the back again.
+
+The toys run to the opening and CHEER.
+
+ANGLE: BUZZ AND WOODY
+
+The rocket is so strong that it begins to lift Buzz and
+
+Woody off the RC Car.  Woody manages to continue holding
+
+onto RC -- but not for long.
+
+The toys CHEERING turns to SCREAMING as they rush to get out
+
+of the way of the oncoming "RC rocket."
+
+Woody is forced to let go of the RC Car.
+
+They separate, sending the two toys upward and RC into the
+
+back of the truck.
+
+RC smashes into Potato Head, sending all of his parts flying.
+
+EXT. SKY - BUZZ AND WOODY
+
+The rocket hurtles upward higher and higher.
+
+Buzz confidently presses the button on his chest.
+
+WINGS
+
+jut out of Buzz, severing the tape that holds him to rocket.
+
+The toys separate from the rocket just before it BLOWS UP.
+
+The toys plummet.
+
+Just then Buzz banks under some power lines and soars upward
+
+again.  Woody takes a peek.
+
+They're flying.
+
+They soar gracefully towards the moving truck, but then pass
+
+over it.
+
+ANGLE: FAMILY VAN
+
+Buzz and Woody fly right over the van's sun roof and then
+
+drop into the car.
+
+INT. FAMILY VAN - CONTINUOUS
+
+Before anyone can notice, Woody and Buzz land in an open box
+
+in the back seat right next to Andy.
+
+Andy turns to discover the limp Buzz and Woody lying in the
+
+box.
+
+Andy hugs both toys.
+
+CLOSE UP - WOODY AND BUZZ
+
+They give each other a knowing wink.
+
+EXT. ANDY'S NEW HOUSE - CHRISTMAS MORNING - LIVING ROOM BAY
+
+WINDOW
+
+Through the gently falling snow, the Davis family can be
+
+seen around the Christmas tree unwrapping presents.
+
+INT. ANDY'S NEW HOUSE/LIVING ROOM - CHRISTMAS TREE
+
+One of the Christmas bulbs moves aside to reveal...
+
+THE SARGENT
+
+The plastic green soldier spies on the Davis family with his
+
+binoculars.  He turns and motions back into the tree.
+
+INT. CHRISTMAS TREE
+
+A baby monitor sits wedged between some branches supported
+
+by several green army men.  One of the soldiers turns it on.
+
+INT. ANDY'S NEW BEDROOM
+
+The receiving end of the monitor is atop Andy's night stand.
+
+It CRACKLES WITH STATIC.
+
+Buzz sits on the edge of Andy's bed while Hamm rests on the
+
+nightstand alongside the monitor.  They listen intently.
+
+Woody and the rest of the toys are MINGLING together like a
+
+typical office Christmas party.
+
+The toys all stop and run towards the monitor.
+
+Woody is about to follow when a crook pulls him backwards to
+
+reveal...
+
+BO PEEP
+
+She smiles and points her crook upwards to her sheep perched
+
+on a shelf dangling mistletoe.
+
+Bo drops her crook, dips Woody and KISSES him.
+
+The rest of the toys have congregated below the monitor
+
+restless with "excitement" not fear.
+
+Slinky LAUGHS with Rex.
+
+All the toys CONGRATULATE Potato Head.
+
+Potato Head whips off his moustache piece.
+
+Woody climbs up onto the bed and joins Buzz.  Lipstick now
+
+covers Woody's face.
+
+Buzz bangs on the side of the monitor.  Nothing.
+
+We TRUCK OUT through the window to the EXT. as we HEAR...
+
+SFX: BARKING
+
+We ZOOM BACK through the window to a CLOSE UP of Buzz and
+
+Woody.
+
+They look at one another with a half-smile, half-grimace and
+
+LAUGH WEAKLY.
+

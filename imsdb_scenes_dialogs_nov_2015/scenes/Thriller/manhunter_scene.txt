@@ -1,0 +1,3930 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Manhunter
+
+EXT. MARATHON, FLORIDA, BEACH - GRAHAM + CRAWFORD - DAY
+
+The highlit aqua water burns out sections of the two men
+
+imposed in front of it. The beach is white sand. JACK
+
+CRAWFORD -- mid-forties, large -- came down from Washington.
+
+His suitcoat over the driftwood log and his rolled-up white
+
+sleeves says City, not Florida Keys. WILL GRAHAM -- late
+
+thirties -- in a faded Hawaiian number and sun-bleached vio-
+
+let shorts, belongs. Graham smokes. Crawford drinks from
+
+a glass of iced tea. Then:
+
+Crawford takes a sip of the iced tea and looks at Graham.
+
+2.
+
+Graham flips his cigarette into the surf.
+
+Crawford pulls two pictures from his shirt pocket. He keeps
+
+them face down. They draw at Will. Crawford knows this.
+
+3.
+
+4.
+
+5.
+
+As he puts an arm around Molly...
+
+EXT. BEACH - KEVIN - TWILIGHT
+
+is working in the sand. Behind him Graham is stapling
+
+chicken wire to two foot-high fence posts.
+
+EXT. GRAHAM HOUSE - CRAWFORD + MOLLY - NIGHT
+
+On the porch swing. Beyond them at the water's edge Graham
+
+nothing to each other    the fence. Crawford and Molly say
+
+or a while. Then, finally:
+
+6.
+
+There is a pause between them. Molly lights a cigarette.
+
+Crawford leans forward, resting his thick, pale, forearms
+
+on his knees.
+
+EXT. ATLANTA STREET - WIDE - NIGHT
+
+Small poplars line the curb. It rained. The sidewalks are
+
+wet. They are drying in splotches. The street is deserted.
+
+The front walk vertically bisects the FRAME. An Atlanta
+
+Police department car pulls to the curb and stops. The door
+
+opens, lighting the interior and Will Graham starts out the
+
+passenger side.
+
+7.
+
+8.
+
+WIDER - GRAHAM
+
+moves into the room. The bloodstains are extensive. Half
+
+the walls look like a monochromatic Jackson Pollock. The
+
+mirrors are smashed. Taped outlines on the mattress indi-
+
+cate where the bodies had been found. Graham opens the
+
+file he carries containing autopsy, lab and crime reports.
+
+OVERHEAD ANGLE - GRAHAM
+
+standing alone in the middle of the master bedroom. The
+
+crime scene -- the disarray, the big splashes of arterial
+
+blood on the walls, the smashed mirrors, taped outlines or
+
+bodies -- is a testament to a violence that is pornographic.
+
+Graham pulls out a tape recorder and starts dictating his
+
+own notes, thumbing through various reports for reference.
+
+9.
+
+ZNT. LEEDS BATHROOM - MEDICINE CABINET - NIGHT
+
+is dark. We see nothing. Light comes on. Graham enters.
+
+He rests his hands on the sides of the sink. He turns on
+
+the water. He pops two pills, cups his hands under the
+
+faucet and drinks. He looks at himself in the mirror. Be
+
+is breathing normally. Over his shoulder he sees...
+
+ZOOM INTO: MRS. LEEDS' PANTYHOSE
+
+still hanging on a towel railing over the bathtub. Graham
+
+is staring at the normal domesticity of a family bathroom.
+
+He doesn't let it unnerve him.
+
+EXT. LEEDS' HOUSE; PORCH ROOF - WIDE - NIGHT
+
+The window opens and Graham climbs onto the porch roof and
+
+sits on the gritty shingles. We're looking for a distressed
+
+reaction. There is none. Graham is clamped down. Beyond
+
+him, the lights of Atlanta and the stars are brilliant...
+
+More brilliant than they ought to be. The Delta Aquirid
+
+meteor shower's at its maximum This is not a normal image.
+
+He takes out his tape recorder again.
+
+HOLD ON Graham.
+
+INT. ATLANTA HYATT HOUSE, ELEVATOR - WIDE - NIGHT
+
+Graham riding up with two half-drunk CONVENTIONEERS with big
+
+"Hi" badges. One Conventioneer is looking over at the lobby
+
+below.
+
+10.
+
+A good-looking woman in a floral dress walks underneath them.
+
+Graham is leaning against the glass.
+
+The other cracks up.
+
+GRAHAM
+
+snaps alert and stares at Conventioneer #2.
+
+CONVENTIONEER #2
+
+sips his gin and tonic, senses Graham's stare. He smiles:
+
+Graham looks away. The elevator stops. The door opens.
+
+Conventioneer #1 drags Conventioneer #2.
+
+Both Conventioneers laugh as they walk down the hall.
+
+Conventioneer #1 wiggles his fat hips and apes a limp wrist
+
+Graham looks away.
+
+ZNT. HOLIDAY ZNN ROOM - VTR MONITOR: LEEDS FAMILY - NIGHT
+
+We are seeing a videotape transfer of the Leeds family home
+
+movie. Mr. Leeds and Mrs. Leeds are behind the table while
+
+the youngest boy is in the center. His brother sits next
+
+to him. The birthday cake has eleven candles on it. All
+
+are mouthing silently: "Happy Birthday to you, happy birth-
+
+day to you..." Mrs. Leeds has her arms crossed underneath
+
+her breasts. She's a young mother, sensual and warm. She's
+
+smiling. The camera must be on a tripod because Mr. Leeds
+
+runs into the frame tousles his son's hair and kisses his
+
+wife's cheek. He has thinning hair. He's a big man. He
+
+looks like a nice guy. He darts out of the frame back to
+
+the camera. They finish singing. The youngest Leeds boy
+
+blows out the candles. Mr. Leeds holds up for the camera
+
+a large yellow envelope that says: "Follow the ribbon." A
+
+big yellow ribbon is attached to the envelope.
+
+11.
+
+The camera pans right as the youngest Leeds boy starts to
+
+follow the ribbon... The image suddenly ours out. Video noise.
+
+GRAHAM
+
+has hit the stop button. He picks up a measured field sketch
+
+of the master bedroom. The bloodstains are represented in
+
+outline. Three are along the left wall. The arterial
+
+splashes from Mr. Leeds are on the right wall. Mr. and Mrs.
+
+Leeds' body positions are indicated on the king-size mat-
+
+tress.
+
+Graham can't go any further. He is frustrated. He picks
+
+up the phone and dials. He waits. Then:
+
+Will hangs up the phone. He reaches over and punches "Play"
+
+on the VTR.
+
+12.
+
+WIDE SHOT: THE ROOM - GRAHAM
+
+VTR backs up, starts to play and we see the image of Mrs.
+
+Leeds again in the home movie: they follow the yellow rib-
+
+bon down the stairs to a bicycle. It's indoors. It's rain-
+
+ing outside. The eleven-year-old Leeds boy is ecstatic.
+
+Mrs. Leeds smiles.
+
+FAST MOVEMENTS: GRAHAM'S HAND
+
+snakes out and hits the "Stop" button on the VTR.
+
+PHONE
+
+is picked up and we MOVE WITH IT to his face. Graham punches
+
+numbers into the phone. He waits. He clamps dawn again.
+
+He is cold, calm.
+
+13.
+
+INT. ATLANTA DETECTIVE BUREAU - MOVING WITH GRAHAM, CRAWFORD
+
++ SPRINGFIELD -DAY
+
+down the corridor.
+
+14.
+
+Springfield looks at Graham. Springfield needs answers, not
+
+voodoo. Then they enter the squad room. Twenty detectives
+
+sit at desks. Graham and Crawford move to the back of the
+
+class.
+
+DR. DOMINIQUE PRINCI, Chief Medical Examiner for Fulton
+
+County, walks to the front and stands under a drawing of
+
+teeth. He hold's up a dental cast.
+
+The teeth look like teeth from a small bear.
+
+Graham doesn't like talking in public. He stutters and
+
+starts to say something...
+
+Graham walks to the front of the room.
+
+15.
+
+Graham sits down.
+
+They start to rise. Springfield remembers.
+
+Detectives file out. Crawford and Graham remain.
+
+Springfield crosses to them and they wait for all the other
+
+detectives to leave.
+
+Dr. Princi joins them.
+
+16.
+
+Graham doesn't answer.
+
+17.
+
+Crawford starts to move. The PHONE RINGS. Springfield
+
+answers.
+
+Lemme put you on the speaker phone.
+
+Springfield reacts.
+
+Hangs up.
+
+18.
+
+SPRINGFIELD
+
+thought Graham was ridiculous. Now his expression is very
+
+changed.
+
+GRAHAM
+
+senses Springfield's staring at him. Graham's face is blank.
+
+He leaves. Springfield -- shaking Crawford's hand -- watches
+
+Graham all the way to the door.
+
+EXT. ATLANTA POLICE HEADQUARTERS - GRAHAM s CRAWFORD - DAY
+
+coming down the stairs. News media are all over Springfield,
+
+the Commissioner, the Mayor's P.R. Officer in the b.g. No-
+
+body recognizes Crawford and Graham except one short man, who
+
+separates himself from the pack and darts up to them. He is
+
+LOUNDS. He starts chasing behind them.
+
+CLOSE: GRAHAM
+
+walking down the stairs. His face is locked like a steel
+
+trap. He's repressing something powerful.
+
+Graham won't answer him. They are on the sidewalk by now.
+
+Graham and Crawford are moving dawn the sidewalk now. Crawford
+
+tries to block Lounds. Lounds moves around him, dogging Graham:
+
+Right now he makes the mistake of grabbing Graham's arm to
+
+turn him around.
+
+19.
+
+20.
+
+Say we've arrested a good suspect.
+
+You walk in and see him. What
+
+is there about him that doesn't
+
+surprise you?
+
+I don't know, Jack. He's got no
+
+face for me.
+
+You can tell something about him
+
+or we wouldn't have found the finger
+
+print. ..
+
+Don't expect too much from me, Jack,
+
+all right?
+
+We'll get him one way or the other.
+
+What's one way?
+
+We find an event that connects both
+
+families. Same vacation hotel; same
+
+hospital, different times. Then we
+
+check employees and come up with a
+
+male nurse, hairdresser, whatever...
+
+If we find out how he found them,
+
+then we'll find him.
+
+We're running it through the
+
+computers now. So far there's no
+
+event or service that doubles back
+
+into both families. Plus they were
+
+big consumers: snowmobiles, fishing
+
+trips, scuba, videogames, lots of
+
+routine medical and dental. It's
+
+a haystack.
+
+What's the other?
+
+He makes noise going in and the
+
+husband gets to a gun in time.
+
+No other possibilities?
+
+You think I'm gonna spot him 'across
+
+a crowded room?' That's Ezio Pinza
+
+you're thinking about.
+
+21.
+
+Crawford's cup of coffee stops in front of his mouth:
+
+INT. HOTEL ROOM - GRAHAM - DAY
+
+In the middle of packing. Then the PHONE RINGS.
+
+22.
+
+There is a silence. Graham does not want to tell her that
+
+he is going to see Lecter. Molly stays cool, she doesn't
+
+pursue it.
+
+23.
+
+Molly interrupts:
+
+Graham holds the phone close to him. As if it were a part of
+
+Molly herself.
+
+WIDE SHOT: GRAHAM
+
+slowly hangs up the phone. He sits, round-shouldered, on
+
+the bed. All over the room are clothes out of drawers and
+
+closets, videotapes and files: the mess of being only half-
+
+packed.
+
+INT. CHESAPEAKE STATE HOSPITAL FOR CRIMINALLY INSANE
+
+DR. CHILTON - DAY
+
+24.
+
+25 .
+
+DR. CHILTON
+
+looks at Graham. Dr. Chilton has seen a lot of hostility.
+
+Right now he's seeing some more.
+
+INT. MAXIMUM SECURITY SECTION - DOOR - DAY
+
+We hear three locks opening. The door opens. Graham enters.
+
+An attendant behind Graham closes the door and we hear the
+
+bolts lock again. As Graham is walking towards us, we WIDEN
+
+and TRACK IN. It makes the b.g. disorienting as we get closer
+
+to Graham's face. The CAMERA DROPS as Graham sits in a single
+
+chair. We haven't yet seen what Graham looks at. Now:
+
+GRAHAM'S POV: BARRED CELL
+
+A 6x10 cage. In the center of the bars separating Graham
+
+from the Occupant is a three-foot-square perspex sheet. The
+
+occupant can't get at someone sitting in front of him. In
+
+the perspex square is a letter -- passing drawer. In the
+
+cell -- laying on his bunk -- is DR. HANNIBAL LECKTOR. He
+
+appears to be asleep. His back is to Graham. He has not
+
+stirred. Then:
+
+CLOSE: LECKTOR'S HEAD
+
+turns to us. His small eyes drill into Graham's brain.
+
+Lecktor's attitude is professionally psychiatric, as if Graham
+
+is the patient.
+
+26.
+
+GRAHAM' S
+
+struggle will be to keep locked-down inside himself all his
+
+emotional reactions.
+
+Lecktor rolls around and examines the term "layman" in his
+
+head. Then:
+
+27.
+
+It's in the transcript. What does
+
+it matter now?
+
+It doesn't matter to me, Will.
+
+I want you to help me, Dr. Lecktor.
+
+Yes, I thought so.
+
+It's about Atlanta and Birmingham.
+
+Yes .
+
+You read about it, I'm sure.
+
+In the papers. I don't rear out the
+
+articles.
+
+I wouldn't want them to think I was
+
+dwelling on anything morbid. You
+
+want to know how he's choosing them,
+
+don't you?
+
+I thought you would have some ideas.
+
+Why should I tell you?
+
+There are things you don't have.
+
+Research materials... I could speak
+
+to the Chief of Staff...?
+
+Chilton? Gruesome, isn't he? He
+
+fumbles at your head like a freshman
+
+pulling at a panty girdle.
+
+He actually tries to give me a
+
+Thematic and Apperception test.
+
+Hah. Sat there waiting for MF-13 to
+
+come up. It's a card with a woman
+
+in bed and a man in the foreground.
+
+I was supposed to avoid a sexual
+
+interpretation. I laughed in his
+
+face.
+
+Never mind, it's boring.
+
+28.
+
+Graham does not answer, If anything happens, there is a
+
+tightening of the musculature repressing his reactions to
+
+Lecktor.
+
+Another silence. Lecktor's eyes look as if they're drilling
+
+into Graham's head, trying to find out things. Trying to
+
+find a way to hurt Graham. He's very threatening. Then
+
+relaxes:
+
+29.
+
+Graham gets up and starts to walk away.
+
+Graham stops at the door before he knocks for the attendant.
+
+Then he folds the abridged file tightly into the sliding
+
+tray. Lecktor pulls it through.
+
+GRAHAM
+
+sits in the chair. He wants a cigarette. He doesn't take
+
+one. He waits. And he watches. What he sees:
+
+30.
+
+GRAHAM'S POV: EXTREME CLOSE PAN THROUGH CELL OP
+
+DR. LECKTOR
+
+Toothbrush, mirror, sink, Sryrofoam cups, soft paper jour-
+
+nals, T-shirts, neatly stacked hospital pads, sneakers with-
+
+no shoelaces, the wall, seatless toilet bowl, etc, etc
+
+All the objects are brilliantly lit with sharp bluish light.
+
+Their edges are sharper and more defined than normal. The
+
+shadows of the bars make hard-edged stripes. It is a high
+
+resolution, highly brilliant sec of images. It feels like a
+
+hyper-perception of reality, a super-realism perceived by the
+
+mind of Graham. It is interrupted when:
+
+GRAHAM
+
+snaps back to the present, looks at Lecktor.
+
+31.
+
+Threat.
+
+Graham bangs on the door. Locks are starting to be unlocked.
+
+Graham can't wait to get out of here. He wants the locks to
+
+get unlocked faster!
+
+The door is now open. Graham fights down the impulse to run
+
+through. As Graham -- controlled -- steps out, what he hears
+
+is :
+
+The DOOR SLAMS shut on Lecktor.
+
+32.
+
+INT. CHESAPEAKE: STATE HOSPITAL FOR THE CRIMINALLY
+
+INSANE, CORRIDOR - GRAHAM - DAY
+
+walks down the corridor. He's very stiff. He's walking
+
+towards the outside door. The door is a rectangle of white
+
+light that sends daggers of brilliance across the highly
+
+polished institution's floor. Graham walks for the light.
+
+EXT. CHESAPEAKE STATE HOSPITAL FOR THE CRIMINALLY
+
+INSANE - ENTRANCE - DAY
+
+The DOOR SLAMS open and Graham comes out into daylight and
+
+air. The air is tactile to him. He can almost feel the
+
+motes of dust and light that swim freely. He breathes.
+
+GRAHAM'S POV: GRASS
+
+is dappled with pointillist points of color: a spectral
+
+breakup. As it returns to a normal green...
+
+TIGHT SHOT: GRAHAM
+
+breathes. He stands in front of the sign on the building:
+
+"CHESAPEAKE STATE HOSPITAL FOR THE CRIMINALLY INSANE." He
+
+leans against the railing and breathes clean air. The image
+
+is flattened in a LONG LENS. We hear a CLICK. It FOCUSES
+
+and DE-FOCUSES.
+
+INT. CXR - FREDDIE LOUNDS - DAY
+
+is photographing Graham with a Nikon and a 500mm Questar
+
+reflector. Be puts the camera to his eye again and hits the
+
+button. The MOTOR DRIVE knocks off three shots.
+
+INT. G:,TEWAY LABS - SCREEN DIVIDED INTO FOUR QUADRANTS - DAV
+
+The quadrants display 4 home movies at six times normal
+
+speed: an old couple, 2 men, a baby and a family. The fam-
+
+ily quadrant slows to normal. We TIGHTEN in on it. We will
+
+come to know these people as the SHERMANS. An 11-year-old boy,
+
+a I4-year-old girl, Mr. Sherman and Mrs. Sherman. A handmade
+
+sign says:   "THE NEW HOUSE - SWIMMING POOL." Mrs. Sherman has
+
+brown hair.  She wears a bikini.   She has a nice body. She's
+
+sensuous and tan in her thirties.  She dives into the pool.
+
+The next shot: water. Out of the water surfaces Mrs.
+
+Sherman. She shakes her head and water sprays off her hair.
+
+33.
+
+A couple drops hit the lens and diffuse a small area of the
+
+image. Mrs. Sherman puts her hands on the side of the pool
+
+and shoves down to hoist herself out. Her breasts are glis-
+
+tening. Her teeth are white. She smiles at the camera.
+
+Whoever controls the console puts Mrs. Sherman in reverse.
+
+It runs forward again. Mrs. Sherman's glistening body coming
+
+our of the water...
+
+REAR SHOT: CONSOLE AND A MAN
+
+Beyond is the screen. The man at the console is FRANCIS
+
+DOLLARHYDE. He has a weightlifter's body. We don't see his
+
+face. Black goggles with red lenses are on the console. He
+
+puts them on and watches Mrs. Sherman...
+
+INT. NEGATIVE PROCESSING ROOM - DOOR - DAY
+
+It slams open. Dollarhyde enters and walks through the dim
+
+green light past the developers in his black goggles with
+
+red lenses. Thousands of feet of negative move through the
+
+tank on rollers. Dollarhyde walks past the baths. We TRACK
+
+WITH him to the door.
+
+INT. LIGHT TRAP-DOOR - DAY
+
+slams open. Dollarhyde enters. As he reaches the next door...
+
+INT. DRYER ROOM - DOLLARHYDE - DAY
+
+enters and we TRACK WITH him past film snaking across pul-
+
+leys and rollers through the drying cabinets. As Dollarhyde
+
+passes the dryers...
+
+INT. CAFETERIA - DOLLARHYDE - DAY
+
+in the brilliant aluminum and peach cafeteria gets coffee.
+
+A newspaper's under his arm. As he waits to pay, EILEEN
+
+approaches. She, too, wears goggles, but on a lanyard around
+
+her neck. She's petite, fragile. Dollarhyde towers over her.
+
+CLOSER - DOLLARHYDE
+
+looks up.
+
+34.
+
+His face bears the scars of a Z-plast procedure to fix a
+
+harelip and cleft palate. Immediately, in characteristic
+
+gesture, he curls his right hand under his nose to hide
+
+his Z-plast scars.
+
+Graciously Dollarhyde lets her go first and then he crosses
+
+to an empty table. He opens his newspaper.
+
+TRACK ACROSS FRANCIS DOLLARHME'S BACK
+
+where the fabric stretches between his shoulder blades and
+
+past his cheap haircut's line at the nape of his neck into
+
+his left shoulder to reveal he's reading the National Tattler.
+
+It's about Will Graham with a Freddie Lounds byline. The
+
+only words we catch are: "FBI Manhunter Consults Fiend Who
+
+Tried To Kill Him, by Freddie Lounds." We also catch: "The
+
+Tooth Fairy - Psychopathic Slayer of Entire Families in
+
+Birmingham and Atlanta..."
+
+CLOSE: FRANCIS DOLLABHYDE
+
+takes off the black goggles with red lenses. His eyes are
+
+white violet. He turns the page.
+
+NATIONAL TATTLER'S OLD PICTURE OF GRAHAEI
+
+It's the one Lounds took after Graham was slashed by Lecktor.
+
+It's a black-and-white square image of a sleeping man with a
+
+myriad of tubes running into his stomach and a temporary
+
+colostomy bag. A black square is imposed over his genitals.
+
+The caption reads: "Federal Manhunter Will Graham Recover-
+
+ing from Near-Fatal Slashing By Hannibal 'the Cannibal'
+
+Lecktor."
+
+35.
+
+36.
+
+There is a pause. Lecktor is waiting.
+
+37.
+
+ON the phone as Lecktor hangs up.
+
+INT. L1011, COACH SECTION - CRAHAM - DAY
+
+Squeezed into a narrow seat. He sits on the aisle. Next to
+
+him is a seven-year-old girl, at the window her mother. He
+
+opens and reads a Telex in yellow envelope: "BIRMINGHAM P.D.
+
+FOUND JACOBI CAT DEAD IN BACK YARD. KIDS MUST HAVE BURIED
+
+IT. HE KILLS THE PETS. REGARDS, CRAWFORD."
+
+STEWARDESS
+
+Clears the trays.
+
+GRAHAM
+
+contorts his body to pull his briefcase from under the seat
+
+in front. He extracts the Leeds and Jacobi files. From each
+
+he takes a snapshot of a happy family picture and paperclips
+
+them to the front of the files. He stands them on the dinner
+
+tray and stares at them.
+
+GRAHAM'S POV: HAPPY FAMILY PORTRAITS
+
+SLOWLY ZOOM IN TO the Jacobi family. As we get CLOSER and
+
+CLOSER TO Mrs. Jacobi in a bikini, her face abstracts into
+
+pointillist dots of color...
+
+EXT. MARATHON BOATYARD - DIESEL ENGINE - DAY
+
+moves down to us...
+
+MOLLY
+
+approaches in SLOW MOTION raising a bag of shrimp and a six-
+
+pack of Dos Equis.
+
+INT. UNFINISHED HULL - GRAHAM
+
+guiding the engine down, wears faded violet shorts and no
+
+shirt. We see a huge circular scar ending in a hook on his
+
+abdomen as the engine lands...
+
+38.
+
+Graham waves to Molly...
+
+GRAHAM
+
+On the dock. The hot sun turns the water a brilliant aqua
+
+and silver. Graham's tan body in the violet shorts on the
+
+silver wood... Molly reaches in the bag for another shrimp.
+
+Graham looks at her...
+
+MOLLY SMILES
+
+as she rips the head off the shrimp. The warm mouth, Her
+
+shiny teeth look like a Pepsodent commercial.
+
+HEAD COMING OFF SHRIMP
+
+Viscera trail. As the shrimp is ripped apart we see:
+
+GRAHAM'S EYES
+
+In horror. And O.S., we hear SCREAMING coming from a differ-
+
+ent place as we...
+
+INT. L1011 - GRAHAM - DAY
+
+snaps awake. The child next to Graham is screaming. People
+
+stare. The mother is shouting at him. Graham is confused,
+
+stunned... He doesn't know what's wrong. He looks around...
+
+The Stewardess is handling things on his tray in front of
+
+him.
+
+TRAY
+
+The file has spilled open. Crime photos of the Leeds and
+
+Jacobi families with mirrors in their eyes and the almost
+
+separated head of Mr. Jacobi glaring at a weird angle -- the
+
+pornography of it all -- are spilled across Graham's tray and
+
+in his lap...
+
+GRAHAM
+
+mumbles apologies, scrambles to collect crime photos. The
+
+mother wants her seat changed.
+
+39.
+
+Graham is excruciatingly embarrassed, clumsily shoving them
+
+back into their files...
+
+INT. JACOBI HOUSE, LIVING ROOM - WIDE ON DOOR - DAY
+
+We MOVE INTO the knob... it starts to turn. Slowly. Sud-
+
+denly: door SLAMS open revealing real estate agent GEEHAN
+
+and Graham,
+
+Geehan leaves. The door closes with a SLAM.
+
+WIDE - GRAHAM
+
+In the empty white living room. Graham walks OUT OF FRAME.
+
+Bare floors and dead air. His footsteps echo in the empty
+
+house.
+
+40.
+
+EXT. JACOBI HOUSE - WIDE - DAY
+
+An image from Bill Owens' "Suburbia." A family house. No
+
+different than any other family house around. But it is
+
+somehow sinister in its vacancy. It ought to be littered
+
+with bicycles and wagons: the signs and symbols of suburban
+
+normalcy. TRACK LEFT to reveal the back of Graham staring at
+
+the house from across the street.
+
+EXT. NEXT DOOR HOUSE - GRAHAM - DAY
+
+In a different position staring at the rear of the house from
+
+a neighbor's bushes. We don't know why Graham is staring at
+
+the Jacobi house from different vantage points.
+
+EXT. SIDEROAD - GRAHAM'S POV: 3/4 VIEW OF JACOBI HOUSE
+
+DAY
+
+Graham looking at the house from the third vantage point.
+
+JACOBI BACKYARD
+
+And turned earth where the cat was found.
+
+REARSHOT: GRAHAM
+
+starts backing up and we MOVE WITH him. He looks over his
+
+shoulder at us and keeps walking backwards. Trees enter the
+
+frame on the left and right.
+
+TRACKING GRAHAM IN PROFILE
+
+He stumbles through underbrush into a dry streambed. He
+
+backs up a slope on the other side and finds himself in some
+
+trees. There are three. Graham looks around.
+
+BRANCHES
+
+now obscure the Jacobi house. Something glints right...
+
+SEARCHING THROUGH GRASS
+
+At the base of one elm tree. A ring tab from a soft drink
+
+can is half-buried in leaves. Graham's fingers move leaves
+
+aside.
+
+41.
+
+GRAHAM
+
+looks slowly up the tree trunk.
+
+RED CREEK MUD
+
+Wedged into the first strong limb, it's from the instep of
+
+a boot.
+
+GRAHAM
+
+hangs his coat on the branch of a neighboring tree and climbs
+
+the far side of the elm. His head and his cheek raise
+
+through limbs. His eye is six inches away when he finds a
+
+soft drink can wedged between limb and trunk.
+
+He photographs its placement with the camera on his belt,
+
+bracketing exposures. Then he tears a small branch and uses
+
+it to put the can in an evidence bag. Graham climbs higher
+
+until his foot is level to where he saw the mud. He looks
+
+to his left. Something he sees stops him cold.
+
+A SYMBOL
+
+is carved in the wood.
+
+GRAHAM
+
+photographs this as well as a branch that's been trimmed by
+
+a cutting tool. Then he looks...
+
+OVER GRAHAM'S SHOULDER: THE JACOBI HOUSE
+
+A perfect view.
+
+GRAHAM
+
+high in the tree, leans back against the trunk. Re seems
+
+frozen. Then:
+
+42.
+
+INT. JACOBI HOUSE - GEEHAN + PROSPECTIVE BUYERS
+
+DAY
+
+Geehan showing some new candidates around the house. It's a
+
+YOUNG COUPLE and they look interested.
+
+Geehan's got a sale. He's at the front door. He opens
+
+it.
+
+EXT. JACOBI HOUSE - DOOR - DAY
+
+The door is opened by Geehan and his big smile, shepherding
+
+his customers-to-be out the front door. The smile falls off
+
+Geehan's face. The young buyers look quizzically.
+
+43.
+
+GEEHAN
+
+has deflated against the doorframe.
+
+GEEHAN'S POV: THREE ATLANTA P.D. CARS, A FORENSICS
+
+TRUCK, + ATLANTA P.D. HELICOPTER
+
+with flashers going are converging onto the scene. Will
+
+Graham is at the nearest police car talking on a cellular
+
+phone .
+
+INT. WASHINGTON, FBI OFTICE - CRAWFORD - DAY
+
+On phone to Graham.
+
+As another line on Crawford's phone rings, we PULL BACK to
+
+his secretary, SARAH's area.
+
+TIGHTEN ON Sarah. We don't hear what's said to her.
+
+44.
+
+She holds the receiver as though it had died in her hand
+
+and crosses into Crawford's office.
+
+EXT. JACOBI HOUSE - GXAHAM - DAY
+
+INT. WASHINGTON FBI OFFICE - CRAWFORD + GRAHAM- LATER
+
+It's now sunset out the window. Both men are tense. On
+
+Crawford's desk are two new telephones and a tape recorder.
+
+Also in the room are Sarah and DR. SIDNEY BLOOM, a forensic
+
+psychologist. Food wrappings and Styrofoam coffee cups
+
+litter his desk. Bloom only ate half his pastrami on rye:
+
+45.
+
+Graham turns to the window. Crawford taps a pencil on
+
+his desk. They wait,
+
+SAME - LATER - NIGHT
+
+Crawford's feet are on his desk. Sarah yawns. Graham leans
+
+against the other wall. Stony silence. RING. They react.
+
+FOUR more RINGS.
+
+She hangs up. Crawford takes Bill's call on the other line.
+
+The rest exhale tension and go back to waiting.
+
+INT. MEN'S ROOM - FAUCET - NIGHT
+
+Runs water.
+
+GRAHAM.
+
+stares at it. He puts his hands under and runs cold water
+
+on his upturned wrists.
+
+46.
+
+INT. CBAWFORD'S OFFICE - CRAWFORD - NIGHT
+
+Looking through reports. He picks up a pencil and starts
+
+to correct a line when:  RING.
+
+RING .
+
+RING .
+
+An assistant runs out. RING. Sarah's anxious.
+
+EXT. CORRIDOR - GRAHAM - NIGHT
+
+Running. He slips on the polished floor, recovers himself
+
+... He darts through Crawford's door.
+
+INT. CXAWFORD'S OFFICE - GRAHAM
+
+tries to catch his breath as Sarah snaps up the phone.
+
+Sarah punches hold. Crawford is counting seconds. He
+
+raises his thumb. Graham grabs the phone.
+
+47.
+
+CRAWFORD
+
+scribbles on a piece of paper.
+
+Crawford holds up the piece of paper. It says: "Chicago
+
+phone booth. Police scrambling."
+
+Graham stares at Crawford. Crawford makes a circular motion
+
+with his hand: string him on.
+
+48.
+
+Graham and us hear a telephone booth door slam open. We hear
+
+a receiver fall with a CLANG. He hear faint voices. The
+
+receiver bangs as it's swung on the cord. Everyone in the
+
+outer office hears it on the speaker phone. They also hear:
+
+Graham drops the phone. Tension floods out of him. In the
+
+outer office people are cheering,
+
+CLOSE ON GRAHAM
+
+His eyes almost start to tear in relief as he turns his back
+
+and looks out the window.
+
+CRAWFORD'S
+
+ecstatic .
+
+Graham grabs the phone.
+
+49.
+
+ZOOM IN ON Graham's face. It locks in rage.
+
+EXT. CHICAGO STREET, PHONE BOOTH - FREDDIE LOUNDS - NIGHT
+
+grabs for the phone.
+
+INT. CHESAPEAKE HOSPITAL, DR. CHILTON'S OFFICE -
+
+DR. CHILTON - NIGHT
+
+There is a KNOCK on his door.
+
+Dr. Chilton reacts.
+
+50.
+
+Guard pulls three sheers of toiler paper with writing on them
+
+out of his pocket. We HOLD ON it.
+
+DR. CHILTON
+
+is already dialling a number.
+
+INT. CRAWFORD'S OFFICE - NIGHT
+
+Sarah answers the phone.
+
+In the b.g. all hell is breaking loose. Crawford and Graham
+
+are both hollering into the phone at Freddie Lounds.
+
+51.
+
+Sarah puts Chilton on "Hold." TRACK her INTO the room. She
+
+starts to say something. Crawford holds up a hand...
+
+Graham punches the phone and takes the call. Crawford's
+
+yelling at Lounds.
+
+Graham waves Crawford to the other phone.
+
+Crawford punches into Dr. Chilton's call.
+
+INT. CHESAPEAKE HOSPITAL - DR. CHIITON - NIGHT
+
+52.
+
+CRAWFORD
+
+punches the other line.
+
+53.
+
+INT. FBI BUILDING, HAIR AND FIBER SECTION - BEVERLY KATZ
+
+- NIGHT
+
+is bent over a microscope. She's under it. Behind her
+
+a male assistant brushes a child's bib overalls with a
+
+metal spatula. He is collecting whatever debris comes off
+
+the clothing onto a white paper sheet. BEVERLY KATZ lifts
+
+something with tweezers. She leans away from the micro-
+
+scope .
+
+54.
+
+INT. LATENT PRINTS - JIMMIE PRICE - NIGHT
+
+winces at the sight of the paper. He slips it under the
+
+helium cadmium laser.
+
+THE HELIUM CADMIUM LASER
+
+bombards the toilet paper with light. Growing smudges appear
+
+on the paper.
+
+INT. DOCUMENTS - LLOYD BOWMAN - NIGHT
+
+is underlit by his translucent light box. The note is on
+
+it.
+
+55.
+
+BOWMAN
+
+moves under a rostrum camera setup. There are lights mounted
+
+on a 360-degree rim even with the base of the rostrum Bowman
+
+hits a switch. The top lights go out. The side lights are
+
+very oblique.
+
+MACRO CLOSEUP: NOTE
+
+Under the oblique light the tooth impressions stand out.
+
+We hear a SHUTTER CLICK as they are photographed.
+
+A pane of glass descends on the note and flattens the jagged
+
+edges of the hole.
+
+EVEN CLOSER: THE EDGES
+
+are tattered and smeared with vermillion ink.
+
+LIGHTING PANEL
+
+Bowman's fingers hit it. The room is darkened, except for a
+
+dull glow from the infrared source..
+
+56.
+
+ROSTRUM
+
+Bowman switches to a closed-circuit TV camera.
+
+MONITOR
+
+The image focuses as Bowman focuses the lens. Then:
+
+The ink smear is gone. Fragments of writing appear.
+
+GBAHAM, CRAWFORD + BOWMAN
+
+at the monitor lit by the infrared glow.
+
+As they run out of the room:
+
+INT. FBI CONFERENCE ROOM - WIDE SHOT - NIGHT
+
+Everyone we've seen is assembled: Graham, Crawford, Beverly
+
+Katz, Jimmie Price and Bowman.
+
+57.
+
+The Chicago office is running through
+
+all the personal ads in the Tattler
+
+right now.
+
+When do they go to press?
+
+In thirty-five minutes.
+
+Christ!
+
+After we find Lecktor's response,
+
+we substitute our own. Somewhere
+
+tomorrow night the Tooth Fairy will
+
+actually buy Tattler, looking for
+
+Lecktor's message. Here's
+
+what he'll find, Bill.
+
+'Dear Avid Fan: inherit my mantle
+
+and surpass my achievements.
+
+Mementoes for you at Baltimore
+
+Central. Left luggage 72683.
+
+It's a Secret Service letter drop
+
+and stakeout. He shows: we take
+
+him.
+
+Anything from Chicago?
+
+Not yet.
+
+Let's get to the physical.
+
+There was no print. I'm here for
+
+kicks .
+
+One whisker. Scale counts and core
+
+size match Hannibal Lecktor's. So
+
+does color. The color's different
+
+than the Tooth Fairy's taken in
+
+Birmingham and Atlanta. Three blue
+
+grains and some dark flecks went to
+
+Brian's end.
+
+58.
+
+Bowman sets up his photographs on an easel.
+
+The phone RINGS. Graham punches the speaker.
+
+59.
+
+Bowman is already running through the onion-skinned pages of
+
+a Bible he took from a shelf. Nobody talks to him.
+
+Everybody exhibits disciplined surface calm. The tension is
+
+screaming underneath.
+
+BOWMAN
+
+furiously looking through pages of the Bible, suddenly stops.
+
+60.
+
+Bowman's our the door.
+
+61.
+
+Graham has to decide. Long pause. Then he looks up:
+
+INT. ST. LOUIS AIRPORT NEWSSTAND - FLOOR - DAY
+
+The floor is in focus. In the b.g., are busy, out-of-focus
+
+images: newspapers, magazines, people passing. We don't
+
+know why we are HOLDING on the empty floor. Then, a stack
+
+of "Tattlers" hits the floor. The headlines include: "HEAD
+
+TRANSPLANT and ASTRONOMERS GLIMPSE GOD!"
+
+INT. WASHINGTON HOTEL ROOM - WILL GRAHAM - NIGHT
+
+asleep in bed. Sheets are twisted between his legs.
+
+62.
+
+His arms are widespread. The phone RINGS. Will Graham
+
+doesn't hear it. It keeps RINGING. MOVE IN on Graham.
+
+Finally, he stirs, then fights his way up out of sleep.
+
+PROFILE: GRAHAM
+
+sits up. His hand snakes out and grabs the phone to make it
+
+stop ringing.
+
+On the move...
+
+63.
+
+INT. GRAHAM HOUSE, MARATHON, FLORIDA, BEDROOM - MOLLY
+
+NIGHT
+
+She's asleep. Kevin enters.
+
+Kevin looks over her shoulder out the window as if he's
+
+scared of something.
+
+MOLLY
+
+starts and sits up...
+
+INT. GRAHAM HOUSE - HALLWAY & KITCHEN
+
+are empty. Dark shadows play against darkened walls. O.S.
+
+we hear crashing wave. Moonlight makes trees whipped in
+
+the wind throw dappled shadows across the corridor. Molly
+
+enters the frame in CLOSE SHOT. We TRACK WITH her in a
+
+THREE-QUARTER REAR SHOT behind the back of her head. She
+
+feels vulnerable. The dappled leaves whip across her face
+
+in a sudden gust. Molly's head snaps around.
+
+MOLLY'S POV: GLASS PORTICO
+
+with the tree moving in the wind. Beyond is the ocean with
+
+moonlight on the surf. Nothing.
+
+MOLLY
+
+moves into the kitchen. A streetlight hits part of the
+
+kitchen with a dim phosphorescent green.
+
+64.
+
+He catches Molly's eye:
+
+MOLLY'S POV: KITCHEN WINDOW
+
+A silhouette shape moves past the window. The angle of the
+
+streetlight plays its shadow on the wall against Molly.
+
+FRONTAL CLOSEUP: MOLLY
+
+frozen. She hears the outer screen door being opened...
+
+BEHIND MOLLY & OVER HER SHOULDER TO KITCHEN DOOR
+
+The shape is at the door. Molly takes a couple of steps,
+
+and can't go any further.
+
+MOLLY
+
+breathless, opens the door. Fast.
+
+DOOR
+
+reveals Florida State TROOPER.
+
+EXT. GRAHAM HOUSE - TROOPER + MOLLY - NIGHT
+
+As Molly comes out of the house, we PULL BACK and CRANE UP
+
+INTO a very HIGH ANGLE WIDE SHOT revealing: Four state
+
+trooper cars parked on Graham's property. On the road are
+
+two roadblocks 100 yards apart on either side of Graham's
+
+house. All their flashers are going. Molly looks around in
+
+confusion. We see her turn to the sea, a coast guard launch
+
+pulls to 100 yards off the beach. Its searchlight plays on
+
+the water's edge then across the property. Molly look; at
+
+all the policemen...
+
+65.
+
+EXT. AIRPORT - GULF STREAM JET - DAY
+
+advances on us, its engine screaming. Its front wheel brakes
+
+to a stop right before CAMERA.
+
+DOOR
+
+opens. Running down the stairs and across the tarmac is
+
+Will Graham in shirtsleeves with a Car-15 assault rifle with
+
+collapsible stock. His eyes scan the perimeter.
+
+FBI MEN
+
+moving fast, follow Graham. Their eyes sweep the terminal area.
+
+One carries an Uzi submachine gun, the other two, handguns.
+
+A CORDON OF FLORIDA STATE TROOPERS
+
+hussle Molly and Kevin between them from their cars towards
+
+Graham. Two carry suitcases.
+
+GRAHAM + MOLLY + KEVIN
+
+inside the protective barrier of men.
+
+HIGH ANGLE: THE AIRPORT
+
+Graham moves Molly and Kevin up into the Gulf Stream. FBI
+
+men follow. The troopers back off. The flashers on their
+
+cars are still turning. PAN RIGHT with the Gulf Stream as
+
+it taxis to the head of the runway. It pauses a moment, then
+
+blasts down the runway and up into the morning sun.
+
+INT. BALTIMORE SAFE HOUSE, FOYER - DOOR - DAY
+
+HOLD. Then it opens. Molly and Kevin, followed by Graham.
+
+Unmarked FBI cars are parked on the front lawn. Molly enters
+
+the foyer, looks around and stops.
+
+HOUSE INTERIOR
+
+Holiday Inn decor.
+
+Molly takes a deep breath. Then lets it out. She's tired.
+
+Graham takes her hand.
+
+66.
+
+She didn't check to see that Kevin is our of earshot.
+
+Graham does.
+
+INT. SUPERMARKET - GRAHAM + KEVIN - DAY
+
+push a basket collecting stuff from the shelves. Other
+
+families are shopping The place is medium-crowded. Mind-
+
+dulling MUZAK comes from the ceiling.
+
+67.
+
+Is there anything I need to know to
+
+see about Mom?
+
+No. You're very well-protected.
+
+No one can find our where you are.
+
+Barry's mom had this newspaper. It
+
+said you killed the guy in
+
+Minnesota and were in a mental
+
+hospital. Is it true?
+
+Yes .
+
+I figured I'd ask you...
+
+I was in the psychiatric wing. It
+
+bothers you,  finding out I was in
+
+there... doesn't it?
+
+I told my dad before he died, I'd
+
+take care of Mom. And I'll do it.
+
+This guy wants to kill you?
+
+We don't know that.
+
+Are you gonna kill him?
+
+No. It's just my job to find him.
+
+I was in the hospital after Garrett
+
+Jacob Hobbs.
+
+How did it happen?
+
+Hobbs was insane. He was attacking
+
+college girls and he killed them.
+
+How?
+
+With a knife.
+
+68.
+
+We get the feeling Graham is leaving out lots of pieces and
+
+gives Kevin only the bare bones of what he needs to know.
+
+69.
+
+Kevin pauses, then asks with 11-year-old innocence:
+
+EXTREMELY CLOSE: GRAHAM
+
+turns and stares at Kevin:
+
+Kevin thinks about this for a long time. He nods. He feels
+
+he understands Graham and is closer to him for it:
+
+Kevin reaches for the coffee and puts it in the basket.
+
+REAR SHOT: KEVIN + GRAHAM
+
+walk down the aisle. Graham puts his hand over Kevin's
+
+shoulder. They look like father and son. As they disappear
+
+around a corner...
+
+EXT. BALTIMORE SAFE HOUSE, BACKYARD - REAR SHOT: GRAHAM +
+
+MOLLY - NIGHT
+
+Beyond is Chesapeake Bay and the nightlights of Baltimore
+
+reflecting across it. The swimming float bobs in the
+
+distance. One yellow light is on it.
+
+FRONTAL: MOLLY + GRAHAM.
+
+The grass looks cold in the moonlight. Holly wears a heavy
+
+cardigan.
+
+70.
+
+Behind them -- with yellow lights -- the house looks like
+
+a motel.
+
+When she said this she was staring out to sea. Now she turns
+
+to look at Graham and puts a hand on his arm. He still stares
+
+out to sea:
+
+Then Graham looks at her and covers her hand with his own.
+
+Molly stares into his eyes.
+
+They stare into each other. There's a pause. They rise.
+
+She puts her arm around Graham's waist. They start towards
+
+the house.
+
+INT. FBI CAFETERIA - CRAWFORD + BLOOM - DAY
+
+71.
+
+What about him?
+
+I need to ask you questions of a
+
+psychological nature.
+
+Remember when you asked for a
+
+study on him, I refused. Same
+
+goes for now.
+
+That was Peterson upstairs.
+
+It was you who did the asking.
+
+He doesn't think you run mind games
+
+on him.
+
+I wouldn't presume to try.
+
+You're never alone in a room with
+
+Graham, are you? You're smooth
+
+about it, but you're never one-on-
+
+one with him. Why's that? Do you
+
+think he's psychic?
+
+He's an eideteker. He has almost
+
+total recall.   But I don't think
+
+he's psychic.   What he has it empathy
+
+and projection  He can assume your
+
+point of view and mine.., and some
+
+other points of view that scare and
+
+sicken him.
+
+Why aren't you ever alone with him?
+
+Because I'm professionally
+
+concerned about him. And he'd
+
+pick up on that. He's fast. He
+
+hates being prodded and poked.
+
+So do I.
+
+What do you want?
+
+His nervous breakdown followed Hobbs.
+
+Could he kill again if he had to save
+
+his life? Or would he hesitate?
+
+72.
+
+Crawford is surprised at Graham's entry. Bloom isn't.
+
+73.
+
+Crawford's embarrassed. Bloom said Graham was fast.
+
+Now Bloom's surprised...
+
+INT. WASHINGTON APARTMENT - GRAHAM + LOUNDS - DAY
+
+Graham leans against a table, his back to a window.
+
+PULL BACK to reveal Bloom, Crawford, a photographer and
+
+assistant. Graham motions for Lounds to turn off his
+
+tape recorder.
+
+Graham motions Lounds to turn the tape recorder on again.
+
+74.
+
+Crawford stifles a laugh...
+
+Graham gestures for Lounds to turn off the tape recorder.
+
+Graham reacts.
+
+STILL PHOTOGRAPHER'S POV THROUGH CAMERA: GRAHAM + LOUNDS
+
+Lounds lays Graham's arm over his own shoulder and mugs :or
+
+the camera. Behind him is the flood-lit Capitol dome and
+
+the sign of a motel across the street.
+
+Lounds barks orders to the still photographer and splits.
+
+The photographer starts breaking down his gear. Crawford
+
+takes Graham aside.
+
+75.
+
+EXT. WASHINGTON, D.C. PARKING LOT - GRAHAM, CRAWFORD + SPURGEN
+
+SPURGEN, chief SWAT instructor from Quantico, examines the
+
+parking lot. We've cut in mid-dialogue.
+
+Spurgen hands Graham a glycine envelope containing 25 rounds
+
+of .44 Special ammunition.
+
+GRAHAM EXAMINES ONE ROUND
+
+Instead of a lead bullet, there's a matte-black, blunt-nosed
+
+cylinder .
+
+76.
+
+As they start across the parking lot:
+
+INT. LAMBERT ST. LOUIS INTERNATIONAL AIRPORT - FLOOR
+
+DAY
+
+We've been here before. The floor is empty. In the WIDE
+
+ANGLE -- OUT OF FOCUS -- the NEWSSTAND OPERATOR is squatted
+
+down reading the "Chicago Tribune." In the empty space is
+
+dumped a bundle of "Tattlers" A pair of black zippered boots
+
+enters and stands behind the man.
+
+One black boot kicks the "Tattler" bundle.
+
+77.
+
+A hand and a flash of bright steel rip through the FRAME.
+
+The wire is cut with a POP. A dollar bill is thrown on
+
+the floor. The hand whips a "Tattler" out from the center of
+
+the bundle. RAISE UP WITH the outraged Newsstand Operator.
+
+The retreating man turns to face him. It is Francis
+
+Dollarhyde.
+
+He starts coming back. He rakes off his silver sunglasses
+
+revealing the white violet eyes.
+
+CLOSE: NEWSSTAND OPERATOR
+
+EXT. WASHINGTON APARTMENT, PARKING LOT - GRAHAM'S CAR -
+
+NIGHT
+
+pulls into the prescribed space. It's raining. He kills the
+
+engine and gets out.
+
+HIGH ANGLE: GRAHAM
+
+exiting the car. The image is in GREEN AND BLACK. We are:
+
+EXT. ROOFTOP - SWAT #1
+
+behind the balustrade in a prone firing position sighting
+
+through a heavy-barrelled Heckler and Koch Model 93 with a
+
+Startron scope.
+
+78.
+
+A SECOND HIGH ANGLE: GRAHAM
+
+also in GREEN AND BLACK. Reveal we are:
+
+EXT. SECOND ROOFTOP - SWAT #2
+
+with the same rifle sweeping the parking lot. He reacts to
+
+something to his left.
+
+GRAHAM
+
+... walking along the determined line, fifty yards from the
+
+apartment building.., hears something through the delicate
+
+patter of the rain.
+
+GRAHAM'S POV: CORNER OF BUILDING
+
+A distant "plop-plop-plop" of running feet...
+
+GRAHAM'S
+
+eyes tighten.
+
+CORNER OF BUILDING
+
+HOLD. Then entering around the corner is a running MAN.
+
+He's 6'2". He's heavy and wears a running suit with the
+
+hood up. His face is lost in its shadow.
+
+RUNNER'S RIGHT HAND
+
+is gloved and slips into the pocket of his jacket, grasping
+
+something...
+
+RUNNER'S FEET ACROSS WET BLACK TARMAC
+
+splash through shallow puddles.
+
+GRAHAM'S FACE
+
+in anticipation. The foot beats are getting LOUDER...
+
+GBAHAM'S EYES
+
+like taut wire about to snap.
+
+79.
+
+WIDE PROFILE:  GRAHAM
+
+on the left.   The Runner enters on the right. In SLOW MOTION
+
+as they cross, Graham slams him sideways...
+
+RUNNER
+
+is knocked off balance and slams face forward into the side
+
+of a car. He comes off the car violently, to turn, to
+
+fight ...
+
+.44 BULLDOG
+
+comes up.., pressure on the trigger.
+
+RUNNER'S HEAD
+
+turns INTO CAMERA. He is a black man with a moustache and
+
+scared eyes staring into the .44. His hands shoot into the
+
+air:
+
+Walking away, Graham rips off his jacket: and the Kevlar vest.
+
+Coming off the expectation of contact, Graham is explosive.
+
+The Runner looks at Graham as if he's crazy: Spurgen and two
+
+D.C. cops are running in.
+
+Crawford catches up to Graham:
+
+Graham shoulders past Crawford He throws the Kevlar vest
+
+across the parking lot. He almost killed the man. Meanwhile,
+
+Spurgen is with the Runner.
+
+Runner pissed off -- starts towards Graham. Spurgen stops
+
+him.
+
+80.
+
+HUGE LAUGHTER which is coming from...
+
+INT. "TATTLER" GARAGE - ELEVATOR DOOR - NIGHT
+
+slides open. Lounds and TWO SECRETARIES are cracking up.
+
+He apparently told them the funniest joke they ever heard.
+
+LOUNDS
+
+pleased with himself, walks to his car.
+
+REAR: LOUNDS' HEAD
+
+enters FRAME, unlocking his car door. A hand falls on
+
+Lounds' shoulder and turns him INTO CAMERA: Lounds' self-
+
+satisfied smile still beams. A chloroformed rag jams
+
+into his face. A massive hand holds his head and neck
+
+steady and is nor bothered by his struggles.
+
+INT. DOLLARHYDE HOUSE (ST. LOUIS) - LOUNDS - NIGHT
+
+is unconscious. A hand puts ammonia under his nose.
+
+Lounds regains consciousness. He tries to move. He can't.
+
+There are sanitary napkins covering Lounds' eyes and mouth.
+
+The one on his mouth is removed. We will see ONLY Lounds.
+
+81.
+
+Footsteps are going away.
+
+Lounds reacts.
+
+82.
+
+A kettle WHISTLES.
+
+As if he had any choice. Lounds' face moves; He strains.
+
+His arms are glued to the chair. Dollarhyde's hand comes
+
+back with a cup of tea and a straw. Lounds sips.
+
+The hand rips off the sanitary napkins covering Lounds' eyes.
+
+Lounds jams his eyes shut. The lights brighten. A single
+
+finger taps the top of his head.
+
+A finger taps Lounds on his chest. A touch on his eyelids.
+
+Lounds slowly opens his eyes. His face goes white.
+
+LOUNDS' POV: THE RED DRAGON
+
+Dollarhyde opens and drops the black silk kimono.
+
+83.
+
+His muscular frame bears the full body tattoo of William
+
+Blake's Red Dragon -- the head on Dollarhyde's chest, the
+
+tail snaking down and wrapping around one of Dollarhyde's
+
+legs. His back is to us in a weight-lifter's pose. A
+
+rolled-up stocking covers Dollarhyde's head to just below
+
+his nose. Dollarhyde's teeth are jagged and brown-stained.
+
+And he smiles at Lounds in front of the white screen.
+
+LOUNDS
+
+turns away. The shape of Dollarhyde passes behind his head.
+
+The kimono is on again.
+
+PAST LOUNDS' HEAD: SCREEN
+
+A slide appears. It is Blake's painting.
+
+Next picture: Mrs. Jacobi, eyes wide.
+
+CLICK. Next slide. Mrs. Leeds alive, locked into a silent
+
+scream in her bedroom.
+
+CLICK.
+
+LOUNDS
+
+staring in horror. We will not see the rest of the slider.
+
+84.
+
+REAR OF DOLLARHYDE'S HEAD
+
+Beyond him is the screen and the image of Freddie Lounds with
+
+Graham's arm over his shoulder.
+
+85.
+
+Dollarhyde leaves. Lounds closes his eyes.
+
+DOLLARHME'S HAND
+
+carries a tape recorder. We PAN it across the room to Lounds'
+
+face .
+
+Lounds obeys.
+
+CLOSE: DOLLARHYDE
+
+The stocking mask and teeth -- stained and jagged -- are in
+
+place.
+
+ON LOUNDS
+
+86.
+
+DOLLARHYDE'S HAND
+
+turns off the tape recorder.
+
+DOLLARHYDE
+
+DOLLARHYDE'S FACE,
+
+with the stocking rolled down over his nose, smiles his
+
+dentured smile. And with his kimono open, revealing the
+
+face of the dragon emblazoned in crimson on his muscular
+
+torso; he leans INTO CAMERA...
+
+VERY WIDE ANGLE
+
+The figures seen from the back. We don't know what Dollar-
+
+hyde, leaning over Lounds, is doing, but Lounds screams.
+
+EXT. CHICAGO ALLEY - WIDE SHOT - NIGHT
+
+Dollarhyde's van is on the left against the wall. The alley
+
+is empty. Then we see shapes between the van and the wall.
+
+CLOSER: OVER LOUNDS' RIGHT SHOULDER
+
+We do not see his face. We see his shoulder and his lap.
+
+From an unseen facial wound, blood drips onto his pants' leg.
+
+Dollarhyde starts spilling liquid on Lounds. Lounds starts
+
+to moan and rouse from unconsciousness. His head starts to
+
+turn. He knows he's going to die. And he has some courage.
+
+87.
+
+INT. "TATTLER" GARAGE - OVER PARKING ATTENDANT'S RIGHT
+
+SHOULDER ON THE RACING FORM - NIGHT
+
+He pencils some selections. START TRACKING LEFT ACROSS
+
+the back of his neck. Midway we hear the SQUEAK of a wheel-
+
+chair. The parking attendant hears it, too. As the TRACK
+
+CONTINUES OVER his left shoulder he puts down the Racing
+
+form and looks. Nothing. Then he goes back to the Racing
+
+Form.
+
+PARKING ATTENDANT
+
+reads. Now the wheels SQUEAK and ECHO LOUDER. His head
+
+raises again...
+
+OVER PARKING ATTENDANT'S LEFT SHOULDER
+
+He turns INTO CAMERA. There's a loud WOOSH. His eyes go
+
+wide. He explodes out of his chair, SCREAMING.
+
+WHAT HE SEES: LOUNDS IN WHEELCHAIR - A MAN AFLAME
+
+Lounds is a fireball racing TOWARDS US. Just before the
+
+fireball would smash into CAMERA...
+
+INT. BALTIMORE SAFE HOUSE, KITCHEN - GRAHAM + MOLLY - NIGHT
+
+Graham and Molly are sitting at the kitchen table over cups
+
+of coffee. It's dark. Graham is looking down into the Formica.
+
+He and Molly say nothing for a long time. Then:
+
+Graham gives her one. Molly lights up. She picks a piece or
+
+tobacco from her lips. She's trying to control fear.
+
+88.
+
+There is a long pause. Molly suspects:
+
+Graham says nothing.
+
+She can't finish. There's a pause. Then: She looks at him.
+
+89.
+
+He shakes his head and locks away from her, wondering about
+
+himself:
+
+They are both frozen: in the same room but very separate.
+
+Molly's eyes are moist. She gets up and leaves. Graham
+
+sits at the kitchen table by himself, both hands around
+
+his mug of coffee. Slowly, deliberately, he picks up the
+
+mug to take a sip. Then he sits alone in the kitchen.
+
+INT. BALTIMORE AIRPORT - GRAHAM - DAY
+
+On a pay phone to Dr. Bloom.
+
+90.
+
+Sidney Bloom has no answer.
+
+INT. BALTIMORE AIRPORT, COFFEE SHOP - WINDOW - LATE
+
+AFTERNOON
+
+Outside is gray. Rain stripes the glass. Sheets of rain
+
+whip across the silver planes and yellow utility vehicles.
+
+CLOSE: WINDOW
+
+Graham's hand enters and flattens against his half-reflection
+
+on the cool glass. He hears:
+
+Graham turns. The WAITRESS looks at him strangely.
+
+She leaves. Graham sits. He stares at his handprint and
+
+says :
+
+91.
+
+INT. DARKROOM - DOLLABHYDE - NIGHT
+
+Entering. It is almost totally dark. In the green dullness
+
+we make our the forms of a WOMAN and Dollarhyde.
+
+Put your back against the doer.
+
+We see Dollarhyde's form follow instructions and sit.
+
+Can you give me an idea of the
+
+We see some movements. Then the light comes on.
+
+DOLLARHYDE'S
+
+hand is curled under his nose, hiding his Z-plast scars.
+
+Then he reacts to something. His face lights up in an
+
+uncharacteristically open smile.
+
+92.
+
+He brazenly looks the woman up and down. We don't understand
+
+why he can do this.
+
+REBA McCLAIN
+
+is blind. Her white cane is propped in the corner. She's
+
+thirty with a handsome prairie face.
+
+RALPH DANDRIDGE,
+
+young manager of the department enters, checks watch.
+
+Dandridge leaves. Dollarhyde stares after him. He doesn't
+
+Like him. Then:
+
+Reba walks our of the dark room.
+
+INT. DOLLARHYDE'S VAN, TRAVELLING - OUT OF WINDOW - NIGHT
+
+We pass Reba on the sidewalk. She is walking briskly with
+
+her cane and tapping in front of her. She's very confident.
+
+93.
+
+DOLLARHYDE
+
+Reba stops. She likes Dollarhyde's directness. He gets our
+
+and comes around to help her in. He starts to take her arm.
+
+INT. REBA'S DUPLEX - DOOR - NIGHT
+
+We hear footsteps come up. Reba's key is in the lock.
+
+As the door is starting to open:
+
+INT. REBA'S DUPLEX, KITCHEN - REBA
+
+enters. She momentarily forgets, retraces her steps and
+
+turns on the light. She opens the refrigerator. During
+
+the next pieces of dialogue, we will see Reba being ex-
+
+tremely competent making the drinks.
+
+Reba takes a l0-inch chef's knife and deftly cuts the lime,
+
+guiding it with her thumb.
+
+94.
+
+DOLLARHYDE
+
+reacts to "speech therapy." Characteristically -- his
+
+attention goes to:
+
+KNIFE
+
+in Reba's hand. Its extremely sharp cutting edge glints
+
+in the light. Another slice of lime falls.
+
+Silence. Reba hands him his drink.
+
+Dollarhyde is stunned, at both her perception and frankness.
+
+There's a smile on her face. Now her hand moves up towards
+
+Dollarhyde's mouth with the Z-plast scars where his harelip
+
+and cleft palate were fixed.
+
+REBA' S HAND
+
+Dollarhyde's fist grabs it.
+
+DOLLARHYDE
+
+turns her hand in the light.
+
+95.
+
+There is no smile on Dollarhyde's face.
+
+He still has her hand in his grasp.
+
+He lets go of her hand.
+
+INT. BIRMINGHAM STORAGE ROOM - WILL GRAHAM - DAY
+
+sits among piles of Leeds family possessions. He opens a
+
+child's toy. It's large, pink plastic and heart-shaped.
+
+It's a Mexican fantasy house with puffy white plastic
+
+clouds, strange handles and doors with eyes in them,
+
+REARSHOT: GRAHAM
+
+half and half out of a shaft of yellow light that radiates
+
+motes of dust in the air. Graham merely sits and stares
+
+into all of the debris of this dead family. PULL BACK to
+
+see the vast expanse of the room which is a total disarray
+
+of all the furniture, all the possessions and papers, all
+
+the bits and pieces of matter, that are accumulated in a
+
+life by two adults and three children. Everything from
+
+washing machines to tricycles to sleds. They litter the
+
+vast floor space. While we WIDEN, we hear:
+
+The CAMERA now includes two UNIFORMED SECURITY GUARDS at
+
+the door. They watch Graham, As we WIDEN and PULL BACK
+
+they fall into REAR SHOT. HOLD.
+
+INT. WHITE CORRIDOR - REBA ON DOLLARHYDE'S ARM - NIGHT
+
+Her cane taps the white tile floor. It's antiseptic and
+
+sinister. We worry about where he's taking her.
+
+96.
+
+Her head arcs back as she senses:
+
+INT. ZOO EXAMINATIONTION ROOM - DR. WARFIELD - NIGHT
+
+Dollarhyde reacts with a light smile at the compliment.
+
+We see Reba start to reach out. Then we see what she is about
+
+to touch.
+
+TEN-FOOT LONG BENGAL TIGER
+
+Reba's hand feels the fur slide across her palm.
+
+REBA'S HAND
+
+The fur springs between her fingers.
+
+97.
+
+TIGER'S GREAT PAW
+
+Reba's hand enters down its foreleg. Warfield -- with two
+
+hands -- lifts the great paw and puts it in her hand. Reba's
+
+hand feels the roughness of the pads. She presses and the
+
+claw slides cut. Both her hands go up his leg to the heavy
+
+supple muscles of his shoulder.
+
+TIGER'S HEAD
+
+Reba's hand gently touches the tiger's ears and both hands
+
+feel the width of his head.
+
+TIGER'S MOUTH
+
+The hot breath coming across its rough tongue stirs the
+
+hairs on her forearms.
+
+TIGER'S CHEST
+
+Reba's arms wrap around the huge chest. Slowly her face
+
+lowers and she puts her ear next to the tiger's ribs. Reba's
+
+ecstatic. We hear what she hears: the HEARTBEAT. It fills
+
+us and Reba with its bright thunder.
+
+INT. DOLLARHYDE'S HOUSE - THE GREAT RED DRAGON ARD THE WOMAN
+
+CLOTHED WITH THE SUN - NIGHT
+
+Blake's painting. It's a large reproduction. It's a pre-
+
+psychological evocation of violent sexual impulses. It has
+
+come right after the image of Reba and the tiger. O.S. we
+
+hear WATER RUNNING...
+
+INT. BATHROOM - FAUCET + HANDS
+
+Hands are Reba's. We FOLLOW them up to the wall as they
+
+search for and find a towel. O.S. we hear the hum of a
+
+film PROJECTOR starring. We see the sightless Reba reflected
+
+in the mirror. Feeling her way, she starts out...
+
+INT. LIVING BOOM - PAN
+
+It's dark brown with wing-armed 50's-futuristic furniture. A
+
+Sryrosphere casts scars and constellations throughout the room.
+
+A full-sized mural from JPL of the Mars surface is on one wall.
+
+98.
+
+We MOVE-PAST objects: a recliner lounger, two film projectors,
+
+a black and white fifties clock with golf bails in the arrow
+
+arms, a Magnavox console TV set and a sofa with Dollarhyde and
+
+Reba on it. They're watching a movie.
+
+CLOSER: DOLLARHYDE AND REBA
+
+The film projector hums. We don't see what movie Dollarhyde
+
+is watching.
+
+Dollarhyde looks at Reba. Then he looks at the film. The
+
+two of them are like a tableau of suburban TV-watching.
+
+They're like a married couple sitting on the sofa. Except:
+
+REAR SHOT OVER DOLLARHYDE + REBA TO THE SCBEEN
+
+The movie is Mrs. Jacobi looking up, And Mrs. Leeds looking
+
+up. And Mrs. Sherman's legs scissoring in the water. Then
+
+her breasts swelling and shining above her suit as she pushes
+
+herself our of the pool. Dollarhyde's blase, watching his
+
+horror show. He looks at Reba.
+
+REBA
+
+unknowing, is suffused with a calm equanimity. Her breasts
+
+rise and fall with her breathing. The flickering light from
+
+the screen intermittently illuminates and darkens the planes
+
+of her face.
+
+EXTREMELY CLOSE: REBA'S NECK
+
+The smooth skin and down-like hairs undulate from the bearing
+
+of her living heart.
+
+DOLLARHYDE
+
+is watching her pulse rise and fall under the soft skin and
+
+doesn't see:
+
+99.
+
+REBA'S HAND
+
+moves along the back of the sofa to Dollarhyde.
+
+REBA
+
+moves towards Dollarhyde's face.
+
+ON DOLLARHYDE, AND REBA
+
+ENTERS THE FRAME and kisses Dollarhyde on the mouth.
+
+Dollarhyde's eyes freeze open. He is stunned. Reba's left
+
+hand opens Dollarhyde's shirt and slides down his' chest towards
+
+his pants...
+
+INT. DOLLARHYDE'S BEDROOM - DOLIl1HWDE'S - NIGHT
+
+head on the satin comforter. His eyes are wide open... His
+
+reaction to this event is immobility and shock.
+
+Reba's hand with her long, gentle fingers ENTERS THE FRAME
+
+caressing the side of Dollarhyde's face. We will hear Reba's
+
+voice and see little of her. We will see Dollarhyde's face
+
+and the expressions on it: wonder and amazement.
+
+Her hand moves down from his face down his neck and rests on
+
+his chest. It rests on the face of what is tattooed there:
+
+the Great Red Dragon.
+
+100.
+
+Dollarhyde knows what he feels: he is pole-axed. He doesn't
+
+know what he thinks.
+
+SAME - REBA - LATER
+
+is asleep. She holds Dollarhyde in the near dark. His hand
+
+caresses her forehead and brushes light brown hair from her
+
+face .
+
+DOLLARHME
+
+wide awake, eases her away. Then he puts his ear to her
+
+breast and listens to her heart beating. Dollarhyde is re-
+
+lieved. Then Dollarhyde touches her gently, softly in wonder
+
+and amazement. Then Dollarhyde leaves...
+
+REBA
+
+Dollarhyde re-enters FRAME and puts a glass of water next to
+
+her. He covers her. He lays down again next to her. Reba
+
+stirs half awake, murmurs dreamily. Dollarhyde supports the
+
+back of her head and offers her some water.
+
+OVERHEAD ANGLE: DOLLARHYDE + REBA
+
+Dollarhyde's arm moves under her pillow. She snuggles closer
+
+to him. Dollarhyde's eyes are moist.  Reba's hand moves up
+
+his stomach and rests on his chest.   It rests above his heart.
+
+It rests on the face of the crimson dragon. When she is asleep
+
+again, Dollarhyde takes her hand off the great tattoo and puts
+
+it on his face.
+
+Dollarhyde -- cloven in two, accepted by a living Reba -- will
+
+not sleep for a very long time.
+
+SAME - DOLLARHYDE - DAY
+
+It is morning. He snaps awake. he is horror-struck: Reba's
+
+pillow is empty. She's nor there. Dollarhyde races our of
+
+the room.
+
+EXT. DOLLARHYDE HOUSE, BACKYARD - DOOR - DAY
+
+slams open. Dollarhyde stops in the door frame.
+
+101.
+
+REBA
+
+In her cotton dress. The prairie wind blows her hair and
+
+presses the thin cotton against her body in the overgrown
+
+weeds and wildflowers of Dollarhyde's backyard.
+
+DOLLARHYDE
+
+nears her, towers above her. He touches her face. Reba folds
+
+into his arms and lays her head on his hard chest. His heart
+
+is going fast. He doesn't believe this fine thing is happen-
+
+ing to him and that she's okay.
+
+EXT. SERVICE STATION - ATTENDANT - DAY
+
+He's heavy-set and sullen. Dollarhyde's van, with Reba, pulls
+
+in.
+
+102.
+
+Dollarhyde gets out.
+
+Dollarhyde crosses to the men's room. After placing the
+
+nozzle in the gas tank the ATTENDANT bangs open the hood,
+
+draws the dipstick, grabs a can of 10-40, jams the oil spout
+
+into the can and sticks the spout into the engine. As he
+
+starts to move around the van he sees something in the
+
+interior and stops. A smile dawns on his face. We don't
+
+know what he sees. He starts wiping the windshield. He
+
+wipes and wipes the same spot.
+
+REBA'S
+
+dress is just above her knees. She sits on the high seat.
+
+Her legs are crossed. Her white cane lays between the seats.
+
+From his lower angle at the van window the Attendant can
+
+look up her dress. He bends down a little to see better...
+
+MEN'S ROOM DOOR
+
+Nothing. Then Dollarhyde ENTERS. He crumples a paper rowel
+
+and throws it in the basket. Dollarhyde crosses around the
+
+backside of the van.
+
+DRIVER'S WINDOW
+
+Dollarhyde appears. As he starts to reach for his wallet on
+
+the dash, he sees what the Attendant's doing...
+
+ATTENDANT
+
+unaware of Dollarhyde -- is grinning and still wiping the same
+
+spot in front of Reba.
+
+DOLLARHYDE
+
+is coming around the van. Fast.
+
+103.
+
+Attendant starts away. Dollarhyde catches him and shoves him
+
+into and through a display of STP. The Attendant bounces once
+
+and slams into the station wall. CANS CRASH and roll away...
+
+Dollarhyde does know what he can do about it.
+
+REBA'S FACE
+
+through the windshield. She's trying to find the handle to
+
+roll down the window.
+
+ATTENDANT
+
+is white. There is something in Dollarhyde's face that he has
+
+never seen before, anywhere.
+
+DOLLARHYDE
+
+pulls the spout from the oil can that was in his engine. He
+
+advances on the frozen Attendant. He looks at the sharp end
+
+of the spout.
+
+ATTENDANT
+
+is wide-eyed. Dollarhyde's big hand ENTERS and flattens the
+
+man into the wall, compressing his thorax.
+
+The Attendant tries to say he's sorry, but he can't talk.
+
+Dollarhyde's hand has grabbed his face. He hesitates. Then
+
+he throws money at the Attendant and leaves...
+
+INT. HOTEL ROOM - GRAHAM - NIGHT
+
+With Crawford on the phone.
+
+104.
+
+Graham hangs up the phone. He looks out the window at the
+
+rain. He dials again.
+
+105.
+
+Graham hangs up. He dials again.
+
+INTERCUT WITH:
+
+INT. CHESAPEAKE STATE HOSPITAL FOR THE CRIMINALLY INSANE.
+
+LECKTOR'S CELL - HANNIBAL LECKTOR - DAY
+
+picks up the phone and takes Graham's call.
+
+106.
+
+Graham laughs. Then he starts to listen closely. There is
+
+something here for him:
+
+Will Graham thinks about this.
+
+107.
+
+Lecktor's voice fades as Will Graham hangs us on him. Graham
+
+sits on the crumpled bed and stares out the window at the rain..
+
+INT. LEEDS HOUSE - GRAHAM - DAY
+
+stands in the kitchen. His raincoat and rainhat drip water
+
+onto the floor. The house no longer is a crime scene. It's
+
+been cleaned up. It is absolutely naked. Shades are drawn.
+
+Slashes of light hit the floor. Graham stands there. Then
+
+he walks forward...
+
+STAIRCASE - GRAHAM'S FEET UP TIIE STAIRS
+
+The toys appear on the stairs as Graham's feet continue
+
+moving up the stairs to the second-floor landing.
+
+GRAHAM'S POV: APPROACHING LEEDS MASTER BEDROOM DOOR
+
+INT. LEEDS MASTER BEDROOM: THE DOOR
+
+It opens. Graham enters.   The room is white. We don't see
+
+the bed. Graham stands there in profile. Beyond Graham OUT
+
+OF FOCUS the wall starts to discolor. Pieces of plaster
+
+start to fall. The room starts to disintegrate around Graham.
+
+We will see what Graham sees in his mind.
+
+GRAHAM'S POV: THE BED
+
+The ceiling and walls decomposing. Nothing falls on the bed.
+
+Mr. Charles Leeds sleeps with his arm under Mrs. Leeds' pillow.
+
+108.
+
+Mrs. Leeds is on her side. Slowly she starts to rise. She
+
+sees the figure in front of her and her mouth opens to scream.
+
+A silent shot shoves her back to the headboard. Red blood
+
+starts to stain her nightgown as she holds the wound. We
+
+FLOAT CLOSER. In SLOW MOTION Mr. Leeds starts to rise.
+
+Something massive and silver flashes through the FRAME. He Is
+
+gone. Mirrors explode. Mrs. Leeds was looking at her hand
+
+covered with blood. Now Mrs. Leeds looks up at us. Her face
+
+turns into a smile. Her eyes are silver. A silver light
+
+emanates from her mouth. She smiles at us. She wants us. She
+
+really wants us. Her hand gestures us closer. As we MOVE
+
+CLOSER we hear:
+
+In the silver mirrors of her eyes, Graham sees reflected
+
+there: himself.
+
+INT. LEEDS LIVING ROOM - WIDE
+
+It is empty. The bare floorboards, a dynamic perspective of
+
+lines, go nowhere. O.S. Graham's scream reverberates in the
+
+empty house.
+
+INT. GATEWAY LABS, MAIN DARKROOM- WIDE FROM THE CEILING
+
+DAY
+
+It is pitch-black. In the green safe light we make our the
+
+rollers and pulleys carrying film through the vats of D76
+
+developer and fixer. It is mechanized. There is no one
+
+to maintain it. Distantly on the floor in a far corner we
+
+perceive the shape of a man and reddish glow. The CAMERA
+
+STARTS MOVING towards the shape on the floor. As we get
+
+closer we realize it's Dollarhyde. Something is wrong with
+
+him. ..
+
+109.
+
+By now we're close to his body curled up on the floor in the
+
+sanctuary of the developing room. The red glow emanates
+
+from beneath Dollarhyde's shirt.
+
+He stands.
+
+He starts throwing bottles of chemicals across the room.
+
+They form a moire pattern of colors on walls. Some splash
+
+on him and make his shirt smoke.
+
+PHONE
+
+Dollarhyde's unsteady hand takes it off the wall. Be pours
+
+sweat. If the acid that makes his shirt smoke burns him,
+
+he doesn't acknowledge it. He punches four numbers.
+
+110.
+
+EXT. REBA'S HOUSE - SLOW TRACK PAST DOLLARHYDE'S VAN -
+
+NIGHT
+
+He sits under the tree with the lights out. He is waiting.
+
+Watching. He looks at his watch. Then he hears a car
+
+approach and looks up.
+
+DOLLARHYDE'S POV: GREEN OLDSMOBILE
+
+pulls into Reba's drive.
+
+INT. VAN - DOLLARHME'S FACE
+
+Excited. He starts to get out. Now he stops.
+
+DOLLARHYDE'S POV: REBA + RALPH DANDRIDGE
+
+exit the Oldsmobile. He helps Reba out of the car. She
+
+makes her own way up the sidewalk to her door. Reba opens
+
+her door with a key. She turns towards Dandridge.
+
+He brushes at a speck of dust on Reba's cheek.
+
+111.
+
+INT. VAN - DOLLARHYDE
+
+stares. Events are threatening Dollarhyde's fragile stabil-
+
+ity. We don't want this to be happening, we don't want
+
+Dandridge to touch her...
+
+DOLLARHYDE'S POV: REBA + DANDRIDGE
+
+We see what Dollarhyde imagines: Dandridge's fingers caress
+
+the soft skin of Reba's face. Reba's expression and mouth
+
+are open and warm to him.
+
+INT. VAN - DOLLARHYDE'S FACE
+
+Blank .
+
+DOLLARHYDE'S POV: REBA + DOLLARHYDE
+
+Reba smiles. Her lips part. His finger brushes between her
+
+lips... His hand goes to her breast...
+
+INT. DOLLARHYDE'S VAN - DOLLARHYDE'S
+
+hand clutches the dash.
+
+PADDED DASH
+
+His fingers pop through the vinyl, gouging deep furrows. We
+
+hear hyperventilating.
+
+EXT. REBA'S HOUSE - REBA + DANDRIDGE
+
+Normal reality. There was no, there is no seduction. No
+
+contact.
+
+Reba walks into her apartment
+
+112.
+
+RALPH DANDRIDGE
+
+walks back to his car. We are TRACKING WITH Dandridge walk-
+
+ing past the hedges. An arm shoots out and turns Dandridge.
+
+Dollarhyde's hand clutches the whole of Dandridge's lower
+
+face from underneath his jaw. He starts crushing Dandridge's
+
+face. THREE soft POPS are from Dollarhyde's nine millimeter.
+
+He shot Dandridge three times in the heart.
+
+INT. REBA'S DUPLEX - REBA - NIGHT
+
+Moving in the dark. The DOORBELL RINGS. She has unbuttoned
+
+her blouse. Now she goes back to answer the door.
+
+She opens the door and smiles.
+
+As he steps towards her...
+
+THE MOON
+
+It's full and very large as it dawns over black water that
+
+seems to ripple and be drawn to it. PULL BACK to reveal
+
+we are:
+
+INT. CHICAGO FBI OFFICE - WINDOW + NIGHT SKY - NIGHT
+
+Next to the window we see the Jacobi family in fishing
+
+scene on a monitor. They are on a pier into a small lake
+
+with poles and bobbers. The kids turn back and wave AT us.
+
+113.
+
+The scene changes to a birthday party. The Jacobis are
+
+sitting around a dining table. They are singing.
+
+GRAHAM + CRAWFORD
+
+Graham is intent on the tape. Then:
+
+114.
+
+Graham's beyond frustration.
+
+Graham doesn't answer. He's totally concentrated on the
+
+film.
+
+TV MONITOR: JACOBI FAMILY
+
+Donald Jacobi, big birthday card to the camera. It says:
+
+"Happy Birthday - Follow the ribbon." Camera follows Donald
+
+Jacobi following the ribbon into the basement and the flood-
+
+lights reveal a ten-speed bicycle.
+
+Crawford stares at him. Then he works his way through a
+
+report with a penlight.
+
+115.
+
+TV MONITOR: JACOBI FAMILY
+
+We are outside in the rain. Donald Jacobi brings the bicycle
+
+out. The camera pans past: the padlock on the basement door.
+
+Graham's hand flashes INTO FRAME and slams on the freeze
+
+button.
+
+Graham rifles through the files and comes up with the autopsy
+
+report on Donald Jacobi.
+
+He freezes the Jacobi tape and loads and plays the Leeds
+
+tape :
+
+116.
+
+MONITOR: LEEDS TAPE
+
+The Leeds' gray Scottie perks up his ears and runs in the
+
+glass kitchen door. The camera pans off the dog to Valerie
+
+Leeds coming in the door: behind her the door is vulnerable
+
+with its big glass pane. Her kids follow her through the
+
+door...
+
+Crawford's surprised.
+
+EXTREMELY CLOSE: GRAHAM
+
+Watching. Then he grabs the phone and punches numbers.
+
+He hangs up on Metcalfe.
+
+VTR MONITORS
+
+Graham's hand freezes the Leeds' rape and plays the Jacobi
+
+tape. The Jacobis' cat moves, jumps on the table.
+
+117.
+
+The Jacobi boy pushes the bicycle out of the basement door
+
+with the padlock.
+
+Next Mrs. 3acobi -- warm, smiling -- watches Donald ride
+
+the bike. Now Graham plays the Leeds' tape, too. The dog
+
+runs to camera...
+
+His tail wagging, his tongue out; he's a friendly dog. Mrs.
+
+Leeds enters and pets him.
+
+Crawford is staring at Graham strangely. This is why
+
+Crawford drafted him. But Crawford doesn't look like he
+
+wants to be alone in the same room with Graham anymore...
+
+The PHONE RINGS. Crawford answers. His attention is riveted
+
+on Graham.
+
+118.
+
+Crawford is very quiet.
+
+Graham pushes aside the videotape sleeve and picks up the
+
+Leeds' home-movie can.
+
+Crawford hears. Then he deflates.
+
+Crawford hears, Graham's watching him.
+
+119.
+
+Graham's already out the door. Crawford races after him.
+
+INT. DOLLARHYDE'S HOUSE, KITCHEN - REBA - NIGHT
+
+has been placed on the kitchen table. It is chrome and
+
+pale yellow Formica. Her face is bruised and swollen from
+
+where Dollarhyde hit her. She feels, around on the bed.
+
+She's very frightened. She's trying to control herself...
+
+There's no answer. We don't know if there's anyone else in
+
+the room.
+
+Reba shakes her head.
+
+In a flash Dollarhyde grips her mouth, shutting off the
+
+sound.
+
+120.
+
+His arm exits FRAME.
+
+Reba's hand is gripped by Dollarhyde's. He brings her
+
+fingers up to his face. For the first time in this scene
+
+we are seeing Dollarhyde's face. The fanged dentures are
+
+in his mouth. Dollarhyde makes Reba's hand feel his teeth.
+
+O.S., we hear Reba start whimpering and try to pull away.
+
+Dollarhyde holds her hand there.
+
+INT. GULF STREAM - ELECTRICIAN - NIGHT
+
+finishes patching together cables.
+
+121.
+
+Meanwhile Graham has grabbed the second radio phone.
+
+INT. ST. LOUIS PD OFFICE - LT. FISK - NIGHT
+
+on telephone. Two FBI men are at his desk. Uniformed
+
+patrolmen carrying assault rifles and body armor run
+
+through in the background.
+
+Fisk punches Graham into the speaker phone.
+
+One of the uniformed cops is already punching it into a
+
+computer terminal. Lt. Fisk looks at the monitor...
+
+122.
+
+INT. GULF STREAM - GRAHAM - NIGHT
+
+EXT. SKY - AERIAL SHOT - GULF STREAM - NIGHT
+
+The Gulf Stream approaches and races past us at its cruising
+
+speed of 585 mph. As it leaves the frame, the image we're
+
+left with is the moon. It looms large and white 30 degrees
+
+above the horizon and rising into a starry sky,
+
+INT. ST. LOUIS PD OFFICE - COMPUTER MONITOR - NIGHT
+
+displays the license with picture and driving record of
+
+Dillon, Lincoln. He's a black man.
+
+INT. GULF STREAM FLIGHT DECK - OVER PILOT'S SHOULDERS:
+
+-NIGHT
+
+St. Louis approaches. The flashing strobes of the airport
+
+runway indicator, the cobalt blue runway lights.
+
+INT. GULF STREAM CABIN - GRAHAM + CRAWFORD - NIGHT
+
+Crawford buckles up. Graham is hearing.
+
+123.
+
+DATAFAX
+
+starts printing our line by line: a blow-up of a driver's
+
+license with picture. The lines compose hair, forehead,
+
+eyes... coming at us line by line is: Francis Dollarhyde.
+
+Lt. Fisk)
+
+INT. ST. LOUIS AIRPORT - GULF STREAM - NIGHT
+
+Hits the runway. Tires smoke. Its ENGINES SCREAM in
+
+reverse thrust. It taxis away from the terminal to a
+
+security area. Two St. Louis PD squad cars are waiting.
+
+GULF STREAM DOOR
+
+opens. Graham's out followed by Crawford. They run across
+
+the tarmac to the squad cars. Squad cars race out of the
+
+airport.
+
+INT. DOLLARHYDE'S KITCHEN - PANNING - NIGHT
+
+through shadows and highlights in the moonlight. we pass the
+
+sink and countertop and refrigerator and blue-enamelled broom
+
+closet. On the other side of it is Reba. She Is breathing
+
+heavily.
+
+124.
+
+She stands there, squeezing into the corner, trying to make
+
+herself disappear. Then she senses and freezes as a rabbit
+
+who is hunted and at a certain point, freezes...
+
+DOLLARHYDE
+
+stands four feet from her, just staring. Then he walks
+
+from the room.
+
+INT. DOLLARHYDE'S LIVING ROOM - DOLLARHYDE
+
+puts "INNAGADDADAVIDA" by Iron Butterfly from 1967 on the
+
+stereo. It BLASTS through the house. He is expressionless.
+
+Deep in his psychotic episode, his affect is flattened.
+
+INT. DOLLARHYDE BATHROOM - DOLLARHYDE
+
+as a reflection in the medicine cabinet - enters. His fist
+
+smashes. His image SHATTERS with the mirrored glass.
+
+DOLLARHYDE'S
+
+forearm destroys the glass shower door. He rips the metal
+
+frame from the walls. He snaps the mitred framework. The
+
+aluminum frame members have sharp 45 degree points. He
+
+takes them and the shards of mirror and leaves for the
+
+kitchen... Throughout his face has been expressionless.
+
+EXT. MISSOURI STATE HIGHWAY 94 - TWO CAR CARAVAN - NIGHT
+
+streaks TOWARDS US down the almost deserted highway.
+
+INT. CAR - GRAHAM - NIGHT
+
+in the back seat. He is distant. His attitude contrasts to
+
+the frantic 110 mph race down the highway and the two uniformed
+
+officers and Crawford. Their anxiety is visible. Next
+
+to them Graham seems zoned-our...
+
+125.
+
+He obeys Graham and floors it. Graham puts his black plastic
+
+briefcase on his lap and extracts the .44 Charter Arms Bulldog.
+
+He starts to load 6 matte-black, blunt-nosed Glaser Safety
+
+Slugs. He fumbles them in the swaying car. The bullets
+
+fall to the floor.
+
+CAR FLOOR
+
+Glaser Safety Slugs roll on the rubber matting. Graham's
+
+fingers enter and pick them up. We FOLLOW the rounds as
+
+they slip into the cylinder.
+
+CRAWFORD
+
+is staring at Graham's blankness.
+
+THEIR POV: DOLLARHYDE'S PROPERTY
+
+The house is set back a half mile from the road. Access to
+
+the drive is blocked by a locked cattle gate.
+
+DOLLARHYDE FARM + ROAD - TWO SQUAD OARS - NIGHT
+
+The first drives off the highway through a shallow ditch and
+
+starts across the soybean field. The second car takes the
+
+ditch at the wrong angle and CRASHES. its windshield stars.
+
+126.
+
+SOYBEAN FIELD + ST. LOUIS PD CAR NUMBER 1
+
+moving across the furrowed rows. The car starts to slow.
+
+We don't know why they are slowing down.
+
+TIRES
+
+spray the gumbo mud out of the furrows. The forward momentum
+
+of the car slows until it completely stops. The tires spin
+
+and dig in.
+
+GRAHAM
+
+spills out and starts running for the house and the orchard
+
+a quarter mile away. Crawford follows.
+
+EXT. DOLLARHYDE ORCHARD - GRAHAM + CRAWFORD
+
+running towards the house through the trees. Branches
+
+slap at them. Ahead, the orchard will parallel the house.
+
+They can get to within 25 yards using the trees as cover.
+
+Graham gestures Crawford to a position with a front 3/4 view
+
+of the house.
+
+As we TRACK with Graham through the trees towards the back,
+
+beyond him we see the side yard and the side windows moving
+
+past. The windows are large. At the back -- like a ramp --
+
+are two storm cellar doors.
+
+127 .
+
+FRONTAL: GRAHAM
+
+in the dark shadows of the trees. He seems to float: through
+
+the branches and slows and settles quietly. Then the ex-
+
+pression on Will Graham's face starts to change...
+
+GRAHAM'S POV: KITCHEN WINDOW
+
+Shadows. A light comes on. Then the figure of Reba is
+
+swung out of a corner past the window...
+
+INT. DOLLARHYDE'S KITCHEN - DOLLARHYDE + REBA - NIGHT
+
+On the right we see Dollarhyde's right arm with the aluminum
+
+shafts... Beyond them, THROUGH THE WINDOW we see Graham has
+
+stepped out from the tree line. He stands on the grass.
+
+He looks helpless. His gun hangs idly at his side.
+
+CLOSE: GRAHAM
+
+It's his worst nightmare. About what he's seeing:
+
+INT. DOLLARHME'S KITCHEN - DOLLARHYDE + BEYOND HIM 007 THE
+
+WINDOW: GRAHAM
+
+We and Graham see Dollarhyde's arm arc back for an uppercutting
+
+thrust into Reba. Dollarhyde's left hand clutching her dress,
+
+raises her two feet up the wall. And now Graham starts running
+
+forward. And his face is distorted and he's shouting:
+
+Dollarhyde turns to the window in time to see:
+
+128.
+
+WINDOW + GRAHAM
+
+-- his arms across his face and his body angled sideways
+
+-- CRASHES through the glass.
+
+DOLLARHYDE
+
+catching Graham's momentum -- throws him across the room.
+
+GRAHAM
+
+CRASHES off the fridge which opens and spills and hits the
+
+floor as...
+
+DOLLARHYDE
+
+ROARS and grabs his 9mm from the kitchen table.
+
+GRAHAM'S FACE
+
+is lacerated from the glass. He sees his own blood on the
+
+floor. He struggles to rise. The first thing up is the
+
+big bore of the .44. It FIRES as if it had its own mind.
+
+DOLLARHYDE'S
+
+left shoulder EXPLODES.
+
+GRAHAM
+
+bleeding, brings the .44 down from the recoil of the first shot.
+
+Now, up on one knee, he FIRES FOUR more rounds into Dollarhyde.
+
+OVERHEAD: THE KITCHEN FLOOR
+
+Graham stands and walks to Dollarhyde. Reba is collapsed in
+
+the corner. Dollarhyde it more exploded from within than
+
+shot. Graham starts to raise the gun...
+
+EXT. DOLLARHYDE HOUSE - THROUGH KITCHEN WINDOW: GRAHAM
+
+As we PULL BACK and see arriving squad car flashers play on
+
+the walls and Crawford runs through the foreground, we see
+
+Graham point the gun down to Dollarhyde's head. As we're
+
+pulling away comes the final FLASH + REPORT and...
+
+129.
+
+INT. MOTEL ROOM - WIDE REAR SHOT ON GRAHAM - DAY
+
+We will only see the rear of Will Graham sitting alone on the
+
+side of the bed in the alienating motel room. His head is
+
+bandaged.
+
+INTERCUT WITH:
+
+INT. MONTANA RANCH HOUSE, KITCHEN - MOLLY - DAY
+
+130.
+
+Then no one says anything.
+
+Graham slams down the phone. Still half-immersed in a
+
+psychotic landscape of the mind, Graham's psyche resonates
+
+with echoes of Dollarhyde. Now he gets up and walks out of
+
+the room leaving the door open. Outside is only the deserted
+
+parking lot.
+
+131.
+
+INT. TAXI (TULSA, OKLAHOMA) - PASSENGER'S POV OF DRIVER - NIGHT
+
+It's raining The DRIVER moves slowly down a residential
+
+street looking for an address. He squints...
+
+INT. HOUSE - WIDE ANGLE - NIGHT
+
+It's open plan. The dining area and kitchen are raised.
+
+The Sherman family are engaged in 7:00 PM suburban family
+
+chaos: GEORGE SHERMAN is trying to watch the news. He
+
+hollers up the stairs for his daughter to turn down her
+
+stereo. His 11-year-old son, FRED, at the dining room
+
+table is supposed to be doing homework. Instead he rolls
+
+up balls of paper and does jump shots from his chair into
+
+the wastepaper can,
+
+George Sherman goes back to NBC news. The DOORBELL RINGS.
+
+Thirteen-year-old TINA SHERMAN comes down the stairs.
+
+DOOR
+
+Tina opens it.
+
+TINA
+
+screams.
+
+GEORGE SHEBMAN
+
+runs to the door. In a WIDER SHOT, we see there is a sho-
+
+gun resting inside the door jamb. It's within reach or
+
+Sherman's hand. We see why Tina Sherman screamed:
+
+132.
+
+WILL GRAHAM'S FACE
+
+is pulled down slightly on the left side, making his left
+
+eye moon-shaped. There is a half-healed wound and butter-
+
+fly bandage where Dollarhyde stabbed him. He is standing
+
+in a black raincoat with a black hat.
+
+His wife starts to come forward.
+
+There's a searching look on Graham's face. Totally strange.
+
+Graham shakes his head. He doesn't want to be thanked.
+
+No one knows what to say. Graham looks at them:
+
+133.
+
+SHERMAN FAMILY
+
+standing in awkward places. They ate nothing special. They
+
+are normal human beings living their lives. To Graham they
+
+are very special: they are alive.
+
+Graham stands there as if engraving each one in his memory.
+
+Then he nods. Then he leaves.
+
+GEORGE SHERMAN
+
+closes the door. There's an awkward look on his face. He
+
+didn't get to say what he wanted to say to Graham.
+
+EXT. SHERMAN HOUSE - WIDE FROM DOOR: GRAHAM - NIGHT
+
+-- in the MIDDLE of the FRAME -- walks down the sidewalk
+
+away from us towards the waiting cab. The rain pelts his
+
+black hat and black raincoat. 'Before he reaches the cab...
+
+EXT. BEACH (MARATHON, FLORIDA)- GRAHAM - DAY
+
+sitting with his back to us. Beyond him the sun reflects
+
+off the crashing surf and burns out everything except the
+
+silhouetted image of Graham.
+
+GRAHAM IS WATCHING
+
+the fenced-in area of beach he and Kevin built at the opening
+
+of the film. A baby tortoise crawls over sand mountains and
+
+is swept away by surf into the life-supporting sea.
+
+CLOSE: GRAHAM
+
+drinks a beer.    He senses a presence and starts to turn...
+
+WIDE REAR SHOT:   BEACH + CRAHAM
+
+turns towards us. Molly ENTERS THE FRAME. Her coat is
+
+under her arm. She drops it and her flight Sag in the sand
+
+and continues walking to Graham.
+
+134.
+
+GRAHAM
+
+stands as she comes near him. The aqua highlights of the
+
+water eat into their figures as they look at each other.
+
+Molly touches the wounded side of his face. Then:
+
+Graham takes Molly's hand.
+
+WATER'S EDGE
+
+Molly and Graham walk to the water's edge and look out to sea.
+
+The highlights burn out sections of the two people.
+
+Graham looks at her. He touches the side of her cheek and
+
+her hair. She pushes against his hand with her face to make
+
+closer contact.
+
+REARSHOT: GRAHAM + MOLLY
+
+Graham -- in the sunbleached violet shorts -- lays an arm
+
+across Molly's shoulder. Molly's arm moves around Graham's
+
+waist. They look out to sea. In front of them, the surf
+
+kicks up drops of spray which take light and become brilliant
+
+atoms.
+

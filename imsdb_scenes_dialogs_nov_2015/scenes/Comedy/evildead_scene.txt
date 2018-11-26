@@ -1,0 +1,1074 @@
+EVIL DEAD by Sam Raimi
+
+10/13/79
+
+SCENE CODING
+
+Interior - I
+
+Exterior - E
+
+Day      - D
+
+Night    - N
+
+Twilight - T
+
+LOCATION CODING
+
+CAR  - Car
+
+B    - Bridge
+
+CAB  - Surrounding area outside cabin
+
+W    - Woods
+
+M.R. - Main Room
+
+D.R. - Dining Room
+
+K    - Kitchen
+
+C    - Cellar
+
+W.S. - Work Shed
+
+L.B. - Linda's Bedroom
+
+S.B. - Shelly's Bedroom
+
+C.B. - Cheryl's Bedroom
+
+B.T.R- Bathroom
+
+EXAMPLE
+
+12   ID - D.R.
+
+TRANSLATION
+
+Scene #12, Interior, Day, Dining Room
+
+1
+
+ED - W
+
+2
+
+ED - CAR
+
+3
+
+ID - CAR
+
+SHELLY
+
+SCOTT
+
+ASHLY
+
+4
+
+ED - W
+
+5
+
+ID - CAR
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+6
+
+ED - CAR
+
+7
+
+ID - CAR
+
+SHELLY
+
+8
+
+ED - CAR
+
+9
+
+ID - CAR
+
+ASHLY
+
+10
+
+ED - CAR
+
+11
+
+ED - CAR
+
+12
+
+ID - CAR
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+SHELLY
+
+ASHLY
+
+SCOTT
+
+13
+
+ED - CAR
+
+14
+
+ID - CAR
+
+SCOTT
+
+SCOTT
+
+SHELLY
+
+SCOTT
+
+SHELLY
+
+ASHLY and LINDA
+
+LINDA
+
+SCOTT
+
+LINDA
+
+SCOTT
+
+CHERYL
+
+SCOTT
+
+ASHLY
+
+LINDA
+
+ASHLY
+
+LINDA
+
+SHELLY
+
+CHERYL
+
+SCOTT
+
+CHERYL
+
+ASHLY
+
+15
+
+ED - CAR
+
+16
+
+ID - CAR
+
+ASHLY
+
+17
+
+ED - CAR
+
+18
+
+ID - CAR
+
+SCOTT
+
+LINDA
+
+SCOTT
+
+LINDA
+
+SCOTT
+
+SHELLY
+
+19
+
+ED - B
+
+20
+
+ED - CAB
+
+21
+
+ID - CAR
+
+ASHLY
+
+LINDA
+
+CHERYL
+
+SCOTT
+
+CHERYL
+
+LINDA
+
+SHELLY
+
+22
+
+ED - CAB
+
+SCOTT
+
+23
+
+ID - M.R.
+
+SCOTT
+
+SCOTT
+
+SCOTT
+
+CHERYL
+
+SCOTT
+
+CHERYL
+
+SCOTT
+
+LINDA
+
+LINDA
+
+24
+
+ET - CAB
+
+25
+
+IT - M.R.
+
+26
+
+IT - K/M.R.
+
+ASHLY
+
+CHERYL
+
+ASHLY
+
+CHERYL
+
+LINDA
+
+ASHLY
+
+LINDA
+
+ASHLY
+
+LINDA
+
+CHERYL
+
+LINDA
+
+ASHLY
+
+27
+
+IT - K
+
+28
+
+IT - D.R.
+
+SCOTT
+
+CHERYL
+
+LINDA
+
+SCOTT
+
+SCOTT
+
+SCOTT
+
+ASHLY
+
+LINDA
+
+SCOTT
+
+SCOTT
+
+29
+
+IN - M.R.
+
+ASHLY
+
+SCOTT
+
+CHERYL
+
+SCOTT
+
+LINDA
+
+SCOTT
+
+CHERYL
+
+SCOTT
+
+LINDA
+
+SCOTT
+
+SHELLY
+
+SHELLY
+
+SCOTT
+
+ASHLY
+
+ASHLY
+
+SHELLY
+
+SHELLY
+
+ASHLY
+
+LINDA
+
+ASHLY
+
+30
+
+IN - C
+
+ASHLY
+
+ASHLY
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+31
+
+EN - CAB
+
+32
+
+IN - M.R.
+
+ASHLY
+
+VOICE
+
+ASHLY
+
+VOICE
+
+SCOTT
+
+VOICE
+
+SCOTT
+
+CHERYL
+
+SCOTT
+
+ASHLY
+
+SCOTT
+
+SCOTT
+
+VOICE
+
+33
+
+EN - CAB
+
+34
+
+IN - M.R.
+
+VOICE
+
+35
+
+EN - CAB
+
+36
+
+IN - M.R.
+
+VOICE
+
+37
+
+EN - CAB
+
+38
+
+IN - M.R.
+
+CHERYL
+
+VOICE
+
+39
+
+EN - CAB
+
+40
+
+IN - M.R.
+
+CHERYL
+
+VOICE
+
+41
+
+EN - CAB
+
+42
+
+IN - M.R.
+
+CHERYL
+
+ASHLY
+
+SCOTT
+
+SCOTT
+
+LINDA
+
+ASHLY
+
+LINDA
+
+ASHLY
+
+ASHLY
+
+LINDA
+
+LINDA
+
+ASHLY
+
+LINDA
+
+LINDA
+
+ASHLY
+
+LINDA
+
+43
+
+EN - CAB
+
+44
+
+IN - C.B.
+
+45
+
+EN - CAB
+
+CHERYL
+
+46
+
+EN - W
+
+CHERYL
+
+47
+
+EN - CAB
+
+CHERYL
+
+CHERYL
+
+CHERYL
+
+48
+
+IN - M.R.
+
+SCOTT
+
+CHERYL
+
+SCOTT
+
+ASHLY
+
+CHERYL
+
+CHERYL
+
+LINDA
+
+CHERYL
+
+SCOTT
+
+SHELLY
+
+ASHLY
+
+CHERYL
+
+ASHLY
+
+CHERYL
+
+ASHLY
+
+49
+
+EN - CAB
+
+50
+
+IN - CAR
+
+CHERYL
+
+51
+
+EN - CAB
+
+52
+
+IN - CAR
+
+CHERYL
+
+CHERYL
+
+CHERYL
+
+CHERYL
+
+53
+
+EN - B
+
+54
+
+IN - CAR
+
+CHERYL
+
+55
+
+EN - CAB
+
+56
+
+IN - M.R.
+
+LINDA
+
+CHERYL
+
+LINDA
+
+CHERYL
+
+VOICE
+
+SHELLY
+
+LINDA
+
+SHELLY
+
+LINDA
+
+SHELLY
+
+LINDA
+
+SHELLY
+
+LINDA
+
+ASHLY
+
+VOICE
+
+SHELLY
+
+SHELLY
+
+LINDA
+
+LINDA
+
+SHELLY
+
+LINDA
+
+SHELLY
+
+LINDA
+
+ASHLY
+
+VOICE
+
+LINDA
+
+SHELLY
+
+LINDA
+
+SHELLY
+
+CHERYL
+
+CHERYL
+
+CHERYL
+
+CHERYL
+
+CHERYL
+
+ASHLY
+
+ASHLY
+
+LINDA
+
+SCOTT
+
+LINDA
+
+57
+
+IN - LB
+
+58
+
+IN - M.R.
+
+SCOTT
+
+ASHLY
+
+ASHLY
+
+SHELLY
+
+SCOTT
+
+SHELLY
+
+ASHLY
+
+SHELLY
+
+SHELLY
+
+SCOTT
+
+59
+
+EN - CAB
+
+60
+
+IN - M.R.
+
+SHELLY
+
+61
+
+EN - CAB
+
+62
+
+IN - M.R.
+
+SCOTT
+
+SHELLY
+
+SCOTT
+
+63
+
+EN - CAB
+
+64
+
+IN - M.R.
+
+SCOTT
+
+SCOTT
+
+65
+
+IN - S.B.
+
+66
+
+IN - S. BATH
+
+SCOTT
+
+67
+
+IN - S.B.
+
+68
+
+IN - M.R.
+
+SHELLY
+
+SCOTT
+
+ASHLY
+
+SCOTT
+
+SCOTT
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+SCOTT
+
+SCOTT
+
+69
+
+EN - CAB
+
+70
+
+IN - M.R.
+
+71
+
+IN - L.B.
+
+72
+
+IN - M.R.
+
+SCOTT
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+SCOTT
+
+SCOTT
+
+ASHLY
+
+SCOTT
+
+73
+
+EN - CAB
+
+74
+
+IN - M.R.
+
+75
+
+IN - L.B.
+
+LINDA
+
+ASHLY
+
+LINDA
+
+ASHLY
+
+LINDA
+
+ASHLY
+
+LINDA
+
+ASHLY
+
+LINDA
+
+ASHLY
+
+76
+
+IN - M.R.
+
+CHERYL
+
+CHERYL
+
+77
+
+EN - CAB
+
+78
+
+IN - M.R.
+
+79
+
+EN - CAB
+
+80
+
+IN - M.R.
+
+CHERYL
+
+81
+
+IN - L.B.
+
+82
+
+IN - M.R.
+
+SCOTT
+
+ASHLY
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+ASHLY
+
+SCOTT
+
+CHERYL
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+ASHLY
+
+LINDA
+
+LINDA
+
+ASHLY
+
+CHERYL
+
+CHERYL
+
+ASHLY
+
+ASHLY
+
+CHERYL
+
+ASHLY
+
+ASHLY
+
+83
+
+EN - CAB
+
+LINDA
+
+84
+
+IN - M.R.
+
+SCOTT
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+ASHLY
+
+SCOTT
+
+ASHLY
+
+ASHLY
+
+ASHLY
+
+85
+
+IN - W.S.
+
+ASHLY
+
+86
+
+EN - CAB
+
+87
+
+IN - M.R.
+
+88
+
+EN - CAB
+
+89
+
+IN - M.R.
+
+90
+
+EN - CAB
+
+ASHLY
+
+ASHLY
+
+91
+
+IN - M.R.
+
+ASHLY
+
+92
+
+IN - S.B.
+
+ASHLY
+
+93
+
+IN - M.R.
+
+94
+
+EN - CAB
+
+95
+
+IN - MR
+
+ASHLY
+
+96
+
+IN - C
+
+97
+
+IN - M.R.
+
+ASHLY
+
+ASHLY
+
+98
+
+EN - CAB
+
+99
+
+IN - M.R.
+
+100
+
+EN - CAB
+
+101
+
+IN - M.R.
+

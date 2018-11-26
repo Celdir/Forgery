@@ -1,0 +1,1752 @@
+<b><!--
+
+</b>if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Solaris - by Steven Soderbergh -  October 4, 2001 draft
+
+First, over BLACK, we hear the sound of a light rain.
+
+Then:
+
+EXT.  WOODS - DAY
+
+A mural of leafless trees beneath an overcast sky.  Rain
+
+continues to fall.
+
+Maybe now we begin to notice a strange quality to the light
+
+(or is it the sky?).  Something vaguely unsettling.
+
+INT.  BEDROOM - MORNING
+
+Still, the sound of rain is heard.
+
+A MAN
+
+40s, lies on his side in bed, staring at us.
+
+He has not been sleeping.  In fact, judging from his distant
+
+expression, he has not slept in ages.
+
+EXT.  ROAD - DAY
+
+Less like a road and more like a path that you maneuver a
+
+vehicle through.
+
+The Man, dressed in rain gear, walks down the middle.  He is
+
+accompanied by a medium-sized LABRADOR, and seems in no
+
+particular hurry.
+
+The sound of tires appear and grow in intensity.  The Man,
+
+without saying an actual word, instructs the dog to heal.
+
+The dog obeys as the Man moves off the road.  The vehicle
+
+hurtles past him -- its engine quiet, its windows darkened --
+
+spraying muddy debris in its wake.
+
+Seconds later, the car brakes abruptly and skids to a stop.
+
+THE MAN
+
+Stops walking and stares at the car, which seems ominously
+
+still.
+
+The car then reverses direction and begins to move toward the
+
+Man, who remains motionless.
+
+When the car is alongside him, a darkened window turns
+
+transparent and we see a WELL-DRESSED BUREAUCRAT in the rear
+
+seat.  His demeanor is pleasant and professional.
+
+The Man he is addressing, who we now understand is CHRIS
+
+KELVIN, stares back at him.
+
+INT.  CABIN - DAY
+
+The contrast between the cabin's rustic aesthetic and the
+
+aggressively high-tech equipment contained therein isn't as
+
+jarring as you might imagine.
+
+Kelvin is seated in front of a desk, scrolling through a text
+
+readout on a flat, transparent holographic screen.  Behind
+
+him is the Well-Dressed Bureaucrat from the car, and two
+
+others: A WOMAN in her 50s and a MAN in his 30s.  They are
+
+also well-groomed.  Each of their suits are embroidered with
+
+a small but distinctive LOGO of some sort that composes the
+
+acronym DBA.
+
+Kelvin scrolls through several menus, hits a few keys, and a
+
+digitized VIDEO IMAGE appears on his screen: A MAN, unshaven,
+
+looking into the camera.
+
+The man, GIBARIAN, looks very tired and somewhat apologetic.
+
+The lower part of the screen has a time of day and date
+
+display that reads: 0221 HRS 11/14/31.
+
+Gibarian stares at the camera for a long moment before
+
+switching it off and ending the transmission.
+
+Kelvin sits back.
+
+The visitors exchange glances.
+
+INT.  SPACE CAPSULE
+
+Close on Kelvin.  We hold on him a long time, as a myriad of
+
+readouts scroll and flash across his face.  A slit of
+
+sunlight glides slowly through frame.
+
+KELVIN
+
+in the same capsule, a month later.  He is asleep.
+
+KELVIN
+
+in the same capsule, two months later.  He is dictating some
+
+coordinates to Earth.  He absently scratches his heavy growth
+
+of beard.
+
+KELVIN
+
+two months later still.  He is looking out his small,
+
+rectangular window, and for the fist time we cut around to
+
+see the approaching planet: SOLARIS.
+
+Kelvin stares at it, hypnotized.  It has a translucent
+
+quality, as though it is lit from within, and its undulating,
+
+ocean-like surface slowly changes colors.
+
+Kelvin's attention is diverted as an orbiting ship, the
+
+PROMETHEUS, edges into frame.
+
+No response.  He exhales and types on a keyboard.
+
+EXT.  SPACE
+
+The Athena 7, sporting a DBA logo, advances toward the
+
+Prometheus.
+
+INT.  PROMETHEUS
+
+Kelvin, in a space suit, climbs with some difficulty out of
+
+the Athena 7, which has come to rest in the DOCKING BAY of
+
+the Prometheus.  Several exploratory PODS fill the remainder
+
+of the area.
+
+Kelvin gets his bearings and looks around, but sees no sign
+
+of life.
+
+INT.  CORRIDOR
+
+Empty.
+
+(NOTE: Except for some ROBOTIC, NON-SPEAKING CHARACTERS: the
+
+AUTOMATED TASKMASTERS.  These are small, bug-like repair
+
+units that constantly roam the ship, fixing things.  Their
+
+tiny hum is virtually silent, and we see them all the time on
+
+the Prometheus.  They can adhere to any surface at any
+
+angle.)
+
+Kelvin, now out of his space suit and holding a small
+
+carrying case and a duffle bag, moves on.
+
+INT.  GIBARIAN'S ROOM
+
+Ransacked.
+
+Kelvin registers it, then moves to the corner of the room
+
+where the computer terminal rests.  Within moments he has
+
+discovered Gibarian has recorded a video message for him to
+
+replay.
+
+VIDEO
+
+Gibarian addressing the camera.  He appears to be lucid, but
+
+extremely fatigued.
+
+A long moment of silence is broken by a noise on the video,
+
+which draws Gibarian's attention offscreen.
+
+Gibarian switches off the video.
+
+The computer screen freezes the last recorded frame and
+
+overlays a readout indicating the file has ended.
+
+INT.  CORRIDOR
+
+Empty.  But there is a door at the end of it, slightly open.
+
+Kelvin moves toward it.
+
+INT.  ROOM
+
+A FIGURE, seated with its back to the door, turns to see
+
+Kelvin enter.  This is SNOW.  He looks Kelvin up and down,
+
+his expression wary and alert.
+
+A long beat.  Snow just watches him.
+
+Kelvin takes a step forward, and Snow recoils.
+
+A beat.
+
+Snow exhales, then looks up as though he's remembered
+
+something.
+
+A long beat as Kelvin stares at Snow.
+
+Snow lies back in his bunk.
+
+Kelvin stops, but doesn't turn around.
+
+INT.  CORRIDOR
+
+Kelvin stands outside a door.
+
+A beat.
+
+Sartorius cracks the door open and slithers through the slit
+
+and into the hallway.  He is of obvious intelligence and not
+
+to be messed with; contentious, intimidating when he wants to
+
+be, and probably brilliant.  Kelvin eyes him suspiciously.
+
+Sartorius is grabbed by something on the other side of his
+
+door.  He struggles to keep his composure.
+
+Sartorius is losing the battle with whomever or whatever is
+
+on the other side of his door.
+
+Sartorius rotates and zips back into his room.  As the door
+
+closes Kelvin sees a flash of ANOTHER FIGURE in Sartorius'
+
+room.  The glimpse was too quick to judge who or what the
+
+other figure could have been.
+
+INT.  CORRIDOR - DAY
+
+Kelvin walks, exploring the ship.  He sees something that
+
+stops him:
+
+A NUDE WOMAN
+
+Black, early 20s, slipping across a corridor up ahead.
+
+Kelvin gives chase.  He sees her turn a corner, but by the
+
+time he gets there, she is gone.
+
+INT.  SNOW'S ROOM
+
+Snow is lying on his bunk.
+
+Snow looks at him but doesn't respond.
+
+Snow lies back down.
+
+A beat.
+
+Snow rolls over, away from Kelvin.
+
+EXT.  SPACE
+
+Solaris.  Quiet, but still active somehow.
+
+INT.  KELVIN'S ROOM
+
+Kelvin speaks into a video communication device.  As he does,
+
+we see images of the things and people he describes.
+
+INT.  KELVIN'S ROOM
+
+Later.  Kelvin is lying down.  The lights are out, and he is
+
+trying to sleep.
+
+After a moment, he gets up, checks the lock on his door, and
+
+lies back down.
+
+Then he gets up and moves a chair in front of the door, and
+
+lies back down.
+
+Then he gets up and puts two heavy cases on top of the chair,
+
+and lies back down.
+
+Laughing to himself, he drifts off to sleep.
+
+Silence.
+
+ANOTHER ANGLE
+
+On Kelvin, asleep.
+
+ANOTHER ANGLE
+
+On Kelvin, still asleep.  Then:
+
+EXTREME CLOSE-UP:
+
+A WOMAN'S LIPS, slightly parted.
+
+BACK TO KELVIN
+
+Asleep.  Then:
+
+INT.  TRAIN - DAY
+
+Continued silence, AND:
+
+RHEYA, 30s, staring at us, practically daring us to look
+
+away.  Her obvious intelligence and confidence make her
+
+extremely compelling, along with the fact that it was her
+
+parted lips we were looking at a moment ago.  Her expression
+
+indicates she's in a very raw emotional state.
+
+REVERSE ANGLE
+
+Kelvin is the person she has locked eyes with on the TRAIN.
+
+He is younger here; not just in age, but in spirit.  The
+
+contrast with his older self is striking.
+
+BACK TO KELVIN
+
+Asleep on the ship.  After a beat:
+
+EXTREME CLOSE-UP:
+
+Rheya's LIPS.
+
+Except the circumstance is clearly different: it's darker and
+
+there isn't the side-to-side shimmy of the train car.
+
+A WIDER VIEW
+
+Reveals that Rheya is not sitting on the train -- she is
+
+sitting in Kelvin's room on the Prometheus, right now.
+
+She is staring at Kelvin and she is ethereal in her
+
+stillness.
+
+KELVIN
+
+Awakens, blinks, and slowly recognizes her.
+
+If he is not entirely surprised it is because he has
+
+obviously dreamed of Rheya before.  He looks at her, simply.
+
+RHEYA
+
+Stands and makes her way to Kelvin.
+
+Without hesitation she kisses him and they begin to explore
+
+each other and we see all of it happen and two things are
+
+obvious: first, they have done this before, and two: they
+
+haven't done it in some time.
+
+INT.  KELVIN'S ROOM
+
+Kelvin is asleep, Rheya in his arms.
+
+He wakes up and looks at her, perplexed.  After a beat he
+
+rises to sit on the edge of the bed.
+
+A wave of terror is barely suppressed as he puts his hand to
+
+his forehead.  Rheya opens her eyes.
+
+He looks at her.
+
+She moves to him and kisses him as if that's all she wants to
+
+do, forever.
+
+Between kisses.
+
+She stops.
+
+Hearing his name spoken by her (and those particular words,
+
+perhaps) nearly causes Kelvin to scream.
+
+He stands and moves to the chair.  Rheya watches him.
+
+He looks up at her for as long as he can.  Then he looks
+
+down.
+
+He doesn't look up.
+
+A beat.
+
+She bolts out of bed.
+
+She is trying to accommodate him but her fear of being left
+
+alone is palpable, even excessive.  He sees this and puts his
+
+arms on her shoulders to comfort her.
+
+He hands her a few pills and retrieves a glass of water.
+
+She takes the pills and smiles.
+
+INT.  DOCKING BAY
+
+Kelvin leads Rheya to one of the exploratory pods.  They are
+
+in space suits.
+
+He opens the door of a pod and indicates for her to enter.
+
+She is unsure.
+
+She stares up and into the pod.  Kelvin watches her go with
+
+difficulty and then CLOSES THE DOOR behind Rheya.
+
+He walks across the docking bay to the control room and
+
+begins preparations for the pod to be jettisoned.
+
+KELVIN
+
+In agony as he watches a real-time, beat-by-beat brand of
+
+technological murder take place: Rheya's pod is pushed off
+
+into space.
+
+RHEYA
+
+Her face contorted in confusion, watches through the pod
+
+window as the docking bay doors close in front of her with a
+
+brutal finality.
+
+KELVIN
+
+collapses to the ground, shattered.
+
+INSERT:
+
+A woman's HAND, resting on the floor of an apartment.  The
+
+fingers are being licked by a LABRADOR PUPPY.
+
+ANOTHER INSERT:
+
+A pot of coffee, on the boil.  Except that it has been left
+
+unattended for too long...
+
+ANOTHER INSERT:
+
+A rain-streaked window.
+
+INT.  KELVIN'S ROOM
+
+Kelvin, on the edge of his bed.  He wants to tear himself
+
+inside out.
+
+A voice calls over the intercom: Snow's.
+
+Kelvin rises and goes to wash his face.
+
+Kelvin nods.
+
+A beat.
+
+INT.  CONFERENCE ROOM
+
+Before Kelvin's arrival.
+
+Gibarian is talking to Snow and Sartorius.
+
+We now show this scene being played out on a video monitor,
+
+watched by Kelvin.
+
+Gibarian considers this.
+
+ANOTHER VIDEO
+
+This time, Gibarian alone.  Near the end.
+
+INT.  LAB
+
+Kelvin stares at Gibarian's body, which is lying under a
+
+sheet in the ship's operating room.  Also under the sheet,
+
+next to Gibarian: The Young Girl.
+
+EXT.  SPACE
+
+A shot hovering over the surface of Solaris.
+
+INT.  KELVIN'S ROOM
+
+Kelvin is lying down, looking at the door.
+
+After a beat, he turns out the lights and rolls over.
+
+INT.  KELVIN'S ROOM
+
+Time has passed.  Kelvin is asleep.
+
+RHEYA leans into frame and kisses him.
+
+Without even waking, he kisses her back, hungrily.
+
+They make love.  It's even better than before.
+
+INT.  KELVIN'S ROOM
+
+Kelvin and Rheya are asleep.
+
+INT.  TRAIN - DAY
+
+Kelvin, staring intently.  What he is staring at is Rheya,
+
+who is seated across from him.  She doesn't see him, yet.
+
+When she does, she locks eyes with his and doesn't look away.
+
+This continues until she gets off the train.  Kelvin watches
+
+her go, and she looks back at him through the window as the
+
+train pulls away.
+
+INT.  PARTY - NIGHT
+
+Rheya enters, looks around.  She spots Kelvin, who has
+
+already spotted her.  Their expressions indicate they are
+
+pleased to see each other again.  He approaches her, and they
+
+stare at each other a long time, until:
+
+He leans over and whispers into her ear.  She listens, and
+
+when he finishes, she leans back and looks at him, intrigued.
+
+Genuinely intrigued.  He smiles.
+
+He nods, and they smile.  They seem to be rooting for each
+
+other.  After an extended pleasurable moment, Rheya leans
+
+over and whispers in his ear.  He listens, then leans back
+
+and looks at her.
+
+INT.  FRIEND'S APARTMENT - NIGHT
+
+Another night.
+
+Rheya is wound up.  Not drunk, something else.  She has an
+
+odd look in her eyes.
+
+We are at a dinner party, and there are people trying -- but
+
+failing -- not to watch.
+
+He is stung.
+
+INT.  APARTMENT - NIGHT
+
+The immediate aftermath of the preceding scene, but at home
+
+now.
+
+Rheya crying as she embraces Kelvin.
+
+He is unmoved, but she labors to change his mind.
+
+INT.  APARTMENT - MORNING
+
+Rheya, in a chair, remorseful, Kelvin is dressing.
+
+A beat.
+
+They look at each other and understand; she will take the
+
+pills.
+
+INT.  APARTMENT - MORNING
+
+Rheya, on the floor, dead.  Her hand outstretched, a repeat
+
+of an image we saw earlier.
+
+Rain streaks the kitchen window.
+
+The bottle of pills nearby.
+
+INT.  PROMETHEUS
+
+Rheya is taking her pills.  Kelvin watches.
+
+She looks out the portal at Solaris.
+
+A beat.
+
+She looks at him and can't keep from smiling, eventually.
+
+Kelvin smiles.
+
+The intercom comes to life.
+
+INT.  KELVIN'S ROOM
+
+Kelvin is getting ready to leave.  Rheya sits on the edge of
+
+the bed, nervous.
+
+She nods and Kelvin exits, locking the door behind him.
+
+We sit with her for a moment as she tries to remain calm.
+
+IN THE CORRIDOR
+
+Kelvin listens.  A long time.
+
+Satisfied, he begins to walk away but is stopped by the
+
+sounding of a CRASHING GLASS from within.  He hears footsteps
+
+approach the door, and then a fierce POUNDING.
+
+He takes a step back.  An INHUMAN AMOUNT OF NOISE begins
+
+emanating from the other side of the door, which is now
+
+threatening to break apart.  It sounds like a plane is
+
+crashing in Kelvin's room -- no human could create this kind
+
+of cacophony.
+
+Finally, he steps forward and presses the button to open the
+
+door.
+
+RHEYA
+
+Is revealed, covered in blood.  She has completely torn the
+
+inside of the cabin door apart and has badly injured herself
+
+in the process.
+
+Confused, she looks up at him as he takes her in his arms and
+
+carries her to the bed.
+
+He puts her down on the bed and runs to the bathroom, where
+
+he gathers all the first aid materials he can find.
+
+Returning, he blanches.
+
+Rheya's wounds have HEALED; in fact, they are HEALING in
+
+front of us.
+
+She looks up at him and doesn't like the look on his face.
+
+INT.  LAB
+
+Kelvin runs Rheya through a battery of tests and studies the
+
+results.
+
+A beat.
+
+INT.  B DECK CONFERENCE ROOM
+
+Snow and Sartorius wait for Kelvin.
+
+Kelvin enters, with Rheya.  Snow and Sartorius exchange
+
+glances.
+
+She looks at Snow and nods.  Sartorius she hates instantly,
+
+and the feeling seems to be mutual.
+
+Sartorius begins.
+
+Kelvin and Snow nod.
+
+Sartorius looks at Rheya.  She looks away.
+
+Kelvin looks at Rheya and nods.  She is struck by the word
+
+"before".
+
+He nods again.
+
+INT.  APARTMENT - NIGHT
+
+This is ten years ago.  Rheya enters, alone.
+
+She crosses to the kitchen and makes a drink.  Almost
+
+immediately, the labrador puppy enters from the bedroom and
+
+stands beside her, tail wagging.  She ignores it and
+
+continues mixing her drink.
+
+Halfway through this activity, the bedroom light comes on.  A
+
+moment later, Kelvin is in the doorway.  Eventually, but not
+
+angrily, because he's still not really awake:
+
+She finishes making her drink, drinks it, and walks out the
+
+door.
+
+Kelvin stands in the doorway for a beat, then pivots and
+
+returns to bed.  The light goes out.
+
+INT.  PARTY - NIGHT
+
+Kelvin and Rheya, later in the evening when they spoke for
+
+the first time.  They are absolutely infatuated with each
+
+other; they know something is happening between them, will
+
+happen between them.
+
+INT.  KELVIN'S ROOM
+
+Kelvin and Rheya sit together in the Prometheus.  Rheya
+
+continues her story without a beat.
+
+Another beat.
+
+INT.  OFFICES - DAY
+
+Intercut Kelvin and Rheya at their respective jobs, going
+
+through a normal day.  There is no sound.  As we see these
+
+images, it's clear that Kelvin and Rheya are slightly not
+
+present in their respective encounters with other people;
+
+they are distracted by the idea of each other.
+
+And they like it.
+
+INT.  APARTMENT - NIGHT
+
+Rheya on the edge of the bed, facing away.
+
+As she does:
+
+A beat.  Then a shot of Kelvin that we've seen before: Him
+
+leaving their apartment, angry.
+
+ON THE PROMETHEUS
+
+A beat.
+
+Rheya shakes her head.
+
+Kelvin just watches her.
+
+INT.  APARTMENT - DAY
+
+The rain-streaked window.
+
+An automated coffee maker has been left on, and the
+
+solidified coffee at the bottom of the pot is smoking.
+
+Rheya's body is on the floor of the kitchen.
+
+RHEYA (ON PROMETHEUS)
+
+She is looking at Kelvin.  He is dreading this.
+
+He nods.  It's coming back to her.
+
+INT.  APARTMENT - DAY
+
+Kelvin is yelling at Rheya.  We don't hear what he's saying,
+
+but judging from her reaction, it's not pleasant.  She is
+
+crying.
+
+RHEYA (ON PROMETHEUS)
+
+Experiencing this all over again.  Kelvin comes and sits in
+
+front of her.
+
+INT.  APARTMENT - DAY
+
+Kelvin, still yelling, is packing some things into a
+
+suitcase.  Rheya, between sobs, pleads with him.
+
+RHEYA (ON PROMETHEUS)
+
+Her eyes fill with tears.  Kelvin embraces her.
+
+Rheya is devastated, inconsolable.
+
+INT.  APARTMENT - DAY
+
+Rheya lies on the kitchen floor, dead.  There is a NOTE in
+
+her hand.
+
+Kelvin kneels next to her.
+
+KELVIN (ON PROMETHEUS)
+
+With Rheya still in his arms.
+
+INT.  APARTMENT - DAY
+
+Kelvin holds the dead Rheya.
+
+KELVIN (ON PROMETHEUS)
+
+Squeezing her.
+
+INT.  KELVIN'S ROOM
+
+Kelvin lies in bed, his eyes open.  Rheya is in his arms.
+
+INT.  APARTMENT - DAY
+
+Rheya, talking to Chris.  Obviously during a period when they
+
+were getting along.  Or at least: not fighting.
+
+She knows, intellectually, that he is right.  But it doesn't
+
+matter.
+
+INT.  KELVIN'S ROOM
+
+Kelvin is out of bed and speaking into a videophone to Snow.
+
+Rheya is asleep in the background.  The room is dark except
+
+for the glow of the screen.
+
+Kelvin just looks back at Rheya.
+
+Kelvin doesn't respond.
+
+Kelvin just keeps staring at Rheya, asleep.
+
+INT.  KELVIN'S ROOM
+
+Kelvin is eating with Rheya.  Looking at her.  Desiring her.
+
+He leans over and whispers in her ear.  She smiles and leans
+
+back.
+
+He just stares at her -- he really likes this.  It's
+
+familiar, this type of teasing, and it reminds him of when
+
+things were good.
+
+A beat.
+
+They laugh.
+
+INT.  KELVIN'S ROOM
+
+Kelvin and Rheya, post-coital.  Relaxed.  On the verge of
+
+sleep.
+
+She smiles.
+
+They consider that.
+
+They smile at this.  Rheya's smile fades before Kelvin's.
+
+A beat.  He holds her.
+
+A beat.
+
+EXT.  SOLARIS
+
+Turning, slowly.
+
+INT.  APARTMENT - NIGHT
+
+Then years ago.  Kelvin, naked, sitting in a chair, in the
+
+dark.  Rheya, also naked, is smoking a cigarette in bed.
+
+She just smokes, not really looking at him.  Maybe it's a
+
+common observation and she's past being defensive about it.
+
+A beat.  He looks at her.  She seems more interested in her
+
+cigarette at the moment.
+
+INT.  KELVIN'S ROOM
+
+On the Prometheus.  Rheya is awake, Kelvin asleep.
+
+She rises and goes to sit in a chair; she is anxious,
+
+something we haven't seen before.
+
+Kelvin wakes up, looks at her.  Noting her expression:
+
+A beat.  She looks down.
+
+He doesn't respond.
+
+Calmly:
+
+He's looking at her, and knows this is dangerous territory.
+
+She nods.  He can only imagine what form Sartorius' anecdotes
+
+must have taken.
+
+A beat.
+
+A long beat.  Kelvin shakes his head.
+
+Another beat.  He nods.  Then:
+
+If she seems satisfied for the moment, Kelvin knows the
+
+feeling won't last.
+
+She falls asleep.
+
+FADE IN:
+
+INT.  CONFERENCE ROOM
+
+Kelvin, Rheya, Sartorius, and Snow.  They are in the middle
+
+of a heated discussion.
+
+A beat.
+
+Looks at Rheya, then back to Kelvin.
+
+Kelvin moves toward him.  Sartorius just lets him come.
+
+Kelvin is within an inch of his face.
+
+Slowly, carefully, Sartorius grasps Kelvin by the shoulders.
+
+Then he leans in and whispers in Kelvin's ear:
+
+Kelvin backs away.
+
+Sartorius turns...
+
+And leaves.
+
+A beat.
+
+Snow wanders toward the door.
+
+He passes Kelvin and leaves.
+
+Kelvin watches him, then looks at Rheya.  She seems dazed.
+
+EXT.  SOLARIS
+
+The fog-shrouded surface, shifting and turning like an ocean.
+
+INT.  KELVIN'S ROOM
+
+Rheya is asleep.  Kelvin is talking to Snow on the
+
+videophone.
+
+INT.  KELVIN'S ROOM - EARLIER
+
+Quick glimpses of Rheya.  In several of them she is in
+
+repose, thinking, as if to illustrate Snow's point.
+
+INT.  KELVIN'S ROOM
+
+Back to Kelvin, thinking.
+
+INT.  KELVIN'S ROOM
+
+Kelvin on the bed with Rheya.  Their eyes are closed.
+
+We think they are asleep until:
+
+She realizes she doesn't want to argue.  Not right now,
+
+anyway.
+
+He kisses her.  She wants to believe him, so she says
+
+nothing.  Then:
+
+They kiss again...
+
+INT.  KELVIN'S ROOM
+
+Kelvin is asleep.  Rheya is next to him.
+
+Offscreen, we hear the door open.
+
+Someone walks quietly (though not surreptitiously) through
+
+the frame and sits.
+
+After a long beat, Kelvin bolts upright, his mind struggling
+
+to clear.  When it does:
+
+A beat.  Kelvin tries to get his bearings.
+
+He smiles, looking at Kelvin.
+
+Kelvin registers this.
+
+Gibarian smiles.
+
+KELVIN
+
+wakes up, gulping air.  Rheya, startled:
+
+He moves to the chair, looking for some residue of Gibarian,
+
+some proof.  Finding none:
+
+Kelvin leaves the room.  After a few beats, Rheya follows.
+
+INT.  LAB
+
+Rheya lingers behind Kelvin, who is looking at Gibarian's
+
+body.
+
+It is there, alone on its slab; even the Young Girl is not
+
+with him.
+
+INT.  KELVIN'S ROOM
+
+Kelvin, thinking.  He gives Rheya some pills to take.  She
+
+just looks at them.
+
+She nods and takes them.
+
+He goes to her.
+
+She sits, frustrated.  Sad.
+
+INT.  KELVIN'S ROOM
+
+Kelvin and Rheya, in bed.  She looks despondent.
+
+INT.  KELVIN'S ROOM
+
+Kelvin is asleep.  Alone.
+
+After a long period of silence, we hear the faint sound of an
+
+instrument of some sort hitting the ground.  After another
+
+beat, Kelvin awakens.  He notices that he is alone, and
+
+something tells him that's not a good sign.
+
+INT.  LAB
+
+Rheya is on the ground, convulsing.  Beside her is a SMALL
+
+STEEL DRUM, which is spilling a strange-looking LIQUID that
+
+solidifies and vaporizes with a smoky hiss.
+
+Kelvin moves to Rheya and is startled to see that half of her
+
+face and throat are burned away -- not melted as in a fire,
+
+but merely eaten cleanly away.  He picks her up.
+
+INT.  CORRIDOR
+
+Kelvin is carrying Rheya.  Snow sticks his head out of a
+
+passing room.
+
+INT.  KELVIN'S ROOM
+
+Kelvin puts Rheya on the bed.  Her face and throat have
+
+returned to normal, but she is not breathing.  Kelvin goes
+
+and puts his head to her chest, but doesn't hear what he
+
+hoped to hear.  He stands, still looking at her.  Snow seems
+
+very detached.
+
+An uncomfortably long moment as we realize she is actually
+
+not going to wake up.
+
+Snow says nothing.
+
+Then:
+
+Her finger twitches.
+
+Barely noticeable at first, but growing in intensity.  Kelvin
+
+sees it, and goes to her.  She is starting to shake a little,
+
+as though cold.
+
+Kelvin is still looking at Rheya, who is shaking a little
+
+harder; it's feeling like a seizure now.
+
+Rheya is shaking much harder now, Kelvin tries to hold her
+
+still, but she's too strong.  He stands, reluctantly, and
+
+watches her.
+
+Rheya is shaking violently now, as if a rippling rhythmic
+
+force were coursing through her.  Snow, as he looks
+
+dispassionately on the two of them:
+
+He leaves.
+
+Rheya continues her process of "waking up" -- it's violent,
+
+even sexual.  She spasms to a peak of some sort, and then
+
+slowly returns to normal.
+
+Kelvin puts his hand on her forehead.
+
+She gradually begins to open her eyes.  She looks at Kelvin.
+
+It takes her a moment to realize she shouldn't be seeing him;
+
+she shouldn't be seeing anything.  She should be dead.
+
+She begins to cry.
+
+She turns away.
+
+He turns her over.
+
+A beat.
+
+He doesn't know.
+
+EXT.  SOLARIS
+
+Turning slowly.
+
+INT.  KELVIN'S ROOM
+
+Kelvin and Rheya, in bed.
+
+A long beat.
+
+INSERT:
+
+The first time Kelvin and Rheya spoke, at the party ten years
+
+ago.  Again we see her whisper in Kelvin's ear, but this time
+
+we hear what she is saying:
+
+She pulls back.
+
+INT.  APARTMENT - DAY
+
+Kelvin, as he packs to leave Rheya.
+
+He leaves, brushing past her.
+
+INT.  APARTMENT - DAY
+
+Rheya, unconscious, on the kitchen floor.
+
+INT.  KELVIN'S ROOM
+
+A long, held shot of Rheya, crying.  She is curled up,
+
+retreating into herself.  Kelvin is trying to console her.
+
+INT.  APARTMENT - DAY
+
+Rheya on the kitchen floor, the note in her hand.
+
+Kelvin is kneeling over her.
+
+INT.  KELVIN'S ROOM
+
+Kelvin and Rheya.  She is sobbing, but somewhat calmer.
+
+INT.  KELVIN'S ROOM
+
+Kelvin, asleep.
+
+GIBARIAN
+
+As we saw him before, sitting in the chair.  But we didn't
+
+hear him say this before:
+
+INT.  KELVIN'S ROOM
+
+In the immediate aftermath of her suicide attempt with the
+
+liquid oxygen:
+
+He tries to console her, but she recoils.
+
+INT.  APARTMENT - DAY
+
+Rheya, as Kelvin brushes past her on his way out.  She looks
+
+desperate.
+
+INT.  KELVIN'S ROOM
+
+Rheya and Kelvin.
+
+A beat.
+
+They kiss.
+
+INT.  KELVIN'S ROOM
+
+Kelvin is asleep.  Rheya is next to him.
+
+INT.  KELVIN'S ROOM
+
+Kelvin is on the videophone to Snow.
+
+A beat.
+
+Kelvin just stares at him.
+
+INT.  KELVIN'S ROOM
+
+He is playing back a message sent by Sartorius.
+
+INT.  KELVIN'S ROOM
+
+Kelvin wakes up.  Rheya is beside him.  He rises and heads
+
+for the bathroom.
+
+He swallows two pills and a small cup of water.
+
+When he returns to the bed, Rheya is looking at him.
+
+INT.  APARTMENT - DAY
+
+Rheya, on the kitchen floor.  The bottle of sleeping pills
+
+just beyond her hand.
+
+BACK ON THE PROMETHEUS
+
+Kelvin looks at Rheya.  She shakes her head; she doesn't want
+
+the pills.  Kelvin comes and sits beside her.
+
+She goes to a portal and stares out at Solaris.
+
+INT.  KELVIN'S ROOM
+
+Snow on the videophone to Kelvin.  Rheya is asleep in the
+
+background.
+
+GIBARIAN
+
+On his suicide tape:
+
+INT.  KELVIN'S ROOM
+
+Rheya and Kelvin.
+
+INT.  KELVIN'S ROOM
+
+Kelvin is asleep.  Rheya is crying beside him.
+
+INT.  KELVIN'S ROOM
+
+Kelvin asleep, alone.  Rheya is in the corridor, talking to
+
+someone.
+
+KELVIN
+
+wakes up.  Rheya is beside him, asleep.
+
+EXT.  SOLARIS
+
+Turning, slowly.
+
+INT.  KELVIN'S ROOM
+
+Kelvin, in a fever, eyes open but glazed.
+
+Rheya is putting a compress on his forehead.
+
+KELVIN'S POV
+
+Of the room.
+
+His LABRADOR FROM THE OPENING SEQUENCE is sitting by the
+
+chair.
+
+INT.  KELVIN'S CABIN (EARTH)
+
+Kelvin sits in a chair, looking at:
+
+THE LABRADOR
+
+Sitting in the same position as it was on the Prometheus.
+
+KELVIN
+
+Breathes a sigh of relief at being home.  Everything seems
+
+slowed down, somehow.
+
+INT.  KELVIN'S ROOM
+
+On the Prometheus.  Kelvin is in bed, feverish.
+
+He sees Rheya, in the hallway again, talking to someone we
+
+can't see.
+
+KELVIN
+
+Wakes up again.  Rheya is asleep beside him.
+
+INT.  TRAIN
+
+Rheya, the first day she and Kelvin saw each other.
+
+EXT.  STREET CORNER - DAY
+
+Ten years ago.  Kelvin and Rheya standing on a street corner.
+
+They seem to be pausing in the midst of a very serious
+
+conversation.  It is raining.
+
+INT.  KELVIN'S ROOM
+
+Kelvin in bed, on the Prometheus.  Still feverish.
+
+Rheya is mopping his brow.
+
+INT.  KELVIN'S CABIN (EARTH)
+
+Kelvin in bed, feverish.
+
+Rheya is there, wiping his forehead.
+
+INT.  KELVIN'S ROOM
+
+On the Prometheus.  Kelvin looks over to Rheya.
+
+She begins to cry.
+
+She just shakes her head.
+
+From Kelvin's point of view: Rheya, in the chair, crying.
+
+Then he looks right to see: Rheya, in the doorway, talking to
+
+someone we cannot see.
+
+Then he looks further to the right, and there she is again,
+
+staring at him from the bathroom doorway.  She moves to the
+
+edge of the bed in order to be near.
+
+KELVIN
+
+Sweating.  Struggling.  Beyond fear.
+
+INT.  CABIN - DAY
+
+Kelvin sits in his chair, as he did at the beginning, with
+
+the three officials from DBA behind him.
+
+Only now the three officials are Snow, Sartorius, and
+
+Gibarian.
+
+INT.  KELVIN'S ROOM (PROMETHEUS)
+
+Kelvin, transfixed.
+
+This idea forces him to rise, and he does, slowly.
+
+INT.  CORRIDOR
+
+Behind Kelvin as he somehow keeps moving.
+
+We hold a long time, and then:
+
+BLACK.
+
+Count to ten.  Then:
+
+EXT.  STREET
+
+Kelvin moving down a crowded sidewalk, in slow motion.
+
+INT.  TRAIN - DAY
+
+Kelvin, traveling home from the city.
+
+EXT.  KELVIN'S CABIN - DAY
+
+Kelvin returns.  He stops and looks around before entering
+
+his front door.
+
+KEVIN'S POV
+
+Of the woods.
+
+But there are strange incongruities in the image -- pieces of
+
+the Prometheus breaking through; for instance, a few of the
+
+AUTOMATED TASKMASTERS are crawling along the ground.
+
+KELVIN
+
+Looking from the doorway, notes this.  He doesn't seem
+
+surprised, though.
+
+INT.  KELVIN'S CABIN - NIGHT
+
+Kelvin, in his bed, awake.
+
+BLACK.
+
+Count to five.  Then:
+
+INT.  KELVIN'S ROOM (PROMETHEUS)
+
+Kelvin is in his bed, still feverish.
+
+He looks around the room.  He is alone.
+
+A flashing light on his computer demands attention.
+
+ON THE COMPUTER
+
+A video message from Rheya.
+
+She looks away.
+
+Kelvin breaks down.
+
+INT.  APARTMENT - DAY
+
+Kelvin, with the dead Rheya in his arms, crying.  Beyond him
+
+is the rain-streaked window.  On the floor, by her hand, is
+
+the note.  On it is scrawled the end of a Dylan Thomas poem,
+
+the one Kelvin quoted to her the first time they spoke.
+
+INT.  PARTY - NIGHT
+
+The first night.  Again, Kelvin leans into Rheya's ear and
+
+whispers.  This time we hear what he says:
+
+INT.  APARTMENT - DAY
+
+Kevin holding Rheya.
+
+The note on the floor.
+
+The rain-streaked window.
+
+Kelvin wipes the hair from her face.
+
+INT.  PROMETHEUS
+
+Kelvin, furious, is talking through a slit in Sartorius'
+
+door.
+
+Kelvin looks around.
+
+Kelvin moves away.
+
+EXT.  SOLARIS
+
+Still turning, slowly.
+
+But something about its appearance is different.
+
+INT.  PROMETHEUS
+
+Complete chaos.
+
+Kelvin is chasing Sartorius to the flight deck.
+
+INT.  FLIGHT DECK
+
+Kelvin and Sartorius get the ship ready for take off.
+
+Kelvin turns and sees one of the video monitors that Snow is
+
+sitting in his room.
+
+Snow doesn't reply.
+
+Snow looks up.  There's a strange look on his face.
+
+This stops Kelvin and Sartorius.  They look at each other and
+
+then at the monitor.
+
+Snow lies down on his bed.  Kelvin looks at Sartorius.
+
+Kelvin nods and obeys.  He then takes one last look at the
+
+monitor to see Snow lying in bed.  Kelvin reaches over and
+
+shuts the monitor off.
+
+EXT.  SPACE
+
+Silence.
+
+The Prometheus moves away from Solaris.
+
+CLOSER ON SOLARIS
+
+After the ship has gone.
+
+A soft black spot begins to form in the center of the planet.
+
+Slowly, inexorably, this black spot begins to expand.
+
+Within a minute Solaris has disappeared.
+
+EXT.  STREET CORNER - DAY
+
+Kelvin, back on Earth.  Silent and still.  And the rain
+
+continues.
+
+He watches the activity; the cars, buses, and people moving
+
+to and fro.
+
+Kelvin begins to walk.
+
+INT.  TRAIN - DAY
+
+Kelvin taking the train to the suburbs.
+
+EXT.  ROAD - DAY
+
+Kelvin makes his way toward his cabin.  As he nears, his
+
+LABRODOR recognizes him and approaches.
+
+Kelvin pats the dog's coat.
+
+EXT.  CABIN - DAY
+
+Kelvin is near the front door, dog at his heel.  He looks in
+
+as he brings his key to the lock and his face FREEZES.
+
+RHEYA
+
+Is in the living room, waiting for him.
+
+She is sitting on the sofa, looking toward the other side of
+
+the room.  Sensing someone, she turns to see Kelvin, and her
+
+face melts into a smile.
+
+KELVIN
+
+Opens the door.  He cannot speak.
+
+RHEYA
+
+Rises and moves toward him.
+
+They embrace.
+
+He breathes her in.  She squeezes him.
+
+After a long beat:
+
+She sways with him, gently.  His body relaxes.
+
+EXT.  CABIN - DAY
+
+A tableau of the cabin.  The dog is on the front step,
+
+seemingly content despite the light rain.
+
+As fog drifts in, we RISE, and soon the mist has nearly
+
+obscured the house.  The fog turns into clouds and we get
+
+fleeting glimpses of the cabin, as we move farther and
+
+farther away.
+
+We stay in a translucent white stage for a few moments, until
+
+gradually the edges of a circle become apparent in the
+
+corners of the frame.  Still there is a light rain sound.
+
+These dark, rounded edges penetrate further until they are
+
+forming the shape of a circle.
+
+The misty consistency begins to gain some color and body.
+
+And we realize we are now looking at the surface of Solaris.
+

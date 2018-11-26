@@ -1,0 +1,2378 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+WILD AT HEART
+
+W I L D  A T  H E A R T
+
+And now the story of Sailor and Lula.....
+
+1. EXT. CITY STREET - DAY
+
+A MAN rides a screaming massive Japanese motorcycle - wound out to
+
+maximum R.P.M. up the street.
+
+2. SIGN BY ROADSIDE
+
+The sign reads KIDS PLAYING - SPEED BUMPS.
+
+3. EXT. CITY STREET - DAY
+
+With a whine from hell, the front tire of the motorcycle hits a speed
+
+bump.
+
+The motorcycle becomes airborne and on the way up slices itself in half
+
+as it scrapes along the full length of a Datsun Kingcab.
+
+In the air, the rider and motorcycle twist violently as they fly by.
+
+The motorcycle bounces off a black 66 Chevrolet and makes a sound like
+
+the end of the world.
+
+The rider hits the same Chevy a moment later.  Like a broken ragdoll
+
+shot from a canon, the man punches through the back window blowing glass
+
+for a block.  He stops somewhere under the front seat and a bubble of
+
+blood forms out his nose.
+
+The motorcycle continues on sliding and spinning with an ear-piercing
+
+howl for one entire city block.
+
+4. EXT. NEIGHBORHOOD STREETS - VACANT LOT - DAY
+
+Two rabid dogs fight ferociously in a vacant lot - ripping each others
+
+flesh.  An OLD COUPLE, both with walkers, inch painfully along nearby.
+
+The old woman begins to turn away, covering her mouth with her hand.
+
+The Old Man grabs the Old Woman by the neck and squeezes.  Out comes a
+
+tangled and sticky ball of hard fruit candies.
+
+5. WASP NEST
+
+A thousand wasps hover threateningly in the air around the nest.  A
+
+SMALL GROUP OF HARDENED CRIMINAL NINE-YEAR OLDS sporting hideous grins,
+
+bat the nest violently to and fro with sticks.  One kid busies himself
+
+shooting a large can of Black Flag garden spray into a crack in the
+
+nest.  Another stomps half-dead wasps up and down the sidewalk.  All the
+
+kids are making animal noises of one sort or the other.
+
+6. INT. FORTUNE HOUSE - DAY
+
+The telephone rings.  MARIETTA PACE FORTUNE, a rich Southern woman
+
+around fifty, carries her Martini and Rossi sweet vermouth drink across
+
+the livingroom and answers the phone.
+
+7. INT. PEE DEE COUNTY WORK FARM - DAY
+
+A GUARD stands by as SAILOR RIPLEY, twenty-three years old - lost
+
+somewhere between the cool long-gone generation and a used-car salesman
+
+- speaks on a prisoner phone in a green cement cubicle with one bench.
+
+6A. INT. FORTUNE HOUSE - DAY
+
+7A. INT. PEE DEE COUNTY WORK FARM - DAY
+
+6B. INT. FORTUNE HOUSE - DAY
+
+Marietta hangs up the phone as LULA PACE FORTUNE, Mariettas twenty-year
+
+old daughter, comes quickly down the stairs.
+
+Marietta, her hand still on the telephone, grips the receiver so hard
+
+her knuckles turn white.
+
+8. INT. FORTUNE HOUSE - LULAS ROOM UPSTAIRS - DAY
+
+Lula enters her room and cranks up her stereo.  Speed metal music jumps
+
+up to around one hundred twenty decibels.
+
+9. INT. PEE DEE COUNTY WORK FARM - DAY
+
+The guard escorts Sailor away from the telephone and back to his cell.
+
+The iron bars of the door slide across Sailors face and close with a
+
+bang.
+
+10. EXT. THE MUSIC BAR - NIGHT
+
+A beat-up, red 64 Ford Falcon station wagon filled with insane
+
+TEENAGERS on speed and PCP race out of control down the street past the
+
+club - leaning out the car in every direction.  They scream out to the
+
+desolate-looking passerby.
+
+The camera cranes up to the neon club sign and gets lost among the hot
+
+pink neon, the frantic moths and the intense electric buzz.
+
+11. INT. THE MUSIC BAR - NIGHT
+
+Lula and her friend, BEANY THORN, sit at a table drinking rum Coca-Colas
+
+while watching and listening to a white blues band called THE BLEACH
+
+BOYS.  The group segues smoothly from Elmore Jamess Dust my Broom
+
+into Robert Johnsons Me and the Devil and Beany lets out a snort.
+
+Lula and Beany laugh and swallow some of their drinks.
+
+Lula nods and crushes an ice cube with her back teeth and chews it.
+
+The Bleach Boys kick into some kind of Professor Longhair swamp mambo.
+
+12. EXT. BAY ST. CLEMENT - DAY
+
+Plumes of smoke from fires rise in the distance.
+
+DISSOLVE TO:
+
+13. INT. FORTUNE HOUSE - DAY
+
+An empty livingroom.  The smoke from the city fire appears during the
+
+course of the DISSOLVE to be in the livingroom - then it disappears.
+
+An empty hallway.
+
+An empty stairway.
+
+13A. INT. FORTUNE HOUSE - MARIETTAS BEDROOM - DAY
+
+Feet (Lulas) was across carpet.
+
+A closet door opens.
+
+A hand (Lulas) reaches into the pocket of a coat in her mothers
+
+closet.  The hand comes out clutching car keys.
+
+13B. INT. FORTUNE HOUSE - STAIRWAY - DAY
+
+Lula races down the stairs and through a door into the garage.
+
+14. EXT. FORTUNE HOUSE - DAY
+
+The electronic garage door opens and Lula drives her 80 Black Camaro
+
+out and away.  The garage door closes automatically.
+
+15. EXT. CITY STREETS - DAY
+
+Lula drives fast up a neighborhood street.  She turns a corner and
+
+disappears.
+
+16. INT. BEANY THORNS GARAGE - DAY
+
+Lula throws her car keys under the front seat and goes around to Beanys
+
+67 dark blue Thunderbird convertible - fishes around under the T-Birds
+
+front seat for the keys - finds them - jumps in and takes off.
+
+DISSOLVE TO:
+
+17. EXT. FORTUNE HOUSE - DAY
+
+Marietta leaves her Cadillac Seville in her driveway and enters the
+
+house.  We can hear her calling out for Lula in the distance.  The
+
+calling changes - it becomes angry.  The garage door opens and Marietta
+
+comes storming out.  She leaps in her Caddy and peels out.
+
+18. INT. SOUTHERN TIME BAR - DAY
+
+Marietta enters the bar on the run.  She calls out to the BARTENDER...
+
+19. EXT. PEE DEE COUNTY WORK FARM - DAY
+
+Sailor is waiting out front as Lula pulls up in her T-Bird - throwing
+
+out a cloud of dust.  Theyre both smiling.
+
+They kiss tenderly and then Sailor walks around the car to get in while
+
+Lula opens up a suitcase and gets out his snakeskin jacket.
+
+Lula tromps it and throws out an even larger cloud of dust.
+
+20. INT. CAPE FEAR HOTEL - DAY
+
+Sailor and Lula lay on the bed in the Cape Fear Hotel listening to the
+
+fan creak.
+
+Lula pulls Sailor over to her and kisses him soft on the mouth.
+
+Sailor pulls down the sheet, exposing Lulas breasts.
+
+21. INT. FORTUNE HOUSE - KITCHEN - NIGHT
+
+CLYDE FORTUNE tears a door off the kitchen cabinets and strews the
+
+cabinet contents all across the counter and floor.  He puts his fist
+
+through the kitchen window.  He leaps on the counter and bats the
+
+kitchen ceiling light - smashing it.  He kicks over the refrigerator.
+
+22. INT. CAPE FEAR HOTEL - DAY
+
+Lulas eyes look off, remembering.
+
+23. INT. FORTUNE HOUSE - LIVINGROOM - NIGHT
+
+Clyde Fortune, completely engulfed in fire, races across and back the
+
+livingroom until he collapses in a fifties modern armchair.  The drapes
+
+behind him burst in flames.
+
+The whole livingroom goes up in flames.
+
+24. INT. CAPE FEAR HOTEL - DAY
+
+CU the red hot ash of Lulas cigarette as she inhales deeply.  As she
+
+exhales a cloud of smoke she turns to Sailor.
+
+Sailor takes the cigarette out of Lulas hand and puts it into the
+
+ashtray by her bed.  He pulls her to him and kisses her throat.
+
+Sailor drifts his thumb over Lulas left nipple then cups her breast in
+
+his hand.  They kiss.
+
+25. INT. FORTUNE HOUSE - DAY
+
+Marietta pours JOHNNIE FARRAGUT another shot of scotch.
+
+Johnnie pours himself another tumblerful of Walker Black Label.
+
+He takes a long swallow from the tumbler.  Marietta begins to cry.  She
+
+blubbers for a few seconds, and then stops as abruptly as shed started.
+
+Her grey eyes glaze over.
+
+CU of Marietta eyes as she thinks back.
+
+26. INT. BAY ST. CLEMENT HOTEL - BALLROOM - NIGHT
+
+We see Marietta standing in a carpeted hallway above the ballroom.
+
+Dance band music can be heard in the distance.  Sailor appears coming up
+
+the hallway - slightly drunk - he carefully sets his drink on the carpet
+
+outside the MENS ROOM.
+
+Mariettas POV of Sailor entering the MENS ROOM.
+
+CU of Mariettas glazed eyes and smiling face.
+
+Mariettas POV of walking toward MENS ROOM.
+
+27. INT. FORTUNE HOUSE - DAY
+
+28. INT. CAPE FEAR HOTEL - DAY
+
+Lula is standing in the bathroom of their room at the Hotel fooling with
+
+her hair in front of the mirror.  Sailor can see her through the doorway
+
+from where he lays on the bed.
+
+Lula brushes away her bangs and frowns.  She takes a cigarette from the
+
+pack on the sink and lights it, then lets it dangle from her lips while
+
+she teases her hair.
+
+Lula takes a long, slow drag on her More and sets it down on the edge of
+
+the sink.
+
+29. INT. FORTUNE HOUSE - KITCHEN - DAY
+
+We see what she talks about.
+
+30. INT. CAPE FEAR HOTEL - DAY
+
+Lula shakes her head.  She picks up her cigarette, takes a puff and
+
+throws it into the toilet.
+
+ECU of cigarette in toilet.
+
+Lula flushes the toilet and watches the More come apart as it swirls
+
+down the hole.
+
+ECU of cigarette coming apart as it swirls.
+
+31. INT. FORTUNE HOUSE - KITCHEN/MAIDS ROOM - DAY
+
+We see what she talks about.
+
+32. INT. CAPE FEAR HOTEL - DAY
+
+33. TWO LANE HIGHWAY - DAY
+
+One hundred twenty decibels - head on collision of a 54 Ford Pick-Up
+
+and a 64 Chevy Station Wagon.  No survivors.  Balls of flame and
+
+grinding metal.
+
+34. INT. CAPE FEAR HOTEL - DAY
+
+Lula strikes a match and lights another cigarette.
+
+Somewhere in the hotel a woman laughs.  It is a kind of wild, crazy
+
+laugh, and for the few seconds it lasts, Lulas face goes pale.
+
+Lula and Sailor kiss.  In the middle of the kiss, the womans
+
+creepy/crazy laugh is heard again in the distance and Lulas eyes snap
+
+open with a kind of fear.
+
+35. EXT. FORTUNE HOUSE - BACKYARD - LATE AFTERNOON/EVENING
+
+Marietta is escorting MARCELLO SANTOS and two stiff drinks to a table in
+
+her backyard.
+
+He pauses and smiles strangely.
+
+They stare at each other for a moment.
+
+Marietta puts her shoulders back and Santos comes and stands in front of
+
+her.
+
+Santos lifts one hand up to Mariettas chin and raises her face up
+
+towards his.
+
+36. INT. THE HURRICANE - A SPEED METAL CLUB - NIGHT
+
+We see the sign which has all the letters tipped way over to the right -
+
+as if in a hurricane.  Two leaning palm trees border the sign.
+
+One hundred decibels of speed metal.  We see the name Powermad on the
+
+bass drum.
+
+The BAND segues into Slaughter House and its a hot one.  Sailor grabs
+
+Lula and they start dancing like two jacked-up spastics in an electrical
+
+storm.  a few PUNKS actually stop dancing to watch Sailor and Lula.
+
+They thought theyd seen everything.
+
+CU of Lula and Sailor - theyre in love and dancing hot.  An IDIOT PUNK
+
+moves close to Lula and rubs up against her as he dances by.  Sailor
+
+turns to the lead guitar player and signals him to stop the music
+
+immediately.  Suddenly everything is deathly quiet.  Sailor gives the
+
+man a fully extended Reno point...
+
+The Idiot Punk tries to hit Sailor, but Sailor slaps him so hard his
+
+knees almost bend backwards.  The Idiot Punk goes down - fighting back
+
+tears and holding his cheek.
+
+Sailor starts to sing an Elvis Presley song, Love Me.  As the band
+
+joins in with a perfect back-up - Sailor sings to Lula.  The Speed Metal
+
+crowd is mesmerized.
+
+DISSOLVE TO:
+
+37. INT. CAPE FEAR HOTEL - NIGHT
+
+CU of pink - the whole screen is filled with pink nylon.  Panning down,
+
+we see Lulas breasts, which stand up and say hello.  Lula puts on her
+
+favorite pink shortie nightgown.
+
+Sailor turns around from his sprawled on the bed position watching The
+
+Dating Game show.
+
+Lula makes a face.  She lies down on the bed next to Sailor.
+
+Sailor grunts.
+
+Lula slides her head up and kisses Sailor on the cheek.
+
+LATER - IN THE DARK
+
+Sailor and Lula are in bed.  Lula lays in Sailors arms.
+
+ECU of match girding along the strike pad and bursting into flame.
+
+Lula lights her cigarette.
+
+Sailor looks her in the eyes.
+
+CUT TO:
+
+38. INT. ABORTION CLINIC - MIAMI - DAY
+
+ECU of dying fetus with one hundred twenty decibels Lulas scream over.
+
+The fetus twitches in its little pod of blood.
+
+ECU of pulsing vein in Lulas neck - LOUD VIOLENT HEARTBEAT SOUND - LIKE
+
+A DOUBLE-PEDALED KICK BASS DRUM.
+
+ECU of Lulas forehead covered in sweat running down to her eyes - open
+
+wide and WILD.
+
+ECU of fetus into medical trash can.
+
+ECU of bloodied abortion instruments.
+
+The DOCTOR leans across the abortion table.
+
+ECU of doctors nose and ears ... HAIR!
+
+We see Marietta standing next to the doctor.
+
+39. INT. CAPE FEAR MOTEL - NIGHT
+
+40. EXT. CITY STREET - CHATTANOOGA - DAY
+
+DELL, wearing a soiled double-knit suit stops a LADY in the street, and
+
+smiling about the fact that earlier that morning hes placed a cockroach
+
+on his anus, he speaks to the woman.
+
+41. INT. CAPE FEAR HOTEL - NIGHT
+
+42. INT. AUNT ROOTIES HOUSE
+
+CU of Aunt Rootie - unfolds a pair of dirty jockey shorts and several
+
+cockroaches fall out.
+
+43. INT. CAPE FEAR HOTEL - NIGHT
+
+44. AUNT ROOTIES HOUSE - KITCHEN - NIGHT
+
+In the dark kitchen, AUNT ROOTIE finds Dell making sandwiches - slicing
+
+them on the diagonal.
+
+We see Aunt Rootie cross the kitchen - take the knife away from Dell and
+
+lead him out of the kitchen.
+
+45. INT. CAPE FEAR HOTEL - NIGHT
+
+46. INT. AUNT ROOTIES HOUSE - DELLS ROOM - NIGHT
+
+Dell, crying uncontrollably, is in the center of the room squatting like
+
+an indian in his jockey shorts.  He has a long ruler stretched out in
+
+front of him which hes using to press down on the top of a lone black
+
+glove on the floor.
+
+47. INT. CAPE FEAR HOTEL - NIGHT
+
+48A. EXT. AUNT ROOTIES HOUSE - DAY
+
+Dell walking to house.
+
+48. INT. AUNT ROOTIES HOUSE - DAY
+
+Dell enters the front door in a Santa Claus suit so filthy you can
+
+hardly see the red through the black.  He walks right past Aunt Rootie
+
+and goes back into the kitchen.  There he immediately does a spread-
+
+eagle on the floor and violently scratches his left ankle.
+
+49. INT. CAPE FEAR HOTEL - NIGHT
+
+Lula turns to study Sailor.
+
+They kiss passionately.
+
+DISSOLVE TO:
+
+50. INT. CAPE FEAR HOTEL - NIGHT
+
+Sailor gets up from the bed and begins putting on his clothes.  Lula is
+
+painting her toenails red.
+
+Sailors eyes seem to be thinking back...
+
+51. INT. BAY ST. CLEMENT HOTEL - HALLWAY ABOVE BALLROOM - NIGHT
+
+We see an empty carpeted hallway and can hear a ballroom dance band
+
+playing in the distance.  Sailor obviously slightly drunk, comes down
+
+the hall.  He carefully, almost losing his balance, places his drink
+
+outside the MENS ROOM and enters.  Marietta standing down at the other
+
+end of the hall - also drunk - smiles and stares at the MENS ROOM door
+
+through her glazed eyes.  Sailor enters the MENS ROOM.
+
+52. INT. MENS ROOM - BAY ST. CLEMENT HOTEL - NIGHT
+
+Sailor steps up to a urinal and starts doing his business.  Marietta
+
+suddenly appears - drunk and laughing.  She grabs him and pulls him into
+
+a stall - closing and locking the door behind them.
+
+She starts trying to French kiss Sailor when an OLD MAN comes in to
+
+urinate and Sailor and Marietta freeze - in a kiss.  Sailor is going
+
+crazy in one way (wishing this wasnt happening.)  Marietta is going
+
+crazy in another.  The man finishes and as he leaves...
+
+INT. CAPE FEAR HOTEL - NIGHT
+
+We drift down Lulas long white legs to her blood red toenails.
+
+54. INT. THE HURRICANE BAR - NIGHT
+
+CU of Lulas dancing feet in black spiked-heel sandals exposing blurred
+
+blood red toenails.  Lula and Sailor are at it again - dancing as if
+
+plugged in to the main power plant.
+
+DISSOLVE TO:
+
+55. INT. BAR - BACK OF THE HURRICANE - NIGHT
+
+Drenched in sweat, Sailor and Lula sit at a corner table chug-a-lugging
+
+Rolling Rock during the bands break.  Lula notices a girl in the
+
+corner eye-balling Sailor.  She splits her attention between the girl
+
+and Sailor.
+
+Lula has had enough of the girl staring at Sailor.
+
+The girl gets up in a huff and leaves.
+
+56. INT. JUNIOR TRAINS FRIENDS HOUSE - KITCHEN - SAVANNAH
+
+We see what he talks about.
+
+57. INT. BAR - BACK OF THE HURRICANE - NIGHT
+
+58. INT. JUNIOR TRAINS FRIENDS HOUSE - STAIRWAY - NIGHT
+
+We see what he talks about.
+
+59. INT. BAR - BACK OF THE HURRICANE - NIGHT
+
+60. INT. JUNIOR TRAINS FRIENDS HOUSE - BEDROOM NIGHT
+
+We see what he talks about.
+
+61. INT. BAR - BACK OF THE HURRICANE - NIGHT
+
+62. INT. JUNIOR TRAINS FRIENDS HOUSE - BEDROOM - NIGHT
+
+63. INT. BAR - BACK OF THE HURRICANE - NIGHT
+
+ECU of match striking and bursting into flames.
+
+WHITE OUT:
+
+64. INT. THUNDERBIRD CONVERTIBLE - DAY
+
+Sailor is at the wheel of the dark blue 67 Thunderbird convertible.
+
+They are flying down a two-lane Southern highway.
+
+Lula lights up a cigarette.
+
+Sailor laughs and shoots the T-Bird up to seventy.
+
+65. INT. JOHNNIE FARRAGUTS 69 MAROON BUICK - DAY
+
+Johnnie Farragut drives down a Southern highway on his mission.
+
+DISSOLVE TO:
+
+66. INT. THUNDERBIRD - DAY
+
+66A. EXT. THUNDERBIRD/EXT. THE HOST OF THE OLD SOUTH HOTEL - DAY
+
+They pass the Biloxi City Limit sign.
+
+67. INT. THE HOST OF THE OLD SOUTH HOTEL - EVENING
+
+The room is large but cheap.  Lula strips off the dishwater grey
+
+bedspread and tosses it over by the bureau.  Sailor looks out the broken
+
+window.
+
+68. EXT. ROADSIDE PAYPHONE - NIGHT
+
+Marcello Santos is making a phone call.
+
+69. INT. MR. REINDEERS POSH NEW ORLEANS RESIDENCE - NIGHT
+
+An old man, MR. REINDEER, wearing a tuxedo is sitting on the toilet -
+
+his pants down - talking on the bathroom phone.  He laughs a long deep
+
+smokers laugh.
+
+68A. EXT. ROADSIDE PAYPHONE - NIGHT
+
+69A. INT. MR. REINDEERS POSH NEW ORLEANS RESIDENCE - NIGHT
+
+70. INT. JOHNNIE FARRAGUTS MAROON 69 BUICK - NIGHT
+
+Johnnie Farragut steers the Buick down the dark highway past a sign
+
+which reads, NEW ORLEANS - 26 MILES.
+
+71. EXT. BEACH - NIGHT
+
+Sailor and Lula are walking along the beach.  Lula takes off her shoes.
+
+She takes out a cigarette the length and width of a Dixon Ticonderoga
+
+No. 2 pencil and lights it.
+
+Sailor laughs.
+
+71A. CU of MAN with forearm sewed to nose.
+
+72. EXT. BEACH - NIGHT
+
+Lula shrieks.
+
+Shes so cute Sailor just has to kiss her.
+
+DISSOLVE TO:
+
+73. INT. THUNDERBIRD - SOUTHERN HIGHWAY - DAY
+
+Sailor and Lula pass a sign that reads NEW ORLEANS - 26 MILES.  Sailor
+
+pulls off the road into a Gulf gas station mini-mart and stops the car
+
+next to a self-serve pump.  A sign on the top of it says PLEASE PAY
+
+INSIDE BEFORE FUELING.
+
+74. INT. MINI-MART - DAY
+
+A tall OLD BLACK MAN about seventy years old, wearing a torn green
+
+Tulane tee-shirt and a dirty orange Saints baseball cap, is filing items
+
+on the counter by the cash register.  In the pile are four ready-made,
+
+plastic-wrapped sandwiches, two tuna salad and two cotto salami; six
+
+Twinkies; a package of Chips Ahoy chocolate chip cookies; four Slice
+
+colas; two Barqs root beers; and a large package of fried pork rinds,
+
+extra salted.
+
+Sailor and the man in line behind him watch as the black man gathers up
+
+several more packages of Twinkies along with a few cupcakes and half a
+
+dozen cans of Pretty Kitty cat food, three liver and three chicken
+
+dinner portions, and tosses them on his pile.
+
+He hands an American Express card to the clerk, ERV, who runs it through
+
+the verifier.  The card checks out okay and the old guy prepares a
+
+charge slip, has the man sign it, and bags the purchases.
+
+A telephone begins to ring and everyone looks around.  The Black Man
+
+reaches in his jacket pocket and pulls out a portable phone and punches
+
+send.
+
+Everyone is silent as they watch the old Black Man hobble out.
+
+Erv takes one off the candy and gum rack next to the register and lays
+
+it on the counter.  Sailor gives him a twenty dollar bill.
+
+Sailor smiles, but the clerk keeps a poker face and just gives him his
+
+change.  The guy in line behind Sailor shakes his head and grins.
+
+75. EXT. MINI MART/THUNDERBIRD - DAY
+
+Sailor goes back to the car.
+
+Sailor tosses her the candy bar.
+
+Lula sinks her small white teeth into the chocolate-covered coconut.
+
+Sailor starts pumping gas.
+
+76. INT. MR. REINDEERS POSH NEW ORLEANS RESIDENCE - DAY
+
+CU of mail slot.  Two silver dollars comes through it and one falls head
+
+up and the other tails on the rug below.
+
+77. INT. MR. REINDEERS POSH NEW ORLEANS RESIDENCE - DAY
+
+Mr. Reindeer is just finishing dialing a number on the telephone.
+
+He hangs up the phone and starts dialing another number.
+
+DISSOLVE TO:
+
+78. INT. THE ROUND ROOM RESTAURANT - NEW ORLEANS - DAY
+
+At a table near the window, Johnnie takes a man-sized pull off his Dixie
+
+beer in between bites of an oyster sandwich.  A large, chocolate-colored
+
+man in his early thirties, REGINALD SAN PEDRO SULA, and a smaller white
+
+man, DROP SHADOW approach with their trays of food.
+
+Johnnie looks around - sees that there are quite a few empty tables - he
+
+looks the men over quickly.
+
+Johnnie wipes off his right hand on his napkin and shakes.
+
+Reggie and Drop Shadow begin eating ferociously, finishing half of their
+
+meal before saying anything more.
+
+Reggie smiles broadly, revealing numerous tall, gold teeth.
+
+Johnnie takes a bite of his oyster sandwich.
+
+Reggie reaches into his back pocket and takes out his wallet.  He hands
+
+a card to Johnnie.
+
+Johnnie hands the card back to Reggie and Reggie gives him a small piece
+
+of paper, folded once.  Johnnie unfolds it.  The printing is in Spanish.
+
+Johnnie refolds the piece of paper and hands it over to Reggie.
+
+Reggie holds up his stainless steel briefcase and then replaces it on
+
+the floor beneath his chair.
+
+Johnnie swallows the last of his beer and stands up to leave.
+
+Reggie and Drop Shadow stand up.  They shake Johnnies hand.
+
+Reggie turns to Drop Shadow and lets him have the punch line.
+
+79. INT. HOTEL BRAZIL - NEW ORLEANS - EVENING
+
+Sailor and Lula are just finishing making love in their room.  As Lula
+
+climaxes, her left hand opens and spreads wide.  The lay quietly for a
+
+moment.
+
+Lula lights a cigarette.
+
+80. INT. RONNIES NOTHIN FANCY CAFE - NEW ORLEANS - LATE EVENING
+
+Sailor and Lula sit at the counter drinking double-sized cups of
+
+community coffee.  A MAN on the stool next to Sailor lights up a rum-
+
+soaked crook.
+
+81. EXT. CITY STREET - ROOFTOP IN GEORGE KOVICHS NEIGHBORHOOD - DAY
+
+George is shooting pigeons as fast as he can.
+
+82. INT. RONNIES NOTHIN FANCY CAFE - NEW ORLEANS - LATE EVENING
+
+83. INT. EARL KOVICHS HOUSE - DAY
+
+Earl pitches forward out of his easy chair and hits the carpet hard -
+
+screaming in pain.
+
+84. INT. RONNIES NOTHIN FANCY CAFE - NEW ORLEANS - LATE EVENING
+
+Kovich stands up and puts some money on the counter.
+
+George Kovich nods and leaves.
+
+Sailor looks up at Lula.
+
+85. INT. HOTEL BRAZIL - NEW ORLEANS - NIGHT
+
+Its very quiet in the hotel room and the clock says four a.m.  Lula and
+
+Sailor are lying in bed arm in arm.  Sailor is fast asleep - snoring.
+
+Lula is wide awake.
+
+Sailor snaps awake with a snort.
+
+Lulas left hand opens and spreads wide.
+
+86. BEHIND THE CONFEDERATE SOLDIER
+
+Tight Two-Shot Lula and Sailor with their arms around each other - cheek
+
+to cheek - talking softly.
+
+A strange presence begins to build and a piece of sad nostalgic music
+
+plays.
+
+87. INT. HOTEL BRAZIL - NEW ORLEANS - NIGHT
+
+87. CU of eyes.  Black sweat is rolling down the forehead and over the
+
+eyes.
+
+88. INT. HOTEL BRAZIL - NEW ORLEANS - NIGHT
+
+87A. CU of eyes.  Black sweat is rolling down the forehead and over the
+
+eyes.
+
+89. INT. HOTEL BRAZIL - NEW ORLEANS - NIGHT
+
+Lula puts her arms around him.
+
+Lula lifts her head and kisses Sailor under his left ear.  She rolls
+
+over on top of Sailor.
+
+90. INT. SNUG HARBOR BAR - NEW ORLEANS - NIGHT
+
+Johnnie Farragut sits down on a stool at the bar.  CHET, the bartender,
+
+approaches.
+
+Chet brings him a double.
+
+FADE OUT:
+
+91. EXT. HOTEL BRAZIL - NEW ORLEANS - DAY
+
+Lula waits just by the lobby door of the hotel.  In the back of the
+
+lobby in the shadows is an ancient, old BLACK MAN who stares at her.
+
+Sailor pulls the T-Bird up in front of the hotel and Lula hurries out to
+
+him and tosses their suitcase in the backseat.
+
+They laugh and take off around the corner and up past the Cafe Du Monde.
+
+Sailor pulls the car up fast and hangs a right turn.
+
+92. INT. CAFE DU MONDE - DAY
+
+Johnnie smiles as he watches Sailor and Lula turn the corner.
+
+Johnnie raises his cup of coffee to Sailor and Lula - who have long
+
+since disappeared.
+
+93. EXT. CITY STREET - NEW ORLEANS - DAY
+
+Sailor and Lula drive.
+
+We watch the car disappear up the street.  Slowly the camera pans and
+
+Reggie and Drop Shadow come walking happily along the sidewalk -
+
+whistling.
+
+94. INT. THUNDERBIRD
+
+Lula and Sailor are motoring along.
+
+Sailor and Lula both laugh.  Up ahead, Sailor spots a hitchhiker.  He
+
+slows to pick him up.
+
+The HITCHHIKER is a man about thirty with a pack on his back, and he is
+
+carrying a large, covered cardboard box.  He is filthy, with an uneven
+
+smile that exposes his jagged yellow teeth.  Lula opens the door for
+
+him, and after he loads his stuff, Sailor takes off down the highway.
+
+Roach slides the top off and tilts the box slightly toward the front.
+
+Inside are six small husky pups that are not more than two weeks old.
+
+Roach stares down into the box at the baby huskies and strokes each of
+
+them twice with a religiously unwashed hand.  The dogs whimper and lick
+
+his dirty fingers.
+
+Roach pulls a piece of raw cows liver out of one of his pockets of his
+
+field jacket and begins ripping little bits off it and feeding them to
+
+the dogs.
+
+Sailor pulls off the road onto the shoulder of the highway and stops.
+
+Lula opens her door and jumps out.
+
+Roach sticks the liver back in his pocket and pulls his pack and the box
+
+of tiny canines after him.  Once he and his belongings are deposited on
+
+the roadside, Lula hops back in the car and slams the door.
+
+Lula takes a pair of sunglasses off the dashboard and puts them on.
+
+Sailor takes off.
+
+95. INT. INEZS FAIS-DODO BAR - NEW ORLEANS - NIGHT/
+
+95A. INT. FORTUNE HOUSE - MARIETTAS BEDROOM - NIGHT
+
+Johnnie is seated in a telephone booth at the back of the bar.
+
+We see Reggie and Drop Shadow enter the bar.  Reggies unsmiling eyes
+
+drift across the room until they see Johnnie in the booth.  He stares
+
+coldly and waits.  Drop Shadow adjusts his socks.
+
+Johnnie hangs up the phone and exits the booth.  As he crosses the
+
+bar...
+
+Johnnie goes over to Reggie and Drop Shadow and shakes hands.
+
+Reggie orders martinis for the three of them.
+
+Reggie raises his glass to Johnnies.
+
+Johnnie finishes off his martini.
+
+Johnnie squints his eyes thinking about this one.  Reggie and Drop
+
+Shadow smile and stand to leave.
+
+96. INT. THUNDERBIRD - STREETS OF NUNEZ - NIGHT
+
+Lula and Sailor cruise the dark streets.
+
+97. EXT. RED DEVIL GAS STATION - NIGHT
+
+Sailor spots a Red Devil gas station that still has its lights on and
+
+pulls the car over.
+
+Two skinny, pimply-faced guys, BUCK and BILLY, wearing dirty coveralls
+
+walk over to them.
+
+Lula slides over in the front seat and leans across to Sailor.
+
+The kids look worried and take a step back.
+
+Sailor and Lula drive off.  Buck and Billy go back inside the Red Devil
+
+station.  Guess who is over the corner cleaning nuts and bolts with a
+
+toothbrush and gasoline ... Its DELL!
+
+98. EXT. CLUB ZANZIBAR - NIGHT
+
+The Club Zanzibar sits in the darkness on the left hand side of the
+
+road.  A string of multi-colored lights is hung over the front.  Sailor
+
+parks the Thunderbird across from the club and cuts the engine.
+
+99. INT. CLUB ZANZIBAR - NIGHT
+
+When they walk in, the BAND is playing a slow blues and THREE OR FOUR
+
+COUPLES are swaying on the dance floor.  There are a dozen tables and a
+
+long bar in the room which is done up in a strange dark azquatic motif.
+
+Eight of the tables are occupied and SIX OR SEVEN MEN stand at the bar.
+
+Everyone in the place is black except for one WHITE WOMAN who is sitting
+
+alone at a table smoking a cigarette and drinking Pearl straight from
+
+the bottle.  The atmosphere is not friendly, but Lula takes Sailor by
+
+the arm.
+
+They step up to the bar and order two Lone Star beers.  The BARTENDER, a
+
+tall, heavyset man slowly forms his hand into the bird.  He holds his
+
+hand that way while he speaks...
+
+BARTENDER ZANZIBAR
+
+The bartender moves on down the bar.  Lula and Sailor take a small table
+
+near the door.
+
+Sailor looks at the woman.  She lights a new cigarette off a butt, then
+
+squashes the butt in the ashtray.  She is thirty years old, maybe more.
+
+Shoulder-length, bleached blonde hair, black at the roots.  Clear skin,
+
+green eyes.  Long, straight nose with a small bump on it.  She is
+
+wearing a low-cut lavender dress that would have emphasized her breasts
+
+had she not been so flat-chested.  Slender.
+
+Lula gets quiet and sucks on her beer bottle.
+
+BARTENDER ZANZIBAR
+
+She kisses him on the nose and walks back through a dark little door to
+
+the payphone.
+
+100. INT. FORTUNE HOUSE - BEDROOM  - NIGHT/
+
+101. INT. CLUB ZANZIBAR - PAYPHONE - NIGHT
+
+Marietta answers the telephone on the second ring.
+
+Marietta is crying.
+
+Lula hangs up.
+
+Marietta hangs up and begins pacing the livingroom floor.
+
+102. INT. CLUB ZANZIBAR - NIGHT
+
+Sailor and the bleached blonde in the lavender dress are together on the
+
+dance floor.  Lula sees them, goes over to the bar, picks up a beer
+
+bottle and throws it at Sailor.  The bottle bounces hard off his back
+
+and clangs to the floor, bouncing but not breaking.  Sailor turns around
+
+fast and looks at Lula.  Everybody else in the place is still.
+
+103. EXT. CLUB ZANZIBAR - NIGHT
+
+Lula runs out.  Sailor follows.
+
+Sailor finds her sitting on the ground, leaning against the passenger
+
+side of the Thunderbird.  Lulas eyes are red and wet but she isnt
+
+crying.  Sailor kneels down next to her.
+
+Sailor stands and leans against the hood of the car until Lula gets up
+
+and climbs inside.  He wraps his snakeskin jacket around her and starts
+
+the car.  Lula kisses Sailor on the cheek, puts her head down sideways
+
+on his lap and goes to sleep.  Sailor drives.
+
+104. INT. FORTUNE HOUSE - MARIETTAS BEDROOM - NIGHT
+
+Marietta paces, but then goes back to the phone.  She dials a number and
+
+gets an answering machine.
+
+She hangs up.  She dials another number.  It answers.
+
+105. INT. FORTUNE HOUSE - MARIETTAS BEDROOM - NIGHT?
+
+106. INT. JOHNNIES HOTEL ROOM - MAISON VIOLETTE - NEW ORLEANS
+
+Marietta hangs up.
+
+107. EXT. SHELL STATION - HOUSTON - DAY
+
+Sailor and Lula are in a Shell station just outside of Houston.  Sailor
+
+is filling the Thunderbird with regular.  An OLD MAN sits near the pumps
+
+listening to the radio playing a sad big band tune.  Lula starts to
+
+slowly snap her fingers to the beat and the old man gives her a
+
+beautiful smile.
+
+Sailor kisses her and climbs into the back seat and lays down.  Lula
+
+slides behind the wheel and lights up a More.  She winks goodbye to the
+
+old man and wheels the car out towards the big beyond.
+
+108. INT. TEXAS HIGHWAY - DAY
+
+The reception gets bad on the big band tune and Lula starts turning the
+
+dial.  Up comes a nationwide call-in talk show and she leaves it there.
+
+ARTIE MAYER, the radio host talks to his callers.
+
+Lula takes a puff of her More and tosses it out the window and starts
+
+turning the radio dial - finds a news station.
+
+108A. MURKY WATER WITH DEAD BODIES FLOATING
+
+A crocodile suddenly breaks the surface of the water with a rotted human
+
+corpse clutched in its mighty jaws.
+
+109. INT. THUNDERBIRD - HIGHWAY TO SAN ANTONIO - DAY
+
+108B. MURKY WATER WITH DEAD BODIES FLOATING
+
+A giant turtle breaks the surface of the water clutching a rotted human
+
+corpse in its mighty jaws.
+
+110. INT. THUNDERBIRD - HIGHWAY TO SAN ANTONIO - DAY
+
+Sailor jumps awake in fright as Lula yanks the car off the road and
+
+brings it to a screeching halt in the middle of the desert.
+
+Sailor starts spinning the dial.
+
+Suddenly Sailor finds a station - THE STATION - and he and Lula look at
+
+each other in disbelief...
+
+Sailor turns it up full blast and he and Lula dance hard until they
+
+disappear in the dust.
+
+111. INT. MAISON VIOLETTE - LOBBY - NEW ORLEANS - NIGHT
+
+Marietta and Johnnie are standing at the registration desk - talking to
+
+the HOTEL MANAGER.
+
+The DESK CLERK steps in from a room behind the registration desk.
+
+Marietta looks at Johnnie.  She goes to the phone and picks it up when
+
+it rings.
+
+112. INT. HOTEL ROOM - NEW ORLEANS - NIGHT
+
+Marcello Santos sits on the edge of his bed holding the telephone.
+
+He hangs up the phone.
+
+113. INT. MAISON VIOLETTE - LOBBY - NEW ORLEANS - NIGHT
+
+Johnnie enters as Marietta hangs up the phone - covering her fear.
+
+114. INT. MR. REINDEERS PRIVATE DINING ROOM - NEW ORLEANS - NIGHT
+
+Upstairs in a private dining room, Mr. Reindeer is dining with TWELVE
+
+GUESTS in formal evening attire.  Behind him, a JAZZ TRIO and a
+
+STRIPTEASE ARTIST are hard at work.  Mr. Reindeer smiles and leans over
+
+very close to a beautiful WOMAN sitting to his left.
+
+With this, he reaches under the table between her legs.  She turns red
+
+and Mr. Reindeer laughs and lights a cigarette.
+
+Reggie and Drop Shadow enter through a door on the other side of the
+
+room.  Reggie catches Mr. Reindeers eye and smiles.  Reggie reaches in
+
+his pocket and takes out a silver dollar - flips it in the air - catches
+
+it - and puts it back in his pocket.  Mr. Reindeer smiles and waves him
+
+over to the table.  He whispers something in Reggies ear - then gives
+
+him an envelope.
+
+Reggie pockets the envelope - joins Drop Shadow - and as they are
+
+leaving the dining room, they join a woman, JUANA, who looks half-
+
+Oriental, half-Cajun.  She wears a strange, short, yellowish-bleached
+
+blonde wig.
+
+115. INT. GALATOIRES RESTAURANT - NIGHT
+
+They go downstairs together.  At the bottom of the stairs, Reggie and
+
+Drop Shadow catch sight of Johnnie who is sitting in the back of the
+
+restaurant having dinner with Marietta.  When Johnnie sees the two of
+
+them he waves, but at the same time gets a chill up his spine.
+
+Marietta continues to stare at Reggie, Drop Shadow, and Juana before
+
+turning back to Johnnie.  She also feels the fear.
+
+CUT TO:
+
+116. INT. MAISON VIOLETTE - STAIRWAY AND HALLWAY - NEW ORLEANS - NIGHT
+
+Johnnie and Marietta climb together to the second floor and Johnnie
+
+takes Marietta to her room.
+
+116A. MAISON VIOLETTE - JOHNNIES ROOM - NIGHT
+
+Johnnie smiles and heads up to his room.  He opens the door and steps
+
+inside.  WHAM!!  Johnnie is knocked in the head with a heavy metal pipe
+
+and he goes down hard.  A large dark figure grabs on to him and pulls
+
+him to an open window and lowers him into the back of a pick-up.  The
+
+dark figure follows out the window.
+
+DISSOLVE TO:
+
+117. INT. MAISON VIOLETTE - LOBBY - NEW ORLEANS - NIGHT
+
+Marietta is sitting in the lobby trying to hold herself together - half-
+
+sobbing.  The MANAGER approaches and sits next to her.
+
+The front desk clerk steps from behind his desk and hurries into the
+
+lobby.
+
+He hands Marietta a note inside an envelope which she opens and reads
+
+immediately.  We see the note.
+
+NOTE
+
+Gone fishing with a friend - maybe
+
+buffalo hunting.  Johnnie.
+
+The front door of the hotel opens and in walks Santos.  He seems to know
+
+exactly where Marietta is and steps to the door of the sitting room off
+
+the lobby.  He stands in the doorway and smiles at Marietta.
+
+The Manager and Desk Clerk bow to Marietta and Santos and go back
+
+through the lobby.  Santos walks over to Marietta.  Marietta stands.
+
+118. EXT. SMALL HUT - DESERTED BAYOU - NIGHT
+
+Light comes from one small dirty window.
+
+119. INT. SMALL HUT - DESERTED BAYOU - NIGHT
+
+Johnnie is tied to a small wooden straight-backed chair.  His mouth is
+
+gagged and taped shut.  His hair is caked with dry blood and one fresh
+
+tickle curls down his forehead to his eyes which are just now beginning
+
+to open and focus.  Juana is finishing tying his left ankle to the chair
+
+leg.  Johnnie moans and Juana brings her big, smiling face up in front
+
+of his.
+
+Juana steps two paces across the hut where two dirty old soda bottles
+
+sit - one in one corner perched on a dried tree trunk - the other in the
+
+opposite corner perched on an old fence post.  Juana touches the left
+
+bottle (#1) once, and crosses and touches the right bottle (#2) once and
+
+comes back and touches Johnnies face.
+
+Reggie and Drop Shadow step out of the darkness behind Johnnie and come
+
+around to face him.
+
+Reggie and Juana kiss hot in front of Johnnie.  Juana puts her face down
+
+in front of Johnnies again.
+
+Reggie reaches his hand around in front of Johnnie - showing him a .45
+
+Automatic.
+
+Drop Shadow pulls the hammer back which makes a loud click.
+
+Johnnie jumps as Drop Shadow blows a big hole in the far wall in front
+
+of Johnnie.
+
+Reggie comes out in front of Johnnie - Juana grabs him.  They kiss hot
+
+again.
+
+Juana screams like a monster from hell coming up close to Johnnies
+
+face.
+
+Reggie goes back behind Johnnie quick.
+
+Reggie reaches his hand around Johnnies face - tears off tape and gag -
+
+then opens his hand and shows Johnnie a cufflink with a particular
+
+design in turquoise, orange, and silver.
+
+As her finger touches Johnnies face there is a loud CLICK.  Johnnie
+
+moans and closes his eyes.
+
+Johnnie starts to scream and violently try to move out of his chair.
+
+We see a hole in the front of the barrel - BOOM!!!
+
+The opposite wall and bottles get covered with blood.  Juana and Reggie
+
+race into each others arms and kiss right above Johnnies dead,
+
+bloodied head.
+
+120. INT. THUNDERBIRD - TWO LANE TEXAS FARM ROAD - NIGHT
+
+Lula and Sailor are driving through the dark desert.
+
+Lula stays quiet for a moment - listening to the heavy hum of the V-8.
+
+121. INT. FORTUNE HOUSE - LIVINGROOM/UPSTAIRS HALLWAY/BEDROOM - NIGHT
+
+The livingroom is on fire.
+
+The livingroom is on fire and we move upstairs - Lula races through the
+
+smoke-filled hallway to her mothers bedroom.
+
+The livingroom is on fire and Lula throws open the door to her mothers
+
+bedroom just in time to see Marcello Santos leaving through a window.
+
+Her mother laughs a wild, crazy laugh - exactly the same laugh Lula
+
+heard on the porch of the Cape Fear Hotel.
+
+122. INT. THUNDERBIRD - TWO LANE TEXAS FARM ROAD - NIGHT
+
+Sailor starts to slow down.  The highway is suddenly littered with
+
+clothes strewn everywhere and two open suitcases smashed near the side
+
+of the road.  Sailor slows down to a crawl.  He and Lula turn to each
+
+other - theyve just seen TWO DEAD BODIES.  One close to the side of the
+
+highway - and other just off in the desert brush.  Off behind is an
+
+overturned car.
+
+Coming out of the darkness is a YOUNG GIRL, her clothes half torn off -
+
+blood draining out of several deep wounds.
+
+They get out of the car and the girl comes toward them screaming.
+
+The girl starts walking back toward the car.
+
+Sailor reaches out cautiously and takes hold of the girls arm.
+
+She keeps digging her fingers into a bloody wound in her head.
+
+The girls falls to one knee and struggles to get back up.  Sailor and
+
+Lula each take an arm and try to help her.
+
+Sailor and Lula help the girl stand, but her eyes start rolling back and
+
+a bunch of fresh blood comes gushing up out of her mouth.
+
+Sailor kneels down next to the girl and runs his hand gently across her
+
+forehead.
+
+The girl dies.  Sailor and Lula hold real still for a moment.  Lula
+
+starts to cry.
+
+Before getting up, Sailor lets his hand come off the girls forehead
+
+down over her eyes - closing them.  He puts his hand on her cheek then
+
+gets up.  He puts his arm around Lula and they go back to her car.
+
+Sailor helps Lula in on her side and closes the door for her.  He goes
+
+around, gets in and looks over at Lula, who breaks down crying harder.
+
+Sailor starts the car and takes off.
+
+FADE OUT:
+
+FADE IN:
+
+123. INT. THUNDERBIRD - BIG TUNA - MORNING
+
+The Thunderbird drives past a large stucco fish on a rock stand which
+
+has a sign on it that says BIG TUNA, TEXAS.  Sailor cruises the T-Bird
+
+along the main street of Big Tuna, eye-balling the place.
+
+123A. EXT. IGUANA MOTEL - MORNING
+
+Sailor pulls the car up in front of the Iguana Motel.
+
+124. INT. IGUANA MOTEL - DAY
+
+The room is simple: double bed, dresser, mirror, chair, sink, toilet,
+
+bathtub (no shower), electric fan, window overlooking the street.
+
+She strips off the spread, tosses it in a corner and sits down on the
+
+bed.
+
+They stare at each other.  Lula suddenly feels sick to her stomach and
+
+slumps down on the edge of the bed.
+
+125. EXT. REDS GARAGE - DAY
+
+A tall, skinny man, RED, in his early thirties with wild, uncombed hair
+
+the color of pomegranate, walks out of the garage.
+
+Sailor holds out his right hand to shake.
+
+Red extends his oil-blackened right hand and shakes.
+
+Two men, SPARKY and BUDDY, both about forty, walk up to Red.  One of
+
+them wears a grey baseball cap with a Confederate flag on it and the
+
+other has an LBJ straw Stetson.
+
+Sailor introduces himself to Sparky and Buddy and Rex.  They all shake
+
+hands or nod and move out of the sun to drink their beers.
+
+Sailor finishes his beer, stands it on the ground and steps on it,
+
+crushing it flat.
+
+126. EXT. IGUANA BANK - DAY
+
+The temperature on the tower reads One Hundred Twelve.
+
+CUT TO:
+
+127. INT. IGUANA MOTEL - DAY
+
+In front of the door there is a large, damp spot on the rug where about
+
+a hundred and fifty flies are buzzing and landing.  Sailor sees this
+
+when he opens the door.  He steps across the large spot and finds Lula
+
+just waking up on the bed.
+
+Lula opens her eyes and looks at him.
+
+Sailor goes over and sits on the bed.
+
+Sailor strokes Lulas head.
+
+Lula closes her eyes.
+
+128. EXT. SKY OVER BIG TUNA - EVENING
+
+The darkening evening sky is filled with flying monkeys.
+
+129. INT. IGUANA MOTEL - COURTYARD - NIGHT
+
+Sailor, Lula, Sparky, and Buddy are sitting in the courtyard of the
+
+motel sharing Sparkys fifth of Ezra Brooks.  An electric bug killer is
+
+working overtime.  Buddy is reading from a newspaper.
+
+Sailor looks at Lula.
+
+The assistant manager, TOMMY THOMPSON, speaks from the shadows behind
+
+the group.
+
+They all look over at Tommy.
+
+BOBBY PERU walks in and comes over.
+
+Bobby nods to Lula and offers a hand to Sailor.
+
+Sparky and Buddy laugh.
+
+Bobby laughs.  He has a lopsided grin that exposes only three brownish
+
+front teeth and he has flat black eyes that seem to reflect no light.
+
+Bobby pulls up a chair and pours himself a shotglass full of whiskey.
+
+Bobby looks down at his hand, flexs it.
+
+Bobby sips the whiskey and closes his eyes for several seconds before
+
+reopening them and looking at Buddy.  His eyes open slowly and they
+
+practically burn a hole in Buddy.
+
+Sparky refills Bobbys shotglass.  Bobby tosses it back in one gulp.
+
+He walks out and after hes gone...
+
+Lula puts a hand on Sailors leg.
+
+They say goodnight to Sparky and Buddy and head for their room.
+
+130. INT. IGUANA MOTEL - SAILOR AND LULAS ROOM - NIGHT
+
+Lula goes right to the bed and flops down on it.
+
+Lula listens to Sailor brush his teeth, urinate into the toilet and
+
+flush it.  Sailor comes out of the bathroom and climbs into bed.
+
+Lula hands Sailor a note which reads Im pregnant.  Sailor looks into
+
+her eyes.
+
+Sailor crumples the note and puts it in the ashtray.
+
+CU of Lula setting fire to the pregnant note in the ashtray.
+
+DISSOLVE TO:
+
+131. INT. IGUANA MOTEL - SAILOR AND LULAS ROOM - DAY
+
+CU of flies on vomit stain.
+
+There is a knock on the door which wakes Lula from her nap.  She opens
+
+the door.  Bobby Peru stands outside.
+
+Bobby enters the bathroom and starts to urinate.
+
+132. EXT. PERDITA DURANGOS HOUSE - DAY
+
+Sailor pulls the T-Bird up front and hurries up to the screen door.
+
+Flies are buzzing all around.  PERDITA DURANGO comes forward out of the
+
+darkness inside.
+
+Sailor goes back to his car and takes off.
+
+133. INT. INGUANA MOTEL - SAILOR AND LULAS ROOM - DAY
+
+Bobby is pacing around the room.
+
+Suddenly Bobby jumps back, shakes his head and straightens his hair.
+
+He steps a little closer to her.
+
+With all the strength she can muster, Lula slaps Bobby across the face.
+
+Bobby grabs on to her hard.
+
+Bobby moves in very close to her - Lulas trembling.  Bobby puts his
+
+hand on her neck and moves it up and down behind her ear.
+
+His hand moves down over her breasts - down across her stomach - and
+
+down.  Lulas left hand opens and spreads wide.
+
+Bobby leaves smiling and slams the door.  Lula stands trembling clicking
+
+her heels together.
+
+134. EXT. IGUANA MOTEL - AFTERNOON
+
+Sailor is just about finished changing the oil in the Thunderbird when
+
+Bobby Peru pulls up in the maroon Eldo.
+
+Sailor throws some stuff in the trunk and closes the lid.
+
+134A. INT. ELDORADO - BIG TUNA - DAY
+
+They get into the Cadillac and Bobby takes off down Big Tunas main
+
+drag.
+
+135. EXT. ROSARITAS - DAY
+
+Bobby parks the Eldo in among half a dozen pick-up trucks.
+
+136. INT. ROSARITAS - DAY
+
+They enter a long, dark room where a DOZEN MEN, most of them wearing
+
+cowboy hats, sit on stools at a bar drinking beer out of frosted mugs.
+
+They claim two stools.
+
+The BARTENDER brings over two bottle and two mugs - then walks back to
+
+the other end of the bar.
+
+DISSOLVE TO:
+
+LATER
+
+Bobby returns from the jukebox and sits down next to Sailor.
+
+Pee Wees steel guitar ripples through the cigarette haze and buzzes
+
+around Sailors head.  His reflection wobbles in the long mirror behind
+
+the bar.
+
+Sailor stares at Bobby and works hard to focus his eyes.
+
+Bobby grins, showing those three brown teeth.
+
+136A. EXT. ROARITAS - LATE AFTERNOON/EVENING
+
+Bobby looks around in the purple twilight before he opens the trunk of
+
+the Eldorado.  He peels back a brown army blanket.
+
+Bobby closes the trunk.  Sailor stands - hesitating to commit.
+
+Sailor stares at him and his fist clenches.
+
+Bobby cocks his head and squints at him questioningly.
+
+137. INT. IGUANA MOTEL - SAILOR AND LULAS ROOM - NIGHT
+
+Sailor bends over the bed and kisses Lulas hair above her left ear.
+
+Lula rolls onto her back.
+
+Sailor sits on the bed and starts undressing.
+
+Sailor gets into bed.
+
+Lula sticks a More between her lips and lights it.  She takes a deep
+
+drag, blows out the smoke, and stares at Sailor.
+
+Lula puffs hard on her cigarette.
+
+Sailor turns on his side, away from Lula, and pulls a pillow over his
+
+head.
+
+S				AILOR
+
+Lula lights a second More off the first one and stubs out the butt on
+
+the dresser top.
+
+Lula turns over, away from Sailor.
+
+CU of Sailors eyes - he remembers.
+
+138. INT. BAY ST. CLEMENT HOTEL - STAIRCASE - NIGHT
+
+Sailor and Lula are walking down the carpeted stairs when Sailor is
+
+called by BOB RAY LEMON, who is coming down towards them fast.  Marietta
+
+stands at the top - watching.
+
+As Bob Ray passes Lula on the stairs - he puts his hand between her
+
+legs.  Sailor starts to see red.  Bob Ray smiles and steps down to
+
+Sailor.  He leans in and whispers in Sailors ear.
+
+Bob Ray pulls a knife, but Sailors fist is already halfway through Bob
+
+Rays brain.  From there, Sailor steps firmly into the crazy zone.
+
+Amidst blood-curdling hysterical screams from a growing throng of
+
+SOUTHERN BELLES, Sailor starts taking Bob Ray apart limb by limb and
+
+doesnt stop until Bob Ray lays completely destroyed and completely dead
+
+at the foot of the stairs.  The crowd of formally dressed onlookers
+
+stand aghast.  Sailor stares up at Marietta.  Both their eyes burning
+
+with hate.
+
+139. INT. IGUANA MOTEL - SAILOR AND LULAS ROOM - NIGHT
+
+Sailor is dripping with sweat.  His teeth are clenched tight and his
+
+fists violently grip the sheets, as if any minute he could tear the bed
+
+apart.
+
+140. INT. PERDITA DURANGOS HOUSE - NIGHT
+
+Bobby lets the screen door bang shut behind him as he comes in and roams
+
+around the livingroom.
+
+Bobby keeps circling.
+
+Bobby stops walking and stares at the photograph on the wall.
+
+Perdita turns her head and looks, then turns back.
+
+We see the photo now.  In it are Perdita along with her sister, Juana,
+
+and her husband, Reggie, whom we recognize as the killers of Johnnie.
+
+Bobby turns around and leans down and puts his face next to Perditas
+
+from behind.
+
+Bobby takes out a silver dollar and flips it into the air.  It lands
+
+tails up in his hand.  He pockets it.
+
+Bobby lowers his hands into the front of Perditas blouse and cups her
+
+breasts.  She burns the back of his left wrist with her cigarette.
+
+Bobby jumps back, then grabs Perditas hair and pulls her over the couch
+
+onto the floor.  Neither of them speak.  She tries to stand, but Bobby
+
+keeps his right foot on her chest while he blows the back of his wounded
+
+wrist.  Perdita shoves his leg to one side and rolls away.  She stand up
+
+and spits at him.
+
+CUT TO:
+
+141. INT. IGUANA MOTEL - DAY
+
+Lula lays very still on the bed.  Her head is close to the small
+
+turquoise radio on the bedside table.  She is listening to a piece of
+
+sad, nostalgic music and as we move in closer to her and the radio - the
+
+volume increases.
+
+Lula remembers some moments in her life with Sailor: (Music continues
+
+over)
+
+When he kissed her outside the jail gate.
+
+When he touched her breast the day after he got out of jail.
+
+When they sat behind the Confederate Soldier.
+
+When they danced to Slaughter House.
+
+Suddenly, Lula sees an image in her mind that she does not recognize.
+
+She sees an abstract image of reflected light with two eyes looking
+
+through it at her.  The image puzzles her.
+
+(The Music continues over)
+
+142. EXT. IGUANA MOTEL - DAY
+
+The big Eldorado pulls up in front of the Iguana Motel where Sailor has
+
+been waiting in the hot sun.  Bobby opens the door.
+
+Sailor crawls in the back seat and sees Perdita just as she floors it
+
+and they take off in a cloud of dust.
+
+142A. INT. ELDORADO - BIG TUNA - DAY
+
+143. EXT. RAMOS FEED STORE - DAY
+
+Bobby slips the panty hose over his head and adjusts it.  His face looks
+
+crooked and distorted.
+
+Sailor rips open the package and pulls a nylon leg over his head,
+
+stretching the calf part to fit.
+
+Perdita pulls up in front of the store.  The street is deserted.
+
+CUT TO:
+
+144. INT. RAMOS FEED STORE - FRONT OFFICE - DAY
+
+Bobby and Sailor enter the feed store.  Bobby raises his sawed-off
+
+shotgun and points it at the TWO OLD MEN behind the counter.
+
+Bobby and the two men head down the hall into the back room.
+
+145. EXT. RAMOS FEED STORE - DAY
+
+Suddenly, an Iguana County DEPUTY SHERIFF cruises up in a patrol car and
+
+parks it on angle in front of the idling Eldo.  The Deputy gets out of
+
+his car and walks over to the drivers side of the Eldorado.
+
+Perdita stubs out her Marlboro in the ashtray.
+
+146. INT. RAMOS FEED STORE - FRONT OFFICE - DAY
+
+The two old guys have their hands in the air and are moving back behind
+
+the counter.  Bobby is just finishing tying off a bag of money.  Sailor
+
+is by the front door holding his pistol on the two old guys.  When Bobby
+
+finishes tying the money bag - he lifts the shotgun and blows a hole
+
+through the chest of one of the old men.  Sailor goes into shock.
+
+CUT TO:
+
+147. EXT. RAMOS FEED STORE - DAY
+
+Reacting to the shot, Perdita jams the gear shift into reverse and peels
+
+out, knocking the deputy down.
+
+148. INT. RAMOS FEED STORE - FRONT OFFICE - DAY
+
+Sailor turns his pistol on Bobby now.  Bobby spins his shotgun around
+
+and points it at Sailor.
+
+The second old man is reaching under the counter.
+
+Sailor fires his .32 at Bobby.  There are no live bullets in his pistol.
+
+It just makes a dry click.  Bobby smiles and is just about to kill
+
+Sailor when out of the corner of his eye he catches sight of the second
+
+old man bringing out a big shotgun of his own.  Bobby instinctively
+
+spins and empties the second barrel of his two-barrel shotgun into the
+
+old gentleman.  As Bobby is reloading fast, Sailor sprints through the
+
+front door.  Bobby is right behind him as he flys out the front door.
+
+148A. EXT. RAMOS FEED STORE - DAY
+
+The deputy recovers and comes up on one knee with his revolver clasped
+
+in both hands.  He fires his first shot into Bobbys thigh and his
+
+second into Bobbys left hip.  The shock of the initial slug causes
+
+Bobby to drop the bag.  The impact of the second forces Bobbys right
+
+hand to twist sideways to that both barrels of the shotgun wedge under
+
+his chin.  The Ithaca goes off, blowing Bobby backwards through the
+
+RAMOS on the plate glass window of the feed store.
+
+Sailor hits the ground - losing the Smith as he falls.  He puts his hand
+
+over his hosieried head and keeps his face in the dirt until the deputy
+
+orders him to stand up.
+
+149. INT. IGUANA COUNTY COURTHOUSE - DAY
+
+Lula is sitting on a bench in the waiting room of the Iguana County
+
+Courthouse Building when Marietta and Santos walk in.  As soon as she
+
+sees Lula, Marietta runs over, sits down next to her and hugs and kisses
+
+her.
+
+Tears are pouring down Mariettas cheeks.  She holds Lula to her and
+
+Lula does not resist.  Lula just stares at Santos.
+
+Marietta takes Lula by the shoulders and looks straight at her.  Lulas
+
+eyes are bloodshot, her hair is greasy and stringy, and her cheeks are
+
+pale.
+
+Santos steps forward.  Lula begins to tremble.
+
+Santos arms begin to go around Lula.  Lula lets out a blood-curdling
+
+scream and shakes like a leaf on a tree.  Santos grabs her hard - in a
+
+bear hug.  On one shirt cuff we see a cufflink which is turquoise,
+
+orange, and silver.
+
+150. INT. WALLS UNIT - DAY
+
+Sailor lays on his jail bed reading a letter from Lula.
+
+Dearest Sailor Darling,
+
+The first thing youll want to know is Im keeping the baby.
+
+Mama wasnt for it in the beginning but I think shes looking
+
+forward to it.  Im gonna name it Pace no matter if its a
+
+boy or a girl.  Pace Ripley sounds good, dont it?  Its
+
+kind of hard to believe that Pace will be six years old
+
+when you get out.
+
+I feel like Im kind of in prison too, but I know in six
+
+months, itll be over and Ill have a son or daughter to
+
+show for it.  Our child!!
+
+I love you Sailor.  I dont know how much or what it
+
+means though I miss you an awful bunch sometimes I know
+
+youre thinking about me cause I can feel it.  I miss
+
+you not being around to call me peanut nobody else ever
+
+called me that.
+
+Mama married Santos.  It just about drove me crazy.  My
+
+daddy left a lot of money somehow and theyre spending
+
+it like there is no tomorrow.  Im going to move out as
+
+soon as I can.
+
+Mama and Santos said because of the baby theyre lookin
+
+at the two of us in a different light - whatever that
+
+means.
+
+Johnnie Farragut has plumb disappeared.  No one knows
+
+where.  I miss him, but not near as much as I miss you.
+
+Time dont really fly honey does it?
+
+Love,
+
+your Lula
+
+P.S. I miss dancing...
+
+151. INT. FORTUNE HOUSE - DAY
+
+Lula sits in her bedroom reading a letter from Sailor.
+
+Dear Lula,
+
+It is fine with me about the baby as you already know.
+
+And Pace being your family name and all is just right.
+
+What about a middle name if it is a boy after my
+
+granddaddy Roscoe?  He would be proud I know though
+
+he is long passed.  Pace Roscoe Ripley does not sound
+
+so bad do you think?
+
+This place is not so pretty as Pee Dee.  Not pretty
+
+at all.  There are boys inside these walls meaner
+
+than Peru you can bet.  There is a Death House.  I
+
+am getting along.  The only thing is not thinking
+
+about the future.
+
+I miss dancing with you, too.  I love you.  It is
+
+hard to end this letter.  If I stop writing youre
+
+gone.  There is not a lot more to say though.
+
+Vava con dios mi amor.
+
+Sailor
+
+LONG FADE OUT:
+
+152. INT. MARIETTA FORTUNES HOUSE - EVENING/
+
+153. INT. LULA FORTUNES HOUSE - EVENING - (SIX YEARS LATER)
+
+Six years later...  Lula stands in the living room holding a glass of
+
+ice water while talking on the telephone to her mother.  Marietta is
+
+wearing a giant diamond ring on one hand and the other hand is holding a
+
+Martini and Rossi sweet vermouth.  Marietta is slumped over in an
+
+ottoman with wheels and is pushing her drunken self around the
+
+livingroom as she talks on the phone.
+
+Lula hangs up and throws her glass of water at a picture of her mother -
+
+draining it.
+
+154. INT. LULAS CAR - EVENING
+
+PACE ROSCOE FORTUNE is a shy, polite, innocent six-year old who wears a
+
+long-billed fishing cap and pants with suspenders.
+
+Lula makes a wide left turn onto Jeff Davis Highway without signaling,
+
+causing the driver of a white Bonneville headed across the intersection
+
+to jam on his brakes in order to avoid a collision.  The Bonneville
+
+driver sits on his horn and shouts at Lula.
+
+Lula steadies the steering wheel of her Camaro with her left elbow while
+
+she strikes a match and lights up a More.  She throws the match out the
+
+window and takes possession of the wheel with both hands, the cigarette
+
+is clamped in her teeth.
+
+Lula puffs furiously several times on her More before she takes it out
+
+of her mouth and drops it.
+
+Lula feels around on the floor with one hand until she finds the
+
+cigarette.  Sirens can be heard up ahead.
+
+They pass an automobile accident where a man has been thrown into the
+
+curb - his head broken open and bleeding.  The ambulance is just
+
+arriving.  Lula looks away.
+
+155. ACCIDENT - EVENING
+
+A CRAZY MAN in a wheelchair is wheel up to the accident victim, who is
+
+bleeding profusely and in a state of shock.  The man in the wheelchair
+
+stares at him for a moment.
+
+156. INT. LULAS CAR - EVENING
+
+Pace looks up at his mother.
+
+157. EXT. TRAIN STATION - EVENING
+
+Lula pulls the Camaro into in the station parking lot and kills the
+
+engine.
+
+Lula gets out and goes around for Pace.  They hold hands as they walk
+
+toward the station.  The big clock on the side of the building shows ten
+
+minutes past six.
+
+CUT TO:
+
+158. INT. TRAIN STATION - EVENING
+
+Lula sees Sailor as soon as she opens the door.  He is sitting in an
+
+orange plastic chair against the opposite wall, smoking a cigarette.
+
+Sailor smiles.
+
+He stands up and looks down at Pace, who is still holding hands with
+
+Lula.  Sailor puts out his right hand.
+
+Pace releases Lulas hand and puts his own in Sailors.  Sailor grips it
+
+gently but firmly, pumps once, then lets go.
+
+Sailor looks at Lula.  Her eyes are full of tears and she lets them
+
+loose.  Sailor tries to smile.
+
+Sailor picks up his black metal suitcase and follows them to the car.
+
+CUT TO:
+
+159. INT. LULAS CAR - NIGHT
+
+Lula drives.
+
+Lula starts to reply, then stops.  She stares straight ahead, gripping
+
+the wheel hard.  Suddenly, she pulls over to the side of the road, turns
+
+off the engine and gets out of the car.
+
+Sailor gets out and goes over to Lula, who is leaning back against the
+
+hood.
+
+Sailor goes around to the drivers side, reaches in and pulls the keys
+
+out of the ignition.  He unlocks the trunk, removes his suitcase, and
+
+closes the lid.
+
+Sailor slips the keys in her shirt pocket and leans his head into the
+
+car.
+
+Sailor stands up and looks at Lula.  Her eye makeup runs in dark streaks
+
+down her face.
+
+ECU of Lulas eyes.  Her eye makeup runs like black sweat over eyes and
+
+down her cheeks as in Sailors dream.
+
+He picks up his suitcase, kisses Lula lightly on the lips and walks
+
+away.  She lets him go.
+
+160. EXT. CITY STREET - LATE AFTERNOON/EVENING
+
+Sailor walks down the street pretending hard not to care.
+
+161. INT. LULAS CAR - LATE AFTERNOON/EVENING
+
+Lula climbs in behind the wheel - sobbing.  Pace sits sadly, staring out
+
+the window.
+
+162. EXT. CITY STREET - LATE AFTERNOON/EVENING
+
+Sailor continues walking down the street.  A GANG OF INSANE KILLER
+
+TEENAGERS on PCP appear and come towards Sailor.  They circle around
+
+him, coming in closer for the kill.
+
+Thats all it takes.  The gang is on him.  Sailor tries to defend
+
+himself, but one big punch to his nose sends him down and out.  Blood
+
+begins to pour from his swelling nose.
+
+162A. EXT. CITY STREET - LATE AFTERNOON/EVENING
+
+CU OF SAILORS FACE - a bright light illuminates it.
+
+In the sky above Sailor, a large glowing bubble holding the beautiful
+
+Good Witch of the North comes floating down above him.
+
+Sailors eyes suddenly see the Good Witch through his closed eyelids.
+
+His mouth speaks through closed lips.
+
+The Good Witch disappears.
+
+162. EXT. CITY STREET - LATE AFTERNOON/EVENING
+
+Sailor opens his eyes and drags himself and his giant swollen nose up on
+
+his feet.  The gang still stands around him.
+
+Sailor turns around and starts running back.  The gang watches him go.
+
+163. INT. LULAS CAR - LATE AFTERNOON/EVENING
+
+Lula sits in the car in the middle of a giant traffic jam.  She is still
+
+crying and horns are honking all around them.
+
+164. EXT. CITY STREET - LATE AFTERNOON/EVENING
+
+Sailor runs up the street, holding his nose and SCREAMING LULAS NAME.
+
+He rounds a corner and spots her in the middle of a sea of cars.
+
+He starts running towards her - leaping from one car to another until he
+
+jumps on the hood of Lulas car.
+
+She sees him.
+
+Lula wriggles out of the car and flys into his arms.  Behind them is a
+
+giant golden sunset.  As they embrace - the sound of the horns goes
+
+away.  Lulas gaze goes to a reflection of golden light on a windshield.
+
+It is the same abstract scene she saw before in her room in Big Tuna,
+
+but now she knows what it is.  It is Paces happy, smiling eyes looking
+
+up at the two of them in love.
+
+Sailor, with a giant blue nose, looks into Lulas eyes and sings Love
+
+Me Tender.
+
+The people in their cars, and the people on the street look on with a
+
+feeling of love and happiness in their hearts.
+
+THE END
+

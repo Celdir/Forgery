@@ -1,0 +1,2720 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Rocky
+
+RING PRODUCTIONS, INC.
+
+MASTER SCRIPT: INCLUDES ALL REVISIONS AS OF 1/7/76  REVISED:
+
+INT. BLUE DOOR FIGHT CLUB - NIGHT
+
+SUPERIMPOSE OVER ACTION... "NOVEMBER 12, 1975 - PHILADELPHIA"
+
+... The club itself resembles a large unemptied trash-can.
+
+The boxing ring is extra small to insure constant battle.
+
+The lights overhead have barely enough wattage to see who is
+
+fighting.
+
+In the ring are two heavyweights, one white the other black.
+
+The white fighter is ROCKY BALBOA.  He is thirty years old.
+
+His face is scarred and thick around the nose... His black
+
+hair shines and hangs in his eyes.  Rocky fights in a
+
+plodding, machine-like style.  The BLACK FIGHTER dances and
+
+bangs combinations into Rocky's face with great accuracy.
+
+But the punches do not even cause Rocky to blink... He grins
+
+at his opponent and keeps grinding ahead.
+
+The people at ringside sit on folding chairs and clamor for
+
+blood... They lean out of their seats and heckle the fighters.
+
+In the thick smoke they resemble spectres.  Everyone is
+
+hustling bets... The action is even heavier in the balcony.
+
+A housewife yells for somebody to cover a two dollar bet.
+
+The BELL RINGS and the fighters return to their corner...
+
+Somebody heaves a beer can into the ring.
+
+The Black Fighter spits something red in a bucket and sneers
+
+across the ring at Rocky.
+
+In Rocky's corner he is being assisted by a shriveled,
+
+balding CORNERMAN, who is an employee of the club... He
+
+works on Rocky without any enthusiasm.
+
+A FIGHT FAN rushes up to Rocky... He is sixty-five, with
+
+yellow teeth and wearing sunglasses.
+
+The BELL RINGS... Rocky makes the sign of the cross.  The
+
+fighters engage in battle.  The other fighter grabs Rocky in
+
+a clinch and purposely butts him... The butt opens a bleeding
+
+cut on the corner of Rocky's eye.
+
+Rocky becomes furious over the foul and drives a flurry into
+
+the man's body... Rocky slams the man on the jaw and the
+
+fighter is out for the night.  The fans throw rubbish into
+
+the ring.  Rocky ignores it.
+
+The fans loudly go about collecting bets.  The referee does
+
+not bother to even count the fighter out and drags him under
+
+the ropes where he is placed on a stretcher.  Two new
+
+fighters enter the ring.  Rocky slips on a tattered robe.
+
+Embroidered clumsily on the back is, "The Italian Stallion."
+
+Without pomp Rocky climbs out of the ring and bums a
+
+cigarette from a spectator... The fighter on the stretcher
+
+passes behind him.  He watches for a moment and continues up
+
+the aisle... Before he even reaches the rear of the club the
+
+BELL RINGS and the next fight has already begun... Rocky
+
+fades into the darkness of the rear of the club.
+
+THE TITLE CREDITS END:
+
+INT. DRESSING ROOM - NIGHT
+
+Rocky has nearly completed dressing and reaches into his
+
+locker for his hat... Also in the dingy room are ten other
+
+fighters... Two taped fighters talk shop in the corner.
+
+Another paces nervously... Two other fighters shadowbox and
+
+spit nervously on the floor.
+
+A young pug combs his hair and listens to a portable RADIO
+
+that is BLASTING MUSIC.
+
+The fighter that Rocky has just defeated is drinking a beer
+
+and joking with three other fighters... Some of the fighters
+
+are smoking.  The room is cloudy.
+
+A short man of fifty enters.  He is dressed in a sweater
+
+buttoned over a t-shirt.
+
+Rocky raises his head.  The promoter steps over.
+
+The man peels off the money and departs... Rocky closes his
+
+locker, nods to the defeated fighter, and leaves.
+
+INT. TROLLEY - NIGHT
+
+Rocky is on the trolley heading to South Philly... The
+
+trolley is empty except for a thin old black WOMAN... The
+
+black Woman studies Rocky's bruised face... Rocky becomes
+
+self-conscious.
+
+EXT. STREET - NIGHT
+
+Rocky exits the trolley and walks down the block... He waves
+
+at a pair of high-heeled hookers and they wave back.
+
+Rocky passes a sleeping wino curled in front of a dirty
+
+bookstore.  Rocky drags the man into a protective passageway.
+
+Further down the street, Rocky pauses in front of the
+
+"ANIMAL TOWN PET SHOP"... He peers into the dark store and
+
+sees a sad, huge dog sitting in the window.  He mumbles to
+
+the dog and continues to the corner.
+
+EXT. ROCKY'S APARTMENT - NIGHT
+
+A short while later, Rocky approaches his apartment located
+
+in the most deprived section of South Philly.  He kicks away
+
+the litter that has gathered against the apartment steps and
+
+enters.
+
+INT. ROCKY'S HALLWAY - NIGHT
+
+The narrow hallway is painted olive brown.  A single light
+
+bulb illuminates the gloomy corridor.
+
+INT. ROCKY'S APARTMENT - NIGHT
+
+Rocky enters.  The one-room apartment is drab, with a
+
+curling boxing poster of Rocky Marciano tacked on the wall...
+
+Nailed against the far wall is a mattress.  The mattress is
+
+used as a punching bag.  Stuffing spills out of the center.
+
+Rocky drops his coat on the floor.  He puts on a pair of
+
+glasses.  He crosses to a small turtle bowl... He lifts the
+
+creatures.
+
+Rocky starts to boil a pan of water on his hot plate, then
+
+places an old 45 RPM record on a battered phonograph.  The
+
+record is a tune, "ALL IN THE GAME."
+
+... As the CRACKLING MUSIC BEGINS, Rocky picks up his
+
+hairbrush.  Using it like a microphone, he mimes to the
+
+record.  He assumes the posture of a famous singer crooning
+
+to thousands of adoring fans... He then switches into a
+
+bullish fighting stance and throws several punches.
+
+The water boils.  Rocky soaks his badly-swollen hands.
+
+EXT. SUNRISE OF PHILADELPHIA SKYLINE - DAWN
+
+We SEE the jagged skyline, highlighted by the towering
+
+figure of William Penn that rises above the dawn haze as it
+
+sits majestically above City Hall...
+
+EXT. DOCKS - EARLY MORNING
+
+Rocky is walking along the waterfront... He has a bandaid
+
+over one eye.  He looks at the rugged stevedores going about
+
+their business... He stuffs his hands in his cheap wool
+
+jacket and approaches a ship being unloaded.
+
+Rocky passes two thick Mafia types leaning against a parked
+
+car.  These men look like blood drinkers.
+
+Rocky shrugs and moves away... He nears a heavy man working
+
+the crane.  The heavy man looks frightened... He stops the
+
+crane and hurries into the ship's hole.  Rocky dashes up the
+
+gangplank.
+
+INT. SHIP - DAY
+
+The man enters the ship's hole and runs past tons of stacked
+
+crates and coffee beans.
+
+Rocky sprints after him... He lunges and flings the man by
+
+the neck against the wall of stacked cargo.
+
+At wits' end the man picks up a large metal hook used by
+
+stevedores.  Rocky remains cool.
+
+The man drops the hook.
+
+Rocky's determined expression strikes home.  The fat man
+
+quickly fumbles through his pockets and hands over a small
+
+wad of bills.
+
+Rocky looks almost sympathetically into the fat man's
+
+flushed expression.
+
+The man quickly removes his coat and extends it...
+
+The man extends his coat again... Rocky suddenly grabs the
+
+man's thumb and bends him to his knees.
+
+Rocky releases the man who remains almost in shock.  The
+
+thumb is fine.
+
+EXT. STREET - DAY
+
+Later that morning Rocky passes "Animal Town Pet Shop" in
+
+South Philly... The shop is not very prosperous looking.  In
+
+the window hangs a sign reading "Today's special -- Mixed
+
+Kittens -- $1.50"... Rocky stops at this shop every morning.
+
+He stares at a litter of Lhasa Apsa puppies.  He taps the
+
+window and whistles.  He SEES a girl behind the counter and
+
+presses his face against the window and does his impression
+
+of the Hunchback of Notre Dame.  The girl nervously looks
+
+away.
+
+The girl behind the counter is ADRIAN KLEIN.  She is not
+
+very attractive, but pleasant-looking.  Thirty years old.
+
+Brown hair pulled back.  Light skinned.  She wears glasses.
+
+Rocky really stops by to flirt with Adrian, but she is so
+
+painfully shy nothing ever gets started... Rocky enters.
+
+INT. PET SHOP - DAY
+
+Rocky walks over to her, stares hard in her face and snatches
+
+the bag out of her hand.  He removes the puppy and hands it
+
+to Adrian.
+
+Rocky takes a couple dollars out of his pocket and hands it
+
+to the lady... She nervously exits.
+
+Adrian nods... Though charmed, she is slightly intimidated.
+
+The OWNER, a squat woman of forty, steps out of the back and
+
+waves at Rocky.
+
+Adrian shrugs.
+
+Both the Owner and Adrian smile.
+
+Rocky steps over to a large cage at the rear of the shop...
+
+Inside is a huge dog.
+
+Rocky opens the cage and the large dog jumps out and looks
+
+very happy.
+
+The dog plays dead.
+
+Rocky waves goodbye to Adrian and exits the shop.
+
+EXT. LEHIGH ST. TRAIN TRESTLE - DAY
+
+Gazzo picks up Rocky.
+
+INT. GAZZO'S CAR - MOVING - DAY
+
+MR. GAZZO and his YOUNG BODY GUARD sit in the front seat...
+
+Rocky is in the back seat.
+
+Gazzo hands Rocky a twenty.
+
+Gazzo's Bodyguard looks at Rocky's bruised face in the
+
+mirror and smiles.
+
+Gazzo steps out of the car and beckons to Rocky.
+
+Gazzo gets into his car.
+
+They pull away.
+
+EXT. GYM - DAY
+
+Gazzo drives off and Rocky strolls across the street to
+
+Goldmill's Gym.  On the way he passes several familiar
+
+people and exchanges waves... Out front is a young Irishman
+
+who runs a soft pretzel stand... His name is RUDY.  It is
+
+apparent from his face he was a prize fighter... He is blind
+
+and mentally defective.
+
+EXT./INT. GYM - DAY
+
+Mickey's Gym is surrounded by bars and a couple of greasy
+
+spoons.  Out front a crowd of young Blacks talk and jive
+
+among themselves.  Two winos lean against the entrance.
+
+Rocky enters the gym... The place is nearly full.  The
+
+MEASURED BEAT of SKIP ROPES and THROBBING SPEED BAGS makes
+
+the room come alive, like it was a mindless piece of
+
+machinery.  Over the loudspeaker MUSIC by the Isley Brothers
+
+BLARES out... The music adds a background to the CLANG of
+
+the AUTOMATIC TIMERS, SNORTING SPARRING PARTNERS and the
+
+THUDDING of HEAVY BAGS.
+
+The room is divided -- Fifty percent Black -- thirty-five
+
+percent Latin -- ten percent white -- five percent other.
+
+As Rocky walks through the gym many of the FIGHTERS pause to
+
+wave and yell greetings.
+
+Rocky passes another FIGHTER punching the heavy bag.
+
+Rocky touches the Fighter's bare hand.
+
+Rocky smiles and moves away.
+
+INT. DRESSING ROOM - DAY
+
+The dressing room is lined with dented lockers.  Wooden
+
+benches stretch across the room.  On the wall is a sign that
+
+reads, "NO KISSING."
+
+Rocky goes to his locker.  He tries to open it but fails.
+
+He leans his ear against the lock and rolls the tumblers.
+
+Still it does not open.  He shakes the lock forcefully, no
+
+luck... Rocky is flustered and sits on a bench to ponder the
+
+situation.
+
+After a moment of deep thought, Rocky stands, seizes the
+
+bench and smashes open the lock.  Opening the door Rocky is
+
+taken aback when he sees a set of very flashy clothes.
+
+He sees a picture of several black girls taped on the inside
+
+of the door.
+
+A short powerful man of thirty-five enters.  His hair looks
+
+like it has been shaped with hedge clippers.  His name is
+
+MIKE.
+
+Rocky looks at his belongings crammed in a wilted shopping
+
+bag and follows Mike across the room... Mike leans his head
+
+into the shower room.  Two Latin fighters are lathering up.
+
+The fighters laugh.  Inflamed, Mike removes a bar of soap
+
+from his pocket and hurls it at the insulting fighter.  It
+
+hits just above the man's head.  The fighters are shocked
+
+into silence.
+
+Mike turns and exits with Rocky... The fighters curse them
+
+loudly in Spanish.
+
+INT. GYM - DAY
+
+Rocky and Mike move past fighters going through their
+
+training routines.
+
+Mike fakes a friendly punch at Rocky and hurries off to
+
+another chore...
+
+INT. GYM - DAY
+
+The Owner, MICKEY, sits on a stool near the entrance.  He
+
+wears a baggy suit... He is in his late seventies.
+
+Rocky approaches... Mickey is conversing with another fighter.
+
+Rocky turns and looks at DIPPER sparring... Dipper is a
+
+young, muscular heavyweight with a mean expression.
+
+Mickey pauses to watch a young middleweight time-skip as his
+
+trainer sings "FASCINATIN' RHYTHM."
+
+Mickey shoots Rocky a quick, indifferent look and removes a
+
+rosary from his pocket and idly rolls it around his fingers.
+
+Shrugging, Rocky moves away.
+
+Mickey leans over to Mike who approaches with a mop and pail.
+
+Dejected, Rocky travels to the locker room.  He passes Big
+
+Dipper sparring in a ring... Dipper spits a mouthful of
+
+water in a bucket and looks smugly at Rocky.
+
+Dipper smiles cruelly and begins sparring... Scene FADES on
+
+Rocky's crestfallen expression.  He moves off.
+
+EXT. PET SHOP - DUSK
+
+At sunset Rocky comes down the street and pauses at the pet
+
+shop... He is eating Colonel Sanders' fried chicken out of a
+
+bag... He taps on the window with a chicken bone.
+
+INT. PET SHOP - DUSK
+
+Inside Adrian is arranging pet toys on the counter... She
+
+hears the tapping, sees Rocky, and tenses.  Rocky enters.
+
+Adrian smiles slightly and moves behind the counter.  Rocky
+
+fumbles idly among the pet toys.
+
+The girl wants to say yes but a tremendous inferiority
+
+complex will not permit it... Rocky understands.
+
+Rocky exits.  Adrian watches his departure with mixed
+
+emotions.
+
+EXT. ANDY'S BAR - NIGHT
+
+A short while later Rocky arrives at Andy's Bar... He throws
+
+the Colonel Sanders bag and bones in a large public litter
+
+can.  The trash can has a bicentennial picture of George
+
+Washington pointing at a pile of garbage.  The caption
+
+reads, "There was no litter at Valley Forge!"
+
+INT. ANDY'S BAR - NIGHT
+
+Rocky enters the bar.  He sits the Drunk in a booth...
+
+Several drinkers wave at him.  OLD ANDY sets a mug of beer
+
+in front of him... Rocky seems to be looking for someone.
+
+Andy casually nods towards the men's room.
+
+Rocky traverses the room and passes TWO DRUNKS leaning on
+
+the bar.
+
+INT. ANDY'S RESTROOM - NIGHT
+
+Rocky enters the restroom... It is a vile stench hole with
+
+years of the remnants of many sick drunks caked on the wall.
+
+PAULIE is presently trying to comb his hair in the only
+
+remaining piece of mirror in the room... Paulie is in his
+
+early thirties.  He is medium height.  Brown hair.  Square
+
+shouldered.  He has a foul personality... A classic
+
+misanthrope.
+
+The restroom stench is overwhelming... Rocky covers his nose
+
+with the neckline of his t-shirt.
+
+INT. ANDY'S BAR - NIGHT
+
+The restroom door opens.  Rocky guides Paulie out.  Though
+
+stumbling, Paulie talks as he walks.
+
+Paulie smiles and Rocky guides him to a booth... Rocky steps
+
+to the bar.  Andy leans over to him.
+
+Rocky shakes his head no and raises his eyes towards a
+
+suspended television... the nightly sports broadcast is on.
+
+The SPORTS COMMENTATOR is at the airport and about to
+
+interview the heavyweight champion of the world, APOLLO
+
+CREED.  Creed is twenty-eight years old.  He is a tall,
+
+smooth-muscled Black with barely a scar on his light coffee-
+
+colored face...
+
+He is followed by an entourage of mixed trainers and
+
+cornermen.  Also tagging alone is a small group of hangers-on.
+
+The Commentator interviews Creed as he and his followers
+
+disembark a private jet.
+
+Apollo's crowd smiles almost automatically at everything he
+
+says.
+
+Apollo draws his wife close.
+
+Apollo's entourage laughs and they move on... The Commentator
+
+faces the camera.
+
+The sports show cuts away, but Rocky continues to look at
+
+the television with a pensive stare... Andy has been speaking
+
+the following dialogue over Apollo's broadcast.
+
+The news report with Apollo ends.  Andy drinks.
+
+Becoming despondent, Rocky rises and crosses to Paulie
+
+slumped unconscious in the booth.
+
+Rocky exits the bar... Andy turns to his customers.
+
+Laughing, Andy pours himself a shot.
+
+EXT. ATOMIC HOAGIE SHOP - NIGHT
+
+Rocky passes an all-night sandwich shop... In the window
+
+hangs the sign "ATOMIC HOAGIE SHOP, INC." Out front are
+
+several YOUNG MEN and WOMEN.  They are much too young to be
+
+out so late... A boy with a badly-chipped tooth beckons to
+
+Rocky.
+
+Rocky ignores the statement and faces a very young girl who
+
+is smoking and leaning whore-like against the wall.
+
+The girl, MARIE, assumes an indifferent attitude, attempting
+
+to impress her friends.
+
+The gang laughs.  Angered and shocked, Rocky grabs her arm.
+
+The gang reluctantly backs up a step.
+
+Rocky moves forward and they scatter... They quickly move off.
+
+Rocky leads the girl away.
+
+EXT. STREET - NIGHT
+
+Rocky is walking the young girl home... They are presently
+
+cutting through a dark public school yard.  They pass
+
+through the beams of light cast off by weak flood lights
+
+located at the top of the school building.  The atmosphere
+
+is somewhat eerie.
+
+She attempts to light a cigarette... Rocky nonchalantly
+
+tosses it to the ground.
+
+Rocky and Marie take a shortcut through a dark school yard.
+
+Rocky and Marie exit the dark school yard... Standing in the
+
+shadows of the building are three young muggers.  The light
+
+from their cigarettes flares red in their faces.
+
+The muggers pace Rocky across the street and follow them
+
+down the block... Rocky sees them and stops and faces the
+
+three.  The muggers pause and study Rocky from a distance of
+
+twenty yards.  Rocky gives a loud boxer's snort, wipes his
+
+nose with the side of his thumb and rolls his shoulders...
+
+The muggers are intimidated and slowly peel off the meander
+
+away.
+
+Rocky turns to Marie who has been standing behind him.
+
+Marie nods.
+
+They exchange smiles and Marie moves away.  Rocky has made
+
+an impact on her life.
+
+She takes a few more steps and pauses again.
+
+The girl runs to her house as Rocky looks on in dismay.
+
+INT. JERGENS' OFFICE - DAY
+
+APOLLO CREED and his LAWYER and TRAINER are seated in the
+
+offices of MILES JERGENS.  Jergens, a successful promoter
+
+looks unhappy as he looks into the scowling face of Apollo
+
+Creed.
+
+Apollo stands beneath a new fight poster and points to it.
+
+Everyone laughs.
+
+EXT. STREET - DAY
+
+Late that afternoon Mr. Gazzo's white 1970 Cadillac pulls up
+
+to Rocky's apartment... Rocky is in the back seat with the
+
+loan shark.  Gazzo's bodyguard is driving.
+
+Gazzo flips through a small black notepad.
+
+The Bodyguard reddens... Gazzo motions to his Bodyguard to
+
+relax.
+
+The Bodyguard has been looking at Rocky with murderous eyes.
+
+Mr. Gazzo is amused.  He steps out of the car, followed by
+
+Rocky.
+
+Rocky enters his apartment and Gazzo drives off.
+
+INT. JERGENS' OFFICE - DAY
+
+The SCENE REVERTS BACK TO Miles Jergens' office.  Apollo
+
+pores over a large record book.
+
+Everybody leans forward.
+
+Everyone laughs.
+
+FADE IN:
+
+EXT. STREET - DUSK
+
+Rocky and Paulie walk towards his house... Even though it is
+
+cold and dark, a group of kids conduct an energetic game of
+
+half-ball. (Half-ball is a variation of stick-ball.)
+
+Paulie extends his thick hands and tries to make a fist.
+
+EXT. ATOMIC HOAGIE SHOP - DUSK
+
+They continue past the Atomic Hoagie Shoppe, Inc... A group
+
+of young men pitch quarters on the sidewalk out front.
+
+Rocky pauses... He sees Marie, the little girl from the
+
+night before, hanging around with the guys.  She sees Rocky.
+
+Marie takes a deep drag on her cigarette and faces the
+
+opposite direction... The gang smiles and continues to pitch
+
+quarters.
+
+Anger and disappointment register across Rocky's face.
+
+Rocky shrugs and the two men move off... Filling the night
+
+air is the METALLIC SOUND of pitching QUARTERS.
+
+EXT. PAULIE'S APARTMENT - NIGHT
+
+The men arrive at Paulie's home.  It is at the top of a
+
+dimly-lit four story walk-up.
+
+INT. PAULIE'S APARTMENT - NIGHT
+
+Paulie unlocks the apartment door and enters... Rocky
+
+stiffly follows.  Paulie's sister steps out of the kitchen.
+
+A large serving spoon is in her hand... The TV is on.
+
+She stops short and eyes Rocky... She is visibly unsettled
+
+by Rocky's unexpected presence.
+
+She looks at Rocky again.
+
+Adrian enters the bedroom and slams the door... Paulie
+
+follows.  An argument ensues and Rocky overhears.
+
+OVER the argument is HEARD a SPORTS BROADCAST rising from
+
+the TELEVISION.
+
+Meanwhile, the argument between brother and sister continues
+
+in the bedroom.
+
+Paulie turns and leaves the bedroom... He enters the kitchen.
+
+Grabbing a large fork, he opens the oven and spears the
+
+turkey... With the turkey suspended on the end of the fork,
+
+Paulie heaves the dripping bird out the window.
+
+Adrian has seen this and is shattered.  She runs back into
+
+the bedroom and locks the door.
+
+Rocky walks over to Adrian's bedroom door and begins speaking
+
+to the enclosed girl.
+
+Rocky turns away and begins to walk off.
+
+Rocky goes over to the door and begins speaking again.
+
+Adrian opens the door... She already has her winter coat on.
+
+Paulie opens the front door and gives Rocky an encouraging
+
+smile...
+
+INT. ICE SKATING RINK - NIGHT
+
+Rocky and Adrian enter a deserted skating rink.
+
+From across the rink a CLEANING MAN yells at them.
+
+Rocky approaches the Cleaner.
+
+INT. ICE SKATING RINK - NIGHT
+
+Adrian has on skates.  Rocky follows her onto the ice.  He
+
+wears street shoes.
+
+The Cleaner yells from the sideline.
+
+Adrian slips and Rocky breaks her fall.
+
+Adrian does a slight turn and Rocky has to speed up and
+
+nearly falls.
+
+Adrian nods and is very nervous... The Cleaner moves
+
+carefully across the ice.
+
+For the first time, Adrian laughs.
+
+The Cleaner walks over as Rocky and Adrian get off the ice.
+
+Rocky hands him a dime.
+
+Rocky and Adrian start to leave.  Rocky pauses at the door
+
+and fishes into his pocket and hands over eleven dollars.
+
+He grins and leaves.
+
+EXT. STREET - NIGHT
+
+Rocky smiles.
+
+INT. ROCKY'S APARTMENT - NIGHT
+
+Rocky and Adrian enter his one-room apartment... She is
+
+nervous and taken aback by the bleakness of the room...
+
+Rocky goes to the icebox.
+
+Adrian looks at the mirror above Rocky's dresser.  She sees
+
+a high school photo of Rocky.  He once was handsome and
+
+smooth-faced... Rocky steps up behind her and his face is
+
+reflected in the mirror.
+
+He turns on his cheap RECORD PLAYER... He reaches into the
+
+turtle bowl.
+
+Rocky flings open the window and bellows like a foghorn.
+
+Rocky closes the window and faces the woman... She is not
+
+smiling.  She looks frightened.
+
+Adrian moves to the door... Rocky intercepts her.
+
+Rocky removes her glasses and looks deeply into her eyes.
+
+After a moment, Adrian removes the hat... She is becoming
+
+rather pretty.
+
+The woman melts into the corner and begins lightly sobbing...
+
+Rocky steps forward and fences her with his arms and body.
+
+Rocky softly kisses the woman... Her arms hang limp.  He
+
+puts more passion into the kiss and she starts to respond.
+
+Her hand glides like smoke up his back.
+
+She embraces his neck.  The dam of passion erupts.  She
+
+gives herself freely for the first time in thirty years.
+
+EXT. GOLDMILL'S GYM - DAY
+
+The following day, Rocky strolls down the street to
+
+Goldmill's Gym... Out front a group of young blacks stop
+
+talking and study Rocky as he passes.  Rocky's eyebrows knit
+
+in confusion.
+
+INT. GOLDMILL'S GYM - DAY
+
+Rocky climbs the stairs and enters the gym...
+
+... In a matter of seconds, his presence is known and the
+
+athletes stare in wonderment... The big black heavyweight
+
+contender, Dipper, throws down his towel in disgust and
+
+turns away.
+
+Mike quietly approaches Rocky.
+
+Mickey Goldmill steps out of his office...
+
+Mickey pulls out a card from his breast pocket... He hands
+
+it to Rocky.
+
+Rocky turns from Mickey and jogs out of the gym.  Mickey
+
+fumbles with his rosary beads.
+
+EXT. SKYSCRAPER - DAY
+
+Rocky steps off a bus in mid-town Philadelphia.  He hurries
+
+down Broad Street.  Every few steps he breaks into a trot...
+
+He enters a skyscraper.
+
+INT. OFFICE BUILDING - HALL - DAY
+
+Rocky exits the elevator and enters the office of Miles
+
+Jergens' Productions.
+
+INT. JERGENS' PRODUCTIONS - DAY
+
+The SECRETARY is slightly startled by Rocky's excited
+
+expression.
+
+Rocky hands her the business card.
+
+The Secretary rises and enters Jergens' office... Rocky eyes
+
+the multitude of sporting pictures hanging on all four walls.
+
+The Secretary returns.
+
+Rocky collects himself and enters...
+
+INT. JERGENS' OFFICE - DAY
+
+Miles Jergens warmly greets him.
+
+Jergens seems very amused.  He lights a cigar.
+
+The weight of the statement comes crashing down in Rocky.
+
+For a long moment he becomes nothing more than a basket case
+
+as he ponders the statement... He half regains his senses.
+
+The SCENE FADES and becomes a black and white television.
+
+INT. PAULIE'S APARTMENT - NIGHT
+
+Rocky and Adrian are at her home watching an old black and
+
+white television... Rocky smiles... The film now cuts to
+
+Apollo being interviewed.
+
+Apollo has to move to the side to avoid a thrusting
+
+microphone.
+
+The Reporters laugh.
+
+Rocky and Adrian laugh at the interview... Paulie, her
+
+brother, takes offense.
+
+Rocky's interview now fills the screen.  Rocky squints and
+
+looks nervous under the hot lights.
+
+Adrian blushes and laughs.
+
+They continue to watch the remainder of the interview... The
+
+head COMMENTATOR is looking directly into the camera.
+
+Adrian is not happy with her brother's overbearing attitude.
+
+She faces him.
+
+INT. HALLWAY OF PAULIE'S APARTMENT - NIGHT
+
+Rocky stands in Adrian's doorway.  He kisses her.
+
+Rocky moves down the stairway and continues to do so as he
+
+converses with Adrian who remains upstairs.  His VOICE
+
+ECHOES up the stairwell.
+
+Rocky is now on the ground floor yelling up to Adrian on the
+
+top floor landing.
+
+As Rocky completes the last word, he exits the building and
+
+slams the door which RESOUNDS throughout the apartment house.
+
+EXT. ATOMIC HOAGIE SHOP - NIGHT
+
+Gazzo, the bodyguard, and Rocky are standing out front.
+
+They are eating hot sandwiches.
+
+Gazzo takes out a wad and peels off several bills.
+
+Gazzo looks at the Bodyguard and shakes his head as if to
+
+imply, "Why's this guy asking such a foolish question?"
+
+Gazzo and the bodyguard step to the white Caddy parked at
+
+the curb.  They enter the cab.  Rocky watches.
+
+INT. CAR - NIGHT
+
+Rocky smiles and Gazzo gets into his car.  Rocky follows him
+
+across the street.
+
+Rocky walks away.
+
+INT. ROCKY'S APARTMENT - NIGHT
+
+Rocky returns home and enters his apartment.  After turning
+
+on the light, he flips on his RECORD PLAYER.  He now feeds
+
+the turtles.
+
+Rocky notices two telegrams laying inside the threshold.  He
+
+approaches them with a sense of awe.  He opens and reads one.
+
+Settling on the bed, he reads the other.
+
+A KNOCK is HEARD.  Rocky opens the door.  Mickey Goldmill,
+
+the gym owner, stands framed in the doorway.
+
+Rocky tosses soiled clothing off a mangled armchair.
+
+By the manner in which Goldmill listens, it is obvious
+
+something important is preying on his mind.
+
+Rocky is slightly uncomfortable, almost embarrassed at
+
+having outsiders see how he lives.
+
+Mickey does not hear.  His attention is drawn to the turtles.
+
+Mickey looks hard into Rocky's eyes.
+
+He lights a half-smoked cigar.
+
+Mickey deafly continues, becoming more engrossed every second.
+
+Rocky points to his most prized possession.
+
+Mickey has rung the bell.  Nothing could please Rocky more
+
+than being compared to his idol.
+
+Rocky shifts against the wall and lowers himself into a
+
+crouch.
+
+Rocky rises and opens a window.
+
+Mickey drops the ashtray and kneels to pick it up... He
+
+remains on one knee.
+
+Rocky is choked and goes into the bathroom and closes the
+
+door.
+
+Mickey struggles to his feet and, like a beaten man, leaves.
+
+Several moments later Rocky steps out and lowers himself
+
+into bed.  Springing up a second later, he runs outside.
+
+EXT. STREET OF ROCKY'S APARTMENT - NIGHT
+
+Rocky races up the block toward the shadowy and hunched form
+
+of Mickey.  Way in the distance, we SEE Rocky stop the old
+
+man beneath a street lamp.  He places an arm around his
+
+shoulder.
+
+INT. ROCKY'S APARTMENT - PRE-DAWN
+
+The following morning, Rocky's ALARM CLOCK GOES OFF at
+
+exactly four A.M.  Not accustomed to rising this early, with
+
+great difficulty Rocky staggers to his feet and wavers to
+
+the bathroom.  He turns the light on and roaches scatter.
+
+At the top of the mirror hang the telegrams.  Rocky fills
+
+the basin and submerges his face in cold water.
+
+Rocky sways to the icebox and removes a dozen eggs.  He
+
+cracks five raw eggs into a glass and downs it in one
+
+swill... his body quivers.
+
+EXT. STREET OF ROCKY'S APARTMENT - PRE-DAWN
+
+Rocky steps outside.  He is dressed in a well-worn sweat
+
+suit with a hood, gloves and sneakers.  It is pitch dark and
+
+his steaming breath attests to the cold.
+
+He begins running down the center of the deserted street.
+
+He can only be clearly SEEN as his form passes beneath the
+
+street lamps.
+
+Two garbage men stop hoisting cans to watch him pass.
+
+EXT. ART MUSEUM STAIRS - DAWN
+
+Rocky stands at the base of an overwhelmingly steep flight
+
+of stairs.  He stares up at the stairs that nearly disappear
+
+into the morning gray.  Taking a deep breath, he starts up.
+
+From the start, he looks out of shape and halfway up his
+
+legs give way.  Standing, he brushes off and descends the
+
+stairs.
+
+EXT. CITY HALL - DAWN
+
+Rocky passes City Hall and veers to the river.  He pauses,
+
+heaving great gusts of exhausted breaths.  He throws several
+
+lazy jabs in the air and walks awhile with hands on his
+
+aching sides.  Men delivering the morning papers observe
+
+with amusement.
+
+Rocky forces himself to begin running again.
+
+EXT. ELEVATED TRAIN STATION - DAWN
+
+Heading along Spring Garden Street, Rocky passes beneath an
+
+elevated train station.  The ROARING TRAIN overhead seems to
+
+blend perfectly with his muscular running style.
+
+EXT. DOCKS - DAWN
+
+The sky is beginning to lighten.  The fighter now runs along
+
+the piers and past anchored freighters.
+
+EXT. EASTERN PACKING COMPANY - DAWN
+
+It is five-thirty and Rocky approaches the loading platform
+
+belonging to Eastern Packing Company.  Alongside the loading
+
+platform come several boxcars.
+
+Rocky mounts the ramp and knocks on the metal door.  It soon
+
+opens and Paulie guides him inside.  Paulie is drunk.
+
+INT. SHIPPING OFFICE - DAY
+
+Rocky notices TWO PUERTO RICANS lounging alongside theshipping office.
+
+Rocky smiles and Paulie leads him out of the office and to
+
+the large metal door of a walk-in refrigerator.
+
+INT. FREEZER - DAY
+
+They enter.  The freezer resembles a modern torture chamber...
+
+row after row of hanging slabs of beef stretch into the
+
+darkness to the far end of the refrigerator.  The blower
+
+overhead causes the men to speak loudly.
+
+Paulie opens a jackknife and idly jabs the hanging meat.  He
+
+swills whiskey from a pint bottle.
+
+Paulie speaks like a man who has been mulling this over for
+
+quite a while.
+
+From across the room Rocky looks him hard in the eyes.
+
+Paulie reddens.  He steps forward and slams his fists in a
+
+hanging beef.
+
+The punching of the beef is a muted challenge and Rocky
+
+responds.
+
+Rocky walks up to a beef and slams his fist into the ribs.
+
+The grotesque object swings in a wide arc like a hanging
+
+corpse.  Rocky moves to the next one and hooks.
+
+Rocky's face reveals a never before seen concentration, as
+
+though he were locked in total battle.
+
+Rocky speeds up and continues pounding on the second row of
+
+beef.  Paulie's eyes widen and his face grimaces with every
+
+punch, like he were receiving it.  Rocky moves into the dark
+
+recess of the refrigerator.  Only the dull SOUNDS of his
+
+POUNDING FISTS can be HEARD.
+
+Rocky works his way to Paulie again.  Every hanging beef
+
+swings and appears surrealistically alive.
+
+Rocky looks at his hands.  They are drenched in red up to
+
+the elbows with beef blood.
+
+Paulie hands him a package of beef.
+
+Rocky takes the package and runs out.  Paulie's bleary eyes
+
+reveal a fearful respect and slight resentment.
+
+INT. GOLDMILL'S GYM - DAY
+
+The gym is filled to capacity.  The NOISE is DEAFENING.
+
+Rocky pounds a heavy bag.
+
+Mickey steps forward and removes a piece of string from his
+
+pocket.
+
+He motions to his bullish helper, Mike.  He hands him the
+
+string.
+
+Mike completes the task.
+
+Two young boys in street clothes interrupt Mickey.
+
+The boys depart.
+
+Mike looks off across the gym.
+
+Mickey strains his eyes to see a group of REPORTERS and NEWS
+
+CAMERAMEN entering his gym.
+
+The Reporter has a hundred things on his mind... he turns
+
+from Mickey and nods to his crew... the other television
+
+crews rush to set up.
+
+The camera turns to Rocky.
+
+Mickey nods and Rocky faces the glaring lights.
+
+A young punchy fighter yells out:
+
+The gym explodes with laughter.
+
+He faces Mickey.  Mickey whispers in his ear.
+
+Apollo Creed and his entourage enter the gym.
+
+The gym freezes... everyone turns and stares in wonderment...
+
+Mickey Goldmill shakes his head in disbelief.  He now
+
+realizes it is a publicity stunt.
+
+Apollo turns to the cameras... Rocky is speechless.
+
+Dipper stands in the far ring... the attention Rocky is
+
+receiving makes him a killer.
+
+Everyone laughs... Dipper moves across the room like a large
+
+snake.  He brushes people aside and steps behind Rocky.  He
+
+nudges him... Rocky thinks it is an accident and ignores it.
+
+Dipper pushes harder and Rocky looks questioningly at him.
+
+Apollo stops his sales pitch in mid-sentence... The
+
+television crew faces Dipper.
+
+Dipper's fat black trainer holds out his hands and Dipper
+
+slaps them soul style.
+
+Silence looms over the gym... Apollo is apprehensive.  The
+
+scene is becoming too real.  The frightened television crew
+
+slyly begins putting away their expensive equipment.
+
+Mike forces his way through the crowd and stands behind Rocky.
+
+Dipper suddenly steps forward and slaps Rocky very hard
+
+across the side of the head... The gym becomes stone cold.
+
+Dipper is in total command and enjoying every moment of it.
+
+Mickey looks nervously around and knows it's only seconds
+
+before the blood will run... Rocky stands motionless.
+
+Rocky swallows his pride.  He still has the string around
+
+his ankles.  He starts to shuffle away with Mickey... Dipper
+
+steps forward and viciously slaps Rocky again.
+
+Mike jumps forward.
+
+Dipper cuts loose with a hook and knocks Mike flat.  The
+
+room reeks of fear... Apollo's eyes flick back and forth
+
+between Rocky and Dipper.  Apollo taps his bodyguards and
+
+they begin to ease away.
+
+Rocky eyes his friend lying on the floor.  He shuffles
+
+forward and stands before Dipper.
+
+Rocky looks at Mickey, then lowers his eyes to Dipper's
+
+feet... Dipper smiles.  Rocky starts to bend towards the
+
+shoes.  Without warning, he explodes with a pair of
+
+combinations into Dipper's exposed ribs.  A CRACK is HEARD
+
+and Dipper sinks to the floor writhing in pain... The room
+
+is silent except for Dipper's moaning.
+
+Apollo is stunned by the scene.  The gym has become a very
+
+gloomy place.  He eyes Rocky with admiration and a hint of
+
+apprehension... He leaves.
+
+Mickey is the first one to shake off the chill... He shakes
+
+his fists at the Reporters, and puts his arm around Rocky.
+
+The crowd disperses, leaving Dipper a pathetic and broken
+
+figure lying on a dirty gym floor.
+
+INT. ROCKY'S APARTMENT - NIGHT
+
+They enter the dismal apartment... On the floor are at least
+
+ten telegrams.  Rocky scoops them up and tosses them aside.
+
+Next to the door is a pile of over a hundred telegrams.
+
+Adrian steps to the window.  She pulls a pair of short but
+
+lovely curtains from a shopping bag... The colorful curtains
+
+glare in the dark room.
+
+Adrian smiles and pulls out a small Christmas wreath...
+
+Rocky smiles.  His eyes show what he feels for this woman.
+
+Rocky approaches in a seductive manner.  Adrian
+
+uncharacteristically removes her sweater.  Underneath is a
+
+T-shirt that reads "Win, Rocky, Win."
+
+SCENE FADES.
+
+EXT. STREET - PRE-DAWN
+
+Rocky is running... for extra weight he carries his huge
+
+dog, Butkus.  After a half a block he sags under the weight,
+
+and laughing, begins to wrestle with the dog on the
+
+pavement... Rocky tries to sneak away from the dog, but
+
+after a few steps the beast sees him and chases him down the
+
+street.
+
+EXT. EASTERN PACKING COMPANY - DAWN
+
+It is early morning and as usual Rocky jogs to the meathouse.
+
+He is followed by his new dog, Butkus.  He is stopped short
+
+when he notices several television news vans parked out front.
+
+INT. EASTERN PACKING COMPANY - DAWN
+
+He and the dog enter the freezer area and see several
+
+reporters and men with mini-cameras milling around... Paulie
+
+is waiting for him -- Rocky is upset and goes outside.
+
+Paulie follows.
+
+EXT. EASTERN PACKING COMPANY - DAWN
+
+Rocky follows Paulie inside.
+
+INT. EASTERN PACKING COMPANY - DAY
+
+A REPORTER points in Rocky's direction and suddenly he is
+
+surrounded and led into the freezer area and positioned
+
+beside a slab of hanging beef.  The camera lights go on.
+
+Rocky steps over to a hanging beef and begins pounding with
+
+incredible intensity... Everyone present is taken aback.
+
+Rocky completes hitting the meat and stands there with his
+
+hands dripping beef blood.
+
+The Commentator is unnerved and Rocky looks straight into
+
+the camera lens and holds up his bloody fists.
+
+INT. JERGENS' OFFICE - DAY
+
+Apollo sits behind Jergens' desk.  Jergens is not present.
+
+Four middle-aged and younger types and Creed's lawyer sit
+
+around the desk.  The desk is flowing with forms and charts.
+
+Meanwhile, the trainer sits across the room in a darkened
+
+corner looking at a small television.  He is watching
+
+Rocky's bloody exhibition on the news...
+
+He waves at Apollo.
+
+Apollo is still engrossed in his paperwork.
+
+EXT. PAULIE'S STREET - NIGHT
+
+It is a moonless night and Paulie staggers across the street
+
+and enters his building... He staggers up the stairs.
+
+INT. PAULIE'S APARTMENT - NIGHT
+
+Paulie removes his coat and tosses it listlessly in a
+
+chair... He rubs his red eyes and sways into the kitchen.
+
+He takes a bottle of wine out of the icebox.  As he swills
+
+the wine he hears the SOUND of Rocky's and Adrian's VOICES
+
+traveling from his sister's room.  Paulie's face tightens
+
+and he staggers towards the bedroom.
+
+He stands outside the bedroom door and peers through a
+
+crack... Rocky, Adrian, and the dog are watching TV in the
+
+otherwise darkened room.
+
+Filled with uncontrollable anger, Paulie smashes into the
+
+room.
+
+Paulie kicks the door out of frustration and appears to be
+
+bordering on a nervous breakdown.
+
+Paulie goes to the living room closet and removes a baseball
+
+bat... Rocky and Adrian quickly follow.
+
+Adrian is speechless... Rocky moves towards Paulie.
+
+Rocky freezes...
+
+Paulie smashes a small table with the bat.
+
+Paulie smashes a large lamp with the bat.
+
+The brother flares up and threatens Adrian with the bat.
+
+Mortified, Adrian runs to her room... Rocky steps to Paulie.
+
+Paulie cocks the bat back and tenses... Rocky remains still.
+
+Paulie looks ashamed... Rocky walks, then returns.
+
+Rocky goes into the bedroom... Adrian has buried her face in
+
+a pillow... She is rocking slightly.  Rocky cradles her and
+
+kisses her cheek.
+
+INT. MICKEY'S OFFICE - DAY
+
+Mickey is in his cluttered office above the gym... the room
+
+is dark.  Blankets are tacked over the windows.  Rocky is
+
+watching 8 mm movies of Apollo Creed in action... Rocky
+
+watches with intense concentration as the fighter moves like
+
+a huge dancer around the ring.
+
+They both watch the flickering images.
+
+They watch more action... Creed has a fighter helpless
+
+against the ropes.
+
+They watch more action.
+
+The SCENE FADES on Mickey's voice and Rocky staring
+
+transfixed at the images projecting on the wall...
+
+INT. GOLDMILL'S GYM - DAY
+
+Rocky is pounding the heavy bag with intense concentration.
+
+As he strikes from all angles, Mickey instructs.
+
+INT. GOLDMILL'S GYM - LATER
+
+Rocky now works on the incline situp board... While doing
+
+situps, he pounds himself in the stomach with a dumbbell.
+
+The pain is evident on his face.
+
+INT. GOLDMILL'S GYM - STILL LATER
+
+Pushups between two chairs as Mike sits on his shoulders...
+
+Mickey coaching drives him on.
+
+INT. GOLDMILL'S GYM - STILL LATER
+
+Mike has on a pair of target gloves and Rocky moves around
+
+the ring swinging at them.
+
+INT. GOLDMILL'S GYM - STILL LATER
+
+Drenched in sweat, Rocky hums the speed bag.  His expression
+
+is hard and flushed.  Mickey clicks a stopwatch and pats
+
+Rocky's shoulder... He is very happy.
+
+INT. GOLDMILL'S GYM - STILL LATER
+
+Rocky has just completed exercising with the medicine ball...
+
+Dino hands him a towel... Paulie crosses the gym as Rocky
+
+heads to the steam room... A thin man crosses the gym and
+
+Mickey nods.
+
+Benny checks the skin around Rocky's eyes.
+
+Heading towards the shower, Rocky is intercepted by Paulie
+
+who traverses the gym.  He stops Rocky at the shower room
+
+entrance.
+
+Exhausted, Rocky studies Paulie's face a moment and nods
+
+'yes.'... Rocky sways into the shower room and Paulie
+
+strides off.
+
+EXT. STREET - DAY
+
+Running... Rocky's crowd of trailing boys has tripled.
+
+Dashing through the streets, he resembles the Pied Piper.
+
+EXT. ART MUSEUM STAIRS - DAY
+
+It is twilight and Rocky is alone at the very bottom of a
+
+huge flight of steps that seem to stretch into the heavens...
+
+Rocky takes a deep breath and sprints up the never-ending
+
+stairs... Halfway up, his body shows the strain.  Nearing
+
+the top, Rocky pumps with all his strength and arrives at
+
+the very top... He looks down the steep stairs and swells
+
+with pride... He is ready.
+
+INT. MAYOR'S OFFICE - DAY
+
+Rocky is led into Mayor Rizzo's office by an aide... Rocky
+
+is very nervous as he approaches the mayor, who is seated
+
+behind his wide desk.
+
+Flips open a thick file that lays in front of him.
+
+Rocky tries to sink into the chair.
+
+The mayor presses a button and a photographer enters.
+
+Rocky rises and the mayor shakes his hand... Their picture
+
+is taken three times... The photographer exits.
+
+The mayor is shocked at first but then breaks into a big,
+
+friendly laugh, and Rocky exits.
+
+INT. ROCKY'S APARTMENT - NIGHT
+
+Adrian and Rocky are at his apartment.  They are looking at
+
+new scrapbooks.  Newsweek Magazine: Headline: "The Italian
+
+Stallion or Donkey?" -- Philadelphia Magazine -- Rocky
+
+stands with the mayor.
+
+She flips through Sports Illustrated, The American Sportsman,
+
+Ring Magazine, World Boxing, True, and a multitude of other
+
+clippings.
+
+The TELEPHONE RINGS... Rocky rises and walks to the new
+
+white object hanging on the wall.
+
+Adrian overhears the statement.
+
+Rocky makes no motion to get a pencil.
+
+Rocky hangs up.
+
+Rocky grabs his coat and moves to the front door.
+
+INT. GOLDMILL'S GYM - NIGHT
+
+Rocky arrives at Goldmill's Gym... He unlocks the gym's door.
+
+Rocky and the dog move through the eerie shadows of the gym.
+
+Rocky moves across the gym with his dog and moves up the
+
+steps to Mickey's office... At the top of the stairs he
+
+looks down at the ring, reflects for a moment, then enters
+
+the office.
+
+INT. MICKEY'S OFFICE - NIGHT
+
+After turning on the lights, he quickly cleans the cluttered
+
+desk and sets up the projector... He goes to the cabinet and
+
+removes a stack of 16 mm films.
+
+INT. MICKEY'S OFFICE - SEVERAL HOURS LATER
+
+The office clock indicates it is several hours later.  Rocky
+
+is engrossed in watching another Apollo Creed film.  He sits
+
+motionless.
+
+Rocky sits upright.  Something catches his eyes... He
+
+springs at the projector.  He reruns the scene several times.
+
+INT. MICKEY'S OFFICE - SEVERAL HOURS LATER
+
+Several hours later Rocky is engrossed in watching another
+
+Apollo Creed film... He sits motionless.  Something catches
+
+his eye.  Rocky stops the projector as Apollo is delivering
+
+a knockout blow to an unfortunate opponent.
+
+Rocky moves right up to freeze frame and inspects it like it
+
+was a priceless painting... He backs off and begins writing
+
+on a note pad.
+
+INT. MICKEY'S OFFICE - DAWN
+
+The first light of dawn streams through Mickey's filthy
+
+windows... Rocky is slumped in a chair and it is apparent he
+
+has lost interest in watching the movies.
+
+The film has completed its run through the projector and
+
+lazily flops around on the top reel... Listlessly Rocky rubs
+
+his reddened eyes.
+
+The door opens and Mickey flips on the light... The two men
+
+stare at each other for a long moment.  Mickey studies
+
+Rocky's despondent expression and knows what is on the
+
+fighter's mind.
+
+Rocky stands and, with his dog, inches past Mickey and exits
+
+the room.  Mickey walks over and turns off the projector.
+
+He idly pushes the machine with a lazy motion until it
+
+slides off the desk and crashes to the floor.
+
+EXT. STREET - DAWN
+
+After leaving Mickey's gym, Rocky and his dog listlessly
+
+move down the street and head for home.
+
+INT. ROCKY'S APARTMENT - DAY
+
+Rocky arrives at his apartment... Adrian is asleep on the
+
+couch.  He lowers himself beside her.  Her eyes open.
+
+Adrian touches his face.
+
+Adrian touches Rocky's face... The fighter gently lowers
+
+himself beside his woman.
+
+INT. ARENA - NIGHT
+
+It is the night of the Bicentennial fight... The location is
+
+the Philadelphia Spectrum.
+
+The Spectrum is filling to capacity... Grandly dressed
+
+celebrities and wealthy fight fans lower themselves into
+
+their ringside seat.  Nearly everyone is holding a red,
+
+white, and blue sweater...
+
+The arena is decorated in tons of patriotic red, white and
+
+blue.  High above the ring are huge posters of GEORGE
+
+WASHINGTON - ABE LINCOLN - DR. MARTIN LUTHER KING, JR. - BEN
+
+FRANKLIN - and APOLLO CREED.
+
+INT. APOLLO'S DRESSING ROOM - NIGHT
+
+Apollo Creed sits in his dressing room... It is dead silent
+
+except for some NOISE that filters under the door from the
+
+arena.
+
+It is a CLOSE-UP of Apollo's hand being taped... The RASPING
+
+SOUND of the adhesive tape is very pronounced.
+
+INT. ROCKY'S DRESSING ROOM - NIGHT
+
+The atmosphere is identical to Apollo's dressing room.
+
+Adrian watches in silence as Mike wraps Rocky's hand.
+
+Again, the most pronounced SOUND is the RASPING of the
+
+adhesive tape.
+
+INT. APOLLO'S DRESSING ROOM - NIGHT
+
+Apollo's other hand is being wrapped.  Dead silence except
+
+for the TAPE and APOLLO'S BREATHING.
+
+INT. ROCKY'S DRESSING ROOM - NIGHT
+
+Rocky's other hand is being wrapped in a CLOSE-UP.  The only
+
+SOUND is the TAPE and ROCKY'S mounting BREATHING PATTERN.
+
+INT. APOLLO'S DRESSING ROOM - NIGHT
+
+CLOSE-UP of drops being placed in his nose to help increase
+
+his intake of oxygen.  The tremendously magnified SOUND of
+
+APOLLO TAKING IN AIR.
+
+INT. ROCKY'S DRESSING ROOM - NIGHT
+
+CLOSE-UP of the drops being placed in Rocky's nose.
+
+INT. APOLLO'S DRESSING ROOM - NIGHT
+
+A heavy coating of vaseline is applied around the Champion's
+
+eyes... In an EXTREME CLOSE-UP, the eyes shine brightly with
+
+the grease.
+
+INT. ROCKY'S DRESSING ROOM - NIGHT
+
+Grease is smeared around Rocky's eyes... In the EXTREME
+
+CLOSE-UP several deep scars are SEEN.
+
+INT. APOLLO'S DRESSING ROOM - NIGHT
+
+CLOSE-UP of Apollo's trainer digging his fingers deeply into
+
+the thick neck muscles of Apollo's upper back and neck.
+
+INT. ROCKY'S DRESSING ROOM - NIGHT
+
+CLOSE-UP OF Mike's arms wrapped around Rocky's waist and
+
+lifting his diaphragm up... Magnified BREATHING ROARS from
+
+the screen.
+
+INT. APOLLO'S DRESSING ROOM - NIGHT
+
+Apollo's trainer slips a mouthpiece into Apollo's mouth.
+
+Apollo shakes his head and the trainer removes it and places
+
+another one in the champ's mouth... Creed nods yes.
+
+INT. ROCKY'S DRESSING ROOM - NIGHT
+
+Everyone present is motionless as Rocky is in the bathroom.
+
+Alone, Rocky is on his knee praying.  Completing his silent
+
+prayer, he stands and looks at himself in the mirror.
+
+Suddenly a wave of emotion sweeps over him as he thinks that
+
+in a few moments he will face the most overwhelming challenge
+
+of his life.
+
+Out in the dressing room, the door opens and a guard leans
+
+in and nods that it is time.  He leaves... Rocky steps out.
+
+Rocky nods and moves toward Adrian.
+
+Rocky nods and she kisses him.  The fighter leaves with his
+
+trainers... Adrian is on the verge of tears.
+
+INT. HALLWAY - NIGHT
+
+Rocky, Mickey and Mike start down the long hallway... Up
+
+ahead are three security guards... Rocky rubs his bare
+
+shoulders.
+
+Rocky puts on the robe... Embroidered across the back in
+
+flaming letters is:
+
+Mike helps him into the robe... Mickey is not amused.
+
+INT. ARENA - NIGHT
+
+TWO RINGSIDE COMMENTATORS sit in front of a panel of closed
+
+circuit televisions.
+
+ANOTHER ANGLE
+
+A wedge of uniformed guards knife down the aisle to the ring.
+
+Many people wish Rocky well as he passes... people also hurl
+
+insults.  From the expression on Mickey's face it is also
+
+the greatest night of his life.  In the audience are familiar
+
+faces from the gym.  From the back of the arena a ROAR goes
+
+up... Apollo Creed is in a mock boat dressed like George
+
+Washington.  He throws silver dollars.  The NOISE builds to
+
+DEAFENING proportions.  Creed's trainer holds the rope and
+
+Creed bounds into the ring.  He tears off the Washington
+
+outfit and it is clearly SEEN that Apollo Creed is garbed in
+
+an outrageous Uncle Sam outfit... On his head is a red,
+
+white and blue sequined top hat.  The robe is sequined red,
+
+white and blue.  His boxing trunks are red, white and blue
+
+silk with stars around the waistband.  The boxing shoes
+
+match the trunks.  On his chin is a pointed white Uncle Sam
+
+beard.
+
+Immediately Creed begins gracefully dancing in a wide circle.
+
+He passes within inches of Rocky in his Uncle Sam outfit.
+
+The crowd loves the taunting.  Apollo Creed floats back to
+
+his corner.
+
+ANOTHER ANGLE
+
+The ANNOUNCER steps to the center of the ring... Several men
+
+in suits stand against the ropes... Paulie is dressed nicely
+
+and sits at ringside with a pretty blonde escort.  Rocky
+
+waves at him.  Paulie waves back and secretly gestures at
+
+his date... Rocky smiles and gestures back.
+
+The CROWD ROARS and JACK DEMPSEY waves and goes to Creed's
+
+corner, then Rocky's.
+
+He moves off.
+
+ANOTHER ANGLE
+
+The Announcer points and the timekeeper RINGS the BELL.
+
+JAKE LA MOTTA raises his fist and gives best wishes to both
+
+contenders... Timekeeper RINGS the BELL.
+
+ANOTHER ANGLE
+
+JOE LOUIS bows and steps to Creed's corner.  Creed strikes a
+
+boxing pose and Louis tosses a playful punch.
+
+ANOTHER ANGLE
+
+FRAZIER rumbles to the center of the ring.  The CROWD CHEERS.
+
+Apollo puts on a show... He grimaces and gestures like he's
+
+going to attack Frazier.  His cornermen hold him back.  They
+
+laugh.  Frazier goes to Rocky's corner.
+
+ANOTHER ANGLE
+
+The Commentators beckon to Frazier as he exits the ring.
+
+Joe Frazier stands in front of the Commentators.
+
+Joe laughs and exits.  The timekeeper RINGS the BELL.
+
+ANOTHER ANGLE
+
+A good CROWD RESPONSE.
+
+ANOTHER ANGLE
+
+The arena EXPLODES and Creed puts on a display of hand speed.
+
+ANOTHER ANGLE
+
+The REFEREE motions to both fighters... They step to the
+
+center of the ring.  As the Referee explains the rules
+
+Apollo and Rocky stare hard into each other's eyes... The
+
+Referee's voice fades and the fighters' expressions fill the
+
+screen... Something soulful and frightening is being
+
+communicated.
+
+The fighters return to their corners.
+
+ANOTHER ANGLE
+
+The BELL RINGS... Creed dances forward and boxes Rocky as
+
+though he considers the man an amateur.
+
+ANOTHER ANGLE
+
+ANOTHER ANGLE
+
+Rocky suddenly explodes with an upswing hook to the jaw.
+
+Creed is dropped.  The arena EXPLODES.  Creed's eyes show
+
+disbelief.  So do Rocky's.
+
+Rocky backs into his corner... Mickey and Mike yell at him.
+
+Creed is up... His playful attitude is gone... he is now all
+
+business.  His lightning jab stings Rocky's face repeatedly.
+
+Rocky charges and a terrific right crashes against Apollo's
+
+chin, followed by an uppercut to the liver that causes Creed
+
+to cringe...
+
+Apollo counters with jabs and Rocky whips brutal combinations
+
+to the body.
+
+The BELL RINGS.
+
+ROCKY'S CORNER
+
+APOLLO'S CORNER
+
+Apollo does not sit.  He stands and clowns with the
+
+spectators to prove he is not hurt.
+
+ANOTHER ANGLE
+
+The BELL for the second round RINGS... Rocky rushes out fast
+
+and furious.  Apollo melts out a left hook that raises a
+
+goose egg over Rocky's eye... Apollo employs footwork that
+
+dazzles Rocky.  He has class.  He studies Rocky and employs
+
+his lightning jab with cutting accuracy. Still Rocky shuffles
+
+ahead, bombarding Creed's midsection with hooks.
+
+ANOTHER ANGLE
+
+The round ends with Apollo assaulting Rocky with blinding
+
+combinations and delivering a stupendous right cross that
+
+flings Rocky into the ropes and shatters his nose... The
+
+round ends.
+
+ANOTHER ANGLE
+
+Apollo stands in his corner and jokes with the fans, but he
+
+is beginning to show the strain from the body punches.
+
+ANOTHER ANGLE
+
+Rocky sits as Mickey and Benny try to reduce the swelling
+
+around his eyes... The nose is shattered.
+
+ANOTHER ANGLE
+
+The Commentators are caught up in the action.  They speak
+
+rapidly into their microphones.
+
+ANOTHER ANGLE
+
+Round three... Apollo comes out dancing.  He skips and side-
+
+steps Rocky's sledgehammer hooks.  An expert ring general,
+
+Apollo uses the ring fully.  Rocky keeps tearing in and
+
+Creed meets the bombing attack that cause thick swelling...
+
+Near the end of the round Rocky fires a penetrating punch to
+
+the heart.
+
+The wallop knocks Apollo off balance... The CAMERA GOES TO A
+
+STEEP ANGLE SHOT from the floor, VERTICALLY UP Apollo's body.
+
+The SCENE GOES INTO SLOW MOTION... Rocky releases a
+
+terrifying uppercut that opens a gash under Creed's eye.
+
+Creed's face contorts with excruciation.
+
+ANOTHER ANGLE
+
+The BELL SOUNDS.  Apollo's corner works frantically to close
+
+the wound... The ring DOCTOR inspects the cut.
+
+ANOTHER ANGLE
+
+Rocky's face is in very bad shape, not cut, but wretchedly
+
+swollen around the eyes.
+
+SERIES OF SHOTS
+
+In the next ten rounds, Apollo cuts and slashes Rocky to
+
+ribbons, but pays dearly... Both his eyes and lips are cut.
+
+Welts across his midsection attest to Rocky's body-battering.
+
+INT. ROCKY'S DRESSING ROOM - NIGHT
+
+Adrian is unable to remain alone... She is lured by the
+
+GROWING ROAR OF THE FANS... She exits the dressing room.
+
+INT. ARENA HALL - NIGHT
+
+Stepping out of the dressing room she walks down the corridor.
+
+The MOUNTING CHEERS make her speed up.  She opens the door
+
+at the end of the corridor and is hit by a THUNDEROUS WAVE
+
+OF SOUND.  The guard at the door inspects her and goes back
+
+to watching the fight.
+
+INT. ARENA - NIGHT
+
+Adrian stands at the rear of the arena and watches the
+
+battle.  She is entranced by the power of it all.
+
+Back in the ring, Rocky keeps grinding ahead.  He plants a
+
+thumping left over the Champion's heart and Creed winces...
+
+Rocky is game but losing.
+
+At ringside Paulie is frantic... He is living the fight from
+
+his seat.
+
+Mr. Gazzo and his Bodyguard watch from the second row.
+
+Gazzo looks proud.  The Bodyguard, impassive.
+
+INT. ANDY'S BAR - NIGHT
+
+A huge and lively crowd look up at the television over the
+
+bar... They see Rocky driving Creed against the ropes and
+
+cheer loudly.
+
+INT. ARENA - NIGHT
+
+The men are fighting with appalling tenacity.  Rocky rips
+
+and tears into the body... Apollo counters with a ceaseless
+
+stream of rapier-like lefts... The Challenger is seriously
+
+outclassed.
+
+Rocky wades in and Creed employs incredible footwork.  He
+
+sets himself and cuts loose with a thunderbolt right cross
+
+to Rocky's already broken nose.  Blood sprays from the wound
+
+and red droplets drip from his chin...
+
+Rocky takes a merciless beating and is staggered by a
+
+torrent of combinations.  Rocky's eyes are closed.  But
+
+Creed cannot drop him... The BELL RINGS.
+
+ANOTHER ANGLE
+
+The Commentators shift in their seats.
+
+ANOTHER ANGLE
+
+Apollo's corner is in turmoil... The Champion is definitely
+
+hurt.
+
+ANOTHER ANGLE
+
+In Rocky's corner, things are frantic.  His eyes are swollen
+
+shut.
+
+Mickey nods to Benny.  He secretly places a small ring knife
+
+between his index and middle finger.  In one smooth movement
+
+he drags the razor over the blood welts and quickly covers
+
+the draining wounds with gauze... It is done so quickly no
+
+one is ever aware of the operation.
+
+ANOTHER ANGLE
+
+At the rear of the arena Adrian looks transfixed at the ring.
+
+She is caught up in the heat of the battle.
+
+ANOTHER ANGLE
+
+The BELL RINGS for round fourteen.  Rocky bores in close,
+
+but Apollo still has spring in his legs.  He seems determined
+
+to end it this round... Apollo catches Rocky flush on the
+
+jaw.  Rocky is staggered.  Like a wolf, Apollo cuts loose
+
+with pure savagery.  Rocky is driven against the ropes and
+
+receives a devastating beating from the Champion... Rocky is
+
+dropped.
+
+Rocky sits stunned in the middle of the ring... Everything
+
+is a distortion.  He looks for familiar faces as though to
+
+ask for help... Mickey and Mike scream frantically for him
+
+to stay down.
+
+Rocky gets to his feet and tenses with renewed energy.  He
+
+is like a wounded wild animal.  The tide suddenly turns.
+
+Rocky drops low and catches Apollo with a pair of terrific
+
+body punches that seem to drive Apollo's diaphragm up to his
+
+throat... A CRACK is HEARD.  A glaze of pain covers Apollo's
+
+eyes.  It is only a supreme effort that keeps the Champion
+
+upright... Apollo is badly hurt.  He is bent over.
+
+Rocky moves towards Apollo.  Apollo flicks dread jabs into
+
+Rocky's eyes... The Italian wades in with punches that seem
+
+to bulge out Apollo's back.  Creed takes the punishment like
+
+a stoic.
+
+Blood is running from Apollo's mouth.  In the clinch he
+
+leans over Rocky and it drips down the Italian's neck and
+
+shoulders.  Apollo shields his wound from the ringside
+
+judges and continues to fight.
+
+ANOTHER ANGLE
+
+The BELL RINGS.  Apollo's men rush out and guide him to his
+
+corner.
+
+Blood trickles from the corner of Apollo's mouth.  The
+
+Trainer feels the ribs.
+
+ANOTHER ANGLE
+
+Rocky no longer resembles himself... His face has completely
+
+been beaten to jelly, but his mood is buoyant.
+
+The ring Doctor leans over Rocky and checks the eyes.
+
+Rocky is approaching the supreme moment of his life.  He
+
+cannot be bothered with pain or doctors.
+
+Everyone is distraught over Rocky's dangerous condition.
+
+Rocky stands and eyes them all.
+
+ANOTHER ANGLE
+
+The BELL RINGS... Apollo moves cautiously out of his corner
+
+and circles to Rocky's right.
+
+ANOTHER ANGLE
+
+The Commentators stare unansweringly at the fighters.
+
+ANOTHER ANGLE
+
+Apollo feints and Rocky falls for it.  The Champion unleashes
+
+a lethal blow to the side of the head that jolts Rocky's
+
+mouthpiece into the second row... Rocky sags against the
+
+ropes in a crucified position... The insane crowd leaps to
+
+their feet.
+
+ANOTHER ANGLE
+
+Rocky's bloody teeth snarl at Apollo and he waves him to
+
+come ahead and fight toe to toe... Apollo obliges with a
+
+weary but effective burst of rights and lefts that have K.O.
+
+written on every punch.  Rocky counters the assault blow for
+
+blow.
+
+Mickey looks at the clock... TEN SECONDS TO GO.
+
+Blood sprays over the ropes and onto the ringside
+
+photographers... They are horrified and wipe away the blood.
+
+The fighters stand toe to toe and drag every remaining bit
+
+of strength from their souls and beat each other without
+
+mercy.  They look hypnotized and have entered a dimension
+
+far beyond blood and pain.
+
+ANOTHER ANGLE
+
+The BELL RINGS... The arena EXPLODES with thunderous approval.
+
+Their cornermen rush to their collapsed fighters... In the
+
+midst of all the confusion both fighters look at each other
+
+with unabashed respect -- They stand like blood-drenched
+
+gladiators on the most dramatic night of their lives.
+
+As though reacting to some unspoken command, they both step
+
+towards each other and embrace... Apollo whispers in Rocky's
+
+ear.
+
+Mickey comes over and separates them and leads him back to
+
+his corner... Mickey embraces him.
+
+ANOTHER ANGLE
+
+The Announcer enters the ring with a microphone.
+
+The CROWD ROARS.
+
+ANOTHER ANGLE
+
+Apollo did not expect this and tenses.  His corner nervously
+
+tries to reassure him.  It does no good.
+
+ANOTHER ANGLE
+
+Rocky did not expect this either and looks in confusion at
+
+Mickey, but Mickey is frozen with anticipation.
+
+ANOTHER ANGLE
+
+ANOTHER ANGLE
+
+Apollo is rigid.  Fear radiates from his eyes.  To lose the
+
+crown on this night after the fight he fought would kill
+
+him... A silence has blanketed the arena.
+
+ANOTHER ANGLE
+
+ANOTHER ANGLE
+
+Rocky sorely smiles and looks at the waves of CHEERING fans
+
+that circle the ring and reach out towards him... Mickey
+
+grabs Rocky's hand and raises it.  The CROWD ROARS.
+
+Mickey and Rocky look at each other and grin.  Mickey hugs
+
+Rocky like a son.  Mickey raises Rocky's hand again.  Rocky
+
+turns away from Mickey and pats Benny the cut-man's
+
+shoulder... Benny smiles wearily.  Rocky stares across the
+
+ring at Apollo Creed, who stands victorious, but his face
+
+and body are badly distorted... The two men lock stares that
+
+reflect admiration.
+
+ANOTHER ANGLE
+
+Apollo climbs out of the ring and the fans crush forward
+
+screaming his name and waving red, white and blue banners.
+
+ANOTHER ANGLE
+
+Rocky also climbs out of the ring and waves of frantic well-
+
+wishing fans rumble forward... Mickey's eyes show mounting
+
+apprehension as the fans become abnormally active.
+
+ANOTHER ANGLE
+
+They shove the police aside and clutch wildly at Creed.
+
+Creed's army of bodyguards swing angrily at the crowd but
+
+they are soon engulfed by screaming waves of humanity.
+
+Apollo is suddenly hoisted into the air and is being carried
+
+along by a legion of fans.
+
+ANOTHER ANGLE
+
+On the opposite aisle Rocky is experiencing the same
+
+overwhelming adulation by his fans but does not seem to be
+
+frightened by it, like Apollo.  Mickey tries his best to
+
+control things but his voice is drowned out in the growing
+
+clamor.  The fans shove the guards aside and hoist Rocky to
+
+their shoulders.
+
+ANOTHER ANGLE
+
+Rocky's and Apollo's fans are aggressively competing against
+
+each other... chanting, 'Creed, Creed, Creed.'
+
+Rocky's fans counter by bellowing, 'Rocky, Rocky, Rocky.'
+
+ANOTHER ANGLE
+
+Paulie tries to get to Rocky but is shoved aside and he
+
+starts swinging.
+
+ANOTHER ANGLE
+
+Both Rocky and Apollo are completely at the mercy of the
+
+crowd.  They are being passed overhead and remain helpless
+
+as their bodies float up the aisle on the sea of hands...
+
+The CHANTING IS DEAFENING.
+
+ANOTHER ANGLE
+
+Fearful that Rocky is in danger, Adrian tries to move
+
+forward.  Running headlong into the crowd, she angles
+
+through the mass to get to Rocky.
+
+ANOTHER ANGLE
+
+She is manhandled and shoved in a multitude of directions,
+
+but she keeps her feet... She sees him.  In the distance,
+
+Rocky floats INTO VIEW and Adrian flattens against the wall
+
+and waits for the procession to pass.
+
+The procession approaches and she clearly sees Rocky's
+
+unbelievably battered but smiling face.  He appears to be
+
+king of the world.
+
+The procession approaches and passes Adrian.  She jumps on
+
+her toes and waves frantically but is not seen.  She screams
+
+Rocky's name... Somehow the delicate voice knifes through
+
+the racket and reaches Rocky.
+
+Rocky frantically looks in all directions and barely manages
+
+to see Adrian jumping up and down waving.  The crowd is
+
+carrying him away.  He attempts to lower himself but the
+
+crowd won't permit it.
+
+Rocky instead turns and begins climbing across people's
+
+heads and shoulders.  He resembles a man trying to go up a
+
+down escalator.  People are jammed so tightly together Rocky
+
+manages to crawl across them to Adrian.
+
+Still suspended in air, Rocky leans down and Adrian jumps up
+
+and they lock in an embrace.
+
+The two are swept along into the greatest night anyone can
+
+remember...
+

@@ -1,0 +1,1564 @@
+PUNCH-DRUNK LOVE by Paul Thomas Anderson
+
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+LOGO
+
+Presentation cards with white, red, blue, blue-green
+
+backgrounds, then:
+
+INT. WAREHOUSE - EARLY MORNING
+
+CAMERA (STEADICAM) holds on a man in a suit, sitting behind
+
+a desk, on the phone: BARRY EGAN (Adam Sandler)
+
+OC DISTANT SOUND OF A CAR SKIDDING TO A STOP, SOME VAGUE,
+
+DISTANT SCREAMING IS HEARD...THEN SILENCE. Barry hears this,
+
+gets distracted, then back to the phone call;
+
+He hangs up the phone and walks through his warehouse. It's
+
+fairly non-descript place, boxing materials, etc. Products
+
+seem to be mainly silly novelties (pens that light up, key
+
+chains, novelty toilet plungers, etc)
+
+He lifts a LOADING DOOR and LIGHT POURS INSIDE, WASHES OUT
+
+THE FRAME....he's silhouette....CAMERA follows him
+
+out...stays overexposed and over his shoulder as he looks
+
+down towards the street.....
+
+...his business is situated at the end of a common driveway,
+
+shared with a few other nondescript places and an Auto
+
+mechanic....distant SOUND of a car SPEEDING and SKIDDING....
+
+....hold, then:
+
+....a JEEP CHEROKEE comes FLIPPING into FRAME, far off at
+
+the mouth of the alley, on the street. The JEEP ends up
+
+landing RIGHT SIDE UP....HOLD....
+
+.....Barry flinches a little, stares.....the JEEP sits idle
+
+for a moment....then it drives off....then:
+
+A speeding, small TOYOTA comes into view at the mouth of the
+
+alley, screeching to a halt. The passenger side door opens
+
+and a small, wooden HARMONIUM (like a portable organ) is
+
+placed on the ground. The TOYOTA speeds away.....
+
+....a moment or two later another NON-DESCRIPT CAR flies
+
+past very fast....
+
+BEAT. Barry squints, looks at the small HARMONIUM sitting
+
+alone in the middle of the street.
+
+He hesitates, looks around, holds, then walks back inside
+
+his warehouse.
+
+INT. BARRY'S WAREHOUSE - THAT MOMENT
+
+Barry on the phone again;
+
+He hangs up the phone and walks outside, CAMERA follows him
+
+again, out to the alley, over his shoulder......he looks
+
+down the length of the alley at the Harmonium. HOLD, THEN:
+
+A small FORD ESCORT pulls into the driveway, around the
+
+Harmonium, parks......a young woman named LENA LEONARD
+
+(Emily Watson) exits the car and starts to walk down the
+
+length of the alley towards him.....CAMERA stays over his
+
+shoulder and turns into a profile 2-shot;
+
+BEAT. Barry gently steps back and out of the FRAME.
+
+Lena hands him her keys, he steps back into FRAME, THEN:
+
+BEAT.
+
+She walks away....he starts back inside the warehouse,
+
+hesitates, watches her go.....right before she reaches the
+
+end of the alley, she glances back quickly, over her
+
+shoulder....he dodges inside real quick.....
+
+HOLD THE EMPTY FRAME......then he steps back out.....looks
+
+off at the Harmonium.....and the empty street.....he looks
+
+around some more....then he makes the long walk down the
+
+street.
+
+ON THE STREET.
+
+Barry stares at the Harmonium a little bit, looks around,
+
+both ways, then casually picks it up and walks back towards
+
+his business.....
+
+He brings it into his office and places it on his desk. He
+
+tries a few keys....pressing down...there's no sound.
+
+He presses his hand on the foot pedal and presses a key and
+
+a small note is made.....BEAT....he does it again....and
+
+holds the note.....
+
+INT. WAREHOUSE - OFFICE - EARLY MORNING
+
+Barry enters the warehouse with harmonium and runs into his
+
+office. He places it on the desk and hits a key: no sound.
+
+Barry goes to his knees and unlatched the bellows. He pumps
+
+the bellow, reaches up, presses a note, and another...then
+
+stands up into CU. and presses the 5 note
+
+melody......SUDDENLY: THE SOUND OF THE POD BAY DOOR SLIDING....
+
+....Barry spins around, scared shitless, sees: LANCE, who
+
+enters the warehouse, Barry rushes out to greet him;
+
+They enter into the office, Lance sees the harmonium;
+
+Lance walks around behind the harmonium....leaving Barry
+
+alone....towards the warehouse......he starts to back up a
+
+little.....
+
+Sal, Ernesto and Rico all start to come into work behind
+
+Barry.....he sees them: CAMERA pushes in on Barry....
+
+LAND IN CU. ON BARRY. CUT TO BLACK.
+
+TITLE CARD Punch-drunk Love Movie
+
+(maybe color blooms/overture here)
+
+INT. WAREHOUSE/MAIN AREA - DAY
+
+CAMERA pushes in slow as Barry and Lance talk to TWO
+
+CUSTOMERS about the plungers which are on display in front
+
+of them. They speak all over each other doing shop talk, etc;
+
+In the b.g., RICO over the laud speaker says:
+
+Barry doesn't move....
+
+Rico turns around, without loudspeaker;
+
+They look at him a moment....
+
+ANGLE, REVERSE. Barry turns and heads for the phone nearby
+
+at Rico's station;
+
+She hangs up.
+
+Barry takes a few steps back to the Customers:
+
+Barry tries again to ignore it....
+
+Barry walks back to the phone;
+
+Barry snaps out of this, turns, claps his hands in confidence
+
+and walks back to the customers and says:
+
+He takes one of the plungers and to demonstrate smacks it on
+
+the table....it SMASHES and rice falls out everywhere....
+
+Lance moves to get a new plunger....
+
+Barry holds, then;
+
+Barry walks this time into his office......CAMERA tracks
+
+with Barry to his office, seeing him try and shake this
+
+off.....He EXITS FRAME.
+
+INT. WAREHOUSE - OFFICE - THAT MOMENT
+
+Barry enters, takes a quick moment to size up the
+
+harmonium.....He picks up the phone and through the
+
+conversation gently moves the harmonium to a different spot
+
+on the desk;
+
+Barry plays the 5 note melody on the Harmonium (carries over
+
+into next scene....)
+
+INT./EXT. WAREHOUSE - LATER (BRIDGE/BREAK MUSIC WISE)
+
+Barry and his workers are having lunch. A LUNCH TRUCK is
+
+parked by the driveway. Barry sees the CAR that Lena brought
+
+by at the start of the movie....OC CALL from one of the
+
+workers;
+
+A mechanic passes by at this moment, keeps walking past;
+
+The mechanic keeps walking....Barry enters.
+
+INT. WAREHOUSE/NEAR LANCE'S DESK - LATE AFTERNOON
+
+Barry and the boys are prepping some boxes for shipping.
+
+Ernesto walks over, says;
+
+Barry stands up fast, stumbles back a bit over some boxes,
+
+recovers, ELIZABETH enters:
+
+BEAT. HOLD. She stares him down.
+
+She leaves. HOLD ON BARRY. He air punches/twitch.
+
+INT. WAREHOUSE - LATER/BLUE HOUR - NIGHT
+
+Barry is alone, closing up. He takes a look at the Harmonium
+
+and presses it, makes a sound....a little bit more....makes
+
+a few notes. END SCORE QUE as it blends and fades into the
+
+notes that Barry plays.
+
+BEAT. He closes its small cover, does something on his desk
+
+and then:
+
+His face gets bright red, he holds back tears, opens his
+
+mouth and has a serious but small burst of overwhelming
+
+emotion and then it's over.
+
+INT. SUPERMARKET - NIGHT
+
+CU. BIRTHDAY CARD.
+
+Barry's hands reaches in and picks a birthday card.
+
+ANGLE, WIDER, THAT MOMENT.
+
+Barry grabs the card and starts to push his cart....but he
+
+pushes it straight into a SIX YEAR OLD KID who's pushing a
+
+cart around....they slam into each other....
+
+Barry apologizes....the KID just takes off....Barry's cart
+
+now has a slightly damaged wheel that wobbles like crazy....
+
+ANGLE, FROZEN FOOD AISLE.
+
+CAMERA tracks left to right with Barry as he heads for the
+
+Healthy Choice Frozen Dinner. He grabs one.
+
+CU. BARRY. LOW ANGLE.
+
+He looks at box.
+
+BARRY'S POV - THE BOX
+
+Slow zoom in. The sticker reads: "Fly Away With Us! The More
+
+You Buy The More You Earn."
+
+ANGLE, SOUP SECTION.
+
+CAMERA tracks along right to left with Barry as he moves
+
+towards some SOUP. He grabs one, inspects it.....then puts
+
+it back.
+
+CU. SOUP CAN.
+
+It's put back on the shelf: TILT down to price: 79 cents.
+
+Barry turns his cart around and SMACKS right into someone
+
+else again, screwing up another wheel on his cart.
+
+ANGLE, BARRY.
+
+CAMERA, tracks alongside him, left to right as he comes
+
+across: PUDDING. The price: 4/$1.00.
+
+MED. BARRY in the middle of the aisle.
+
+He reacts......smiles...holds....thinks....looks around,
+
+then starts to load up on the pudding.
+
+ANGLE, BARRY.
+
+He pushes TWO SHOPPING CARTS FULL OF PUDDING over to the
+
+STORE MANAGER who's on his knees, stacking milk.....Barry
+
+kneels down, CAMERA PUSHES INTO A CU. as he speaks sotto;
+
+INT. SUSAN'S HOUSE - NIGHT
+
+The door opens slowly and Barry peers his head around and
+
+into the house very cautiously, CAMERA PUSHES IN and PANS
+
+slightly LEFT to reveal: THE KITCHEN.
+
+Barry's SEVEN SISTERS are all there, preparing dinner and
+
+talking away....they turn and see him;
+
+Another sister, RHONDA, enters from behind, Barry jumps, says:
+
+She gives him a very quick hug and kiss and sets the cake
+
+next to a bigger, cooler looking cake.
+
+Mia approaches holding a baby.....Barry tries to say hello
+
+to the baby, but Mia slowly turns the baby out of Barry's
+
+grasp....making herself the center of his attention;
+
+KITCHEN/DINING ROOM, THAT MOMENT
+
+Barry gets slightly turned around trying to reach the
+
+baby...and ends up in a doorway that leads to the dining
+
+room, revealing himself to: ELIZABETH, KAREN, NICOLE AND
+
+ANNA. There are also: THREE BROTHER IN LAW'S (WALTER, LARRY
+
+AND STEVE)
+
+KAREN steps up and greets him;
+
+Barry shakes hands and hello's with the brother in law's.
+
+He's left alone for a moment with Walter and Elizabeth;
+
+Walter moves to help everyone...they're moving to set the
+
+table......
+
+CAMERA CLOSES IN ON BARRY AND ELIZABETH alone for a beat:
+
+RHONDA passes;
+
+Elizabeth leaves, HOLD ON BARRY.
+
+CAMERA PUSHES IN TOWARDS EVERYONE SETTING THE
+
+TABLE.....CAMERA ROTATES AROUND.....everyone is still
+
+chatting a bit about "Barry gay boy," and "the girl that was
+
+gonna be here that Barry wouldn't allow."
+
+ANGLE, REVERSE. Barry is standing in front of the floor to
+
+ceiling sliding glass doors.....in an INSTANT, he TURNS AND
+
+THROWS HIS FIST STRAIGHT THROUGH THREE OF THEM, THEY
+
+SHATTER....he turns back, they are all staring straight at
+
+him in silence. HOLD, THEN:
+
+In unison they all go ape shit:
+
+INT. SUSAN'S HOUSE - HALLWAY - LATER
+
+It's later and WALTER and BARRY walk down a small hall and
+
+into a kids room. They're OC for a few moments as the CAMERA
+
+slowly pushes in and towards the room. Following sotto;
+
+Barry starts to cry. Walter just stares at his. HOLD.
+
+Barry stops, recuperates, then leaves.....as he does;
+
+INT. BARRY'S APARTMENT - LATER
+
+CU. HEALTHY CHOICE COUPON.
+
+Barry's scissors cut out a coupon and reveal an image
+
+beneath in another section of the newspaper...it's the sexy
+
+LEG of a woman....
+
+BARRY very casually pushes some papers aside and looks at
+
+the ad...
+
+HOLD ON HIS FACE. He looks....then:
+
+MOMENTS LATER, BARRY ON THE PHONE.
+
+He listens;
+
+INT. BARRY'S APARTMENT - MOMENTS LATER
+
+Barry waiting at his dining room table. HOLD. The PHONE
+
+RINGS. He picks it up;
+
+He walks into something.
+
+Barry holds his head in his hands for minute, then stands
+
+out of it --
+
+INT. BARRY'S APARTMENT - MOMENTS LATER
+
+INT. BARRY'S BATHROOM/BEDROOM - LATER
+
+It's a little bit later and Barry stands in his bathroom,
+
+washes his face....HOLD....then he dries his face, walks
+
+into his bedroom, gets into bed wearing T-shirt and
+
+underwear.....he crawls in, curls up in fetal position....
+
+INT. SAME EXACT ANGLE - MORNING
+
+Sun comes in now. Barry is somehow dressed in a FULL ADIDAS
+
+SWEAT SUIT complete with SNEAKERS. He wakes up, looks down
+
+and sees this, confused;
+
+INT. KITCHEN - MOMENTS LATER
+
+Barry is dressed for work in another suit now. He grabs some
+
+stuff and heads for the door when the phone rings;
+
+BEAT.
+
+BEAT.
+
+BEAT. Barry steps back a little....
+
+Barry hangs up the phone real fast. HOLD. He doesn't move.
+
+INT. BARRY'S WORK/WAREHOUSE - MORNING/LATER
+
+CAMERA (HAND HELD) behind Barry, as he walks through the
+
+warehouse, greets the boys, says hello to Lance, etc. Lance,
+
+taking his cue from Barry, is a bit more dressed up today....
+
+CAMERA sees that all the pudding Barry bought has been
+
+stacked neatly in a corner. Barry stops dead in his tracks
+
+to explain;
+
+Barry goes into his office and looks at the Harmonium. BEAT.
+
+He presses some keys, makes a little more noise with it. (a
+
+quarter of some sort of melody starts here...)
+
+ANGLE, MOMENTS LATER.
+
+Barry is cutting up his CREDIT CARD with some scissors. He
+
+throws it away.
+
+ANGLE, MOMENTS LATER.
+
+Barry paces around a little bit.....CAMERA stays inside and
+
+watches him as he walks outside for a moment, looks
+
+around....he sees something outside, hesitates, then dodges
+
+back inside the warehouse --
+
+-- once inside, he takes a horrendous, hurtful fall over
+
+something....He stands up quick;
+
+He backs away, then steps OUT OF FRAME...a moment later
+
+ELIZABETH (his sister) and LENA (from the opening) enter the
+
+warehouse, walking towards Barry;
+
+CAMERA pushes in towards LENA and blends to 30fps...she
+
+smiles, looks ahead, CAMERA slowly pans a 180 around to
+
+become her POV.
+
+Barry is standing near the harmonium, fiddling around. He
+
+looks up, sees Elizabeth and Lena walking towards him and
+
+tenses....they meet in the middle of the warehouse;
+
+CAMERA follows Barry as he walks back to his little office,
+
+picks up the phone;
+
+BEAT.
+
+ANGLE, ELIZABETH AND LENA
+
+She leaves. Elizabeth heads for Barry's office;
+
+ANGLE, BARRY on the phone
+
+Elizabeth comes walking into his office, starts whispering
+
+to him as he's on the phone;
+
+He starts to hang up the phone, turns to Elizabeth as we hear;
+
+ANGLE, BARRY AND ELIZABETH, MOMENTS LATER
+
+They walk out and as they do, Lena comes back in with her
+
+keys in her hand, Elizabeth keeps walking past;
+
+Barry and Lena about to be alone as Lance walks up;
+
+He walks away, Lena turns to him;
+
+Barry turns instantly and walks away....he turns back as he
+
+walks....TWO SHOT - track left with him....
+
+IN THE OFFICE, THAT MOMENT
+
+He picks up the phone.
+
+Barry instantly hangs up the phone, turns around and walks
+
+back to Lena;
+
+No response from Barry. (cut to reverse 2-shot as they look)
+
+BEAT. In the b.g., two WORKERS are dealing with getting a
+
+large crate on top of a large stack of crates, they're using
+
+a fork lift....in an instant the large CRATE tumbles to the
+
+ground and SMASHES....Barry attempts to not notice this;
+
+The workers start calling out and apologizing for this to
+
+Barry, who keeps looking straight ahead to Lena;
+
+There's another LOUD CRASH as they try to reposition the box
+
+that's fallen, giving way to something else that FALLS. In
+
+other words, to correct the mistake they've already made,
+
+they have to sacrifice another CRATE that CRASHES. She
+
+looks, Barry just flinches, tries to stay looking straight
+
+ahead; CAMERA (HAND HELD) with Elizabeth, comes walking back
+
+in.....says to Barry:
+
+Lena and Elizabeth leave. CAMERA leads them as they walk;
+
+Sound starts to drop out, we see Barry and the boys cleaning
+
+up the boxes in the back....move into a CU on Lena....Music
+
+Cue. Score. treated piano, small rhythm/melodic(notes of
+
+harmonium so far)/gentle.
+
+Lena gets into her car. Elizabeth keeps walking. She waits
+
+until Elizabeth is out of sight at the mouth of the driveway
+
+and then she gets back out of her car and walks straight
+
+back into the warehouse.
+
+INT. WAREHOUSE - THAT MOMENT
+
+She comes walking in and over to Barry;
+
+They do a small search for a piece of paper, get it all
+
+written down and sorted out and then -- as they do this
+
+there is even more CRASHING AND SMASHING in the b.g., by the
+
+boys -- Barry and Lena settle up and say so long.
+
+She walks off. CAMERA leads her out, holds a CU. as she
+
+smiles to herself -- lead her a bit more until she's
+
+outside, and she gets in her car --
+
+CU. BARRY. He smiles, looks around, holds back his emotion
+
+so it looks like he'll explode....tenses, smiles, tears,
+
+looks around....HOLD. End Music Que.
+
+Barry walks in. HOLD. He picks up the phone.
+
+She hangs up real quick. HOLD. Barry and his harmonium.
+
+Title Card: Provo, Utah
+
+FADE IN:
+
+INT. STEVENS BROTHERS HOUSE - DAY
+
+CAMERA behind a BLONDE GIRLS HEAD (LATISHA). She speaks to
+
+two blonde brothers, DAVID and JIM. In the b.g., walking
+
+around holding a BABY is NATE. (Maybe a girlfriend or wife
+
+or two).
+
+Nate emerges a bit from the b.g.
+
+INT. LOCAL BAR/PROVO - LATER
+
+LATISHA, DAVID, JIM and NATE enter and meet DEAN TRUMBELL,
+
+listening to AFTER EDEN play onstage, standing in the middle
+
+of the room.
+
+They walk towards a back room, as they do they pass a
+
+REGULAR JOE who bumps into Dean accidentally, Dean explodes;
+
+Dean takes a BEER BOTTLE and SMASHES it in half on the bar,
+
+holds it up to the guy --
+
+INT. LOCAL BAR/PROVO - MOMENTS LATER
+
+They're all walking towards a back room of the bar, they
+
+walk past a COUPLE that is fighting. The WOMAN is screaming
+
+at the top of her lungs at the MAN;
+
+Dean gets in the middle of it;
+
+He motions over his shoulder to Ashes to Ashes.
+
+INT. DEAN'S OFFICE/UPSTAIRS/BACKROOM - MOMENTS LATER
+
+They enter into an upstairs office area. It has a couple
+
+desks and off to the side, in a small, partitioned off room
+
+is The Phone Sex Area; a GIRL on the phone. (We hear bits of
+
+her call, e.g. "Me? I'm in Florida. Laying on my bed.")
+
+There are posters for Ashes to Ashes, filing cabinets,
+
+posters of CARS, lots of various small business items like
+
+order forms and pamphlets, etc. Dean collects a piece of
+
+paper and hands it to David/Nate/Jim;
+
+He hands him a set of KEYS and goes through the info;
+
+He makes a very SUDDEN AND QUICK MOVE towards her and she
+
+FLINCHES.
+
+He hands him another piece of paper and a photo;
+
+After a long, long staring contest with David, Dean SUDDENLY
+
+AND VERY VIOLENTLY PUTS HIS FIST THROUGH THE WALL....then
+
+turns to David......Latisha rolls her eyes. David, Nate and
+
+Jim leave.
+
+EXT. UTAH STREET/TRUCK/MOVING - DAY/MAGIC HOUR
+
+CAMERA behind the heads of Nate, Jim, Dave as they drive
+
+down the street.....they call their brother "Mike D" on the
+
+phone and say, "what's up, we're goin' to Los Angeles, you
+
+wanna go?"
+
+EXT. UTAH STREET/TRUCK/MOVING - MOMENTS LATER
+
+CAMERA PANS left and picks up the fourth brother MIKE D as
+
+he walks from work and gets in the car.....CAMERA HOLDS
+
+behind the heads of the four blonde brothers as they drive off.
+
+EXT/INT. LENA'S APARTMENT COMPLEX - EVENING
+
+This is a SPLIT SCREEN SEQUENCE shot with TWO CAMERAS.
+
+THE LEFT SIDE OF THE SCREEN holds Lena. She waits in her
+
+small, nondescript apartment doing the things you do while
+
+waiting for someone else. She sits, stands, sits, stands....
+
+THE RIGHT SIDE OF THE THE SCREEN travels (STEADICAM) with
+
+Barry as he walks into the RECEPTION AREA. There is a
+
+SECURITY GUARD (black, female) who asks him his name, where
+
+he's going and to sign in. The Security Guard calls up to
+
+Lena's place....
+
+....and we watch Lena answer the phone....
+
+...The Security Guard gives Barry some very complicated
+
+directions....we follow/lead Barry as he makes his way
+
+through the maze/up elevators/down corridors looking for
+
+Lena's apartment.....Finally, he arrives, knocks;
+
+As she opens the door, THE SPLIT SCREEN SLIDES AWAY AND THE
+
+IMAGES GIVE WAY TO THE ONE OF LENA standing;
+
+INT. RESTAURANT - NIGHT
+
+Lena and Barry at a table. They talk (see notes.)
+
+Barry leans a little bit out of FRAME.
+
+BEAT. He leans slightly back in FRAME.
+
+Barry starts to WELL WITH TEARS, which he hides very
+
+quickly, holds a hand up to his face as if he's touching his
+
+nose, and then he smiles;
+
+He gets up and goes.
+
+INT. BATHROOM - MOMENTS LATER
+
+Barry walks in and goes a little crazy. He's mad at himself
+
+and he HITS a stall....it seems loose already and falls
+
+straight to the floor.
+
+This makes him go crazier and he continues to BEAT and KICK
+
+the shit out of the bathroom/stall.
+
+HOLD. He collects himself and then he hesitates, looks
+
+around, tries to collect the bathroom but it's in ruins, he
+
+exits....
+
+INT. RESTARAUNT - MOMENTS LATER
+
+Barry comes back and sits down, seems a little better. Tries
+
+to be a little flirtatious for half a moment before: the
+
+MANAGER comes over, leans in carefully;
+
+He looks to Lena, excuses himself.
+
+ANGLE, OFF TO THE SIDE.
+
+The Manager and Barry step away, in a quiet section of the
+
+restaraunt, 2-shot, profile, in sotto; SLOW ZOOM IN.
+
+BEAT.
+
+He starts to move back....
+
+Barry takes out some money and hands it over.
+
+ANGLE, BACK AT THE TABLE.
+
+They walk back to the table and Barry whispers down to her,
+
+very close, STEADICAM (leads them out - continuous)
+
+They head out of the restaraunt.
+
+They walk a bit.
+
+They walk some more.
+
+They walk some more and get in the car.
+
+INT. BARRY'S CAR - DRIVING - NIGHT
+
+75mm OVER ONTO BARRY. 75mm OVER ONTO LENA. Rear process or
+
+poor man's process.
+
+Barry looks at her......
+
+BEAT.
+
+INT. LENA'S APARTMENT - LATER
+
+Lena and Barry finishing up the date;
+
+They do a shake hands/kiss on cheek goodbye.
+
+CAMERA IN THE HALLWAY with Barry as he walks away .....
+
+CAMERA follows him as he swiftly walks away.
+
+INT. RECEPTION AREA/LENA'S BUILDING
+
+Barry steps out of the elevator and walks to the exit,
+
+passing a RECEPTION DESK WOMAN.....we hear the PHONE
+
+RINGING......she calls out;
+
+Barry walks towards the phone;
+
+INT. MAZE OF CORRIDORS - MOMENTS LATER
+
+Barry is walking up and around, looking for the spot. Two or
+
+three shots of various, him getting a little/slightly
+
+lost.....running/walking....
+
+INT. HALLWAY - THAT MOMENT
+
+CAMERA pushes down towards him as he walks towards the door.
+
+He knocks, she opens up, CAMERA SLIDES right in and lands as
+
+they KISS and then the kiss turns into a small hug and then
+
+they talk, real close. HOLD.
+
+CAMERA behind Barry as he walks away...HOLD BEHIND HIM FOR A
+
+BIT LONGER THEN EXPECTED;
+
+INT. BARRY'S APARTMENT/GARAGE
+
+CAMERA inside the garage. Barry pulls inside and parks his car.
+
+ANGLE, BEHIND THE CAR. Brake lights turned off, Barry steps
+
+out.
+
+INT. BARRY'S APARTMENT/KITCHEN - THAT MOMENT
+
+CAMERA on Barry's trash can, the kitchen light comes
+
+on....SLOW PUSH IN....He enters FRAME and lifts the trash
+
+bag out.
+
+EXT. BARRY'S APARTMENT - LATER
+
+CAMERA is behind Barry now in a new location....he's walking
+
+from his garage where he's just parked his car over to his
+
+garbage area as he throws something out...
+
+....he looks up and sees... Jim and Nate driving the Toyota
+
+Pick Up Truck...he cruises past slowly....keeps going....then
+
+makes a u-turn...Barry turns around and DAVID and MIKE D are
+
+right there...
+
+Barry starts to walk away....David walks alongside him,
+
+casually.....Barry looks over and sees the car has pulled
+
+up....
+
+MIKE D violently PUSHES BARRY STRAIGHT TO THE GROUND.
+
+They grab the money from his pockets as they hold him down
+
+on the ground;
+
+Mike D pushes Barry's face.
+
+They pick him up and then;
+
+EXT. GROCERY STORE/BANK PARKING LOT - NIGHT
+
+CU. BARRY at the ATM. Various CU's as he puts his card in,
+
+presses his info, etc. He looks over his shoulder;
+
+ANGLE, THE BROTHERS.
+
+CAMERA SLOWLY PUSHES IN on the three of them watching Barry.
+
+CU.'s MONEY comes out of ATM. Card comes out. Receipt comes
+
+out. Barry grabs the money.
+
+MIKE D walks up out of nowhere and straight towards Barry -
+
+throws a PUNCH straight to his FACE.....Barry stumbles a
+
+bit, goes down to the ground.....he NOTICES IN A QUICK
+
+FLASH: Their UTAH license plate......
+
+....Barry makes a mad run for it.....
+
+EXT. STREETS & ALLEYS - NIGHT
+
+ANGLE, BARRY. - VARIOUS ALLEY WAY/STREET SHOTS.
+
+He turns some corners.....makes his way down a side street
+
+and through an alley or two....and then he's running like a
+
+mad man as fast as he can down the street......
+
+EXT. STREET NEAR ATM - NIGHT
+
+CAMERA tracks profile with him.....
+
+......The Boys pull up along side him slowly.....Barry looks
+
+over.....Mike D calls out from the passenger window;
+
+Barry starts to slow down. CAMERA behind....as he slows, we
+
+push in....land....he turns into CU. and walks back the
+
+opposite direction......
+
+INT. BARRY'S BEDROOM - NEXT MORNING
+
+CAMERA holds on Barry as he wakes up. He's dressed in a FULL
+
+BASKETBALL OUTFIT. Lakers shirt, shorts, high tops, etc.
+
+Small bandage over his ARM. He looks down at the outfit;
+
+INT. WAREHOUSE/BARRY'S OFFICE - MORNING
+
+CAMERA DOLLIES/ZOOM in real quick to Barry at the Harmonium.
+
+A few more notes are played, something starting to sort of
+
+sound like a melody......but still a little broken....HOLD.
+
+SCORE begins here (ref.notes)
+
+INT. WAREHOUSE/BARRY'S OFFICE - MOMENTS LATER
+
+Barry brings Lance in and closes the door, speaks sotto, then;
+
+BEAT. Barry looks over Lance's shoulder and sees THE PUDDING
+
+stacked up. He stares for a moment;
+
+One of the WORKER'S pops his head in, says;
+
+He picks up the phone;
+
+Barry hands up the phone real fast.
+
+EXT. WAREHOUSE - MOMENTS LATER
+
+Barry and Lance exit the warehouse and get into Barry's car --
+
+INT. SMART AND FINAL - DAY
+
+Barry and Lance are filling up an EXTRA LARGE SHOPPING CART
+
+with PUDDING as Barry explains, CAMERA pushes in;
+
+INT. SMART AND FINAL/CHECK OUT - MOMENTS LATER
+
+They're unloading the pudding which comes in packets of
+
+three, but Barry and Lance are taking them out of those
+
+packets and handing them to the CHECK OUT GIRL one by one.....
+
+BEAT. She scans them over and over and over....then:
+
+She scans and scans and scans and scans....
+
+EXT. SMART AND FINAL - DAY
+
+Barry and Lance pushing the shopping carts....Barry looks
+
+across the parking lot and sees:
+
+A TOYOTA PICK UP coming slowly towards him and Lance...
+
+...Barry starts to move steady/swiftly towards his
+
+car...Lance tries to keep up....Barry gets nervous, looks
+
+left and right...
+
+....The Toyota passes and it's nothing.....Barry and Lance
+
+load the pudding in his car as Barry acts as if nothing
+
+happened. He turns and sees a BABY in a shopping cart and he
+
+reacts;
+
+INT. SUPERMARKET - DAY
+
+Barry and Lance stack pudding in, Barry says;
+
+EXT. PARKING LOT/ANOTHER SMART AND FINAL.
+
+Barry and Lance walk together towards another Smart and
+
+Final....they walk towards the SLIDING DOORS.....that do not
+
+slide open...Barry walks face first into the doors and
+
+quickly turns around and heads back to the car...
+
+CAMERA holds the long walk back to the car....Barry glances
+
+both directions.....cautious and careful......sees nothing...
+
+He walks a little faster and gets in the car.....HOLD....SLOW
+
+ZOOM IN....SOUND DROPS out.....he just sits, then, to Lance;
+
+INT. BARRY'S WAREHOUSE - DAY
+
+CAMERA pushes in quick, Barry on the phone;
+
+Barry drops the phone to the ground, spins around and PUTS
+
+HIS FIST THROUGH THE WALL.....then drops down, lower his
+
+head. CAMERA HOLD CU. as he stops himself, tries to breath;
+
+HOLD. "He Needs Me," starts. He closes his eyes.
+
+INT. WAREHOUSE AREA - MOMENTS LATER
+
+Barry walks over to Lance;
+
+BEAT. He looks around at the pudding.
+
+He exits.
+
+INT. LOADING AREA/PLANE - DAY
+
+CAMERA (STEADICAM) follows him from the ticket handoff down
+
+the corridor onto the plane.
+
+INT. PLANE - DAY
+
+CAMERA holds 2-shot on Barry and a BUSINESS GUY sitting
+
+together, just before take off.....HOLD, THEN:
+
+BEAT. There's the SOUND of the plane starting to move.
+
+INT. PLANE - IN FLIGHT - LATER
+
+Barry sits. BEAT. HOLD. We hear the sound of a BABY CRYING.
+
+He looks across the aisle and sees:
+
+A small, THREE YEAR OLD CHILD crying, behind held by its
+
+FATHER. The baby stops crying for a moment, calming down,
+
+breathing heavy, looks around with wide eyes.
+
+CU. BARRY.
+
+HE WELLS WITH TEARS AND A SMILE, CRINGES IN HIS FACE AND WE
+
+SEE THE BUILD UP OF EMOTION, HIS VEINS POP FROM HIS FACE AND
+
+THEN HE SMILES LIKE CRAZY, SMILING AND SMILING AND SMILING,
+
+BRIGHT RED AND PAINFUL.
+
+INT. HAWAII AIRPORT - LATE AFTERNOON
+
+He walks along the airport, looking out onto planes and palm
+
+trees and people, etc.
+
+EXT. AIRPORT/CURB - TAXI AREA - THAT MOMENT
+
+Barry hops into a TAXI. The CAB DRIVER asks:
+
+Barry HOLDS a moment, then realizes he doesn't know, SNAPS
+
+INTO A CONTORTION, STARTS TO TEAR and almost SNAP and then
+
+nothing......
+
+INT. WAKIKI STREET/PHONE BOOTH - LATER
+
+Barry on the phone amid a crowd of people passing;
+
+INT. ELIZABETH'S APARTMENT - THAT MOMENT
+
+CAMERA with Elizabeth;
+
+BEAT. HOLD ON BARRY.
+
+INT. WAKIKI STREET/PHONE BOOTH - MOMENTS LATER
+
+Barry on the phone;
+
+BEAT. A MAN answers the phone;
+
+He hangs up. Barry dials the number again.
+
+BEAT. He's put on hold a moment, then it rings, then:
+
+INT. ROYAL HAWAIIAN/LOBBY - LATER
+
+Barry is standing, waiting....HOLD....he looks across the
+
+lobby and sees: Lena....she's walking towards him with a
+
+smile on her face....
+
+...Barry smiles and walks towards her....
+
+...she walks towards him....
+
+...he extends his arm out for a handshake as they get
+
+closer.....
+
+....she opens her arms for a hug as they get closer....
+
+...They shake/hug/kiss on the cheek.....then on the mouth.
+
+They start making out in the lobby of the hotel.
+
+EXT. ROYAL HAWAIIAN - PATIO/BAR AREA - MAGIC HOUR
+
+CAMERA roams through the Mai Tai bar on the beach and finds
+
+them; (Ladies K playing here.)
+
+They look at each other. HOLD, THEN:
+
+ANGLE, MOMENTS LATER.
+
+They walk back towards the hotel. CAMERA (STEADICAM) behind
+
+them as they move --
+
+INT. ROYAL HAWAIIAN/HALLWAY - MOMENTS LATER
+
+CAMERA follows behind them as they walk......IRIS into their
+
+hands.....she reaches over and holds his hand.....
+
+INT. ROYAL HAWAIIAN HOTEL ROOM - MOMENTS LATER
+
+They're in bed making out with their clothes on and a light
+
+on....they hold a second....
+
+They take their shirts off.
+
+She cups his face with her hands and tenses;
+
+They kiss and kiss and kiss;
+
+They kiss and make out some more, then: DRUM ROLL into SNARE
+
+HIT THAT LANDS ON THE FOLLOWING SCENE:
+
+INT. TOYOTA - MOVING - DAWN
+
+CAMERA on Mike D and Nate driving. HOLD. Martin rumbles out
+
+of a half sleep and says;
+
+JIM and DAVE wake up a bit in the back seat and listen;
+
+HOLD. SILENCE for a moment.
+
+EXT. HIGHWAY - NIGHT (BLUE SKY - CRACK OF DAWN DEAL)
+
+The Toyota exits the freeway -- CAMERA TRACKS right with it
+
+as it makes a turn at the base of the off ramp...
+
+....goes under a bridge and then makes a turn getting back
+
+onto the freeway heading in the opposite direction.
+
+INT. HAWAIIAN HOTEL ROOM - NIGHT/NEAR DAWN - LATER
+
+It's dark and Barry and Lena are asleep in bed together.
+
+Barry gets up, in a haze....Lena moves and opens her
+
+eyes....She watches him as he gets up and casually goes to
+
+the corner of the room and starts talking gently to the
+
+wall....
+
+He doesn't respond. He's asleep. He moves to the closet and
+
+gets one of the HOTEL ROBES and puts it on and then he looks
+
+right at her and says:
+
+He gets the robe tied tight around his waste and then gets
+
+the COMPLIMENTARY SLIPPERS and puts them on. Then he gets
+
+back into the bed and closes his eyes.
+
+INT. KAHALA HOTEL - MORNING
+
+CAMERA pushes in slow towards Lena as she's on the
+
+phone....CAMERA pushes in on Barry as he sits across the
+
+room, listening in his robe....They stare at each other the
+
+whole time.....
+
+They hang up and Lena looks to Barry and smiles.
+
+EXT. TOYOTA - DRIVING - DAY (MELODY/SLIGHT)
+
+CAMERA follows behind The Stevens Brothers car, then gets up
+
+along side them as they drive back.......
+
+INT. KAHALA LOBBY - DAY (SCORE BACK TO RHYTHMIC)
+
+Barry and Lena walk out to the valet, leaving the
+
+hotel...(STEADICAM) behind them......
+
+INT. HONOLULU AIRPORT/SECURITY - DAY (CONTD. UNTIL NOTED)
+
+Lena and Barry go through the x-ray thing. STEADICAM.
+
+INT. AIRPORT/HONOLULU - AT THE GATE/WAITING AREA
+
+Side by side on the return flight sit Lena and Barry.
+
+BEAT. The plane starts to move.
+
+She nods her head, looks at him. BEAT. HOLD.
+
+CU. BARRY'S FACE. He looks to Lena. DRUM HIT LOUD. THEN
+
+AGAIN....THEN AGAIN....and we're in the score cue for....
+
+It's BLACK FOR A FEW MOMENTS.
+
+INT. BARRY'S GARAGE - NIGHT
+
+It's dark. The garage door opens and we see Barry and Lena
+
+in his car.....they're about to pull in....
+
+...THE TOYOTA PICK UP carrying The Stevens Brothers pulls in
+
+real fast behind them and rear-ends them....
+
+...CAMERA pushes in real fast....
+
+Barry turns and sees Lena's head has been injured.....he
+
+looks behind and sees TWO OF THE BROTHERS EMERGING FROM THE
+
+CAR.....
+
+.....he gets out quick, heads right for them....
+
+Barry goes absolutely APE SHIT on MIKE D and NATE.....
+
+....it's a mess of VIOLENCE and BRAWLING and Barry seems to
+
+get the best of both NATE and MIKE D......the two other
+
+brothers half get involved/stay in the car.....
+
+.....CAMERA pushes in on LENA (30fps) as she notices Barry
+
+going pretty fucking crazy......
+
+ANGLE. BARRY. As he walks and gets back in the car. CAMERA
+
+is attached to the open door and closes as Barry closes the
+
+door.
+
+They drive off.
+
+INT. HOSPITAL - LATER
+
+Lena is getting a bandage applied to her head by an intern.
+
+It's very calm and she's very matter-of-fact as it happens.
+
+Barry stands nearby.....and OFFICER is asking her a few
+
+questions;
+
+CAMERA moves over with Barry as he starts to back away from
+
+the scene.....CAMERA watches him as he walks off and away,
+
+down the hall.....out of the hospital......
+
+HOLD on the back of Lena's head as she gets bandaged and
+
+questioned.....
+
+INT. BARRY'S WAREHOUSE - NIGHT
+
+CAMERA pushes in from outside, to inside...he's opened up
+
+and is using the phone....
+
+LATISHA picks up doing a fake voice as an "Operator."
+
+INT. PROVO - BAR - BACK ROOM AREA - THAT MOMENT
+
+CAMERA pushes in on Latisha as she looks for what to say:
+
+She puts him on hold and dials another number, she's real
+
+nervous, holding it in --
+
+INT. DEAN'S MATTRESS/FURNITURE STORE - THAT MOMENT
+
+Dean also seems to own a mattress/furniture store in Provo.
+
+Somebody walks towards him, says:
+
+Dean walks back to the phone and picks it up;
+
+INTERCUT NOW WITH BARRY/LATISHA/DEAN; She clicks over to him;
+
+They stop screaming. Then:
+
+Dean hangs up the phone.
+
+ANGLE, BARRY. He turns away and walks quickly out of his
+
+office with the phone receiver to his ear.....the base of
+
+the phone slides off the desk.....and then the receiver RIPS
+
+from the base and he starts to run....
+
+EXT. WAREHOUSE - NIGHT
+
+Barry runs down the alley way, much the same he ran down
+
+with the harmonium at the beginning of the movie...this time
+
+he has the phone in his hand.....he runs......
+
+INT. HOSPITAL/RECEPTION AREA - NIGHT
+
+Barry returns looking for Lena. She's not there.
+
+He looks around....does some math in his head.....then:
+
+INT. HOSPITAL/PAY PHONE
+
+CAMERA rounds a corner and discovers Barry on a pay
+
+phone...the other end is ringing.....(Sound/Prop Dept.Note:
+
+This must be a working phone to call 801-555-1212)
+
+EXT. STREET/MATTRESS STORE - DAY
+
+CU. on Barry....(UTAH CAB behind him) pan him around to
+
+reveal; Dean's furniture store.
+
+INT. MATTRESS STORE - DAY
+
+He enters....and EMPLOYEE approaches;
+
+Barry walks towards the back.....he rounds a corner....to
+
+reveal:
+
+DEAN is in a back room, he's getting his hair cut by
+
+LATISHA.....he turns and looks at Barry, who stands there
+
+with the phone in his hand.
+
+They stare at each other.
+
+Dean doesn't respond.
+
+Barry hands him the phone.
+
+Barry exits.....as he's about to go out the doors, Dean
+
+screams;
+
+CAMERA, PUSHES IN VERY SLIGHTLY ON Barry as he exits the
+
+doors (30fps)
+
+INT. WAREHOUSE - DAY
+
+Barry comes running into the warehouse....Lance and all the
+
+workers are there.....he runs past them...
+
+INT. LENA'S APARTMENT - CORRIDOR/VARIOUS
+
+Various: Barry gets out of the elevators carrying the
+
+harmonium....he makes the left turn this time.....Barry runs
+
+down the hallway with the harmonium.....(long lens,
+
+steadicam from behind, in front, etc.)
+
+INT. LENA'S APARTMENT/HALLWAY - THAT MOMENT
+
+He bursts through the door. He places the harmonium down on
+
+the ground.....He rings the bell.....
+
+...she answers....he says:
+
+BEAT.
+
+CAMERA PUSHES IN AS MY KISS.
+
+REVERSE, BARRY.
+
+CAMERA slowly pushes in as he hugs Lena. LAND IN CU.
+

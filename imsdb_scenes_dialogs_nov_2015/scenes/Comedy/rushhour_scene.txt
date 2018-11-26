@@ -1,0 +1,4222 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Rush Hour
+
+FADE IN:
+
+EXT.  LOS ANGELES - DAY
+
+The whole dysfunctional megalopolis, beige and blurry in the
+
+summer smog. If this is the American Dream, do me a favor and
+
+wake me up.
+
+EXT.  LAX - DAY
+
+The traffic loop outside the terminals is gridlocked -- mostly
+
+with stretch limousines.
+
+INT.  LAX - (INCLUDE NEWS REPORT MONTAGE) - DAY
+
+Inside, the airport is done up with festive posters, streamers
+
+and banners: Welcome - Pacific Partners Summit
+
+A planeload of cheerful CHINESE DELEGATES come into the
+
+crowded terminal. Some sport red T-shirts with a picture of
+
+Mao wearing Mickey Mouse ears.
+
+They get onto the people mover, passing by a TV REPORTER:
+
+The SCENE changes to TAPE of DELEGATES from other countries
+
+arriving.
+
+Then, we see massive SECURITY PREPARATIONS all around the city.
+
+We CUT TO a heated debate in the UN SECURITY COUNCIL.
+
+Then ARTILLERY FIRE over the Korean DMZ.
+
+The SCENE returns to LAX.
+
+EXT.  FREMONT PLACE - DAY
+
+An exclusive, walled-off section of Hancock Park. There's only
+
+one route in and out, past a manned guardhouse on Wilshire.
+
+EXT.  NORTH KOREAN CONSULATE - DAY
+
+A Colonial-style mansion, surrounded by an imposing, wrought-
+
+iron fence. There is a bronze plaque, in English and Korean,
+
+next to the entranceway:
+
+The driveway gate opens and a long, black Mercedes with tinted
+
+windows and diplomatic license plates glides out.
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+An alert North Korean CORPORAL watches the perimeter MONITORS.
+
+He pushes a switch to close the gate behind the Mercedes.
+
+EXT.  UTILITY POLE - OLYMPIC BLVD - DAY
+
+From atop a pole outside the south wall, a man with binoculars
+
+overlooks the private streets of Fremont Place.
+
+HIS POV - THROUGH BINOCULARS
+
+as the Mercedes cruises through the quiet neighborhood.
+
+BACK TO SCENE
+
+The man, PAUL JAVAL, is thirtyish, nervous; with short, sandy
+
+hair. He takes the binoculars away from his face and we see
+
+his eyes -- they're a strange, unnaturally light gray.
+
+Javal takes an ORANGE PILL from an unlabeled prescription
+
+bottle and pops it into his mouth. He climbs down the pole to
+
+a van with a phone company logo on it.
+
+EXT.  WILSHIRE BLVD - DAY
+
+The Mercedes comes out of the Fremont Place gate, and turns
+
+into the heavy morning traffic.
+
+INT.  MERCEDES - (MOVING SHOT) - DAY
+
+It is extremely quiet, due to inch-thick glass on the windows
+
+and 4,000 pounds of armor plating on the car's chassis.
+
+The DRIVER is a North Korean Army Major. On the seat beside
+
+him is an AMD-74, a 5.45x39mm-caliber machine gun.
+
+A HAND from the back seat darts between the front seats and
+
+turns on the RADIO to a ROCK station. The Driver turns it off.
+
+NEW ANGLE
+
+The hand belongs to 10-year-old SAM KE HAN. Sam sits back and
+
+sighs to his sister, JOY (15). Between them sits a middle-aged
+
+Scandinavian GOVERNESS.
+
+EXT.  CRENSHAW BLVD - DAY
+
+Javal's van, also with tinted windows, turns onto Crenshaw. It
+
+follows the Mercedes, several cars behind it.
+
+INT.  JAVAL'S VAN - (MOVING SHOT) - DAY
+
+Javal, wired, drums on the steering wheel while driving. He
+
+glances at some expertly constructed, radio-control REMOTE
+
+UNITS sitting on the seat next to him.
+
+EXT.  SANTA MONICA FREEWAY - DAY
+
+Traffic is moving at about 35 MPH. The Mercedes merges onto
+
+the freeway, heading west. Javal's van follows.
+
+The thumping of a RAP SONG rattles the other drivers' fillings
+
+as a LOWRIDER with its stereo turned up to "11" cruises by.
+
+INT.  MERCEDES - (MOVING SHOT) - DAY
+
+Even 500 watts of bass cannot penetrate the armored silence.
+
+The Driver scans the road, wary but sensing no danger. He puts
+
+on his blinker to take the 405 South exit.
+
+EXT.  SANTA MONICA FREEWAY - DAY
+
+The van follows, now directly behind the Mercedes, in a
+
+procession of vehicles going up the long, curved overpass
+
+arcing 100 feet above the 10, toward the 405.
+
+INT.  JAVAL'S VAN - (MOVING SHOT) - DAY
+
+As they approach the crest of the overpass, Javal flips a
+
+switch on his radio-control unit...
+
+CLOSE - ROAD SURFACE OF OVERPASS
+
+Six small SEMICIRCLES, exact replicas of the stay-alert bumps
+
+on the white lines of the overpass, EXPLODE. They spew hundreds
+
+of sharp, triangular nails across the roadway. Immediately,
+
+scores of tires on passing cars BLOW OUT...
+
+WIDER
+
+Causing, 50 yards ahead of the Mercedes and van, the most
+
+hellacious, gut-wrenching, piss-your-pants, chain-reaction
+
+PILE-UP you can imagine.
+
+Dozens of drivers LOSE CONTROL of their vehicles... sideswipe
+
+their neighbors... grind against the guard rails. Some
+
+fishtail into 180's, smashing headlong into the traffic still
+
+coming onto the overpass.
+
+Brakes squeal, people scream, metal crumples, airbags deploy,
+
+glass shatters.
+
+And then it gets really nasty...
+
+A Honda gets jammed under a truck hauling cinder blocks. The
+
+truck JACKKNIFES, tipping over like a drunken giant.
+
+It SMASHES through the concrete wall and guard rail...
+
+Along with several cars and their SCREAMING OCCUPANTS, swept
+
+over the edge by the truck like discarded soda cans.
+
+They plummet through space, CRASHING onto the freeway below.
+
+INT.  MERCEDES - (MOVING SHOT) - DAY
+
+Sam, Joy, and the Governess brace themselves as the Driver
+
+slams on the brakes. He barely avoids hitting anything.
+
+EXT.  FREEWAY OVERPASS - DAY
+
+A nightmare scene of smoke, twisted wrecks, dazed victims. The
+
+Mercedes and van sit motionless in the backed-up traffic.
+
+INT./EXT.  JAVAL'S VAN & ROADWAY - DAY
+
+Javal slides open a TRAP DOOR on the floor of the van. He
+
+slips a wheeled, mechanic's repair platform through it.
+
+ANGLE WITH JAVAL
+
+as, unnoticed amid the chaos, he lies on the platform and
+
+rolls under the Mercedes.
+
+The undercarriage of the Mercedes is armored with steel. Javal
+
+stops at a patch of perforations -- an air exchange vent. He
+
+attaches a slim DEVICE over the vent, flips a switch on it,
+
+then rolls back toward the van.
+
+INT.  MERCEDES - DAY
+
+Oblivious to Javal's actions below them, everyone watches as
+
+police and news helicopters circle above. Then, some CHP
+
+motorcycles straddle the lanes and zoom by.
+
+INT.  JAVAL'S VAN - DAY
+
+Sweating, Javal sits back in the driver's seat and checks
+
+another radio unit. Working.
+
+EXT.  FREEWAY OVERPASS - DAY
+
+The CHP has cleared a path through the devastation, and
+
+traffic trickles through. As the Mercedes and the van pass by,
+
+Javal looks proudly at the misery he's wrought. He follows the
+
+Mercedes onto the 405 south.
+
+INT.  JAVAL'S VAN - (MOVING SHOT) - DAY
+
+Javal drives behind the Mercedes, with one hand on the radio
+
+unit. The Mercedes signals to take the Venice exit.
+
+Javal fingers the radio unit, itching to use it...
+
+But he PASSES by the Mercedes as it gets off the freeway.
+
+INSERT ANGLE - UNDER THE MERCEDES
+
+Javal's device is armed, and waiting...
+
+EXT.  SIERRA BONITA AVENUE - CARSON'S HOUSE - NIGHT
+
+A pretty street in the Miracle Mile, lined with neat, single-
+
+family homes. Timed SPRINKLER systems water some of the yards.
+
+Every house on the block except the one we're in front of has
+
+a "For Sale" sign on the lawn. From the weathered looks of the
+
+signs, they've been there for quite a while.
+
+INT.  CARSON'S HOUSE - BEDROOM - NIGHT
+
+It's a hot night. The ceiling fan above the bed spins slowly.
+
+PETE CARSON tosses restlessly in bed, the sheets half-covering
+
+him. Next to him his wife, MIRANDA KNOLL, snores contentedly.
+
+Carson is in his late thirties, outdoorsy, with a tight,
+
+muscular build. Emotionally he's tightly-wound as well.
+
+Miranda is 35, raven-haired, sensible, pretty. She believes
+
+above all else that one should never raise one's voice.
+
+Carson groans... he's DREAMING...
+
+EXT.  BEVERLY DRIVE - (CARSON'S DREAM) - DAY
+
+Quick, SILENT IMAGES: A street cordoned off with police tape.
+
+Cops, SWAT teams, FBI surround BEVERLY THRIFT, a bank.
+
+Carson, younger, hair shorter, sits in an FBI COMMAND TRUCK
+
+across from the bank. Covering the mouthpiece of the phone in
+
+his hand, he's arguing with the OTHER AGENTS in the truck.
+
+Suddenly, a huge, fiery EXPLOSION blows out the front of the
+
+bank building. Horrified, Carson runs toward it...
+
+INT.  CARSON'S HOUSE - BEDROOM AND HALLWAY - NIGHT
+
+Carson is snapped awake by a CAR ALARM going off outside.
+
+He bolts out of bed, wearing nothing but a pair of striped
+
+bikini briefs. Miranda rolls over, sleepy, unconcerned...
+
+He races down the hall -- right past the house alarm keypad,
+
+its LCD reading "ARMED."
+
+He grabs an aluminum baseball bat from the umbrella stand.
+
+Forgetting to disarm the house alarm, he yanks the front door
+
+open. The house alarm begins SHRIEKING.
+
+MIRANDA
+
+pulls the pillows over her head and sighs.
+
+EXT.  CARSON'S HOUSE - NIGHT
+
+Carson comes around to the driveway, which is illuminated by
+
+the streetlight --
+
+Where two 20-ish ASSHOLES are sitting in his 1965 Mustang
+
+convertible, their presence courtesy of a huge cut they've
+
+made in the otherwise-perfect ragtop.
+
+Car-theft tools in a leather case between them, they're prying
+
+the ignition switch out of the dashboard.
+
+Asshole #1 spots Carson. He gets out of the car, wielding a
+
+crowbar. His partner keeps working.
+
+NEW ANGLE
+
+Asshole #1 lunges viciously, swiping at Carson with the
+
+crowbar, taking a piece out of his side. Carson starts
+
+BLEEDING profusely, but he's too pissed to notice.
+
+Carson uses his bat to take the offensive. They go at each
+
+other like combatants in a swordfight, the CLANKING of metal
+
+echoing through the neighborhood along with the screaming
+
+house and car ALARMS, and frantic neighborhood DOGS.
+
+Surprised at Carson's fury and strength, Asshole #1 backs onto
+
+the lawn, oblivious to the running SPRINKLERS.
+
+As he backs away, his shoe catches on one of the sprinkler
+
+heads. It breaks off, and a huge GEYSER of water sprays out.
+
+Carson holds his bat in both hands and jams the front of it
+
+into Asshole #1's breadbasket. He doubles over.
+
+Carson grabs Asshole #1's arm, and pulls it quickly against
+
+his raised knee. There is a SNAP and a loud howl as the arm
+
+breaks, and Carson tosses him aside.
+
+Seeing this, Asshole #2 gives up on the car. He takes off
+
+toward the street. Carson runs to head him off, but he's a lot
+
+faster in his Air Jordans than Carson is in his bare feet.
+
+WIDER
+
+Carson grabs the metal lid from a garbage can at the curb and
+
+FLINGS it like a huge Frisbee. It sails across the street --
+
+And NAILS Asshole #2's head. He kisses the pavement, stunned.
+
+Carson runs up and grabs him, but he pulls out a long, sharp
+
+screwdriver and jabs at Carson with it.
+
+Then, blue flashing lights appear from around the corner: A
+
+WESTEC Chevy Blazer. Two uniformed GUARDS get out, and fumble
+
+with their sidearms.
+
+Asshole #2 is still trying to gouge Carson with the
+
+screwdriver. Carson glares at the dopey Guards.
+
+ANGLE ACROSS STREET
+
+Carson's fiftyish, black, next-door NEIGHBOR, wearing pajamas
+
+and a robe, comes out of his house. Carson sees him.
+
+The Guards seem to get it. Without warning, one takes out a
+
+TASER and ZAPS Asshole #2. Carson lets go just in time.
+
+CLOSER
+
+Holding his bleeding side, Carson walks back to his house. He
+
+notices the "Neighborhood Watch" sign has graffiti spray-
+
+painted on it. He touches it -- the paint is still wet. His
+
+Neighbor shrugs -- whatta ya gonna do?
+
+The PAPER GUY drives by... and tosses Carson's newspaper right
+
+under the gushing SPRINKLER.
+
+EXT.  NORTH KOREAN CONSULATE - ESTABLISHING - DAY
+
+INT.  NORTH KOREAN CONSULATE - UPSTAIRS BATHROOM - DAY
+
+Joy is standing on the toilet, blowing cigarette smoke into
+
+the exhaust fan. Someone KNOCKS on the door. She flicks the
+
+cigarette into the toilet, puts a ZIPPO LIGHTER in her pocket.
+
+INT.  NORTH KOREAN CONSULATE - HALLWAY - DAY
+
+Joy opens the bathroom door. Sam is standing there, grinning.
+
+She quickly closes the door behind her. Sam laughs.
+
+INT.  NORTH KOREAN CONSULATE - DINING ROOM - DAY
+
+Sam and Joy sit at the table. AMBASSADOR HAN and MRS. HAN are
+
+having breakfast: radish soup, kimchi and grilled fish.
+
+Ambassador Han reads through the morning's faxed communiquEs.
+
+He's 43, rarely smiles, and hates living in the U.S. He's
+
+dressed in an impeccably-tailored, Valentino two-piece suit.
+
+Mrs. Han is slender, soft-spoken, but as iron-willed as her
+
+husband. She, however, is quick to smile. She's wearing a
+
+summery dress with a white sweater over her shoulders.
+
+Ambassador Han pulls the front of Sam's shirt to reveal the
+
+"Nirvana" logo on his T-shirt.
+
+Ambassador Han's X-ray stare turns to Joy.
+
+A BUTLER appears with a phone. He WHISPERS to Mrs. Han.
+
+CUTAWAY - CLOSE ON GOVERNESS
+
+as she speaks into a cellular phone. She's extremely nervous.
+
+We cannot see her surroundings.
+
+INT.  NORTH KOREAN CONSULATE - DINING ROOM - DAY
+
+INT.  JAVAL'S VAN - DAY
+
+In the back of his van, Javal pats the Governess' hand.
+
+He speaks with a slight accent, French, perhaps. He pops an
+
+orange pill, then unlatches the rear doors of the van. With a
+
+quick glance back at him, she goes to open the doors.
+
+Javal grabs a plastic tarp and throws it over the Governess'
+
+upper body. He puts his arm across her neck, flicks open a
+
+gravity knife and PLUNGES it through the tarp, into her chest.
+
+He drops her on the floor of the van and fastidiously wipes a
+
+small smudge of blood from his hand with a handkerchief.
+
+INT.  CARSON'S HOUSE - BATHROOM AND BEDROOM - DAY
+
+Carson steps out of the shower. He looks exhausted. Toweling
+
+off, he goes into the bedroom, where Miranda is riding an
+
+exercise bike, listening to music on headphones and reading
+
+the sprinkler-soaked newspaper, all while watching the TV.
+
+ANGLE ON TV
+
+A perky blonde traffic reporter, BOBBI MARCHFELDER, talks to
+
+us from a local NEWS COPTER.
+
+We CUT TO the White House lawn, where the PRESIDENT is about
+
+to board a helicopter.
+
+We CUT BACK to the studio and the MORNING ANCHOR.
+
+We CUT TO a MUSICAL MONTAGE of preparations for the events
+
+around town.
+
+BACK TO SCENE
+
+As the MUSIC swells, Carson turns the TV off.
+
+Miranda points at the headphones -- she can't hear him.
+
+As Carson dresses, we get a LOOK at their bedroom -- Miranda's
+
+nightstand has two neat stacks of periodicals on it, with Los
+
+Angeles magazine and Psychology Today on the top of them.
+
+Carson's nightstand is overflowing with books and magazines
+
+about other cities and states: Wonderland Washington;
+
+Magnificent Oregon; Welcome to North Carolina."
+
+INT./EXT.  CARSON'S HOUSE - PATIO & KITCHEN - DAY
+
+Miranda, dressed in a conservative skirt, jacket, black shoes,
+
+is out on the patio. Her breakfast -- a bowl of fruit and
+
+wheat germ -- sits on the patio table while she waters some
+
+sickly-looking ROSE BUSHES in a planter.
+
+Carson, dressed in shirt and tie, looking beat, fries a steak
+
+and three eggs in butter. He comes outside with his breakfast
+
+and a magazine article: "American Expatriates in New Zealand."
+
+Carson watches as she carefully picks the dead leaves off the
+
+rose bushes.
+
+She continues, then glances at the article Carson is reading.
+
+Carson just looks at her. Reaching for the salt, he winces
+
+from the cut in his side.
+
+Carson glances at his watch and gets up.
+
+He grabs a Bianchi shoulder holster with a Sig-Sauer P-229,
+
+9mm pistol, straps it on, then pulls on a blue windbreaker.
+
+Emblazoned on the back are large yellow letters: FBI.
+
+Miranda tries to return to tending her roses. But instead, she
+
+sadly watches him go.
+
+EXT.  CARSON'S HOUSE - DAY
+
+A look of sorrow crosses Carson's face as he watches some
+
+YOUNG KIDS laugh and shove, getting onto a school bus.
+
+He then glances at his wounded Mustang, parked in the street.
+
+He spots something on the windshield: A pink parking ticket.
+
+The parking sign above the graffiti-stained Neighborhood Watch
+
+sign reads: Street Cleaning - Friday 8-10 AM.
+
+Carson CHIRPS open Miranda's car: a red Volvo 960.
+
+As he pulls away, we SEE a bumper sticker on the car: a circle
+
+and slash through cartoon weapons on one side, cartoon teddy
+
+bears on the other, and "Arms Are For Hugging" in between.
+
+EXT.  NORTH KOREAN CONSULATE - DAY
+
+The Driver backs the Mercedes out of the garage behind the
+
+Consulate. We notice there is ANOTHER MERCEDES parked inside.
+
+Mrs. Han, Sam and Joy come outside. They hear some heartfelt
+
+SWEARING:
+
+THEIR POV
+
+In the driveway across the street, a man in a business suit
+
+has his head under the hood of a brand-new Jaguar convertible.
+
+The JAG OWNER's 15-year-old, blonde daughter, LISA, sits in
+
+the car with her schoolbooks in her lap.
+
+JOY
+
+turns to Mrs. Han:
+
+INT./EXT.  MERCEDES - DAY
+
+It pulls into the driveway across the street. The Jag Owner is
+
+still SWEARING mightily. Lisa climbs into the Mercedes.
+
+Joy rolls the window up and the SOUND of cursing disappears.
+
+EXT.  CRENSHAW BLVD - DAY
+
+As the Mercedes travels its usual route down Crenshaw, Javal's
+
+van begins following it.
+
+INSERT ANGLE - UNDER THE MERCEDES
+
+where Javal's DEVICE is attached, still waiting...
+
+EXT.  NORTH KOREAN CONSULATE - DAY
+
+A dark-green government Dodge pulls up and parks behind one
+
+just like it on a paved area near the Consulate gate.
+
+DAVE JUAREZ, (chubby, 40, Mexican-American, a desk jockey) gets
+
+out of the Dodge and hangs an FBI shield over his top pocket.
+
+He glances over at North Korean Security Chief COLONEL LEE,
+
+(45), who has paused inside the gate to regard Dave, and the
+
+outside world, with profound contempt.
+
+Dave, attachE case in one hand and notebook computer in the
+
+other, walks to a 10-by-15 detached guardhouse on the far
+
+corner of the property, just outside the high fence.
+
+INT.  FBI GUARDHOUSE - NORTH KOREAN CONSULATE - DAY
+
+Inside are two desks and four chairs, a console of
+
+communication equipment, a microwave and a Mr. Coffee.
+
+Dave enters. Two FBI agents, finishing their shift, gather
+
+their belongings: ROBBINS (late 20's; male; thinning hair) and
+
+SABATINI, (early 30's; cute; dark, bobbed hair; female).
+
+They wear blue FBI blazers and have standard-FBI-issue 10mm
+
+Heckler & Koch MP-5 machine pistols in oversized shoulder
+
+rigs. Dave is in civilian clothes, and is not armed.
+
+He glances through the window at Colonel Lee.
+
+Sabatini makes the jerk-off sign with her hand.
+
+Dave takes three PCMCIA computer cards from his attachE case.
+
+EXT.  CRENSHAW BLVD - DAY
+
+The van drives in the lane alongside the Mercedes.
+
+INT.  JAVAL'S VAN - (MOVING SHOT) - DAY
+
+HUMMING, Javal drives with one hand, while tapping with his
+
+other on the top of the radio-controlled remote box.
+
+EXT.  CRENSHAW BLVD - DAY
+
+As they approach the light at Washington Blvd, just turning
+
+yellow, Javal's van gets in front of the Mercedes.
+
+Their lanes stop for the red light. A FRUIT VENDOR holding a
+
+bag of oranges walks from car to car.
+
+Javal slips the van into neutral and lets it roll back until
+
+his rear bumper taps gently against the Mercedes' front bumper.
+
+INT.  MERCEDES - INCLUDE POV THROUGH REAR VIEW MIRROR - DAY
+
+The Driver hits the HORN. The van doesn't move. The Driver
+
+glances in the rear-view:
+
+There's a Jeep Cherokee tight on his tail, and the BLACK LADY
+
+in it is busy dealing with a carpool full of 8-year-old KIDS.
+
+The Driver looks at Mrs. Han, who's peering out the side
+
+window, fascinated by the African-American-themed storefronts.
+
+They're all festooned with Summit-related banners, and SHOP
+
+OWNERS are preparing for a community sidewalk bazaar.
+
+Sam, bored, stuffs several pieces of GUM into his mouth.
+
+INT.  JAVAL'S VAN - SAME
+
+Javal flips the switch on his radio-controlled remote.
+
+INSERT
+
+Under the Mercedes, the device Javal planted there begins to
+
+emit thick, white CS TEAR GAS.
+
+INT.  MERCEDES - DAY
+
+The GAS pours in through the ventilation system. Everyone
+
+inside starts coughing and choking uncontrollably. The Driver
+
+grabs his AMD-74 machine gun and pops the door locks.
+
+EXT.  CRENSHAW BLVD - DAY
+
+The Driver, Mrs. Han, Joy, Sam and Lisa pile out of the car.
+
+Jittering with excitement, fear and speed, Javal hops out of
+
+his van, holding a Benelli M-1, a semi-automatic shotgun.
+
+He SHOOTS the Driver in the chest. The BLAST from the shotgun
+
+muzzle, however, is unlike anything we've ever seen before: it
+
+is blindingly BRIGHT, even in broad daylight, belching a huge
+
+cluster of glowing, white-hot magnesium.
+
+The Driver flies back against the Mercedes, EMPTYING his
+
+machine gun into the air. The wound in his chest is full of
+
+BURNING magnesium shrapnel.
+
+WIDER
+
+The other drivers in the intersection see this and go
+
+completely nuts. Some duck for cover under their dashboards.
+
+Others peel away. A few COLLIDE with oncoming traffic.
+
+The Carpool Lady in the Cherokee pushes the kids down on the
+
+floor. The Fruit Vendor hides by rolling under a car.
+
+Sam and Joy are incapacitated by tear-gas coughing fits. Mrs.
+
+Han stumbles toward them, trying to get them to run away.
+
+Javal PUNCHES her, knocking her down.
+
+He turns to Lisa, surprised to see her. Sweating, he points
+
+the shotgun at her... almost pulls the trigger... then notices
+
+Mrs. Han's expression of horror and thinks the better of it.
+
+He spots a MOTORIST in a Ford Escort, peering cautiously over
+
+his dashboard to get a look at the action.
+
+Javal SHOOTS the Motorist through the windshield with another
+
+bright, searing blast of magnesium. The Motorist and the
+
+entire front of his car burst into FLAMES.
+
+Mrs. Han is on her knees, sobbing. Javal grabs her by the arm
+
+and pulls her to the back of the van. He opens the doors.
+
+He tightens his grip on her. She nods again, then looks at the
+
+kids. Javal shoves her, Sam, Joy and Lisa into the van.
+
+INT.  JAVAL'S VAN - DAY
+
+He grabs three pairs of handcuffs off a C-shaped bar welded on
+
+both ends to the inside of the van. He handcuffs one of Mrs.
+
+Han's arms, passes the chain through the bar, then handcuffs
+
+the other. He does the same with Sam; then handcuffs one of
+
+Joy's arms, passes the chain through and attaches the other
+
+handcuff to Lisa.
+
+Javal hops in his seat and drives away on Washington.
+
+EXT.  CRENSHAW BLVD - DAY
+
+Several people, including the Carpool Lady, rush over to the
+
+Driver, who lies DEAD and SMOLDERING on the ground.
+
+His hand is halfway inside his bloody pants pocket, holding a
+
+small plastic card with the Consulate's phone number on it.
+
+EXT.  NORTH KOREAN CONSULATE - DAY
+
+Colonel Lee and a North Korean Army OFFICER come running out.
+
+ANOTHER OFFICER starts up a car in the back of the house.
+
+INT.  FBI GUARDHOUSE - NORTH KOREAN CONSULATE - DAY
+
+Robbins and Sabatini see the commotion and go to investigate.
+
+Dave follows.
+
+EXT.  NORTH KOREAN CONSULATE - DAY
+
+Ambassador Han runs out. He has a stricken look on his face.
+
+Ambassador Han nods. The FBI agents run up. To them:
+
+The agents look at each other -- holy shit! Colonel Lee's car
+
+SCREECHES to a stop. Sabatini stands in front of it.
+
+Colonel Lee shoves a big, ugly Tokorev 7.62x25mm-caliber
+
+pistol in her face as he's opening the car door.
+
+Colonel Lee jumps into the car and it screeches away, almost
+
+running Sabatini over.
+
+The agents rush back to their guardhouse. Dave's government
+
+Dodge is blocking theirs.
+
+Dave tosses them to Robbins. Sabatini shoves Dave into the
+
+back seat. He looks at her, dumbfounded.
+
+INT.  DAVE'S DODGE - (MOVING SHOT) - DAY
+
+Dave is thrown against the back of the seat by the ACCELERATION.
+
+Sabatini grabs the red flashing light, puts it on the dashboard.
+
+EXT.  FREMONT PLACE - DAY
+
+Just as they race out of Fremont Place past the guard gate,
+
+Carson, in Miranda's Volvo, comes in on the other side.
+
+INT.  CARSON'S VOLVO - (MOVING SHOT) - DAY
+
+Carson sees the agents in the Dodge and floors the Volvo. He
+
+fishtails, making a U-turn.
+
+He straddles the lanes on Wilshire to pull up next to them.
+
+All the cars in front of them swerve to clear out of the way.
+
+He rolls down his window. Sabatini shouts over to him:
+
+Carson looks like he's been punched in the stomach.
+
+Sabatini takes a small two-way MOTOROLA RADIO out of her
+
+pocket and throws it through her window to Carson. Dropping it
+
+in his lap, he punches the gas. Robbins floors Dave's piece-of-
+
+shit Dodge, trying to keep up.
+
+EXT.  FEDERAL BUILDING, WESTWOOD - ESTABLISHING - DAY
+
+INT.  FEDERAL BUILDING - STATE DEPARTMENT OFFICES - DAY
+
+Diplomatic Liaison EARL WALTHER is using the reflection in his
+
+office window to adjust his necktie. Walther is 30, good-
+
+looking, black; a GS lifer working his way up the ranks by
+
+virtue of his quiet competence.
+
+A CO-WORKER sticks his head into the office, then shields his
+
+eyes from the sight of Walther's sharp new suit.
+
+Walther's SECRETARY rushes in.
+
+INT.  CARSON'S VOLVO - (MOVING SHOT) - DAY
+
+Carson drives with one hand, while holding the radio.
+
+Real easy, until he narrowly MISSES a bunch of cars when
+
+SCREECHING around a corner.
+
+INT.  FEDERAL BUILDING - STATE DEPARTMENT OFFICES - DAY
+
+Walther presses the intercom button on the phone.
+
+INT.  CARSON'S VOLVO - (MOVING SHOT) - DAY
+
+Carson turns the frequency on his two-way.
+
+EXT.  WASHINGTON BLVD - DAY
+
+Driving skillfully, Carson edges past the North Koreans.
+
+INT.  CARSON'S VOLVO - (MOVING SHOT) - DAY
+
+And then, Carson can't believe it: he spots Javal's van, a
+
+couple blocks ahead, driving at normal speed.
+
+He looks over at Colonel Lee, whose car is pacing his.
+
+INT.  COLONEL LEE'S CAR - (MOVING SHOT) - DAY
+
+Glaring, Colonel Lee looks over at the FBI cars as they pass.
+
+INT.  DAVE'S DODGE - (MOVING SHOT) - DAY
+
+Sabatini pulls out her machine pistol, and tosses the two-way
+
+to Dave. He looks scared, and carsick.
+
+EXT.  WASHINGTON BLVD - DAY
+
+Carson tries to approach Javal without drawing his attention.
+
+INT.  JAVAL'S VAN - (MOVING SHOT) - DAY
+
+He still drives at the same speed as the surrounding traffic.
+
+HIS POV
+
+As Carson nonchalantly passes, Javal NOTICES the government-
+
+issue two-way radio sitting on the seat of Carson's Volvo.
+
+JAVAL
+
+grins... it's show-time. He STOMPS on the gas.
+
+INT.  CARSON'S VOLVO - (MOVING SHOT) - DAY
+
+Pissed that he's been made, Carson speeds up.
+
+INT.  JAVAL'S VAN - (MOVING SHOT) - DAY
+
+Driving fast, Javal makes a hard right. As the van leans with
+
+the turn, something rolls out from under a sheet of canvas on
+
+the floor -- the Governess' BODY, bloodied and grotesque under
+
+the plastic tarp it's wrapped in.
+
+Joy starts SCREAMING, as does everyone else when they see it.
+
+Javal pulls out a Beretta Centurion 9mm pistol and FIRES a
+
+deafening round through the roof of the van.
+
+EXT.  WASHINGTON BLVD - DAY
+
+During a lull in traffic, a WELL-DRESSED WOMAN jaywalks across
+
+the street. An LAPD black-and-white changes lanes and puts on
+
+its flashing lights. As two COPS write her a ticket...
+
+Around the corner TWO MEN make a quick exchange of money and a
+
+vial of crack.
+
+NEW ANGLE
+
+The Cops do notice Javal speeding by, with Carson's Volvo, the
+
+FBI Dodge and Colonel Lee's car in hot pursuit. They shove the
+
+ticket in the Well-Dressed Woman's hand and hop in their car.
+
+EXT.  LA CIENEGA BLVD / SIDE STREETS - DAY
+
+Javal turns onto the side streets -- rows of run-down
+
+apartment buildings. He takes a circuitous route, gaining a
+
+one-block lead on Carson and the others.
+
+Then, he makes a sudden turn into a one-way alley.
+
+INT.  JAVAL'S VAN - (MOVING SHOT) - DAY
+
+Javal hits a remote garage door opener. Ahead, rickety doors
+
+on one of a line of detached garages facing the alley OPEN up.
+
+Across from the garage, parked parallel against the back of an
+
+empty building, we notice a duplicate van. It's facing the
+
+same direction as Javal is driving.
+
+Javal slams on the brakes, stopping just past the garage, and
+
+then quickly backs up into the garage.
+
+INT.  ALLEYWAY GARAGE / JAVAL'S VAN - DAY
+
+As he pulls in, we catch GLIMPSES of the van slipping backwards
+
+into a FIBERGLASS SUPERSTRUCTURE that fits tightly around the
+
+rear two-thirds of it. As the van comes to a stop, several snap-
+
+buckles on the edge of the superstructure spring closed.
+
+Javal reaches out the van window and pulls on a rope hanging
+
+from the ceiling of the garage. The rope releases the door
+
+from the opening mechanism, so it immediately falls CLOSED.
+
+Then, Javal turns several switches on another of his neatly-
+
+constructed remotes:
+
+INT.  DUPLICATE VAN - SERIES OF SHOTS - DAY
+
+Steel straps are holding the steering wheel rigid.
+
+A set of relays, triggered remotely, start the engine;
+
+Engage the transmission;
+
+And supply fuel to the carburetor.
+
+EXT.  ALLEYWAYS
+
+The duplicate van takes off down the alley. Just as it gets up
+
+to speed, Carson and the others round the corner into the alley
+
+behind it. As far as they know, they're still chasing Javal.
+
+The alley is several blocks long, running parallel to the main
+
+road, separated at each block by perpendicular streets. The
+
+duplicate van races along, scraping against parked cars and
+
+the rear walls of buildings...
+
+INT.  CARSON'S VOLVO - (MOVING SHOT) - DAY
+
+EXT.  ALLEYWAYS - DAY
+
+Indeed, as the duplicate van crosses a street, cars swerve to
+
+avoid hitting it. It continues into the next alley.
+
+Up ahead, a garbage truck lumbers into the far end of the
+
+alley, its metal lift-rods extended to pick up a dumpster.
+
+The duplicate van CRASHES into the garbage truck and EXPLODES.
+
+NEW ANGLE
+
+Carson, horrified, jumps out of his car. Robbins and Sabatini
+
+run up. They have to hold Carson away from the burning van.
+
+Dave hurries to the back of a building and gets sick.
+
+Colonel Lee, wide-eyed with anger, gets in Carson's face.
+
+Carson shoves Colonel Lee out of his way, hard.
+
+Colonel Lee comes back, ready for a fight. Carson is happy to
+
+oblige, but Robbins grabs Carson's arm.
+
+By now, ONLOOKERS have begun to gather, as LAPD black-and
+
+whites and helicopters converge on the area.
+
+EXT.  ALLEYWAY GARAGE - DAY
+
+A block away, the garage door opens, and we hear something
+
+eerie and unexpected: a scratchy, music-box kids' SONG, coming
+
+from a loudspeaker.
+
+Javal's van pulls out and we see its TRANSFORMATION: The
+
+superstructure surrounding the body of the van makes it look
+
+like a graffiti-covered, unlicensed ice cream vendor.
+
+EXT.  ALLEYWAYS - DAY
+
+The entrance of the alley is blocked by a black-and-white. So,
+
+accompanied by the SONG, Javal drives along the one-way alley
+
+in his camouflaged van, passing unnoticed by the authorities.
+
+Anguished, Carson is staring at the BURNING duplicate van...
+
+EXT.  BEVERLY DRIVE - (FLASHBACK) - DAY
+
+Beverly Thrift EXPLODES and BURNS...
+
+EXT.  ALLEYWAYS - DAY
+
+Carson tries to shake the memory away. He looks around, sensing
+
+that something isn't right, then turns to the other agents.
+
+Off their perplexed looks, we
+
+INT.  BACHELOR APARTMENT - DAY
+
+One room, bathroom and kitchenette. A laptop computer and
+
+peripherals are on a table, along with some cell phones, a
+
+toolbox, and some jumbles of electronic circuitry.
+
+In the main room, there are three large Lazy-Boy easy chairs,
+
+side by side, facing a 27-inch TV on a stand. A cloth covers
+
+two OBJECTS sitting atop the TV.
+
+The door opens. Mrs. Han, Joy, Sam, and Lisa walk in, rigid
+
+with fear. Javal, Beretta 9mm in hand, comes in behind them
+
+and closes the door. Javal strips off his sweat-soaked shirt
+
+and wipes his face with it. Mrs. Han realizes he's wired to
+
+the moon... and it terrifies her.
+
+Still holding the Beretta, he grabs a polo shirt from the
+
+closet and pulls it on. As the family sits in the chairs:
+
+He takes a pair of handcuffs out of his pants pocket. He tries
+
+to handcuff Lisa, hands behind her back, but she resists.
+
+She wilts. Javal cuffs her to the handles of the refrigerator.
+
+He puts a strip of duct tape from his tool box across her mouth.
+
+He uncovers one of the items atop the TV: An electronic box with
+
+three pairs of oversized, LED VU meters on the front of it.
+
+We NOTICE neat lines of wires running from each of the chairs
+
+up into it. Javal flips one of a row of switches on it; a
+
+green light and the meters come to life.
+
+She looks at her sound meter, which jumped close to the red.
+
+He uncovers the other item atop the TV -- a one-pound brick of
+
+C-4 high explosive with the detonation mechanism jammed into
+
+it. Mrs. Han gasps and begins to PANIC.
+
+They nod. Tears roll down Joy's face.
+
+He flips another switch and the green light turns yellow. He
+
+then turns on the TV. COVERAGE of the Summit is everywhere.
+
+Javal turns the channel to a SOAP, and MUTES it. He starts
+
+pacing, and glances at his watch. It's 9:15 AM.
+
+INT.  GOVERNMENT HELICOPTER - (AERIAL SHOT) - DAY
+
+Earl Walther looks through the window as his copter lands on
+
+the lawn behind the North Korean Consulate.
+
+EXT.  NORTH KOREAN CONSULATE - DAY
+
+As the copter lands, Carson comes out to meet Walther.
+
+INT.  NORTH KOREAN CONSULATE - HALLWAY - DAY
+
+Carson and Walther come into the house. We hear only the
+
+TICKING of the grandfather clock in the foyer.
+
+Colonel Lee and his Officers stand by the stairs; Robbins,
+
+Sabatini and Dave stand together near the front door.
+
+Ambassador Han comes down the stairs, his face tight with
+
+repressed emotion.
+
+Suddenly, the Butler sprints across the foyer. He shoves the
+
+cordless phone into Ambassador Han's hands.
+
+Ambassador Han listens to the phone, then takes in a sharp
+
+breath and sits on the steps.
+
+Carson is elated. Robbins, Sabatini and Dave rush out. Walther
+
+pulls out a cell phone and hits a speed-dial key.
+
+INT.  BACHELOR APARTMENT - DAY
+
+Javal is holding his cell phone next to Mrs. Han's face.
+
+He pulls the phone from her, takes a breath to compose himself.
+
+INT.  NORTH KOREAN CONSULATE - HALLWAY - DAY
+
+Javal hangs up. Stunned, Ambassador Han stands up.
+
+As Carson, Ambassador Han, Colonel Lee and Walther hurry to
+
+the office in the back of the house, Carson's radio crackles:
+
+INT.  FBI GUARDHOUSE - NORTH KOREAN CONSULATE - DAY
+
+Dave and Robbins watch Sabatini work the comm console.
+
+INT.  NORTH KOREAN CONSULATE - AMBASSADOR HAN'S OFFICE - DAY
+
+Ambassador Han turns on the TV to channel 4.
+
+ANGLE ON TV
+
+It's the same medical SOAP that's on at the apartment -- a
+
+DOCTOR and NURSE are screwing in a deserted operating room.
+
+INT.  BACHELOR APARTMENT - DAY
+
+Javal is standing in the kitchenette, pointing a DIGITAL STILL
+
+CAMERA at the family. It FLASHES as he takes a picture.
+
+CLOSER
+
+There is a cable running from Javal's computer to his cell
+
+phone. He hooks another cable to the digital camera, and an
+
+IMAGE appears on the screen of his laptop. He clicks on "SEND."
+
+INT.  NORTH KOREAN CONSULATE - AMBASSADOR HAN'S OFFICE - DAY
+
+Everyone stares expectantly at the TV. They turn as the fax
+
+machine on the credenza RINGS. An IMAGE begins to emerge from
+
+the machine: the picture from Javal's digital camera.
+
+CLOSE ON FAXED PICTURE
+
+It shows the Han family sitting in their booby-trapped chairs
+
+in front of the TV. The explosives and the electronics are
+
+clearly visible atop the set, as is the program on the TV.
+
+BACK TO SCENE
+
+A second page on the fax begins to come through. As it does,
+
+the telephone RINGS. Carson and Colonel Lee both go for the
+
+extension near the sofa; Carson grabs it first. Ambassador Han
+
+picks up the phone on his desk.
+
+Ambassador Han clicks on the SPEAKERBOX. Carson and the others
+
+look at the second faxed page: a list of instructions.
+
+CLICK. Ambassador Han looks around, feeling totally helpless.
+
+Carson says nothing, trying not to show how uneasy he feels.
+
+Walther glares at Carson, then continues to Ambassador Han:
+
+Numb, Ambassador Han nods.
+
+INT.  FBI GUARDHOUSE - NORTH KOREAN CONSULATE - DAY
+
+Robbins, Sabatini and Dave look up as Carson and Walther enter.
+
+Carson is stunned. (OS), we hear a CHOPPER approaching.
+
+Carson shoots a disgusted look at the others, then leaves.
+
+INT.  NORTH KOREAN CONSULATE - AMBASSADOR HAN'S OFFICE - DAY
+
+Carson turns off the Beach Boys SONG on the TV behind him.
+
+Holding Javal's faxes, he's facing Ambassador Han, Colonel Lee
+
+and the Hostage Negotiator (whom we don't yet see.)
+
+WIDER
+
+The Negotiator stands and takes the faxes from Carson.
+
+It's Miranda, his wife. Her FBI shield-holder is folded over
+
+the breast pocket of her jacket.
+
+Walther comes in and looks at Carson.
+
+This surprises Ambassador Han and Colonel Lee.
+
+Carson glares coldly at Walther.
+
+Walther looks at Miranda. She nods her assent.
+
+The Americans leave the room.
+
+INT.  NORTH KOREAN CONSULATE - HALLWAY - DAY
+
+Still fuming, Carson walks ahead. Miranda pulls Walther aside.
+
+INT.  BACHELOR APARTMENT - DAY
+
+Hands shaking with nerve- and speed-induced jitters, Javal
+
+turns two switches on the unit atop the TV. Two LED readouts
+
+light up: one shows the current time -- 2:30 PM -- the other
+
+is fixed at 5:00 PM. Below, the TV is still on.
+
+Javal flips the channels, stopping at a rerun of "Lifestyles
+
+of the Rich and Famous." He suppresses a gleeful giggle.
+
+He checks the contents of his prescription bottle. Two pills.
+
+He takes one, stuffs the bottle in his pocket, and leaves.
+
+EXT.  PiY3NGYANG, NORTH KOREA - DAY
+
+SUPER: PiyUngyang. Capitol of North Korea.
+
+Poster city for the charms of Communism: dreary, crumbling,
+
+gray, stifling, hopeless.
+
+INT.  WORKERS' PARADISE HALL - CONFERENCE CHAMBER - DAY
+
+In the main government offices, a meeting of ten overly-
+
+decorated MILITARY MEN and their SUPPORT STAFFS.
+
+Sour GENERAL KAI (50's) is ARGUING heatedly in KOREAN with an
+
+aged MODERATE GENERAL. The weak-willed PREMIER OF NORTH KOREA
+
+sits up front and listens passively.
+
+An ARMY MAJOR sitting behind General Kai stands and slips out
+
+the door.
+
+EXT.  WORKERS' PARADISE HALL - ROOFTOP - DAY
+
+Crouched behind an air-conditioning unit, the Major, an
+
+American Operative, speaks in UNACCENTED ENGLISH into a small
+
+UPLINK DEVICE, disguised to look like a palmtop computer.
+
+He hears footsteps approaching (OS).
+
+He angles skyward a tiny dish-shaped antenna on the Device. On
+
+its screen it says COMPRESSING... SCRAMBLING... UPLINKING...
+
+After it's finished, the Operative snaps it closed and puts it
+
+into a false bottom in his attachE case. He disappears just
+
+before a GUARD rounds the corner.
+
+EXT.  STREETS OF LOS ANGELES - VARIOUS ANGLES - DAY
+
+"Welcome Pacific Partners" banners hang everywhere.
+
+WORKERS and CATERERS prepare for the various parties and
+
+events around town. COPS and PRIVATE SECURITY do their best to
+
+keep traffic moving, but it's already getting congested.
+
+INT.  FBI GUARDHOUSE - NORTH KOREAN CONSULATE - DAY
+
+Dave stares at his computer, looking through a DATABASE of
+
+kidnappers and their modus operandi. He rubs his eyes.
+
+She's helping Walther stack packs of THOUSAND-DOLLAR-BILLS
+
+into a series of small plastic bags, tying each one off when
+
+it's the size of a brick. They then put the individual bags
+
+into two larger bags.
+
+Robbins rubber-bands a matchbook-sized HOMING TRANSMITTER in
+
+between two packs of cash. He then hollows out a dime-sized
+
+space inside a different pack of money with a razor knife.
+
+He puts a tiny, SECOND homing transmitter in the space. Carson
+
+checks some hand-held receivers. Miranda crosses to him.
+
+She returns to listening to an AUDIO TAPE:
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+During this, Colonel Lee stands in a window on the top floor,
+
+pointing a LASER EAVESDROPPING UNIT at the FBI guardhouse.
+
+INT.  FBI GUARDHOUSE - NORTH KOREAN CONSULATE - DAY
+
+Carson looks at her as the thought of it hits him.
+
+EXT.  WHITE HOUSE, WASHINGTON, DC - ESTABLISHING - DAY
+
+INT.  WHITE HOUSE - CONFERENCE ROOM - DAY
+
+The National Security Council: VICE PRESIDENT, SECRETARIES OF
+
+DEFENSE, STATE, CHIEFS of the FBI, CIA and NSA -- sit
+
+nervously around a table, facing a video conferencing setup.
+
+The President, in Air Force One, APPEARS on it.
+
+The SENIOR INTELLIGENCE OFFICER refers to his notes.
+
+EXT.  NORTH KOREAN CONSULATE - DAY
+
+Inside, the grandfather clock in the foyer CHIMES THREE TIMES.
+
+Colonel Lee, carrying an AMD-74 machine gun, goes to get in the
+
+driver's side of the second armored Mercedes, but Carson is
+
+already there. Grumbling, he crosses to the passenger's side.
+
+Carson drives off just a moment before Colonel Lee is
+
+completely in the car.
+
+EXT.  HIGHLAND AVENUE - DAY
+
+The Mercedes crosses Melrose, going into Hollywood. The town
+
+is all done up with posters and banners.
+
+Robbins and Walther follow a block behind the Mercedes in an
+
+unmarked car; Sabatini and Dave drive ahead in Dave's Dodge.
+
+INT.  NORTH KOREAN CONSULATE - AMBASSADOR HAN'S OFFICE - DAY
+
+Miranda, Ambassador Han, and Lisa's father (the cussing Jag
+
+Owner) wait by the phone. Miranda smiles reassuringly at the
+
+two nervous fathers. The phone RINGS; she picks it up.
+
+Miranda hands the phone to Ambassador Han.
+
+INT.  MERCEDES - (MOVING SHOT) - DAY
+
+From the two-way radio in Carson's pocket:
+
+EXT.  HIGHLAND AVENUE - VARIOUS ANGLES - DAY
+
+Robbins and Walther are inching along in traffic on Highland
+
+near Hollywood Blvd.
+
+Elsewhere, we see unmarked police and government cars cruising
+
+around, dropping off disguised FOOT-SURVEILLANCE OFFICERS, etc.
+
+A BIKER CLUB
+
+of twenty aging, weekend-warriors, all on custom Harleys, turn
+
+from the Boulevard onto Highland.
+
+EXT.  DEMILLE BARN - DAY
+
+Carson drives the Mercedes into the entrance of the Hollywood
+
+Museum Park. Carson stops in front of a yellow barn with a
+
+sign atop it: "Jesse Lasky Famous Players."
+
+INT./EXT.  JAVAL'S VAN - DAY
+
+Still disguised as an ice-cream truck, the van is parked
+
+across Highland by the entrance to the Hollywood Bowl, where a
+
+Summit-related concert is being readied.
+
+Javal watches the Mercedes, and takes his last pill. He's flying.
+
+INT.  MERCEDES - DAY
+
+Colonel Lee grabs the two large plastic bags full of money
+
+from the back seat, opens his door, and drops them onto the
+
+pavement. Carson looks around.
+
+Colonel Lee checks their BEEPING homing receiver. Carson hangs
+
+a left onto Highland, going back the way he came.
+
+INT.  DAVE'S DODGE - (MOVING SHOT) - DAY
+
+Dave holds their homing receiver. Sabatini, behind the wheel,
+
+smacks his arm and points ahead:
+
+EXT.  DEMILLE BARN - DAY
+
+Javal's van drives into the parking lot, and stops right above
+
+the bags of money.
+
+EXT.  ODIN STREET - DAY
+
+Sabatini and Dave watch Javal's van through the trees.
+
+INT.  JAVAL'S VAN - DAY
+
+Javal, sweating and shaking, quickly runs a metal-detector
+
+wand over each of the individual bags of money. One of them
+
+makes the speaker in the wand handle WHINE.
+
+INT.  DAVE'S DODGE - INCLUDE POV OF DEMILLE BARN - DAY
+
+The van pulls away.
+
+Dave glances at the homing receiver. The signal isn't moving.
+
+He looks up...
+
+Two of the small bags of money are sitting on the pavement.
+
+INT.  MERCEDES - (MOVING SHOT) - DAY
+
+Carson hangs a U-turn.
+
+EXT.  HIGHLAND AVENUE - DAY
+
+At the complex intersection where Highland ends at the 101,
+
+Javal bears to the right, toward the South on-ramp.
+
+Sabatini and Dave follow a few cars behind as he gets on it.
+
+Suddenly, he scoots over to the shoulder and slams the van
+
+into REVERSE. He backs off the on-ramp, past a row of angry
+
+drivers, passing by Sabatini and Dave.
+
+Peeling in reverse onto Highland, Javal stomps on the brakes.
+
+The snap buckles holding the ice-cream-truck superstructure
+
+around his van BREAK APART, and the whole thing slides off...
+
+blocking Sabatini's way.
+
+Javal drives forward again, this time getting onto the 101
+
+North on-ramp.
+
+INT.  NORTH KOREAN CONSULATE - AMBASSADOR HAN'S OFFICE - DAY
+
+Miranda looks at Ambassador Han and Lisa's father while
+
+anxiously clutching her two-way radio.
+
+INT.  MERCEDES - (MOVING SHOT) - DAY
+
+Carson follows Javal onto the freeway. Colonel Lee grabs his
+
+AMD-74 machine gun.
+
+EXT.  HOLLYWOOD FREEWAY - DAY
+
+Colonel Lee leans out and SHOOTS Javal's rear tires out.
+
+The van drives erratically, held in its lane by bumping
+
+against the cars around it.
+
+Carson pulls up closer...
+
+Suddenly, the rear doors of the van burst open...
+
+And Javal flies out, riding a motorcycle. He's got the money
+
+stuffed into two big, chaps-sized SADDLEBAGS slung over the
+
+back of the machine.
+
+He straddles the lanes, going against traffic, riding like a
+
+maniac back the way he came.
+
+Carson watches him in the rear-view... and speeds up, driving
+
+away from him.
+
+But Carson hugs the shoulder, moving through the heavy
+
+traffic, until he spots what he was looking for:
+
+The Biker Club, riding in formation up ahead.
+
+Carson cuts in front of them and slams on the brakes. He jumps
+
+out and grabs one of the Biker's machines by the handlebars,
+
+wrestling it to a stop. While pulling its BURLY OWNER off it:
+
+Meanwhile, the other BIKERS have come to help their friend.
+
+They pull guns, knives, chains...
+
+They're stopped by Sabatini, who appears holding her MP-5
+
+machine pistol. The Biker yells at Carson as he drives way:
+
+COLONEL LEE
+
+gets in the driver's seat of the Mercedes and turns it around.
+
+JAVAL
+
+continues down the freeway on his bike, straddling lanes,
+
+driving the wrong way, retracing his route back to Highland,
+
+leaving CAR HORNS, CURSING, and COLLISIONS in his wake.
+
+WIDER
+
+When everyone thinks they've seen it all, here comes another
+
+mad biker -- Carson -- riding against traffic in pursuit.
+
+EXT.  HIGHLAND AVENUE - DAY
+
+Javal rides against traffic down the Cahuenga on-ramp, then
+
+jumps the divider, runs the light crossing Highland, and gets
+
+into the southbound lanes.
+
+He just misses a BUS, nearly wiping out.
+
+Carson fishes out his two-way.
+
+INT.  NORTH KOREAN CONSULATE - AMBASSADOR HAN'S OFFICE - DAY
+
+Listening to the two-way, Miranda tries to follow the action.
+
+EXT.  HIGHLAND AVENUE - DAY
+
+Speeding up, Carson precariously cuts in between traffic.
+
+Seeing Carson approaching on his right, Javal pulls his Benelli
+
+shotgun from one of the saddlebags. He rests the barrel on his
+
+arm and FIRES a blinding-white load of magnesium at Carson.
+
+Carson grabs the brake handles to slow down, and the BLAST
+
+crosses just in front of him. A few BURNING pieces pepper the
+
+front fender of the bike, but the bulk HITS the concrete art-
+
+deco statue in the entrance to the Hollywood Bowl. The statue
+
+shatters into a million FLAMING fragments.
+
+JAVAL
+
+speeds up. A car passing on the right BUMPS him. Javal grabs
+
+for the handlebar to stabilize himself, DROPPING the shotgun.
+
+A HELICOPTER appears, and flies just above him.
+
+Then, spotting some police cars ahead, he quickly hangs a
+
+right, ducking onto Alta Loma Terrace.
+
+EXT.  ALTA LOMA TERRACE - DAY
+
+Carson stops at the entrance to the winding, hillside
+
+neighborhood, accessible only by footpaths. The area is
+
+covered by thick foliage, hiding Javal from the helicopter.
+
+Carson revs down so he can listen for Javal's machine. He
+
+HEARS it up above and takes off, up a steep flight of stairs.
+
+NEW ANGLE
+
+Javal has reached the summit, only to find he's boxed in. He
+
+can either turn around, or take the neighborhood's unique,
+
+outdoor elevator, housed in a free-standing, three-story
+
+concrete tower.
+
+He jumps off his bike. Carrying the saddlebags, he runs into
+
+the elevator -- but it needs a key to operate.
+
+Javal comes back out, panicking.  He HEARS Carson coming up
+
+the hill. He spots a GARDENER watering nearby with a hose.
+
+ANGLE WITH CARSON
+
+as he reaches the summit. He sees Javal's motorcycle,
+
+abandoned, lying on its side...
+
+And then he sees the Gardener, sprawled on the ground, a
+
+BULLET HOLE in the center of his forehead.
+
+Carson turns off his motorcycle and pulls out his Sig 9mm. He
+
+moves slowly toward the elevator tower and looks inside.
+
+HIS POV
+
+The casement window in the back of the tower is broken. One end
+
+of the gardener's hose is tied to a grate, and the hose is
+
+hanging through the broken window.
+
+Carson looks out the window as Javal climbs down the outside of
+
+the tower on the hose to High Tower Drive, the street below.
+
+But just as Carson is about to climb down the hose...
+
+EXT.  HIGH TOWER DRIVE - DAY
+
+Javal spots a COLLEGE GIRL backing a tiny Geo out of her
+
+garage. He rips her out of the car, jumps in and tears away.
+
+EXT.  ALTA LOMA TERRACE - DAY
+
+Carson jumps back on his motorcycle and starts it up.
+
+EXT.  HIGHLAND AVENUE - DAY
+
+In the Geo, Javal drives out onto Highland. He muscles his way
+
+through traffic, then cuts across to Franklin.
+
+Behind him, Robbins and Walther drive along the divider lane.
+
+On the bike, Carson emerges from Alta Loma, joining Sabatini
+
+and Dave in Dave's Dodge and Colonel Lee in the Mercedes as
+
+they all try to catch up to Javal.
+
+The helicopter flies ahead, then disappears past the hill
+
+below Franklin.
+
+EXT.  VINE STREET - DAY
+
+Javal hangs a hard right off of Franklin onto Vine, putting
+
+him on top of a hill that drops down to Sunset.
+
+Carson and Colonel Lee close in on the Geo.
+
+Suddenly, the helicopter RISES UP from the bottom of the hill.
+
+It's less than fifty feet in front of Javal, at eye level.
+
+Javal FIRES at the copter with his Beretta.
+
+Colonel Lee indiscriminately FIRES his machine gun at the Geo.
+
+Carson SHOUTS at Colonel Lee, furious at his carelessness!
+
+INT.  PURSUIT COPTER - (AERIAL SHOT) - DAY
+
+Colonel Lee's BULLETS trace across the cockpit of the
+
+helicopter; one hits the PILOT in the neck. Clutching it with
+
+one hand, the Pilot loses control of the copter.
+
+EXT.  VINE STREET - DAY
+
+Everyone on the road scatters to get out of the copter's way.
+
+It appears as though it's going to crash onto the street, then
+
+it gains altitude, GYRATING wildly just above the Geo.
+
+Javal tries to move away, but one of its landing runners
+
+SMASHES through the top of the windshield, WEDGING itself
+
+against the inside of the Geo's roof.
+
+Snared, the little Geo is LIFTED off the ground -- instantly
+
+too high for a terrified Javal to escape from it.
+
+INT.  PURSUIT COPTER - (AERIAL SHOT) - DAY
+
+The wounded Pilot, barely conscious, searches for safe area to
+
+set down -- but there are cars and people everywhere.
+
+The Pilot wrestles his stick; his copter is almost impossible
+
+to control with the car hanging from it. He's fading...
+
+EXT.  VINE STREET - DAY
+
+The copter and Geo lurch over and past the round Capitol
+
+Records building, KNOCKING the spindle off the top of it.
+
+The impact further destabilizes the copter's flight. It's
+
+heading right toward the 20-story Sunset Vine Tower, at the
+
+bottom of the hill.
+
+INT.  JAVAL'S GEO - (AERIAL SHOT) - DAY
+
+Javal, trapped inside, looks through the windshield as the
+
+glass and steel side of the tower looms closer. He SCREAMS.
+
+EXT.  SUNSET VINE TOWER - DAY
+
+The copter and the Geo CRASH into the side of the Tower, 12
+
+floors up. Glass blows out in all directions; the rotor
+
+shatters; office furnishings are blown through the hole like
+
+backwash.
+
+The Geo hangs passenger's side down from the runner.
+
+CLOSER
+
+From the series of jerking, slipping MOVEMENTS, it is clear
+
+the copter is not going to stay where it is for long.
+
+The Geo's passenger side door pops open. Javal, panting with
+
+fear, jimmies his foot against the dashboard and holds the
+
+steering wheel to keep from falling out.
+
+ANGLE ON VEHICLES BELOW
+
+In the clog of traffic, cars swerve away, rapidly reverse...
+
+anything to get away from the area below the impact.
+
+JAVAL
+
+reacts to another SLIP. The big saddlebags of money on the
+
+seat start to slide toward the open door.
+
+He gingerly reaches over to grab them... the copter SHIFTS
+
+again... he loses his grip...
+
+And, clutching the saddlebags, he TOPPLES out of the car.
+
+We stay with him as he FALLS 12 stories, SCREAMING...
+
+Then LANDING on top of a parking meter. It RIPS though his
+
+chest and he hits the sidewalk with a wet THUD.
+
+EXT.  VINE AND SUNSET - DAY
+
+Carson rushes across the street to Javal's body. The teetering
+
+copter and Geo are right above it.
+
+Grimacing, Carson tries to lift Javal's body up off the
+
+parking meter, but it's messy, slippery work...
+
+Unable to move the body, Carson quickly searches its pockets.
+
+All he finds is the now-empty prescription bottle.
+
+Above, the copter GROANS... it's about to come loose...
+
+Carson pulls out his Sig 9mm and FIRES several times at
+
+Javal's right wrist, then TEARS the HAND off the body.
+
+With a loud WRENCHING of metal, the copter and Geo break away
+
+from the building.
+
+Carson grabs the saddlebags and runs like hell across the
+
+street, diving for cover behind a car.
+
+BEHIND CARSON
+
+the copter and Geo crash to the sidewalk and EXPLODE.
+
+NEW ANGLE
+
+Sooty, covered in Javal's blood, Carson crosses to the others.
+
+He throws Walther the saddlebags and Sabatini the severed hand.
+
+Robbins is still trying to process what just happened.
+
+INT.  NORTH KOREAN CONSULATE - AMBASSADOR HAN'S OFFICE - DAY
+
+The clock reads 3:50 PM. Carson, Miranda, Robbins, Sabatini,
+
+Ambassador Han and Colonel Lee are all TALKING at once.
+
+Carson looks like he's going to explode. Before he can reply:
+
+Carson would love to get into it, but he lets it slide. He
+
+looks Sabatini, wandering aimlessly with Javal's severed hand.
+
+Carson grabs one of the expensive pens from Ambassador Han's
+
+desk, SNAPS it in half, and hands it to her.
+
+In the b.g. she stands at the credenza, inks the hand's fingers
+
+and thumb and rolls them onto a piece of letterhead paper.
+
+Good question. All eyes go to Miranda.
+
+Her head is spinning. She looks at Carson.
+
+He turns to go. Ambassador Han turns to Colonel Lee.
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+In the converted attic, several North Korean ESPIONAGE AGENTS
+
+monitor military and police frequencies, downlinks from remote
+
+wiretaps and surveillance units; short-wave, cellular, etc.
+
+Their equipment, being of Chinese and Iranian manufacture, is
+
+hardly cutting-edge technology.
+
+Colonel Lee and Ambassador Han enter. The Espionage Agents are
+
+surprised when Carson, Miranda, Walther and Sabatini follow.
+
+Walther looks around, amazed. Carson grabs a pair of headphones.
+
+Colonel Lee pulls the phones away from him.
+
+Carson takes the page with the fingerprints from Sabatini. The
+
+Espionage Agents back away from her and Javal's hand.
+
+She looks around. Then, shrugging, she tosses it into a
+
+wastepaper basket.
+
+He's also HEARD, faintly, through the laser eavesdropping unit
+
+by the window. Carson notices, but doesn't comment.
+
+Colonel Lee begrudgingly obliges. Carson dials a phone.
+
+EXT.  HOOVER BUILDING, WASHINGTON, DC - DAY
+
+FBI headquarters, with the Washington Monument in the b.g.
+
+INT.  HOOVER BUILDING - FINGERPRINT LAB - DAY
+
+A TECHNICIAN, wearing thick glasses, sits in front of a high-
+
+resolution computer monitor.
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+Carson clicks off the phone, then, as he dials another number:
+
+WIDER
+
+Dave comes into the room.
+
+Carson looks at Miranda and hangs up the phone.
+
+Carson tosses Javal's bloody, unlabeled prescription bottle to
+
+Miranda. She looks it over, runs her finger inside, tastes the
+
+dust on her fingertip.
+
+Sabatini looks at them -- which will it be? Miranda frowns and
+
+nods her okay, then spreads the L.A. map out on the table.
+
+He draws a circle on the city map: Beverly Hills to downtown,
+
+Hollywood to Inglewood.
+
+A beat while this sinks in.
+
+INT.  WHITE HOUSE - CONFERENCE ROOM - DAY
+
+Everyone is smoking. Their tension has increased tenfold since
+
+we last saw them. The President, SEEN through the video setup,
+
+is pacing on Air Force One.
+
+Everyone in the room looks at one another.
+
+Everyone's silence answers his question.
+
+The Intelligence Officer illustrates his explanation with
+
+FOOTAGE and DIAGRAMS on a nearby COMPUTER SCREEN:
+
+EXT.  HOLLYWOOD FREEWAY - DAY
+
+Robbins stands by Javal's van, on the shoulder of the freeway.
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+EXT.  PARKER CENTER - DOWNTOWN LOS ANGELES - DAY
+
+LAPD headquarters.
+
+INT.  PARKER CENTER - VARIOUS ANGLES - DAY
+
+Everyone who can be spared, even moth-eaten SUPPORT PERSONNEL,
+
+hustle through the maze of hallways and get into waiting cars.
+
+EXT.  STREETS OF LOS ANGELES - VARIOUS ANGLES - DAY
+
+From up here, it looks like the city is one big block party.
+
+Accordingly, traffic is heavy and unpleasant.
+
+INT.  NEWS COPTER - (AERIAL SHOT) - DAY
+
+Bobbi looks into the TV camera, dripping with sincerity.
+
+The red light on the camera goes off. Bobbi turns to the Pilot.
+
+The Cameraman and the Pilot sigh at each other.
+
+She takes an industrial-sized bottle of Mylanta out of her
+
+purse. It's fitted with a water-bottle DRINKING SPOUT. She
+
+takes a huge swig and grimaces.
+
+INT.  BACHELOR APARTMENT - LOS ANGELES - DAY
+
+The Han family sits in their booby-trapped chairs. Joy
+
+carefully turns to her mother.
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+Carson grabs his FBI blazer off the back of a chair.
+
+Colonel Lee also heads for the door. Carson looks at him.
+
+They leave. Dave, meanwhile, paces, phone in hand.
+
+EXT.  PACIFIC OCEAN - ANGLE ON FISHING TRAWLER - DAY
+
+SUPER: Pacific Ocean. 500 miles west-northwest of Los Angeles.
+
+We FIND a nondescript commercial fishing vessel. Up top, some
+
+Asian "FISHERMEN" crank in and stow their nets.
+
+INT./EXT.  FISHING TRAWLER - DAY
+
+Coming closer, we see it's actually a disguised North Korean
+
+SPY VESSEL. Several MEN, working under hanging tarps, secure
+
+a 20-foot-long missile launching track to the bow.
+
+Two MISSILE EXPERTS install a green, cone-shaped WARHEAD of
+
+high explosives onto the nose of a 23-foot-long, short-winged
+
+CRUISE MISSILE. They wait for the CAPTAIN's orders...
+
+EXT.  HOLLYWOOD FREEWAY - DAY
+
+Robbins is in Javal's van, examining the innards of the remote-
+
+control boxes. He picks up his radio.
+
+EXT.  CRENSHAW BLVD - DAY
+
+At the kidnapping site, the intersection is blocked off with
+
+yellow police tape. Several LAPD cruisers are parked nearby.
+
+Some COPS are interviewing the Carpool Lady.
+
+Despite this, the neighborhood's bazaar -- a sidewalk sale
+
+with MUSIC, food vendors, etc. -- has half-heartedly begun.
+
+The government helicopter HOVERS and Carson helps Miranda climb
+
+down a long chain ladder. Colonel Lee follows impatiently.
+
+NEW ANGLE
+
+Carson uncovers the bodies of the Driver and the Motorist,
+
+lying on the sidewalk. He grimaces. Colonel Lee does not.
+
+Miranda wants to look, but Carson drops the cover. She picks
+
+it up, then turns away in horror.
+
+A young BLACK COP crosses to them. He's holding a plastic bag
+
+with a spent shotgun shell in it.
+
+INT./EXT.  FISHING TRAWLER - PACIFIC OCEAN - DAY
+
+The North Korean COMMUNICATIONS OFFICER puts down his
+
+headphones and hurries on deck to the Captain. It's time.
+
+Suddenly, a BEARDED CREWMAN crosses to the Captain. He calmly
+
+SHOOTS him and the FIRST MATE.
+
+The rest of the Crew is shocked. Holding his pistol on the
+
+Crew, the Bearded Crewman nods at the Missile Experts.
+
+Saluting, they remove the green warhead from the missile.
+
+Two OTHER CONSPIRATORS, carrying a metal locker, appear from
+
+below deck. The Crew murmurs nervously as they remove from the
+
+locker a red warhead and attach it to the missile.
+
+Finishing, one of the Experts pushes the firing trigger and
+
+the missile WHOOSHES from its launching pad.
+
+EXT.  NORTH KOREAN CONSULATE - DAY
+
+The government helicopter touches down behind the Consulate.
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+Ambassador Han, Walther and Sabatini are looking at a series
+
+of high-definition faxes spread out on a table.
+
+Carson, Miranda and Colonel Lee hurry back in. Disgusted,
+
+Carson throws his jacket on a chair.
+
+POV OF PICTURES
+
+The CIA technicians have enlarged and enhanced every part of
+
+the fax deemed significant, in individual blowups.
+
+BACK TO SCENE
+
+Colonel Lee is standing right beside Carson, leaning over to
+
+look at the pictures. Carson looks at him, irritated.
+
+They're stumped, and bitterly frustrated. To Sabatini:
+
+Meanwhile, Dave and Robbins are calling car alarm shops:
+
+EXT.  PiY3NGYANG, NORTH KOREA - ESTABLISHING - DAY
+
+INT.  WORKERS' PARADISE HALL - GENERAL KAI'S OFFICE - DAY
+
+General Kai stands in hushed conversation with the Army Major
+
+Operative and another trusted AIDE. The PHONE buzzes; the
+
+others leave the room before General Kai picks it up.
+
+INT.  WORKERS' PARADISE HALL - OPERATIVE'S OFFICE - DAY
+
+Behind closed doors, the Operative LISTENS to the phone call
+
+with an EAVESDROPPING RECEIVER. What he hears stuns him.
+
+EXT.  WORKERS' PARADISE HALL - ROOFTOP - DAY
+
+The Operative is in his hiding spot with his uplink device.
+
+A GUNSHOT rings out (OS), and the Operative's chest EXPLODES
+
+in blood. He pitches forward... but presses the "transmit"
+
+button on the uplink device before dying.
+
+On screen it says UPLINKING... (without scrambling)... then
+
+another GUNSHOT destroys it.
+
+Angry, General Kai steps INTO FRAME and kicks the Operative
+
+over with his foot.
+
+INT.  BACHELOR APARTMENT - LOS ANGELES - DAY
+
+Mrs. Han and Joy sit motionless. Sam, on the other hand, is
+
+trying not to squirm. Mrs. Han looks at him, angry.
+
+The family becomes aware of a shrill SOUND, (OS), distant at
+
+first, but growing increasingly louder... The sound-level
+
+meters all begin to creep upward...
+
+EXT.  APARTMENT BUILDING - CLOSE - DAY
+
+A team of GARDENERS has arrived on the property for their
+
+weekly mow, blow, and go. They have lawnmowers, edgers, blowers
+
+-- it's as NOISY as an aircraft carrier during takeoffs.
+
+INT.  BACHELOR APARTMENT - DAY
+
+The SOUND is getting louder, and louder...
+
+The meters are hovering just below the red...
+
+SAM
+
+pivots his head and looks at the tiny microphone, no bigger
+
+than a pencil eraser, attached neatly to the headrest.
+
+He begins chewing his wad of GUM... leans in toward the
+
+microphone, his head obscuring what he's doing...
+
+He moves back and we see he's SEALED the front of the mic with
+
+a small piece of the gum.
+
+And his meter drops to zero.
+
+WIDER
+
+Sam tilts his head forward and bends his wrist upward so he
+
+can get the rest of the gum out of his mouth. Then, while
+
+keeping pressure on the armrest with his elbow, he moves his
+
+hand over to Mrs. Han. They can't quite reach each other...
+
+He FLICKS the piece of gum and she catches it.
+
+Meanwhile, the NOISE increases. The two meters peak into the
+
+red... the yellow WARNING LIGHT begins to flash...
+
+Mrs. Han quickly puts the gum in her mouth, bites it in half,
+
+and cautiously passes the remainder over to Joy.
+
+Joy puts the gum in her mouth. She tries to push it over her
+
+mic, but her hair is in the way. She shakes her head; some
+
+hair strands remain, but she covers the mic just as the
+
+Gardeners' noise reaches a CRESCENDO...
+
+All three sound meters sit pinned to zero. The yellow light
+
+stops flashing.
+
+Sam, sweating, looks at his mother and sister... and starts
+
+laughing. They join him: a celebration for a small victory.
+
+INT.  WHITE HOUSE - CONFERENCE ROOM - DUSK
+
+The clock on the wall reads 7:13, eastern time. The President,
+
+still on Air Force One, APPEARS on the VIDEO LINK. Cut the
+
+tension in the room with a knife? You'd need a chainsaw.
+
+He really doesn't want to be the one telling the President
+
+about this.
+
+The Intelligence Officer looks at the CIA Chief.
+
+The President goes nuts.
+
+The Intelligence Officer demonstrates with another of his
+
+COMPUTER GRAPHICS.
+
+Long beat as everyone tries to contemplate the unthinkable.
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+Everyone is painfully on edge. Ambassador Han paces. The FBI
+
+agents are on a phone or a radio, working leads.
+
+Colonel Lee mutters something to Ambassador Han in Korean.
+
+Ambassador Han and Walther keep Carson and Colonel Lee from
+
+going at each other.
+
+She walks away. Carson immediately regrets saying it.
+
+EXT.  STREETS OF LOS ANGELES - VARIOUS ANGLES - DAY
+
+LAPD cruisers squeeze through the crowded streets, fanning out
+
+through the various parties around town. COPS walk through the
+
+crowds with copies of the picture Javal faxed, and photos of
+
+the Han family and Lisa.
+
+EXT.  SKY OVER PACIFIC OCEAN - DAY
+
+The red-tipped cruise missile, flying at 550 MPH, 400 feet
+
+above the water, streaks toward its distant target.
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+Robbins is still working the phone.
+
+He puts the receiver down, hits the speakerbox button and the
+
+mute button. He crosses to Dave's desk to grab some papers.
+
+We can hear the CONVERSATION at the alarm shop:
+
+INT.  AUTO SECURITY SHOP - DAY
+
+A group of young INSTALLERS horse around as they outfit luxury
+
+cars with security systems, high-end audio components, etc.
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+Carson rushes over to the phone. To the others in the room:
+
+Carson and Miranda look at each other. Bingo!
+
+NEW ANGLE
+
+One of the Korean Espionage Agents answers a RINGING phone on
+
+Colonel Lee's desk, listens, then hits the hold button.
+
+Carson hurries over, grabs the phone. We SEE him punch the
+
+button for x666.
+
+EXT.  FEDERAL BUILDING, WESTWOOD - ESTABLISHING - DAY
+
+INT.  FBI SOUND LAB - DAY
+
+EDWARDS, headphones around his neck, sits in front of a wall
+
+of audio analysis equipment.
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+Carson hangs up the phone.
+
+Meanwhile, we hear the high-pitched whine as Dave's MODEM
+
+connects with another computer. Dave's fingers fly across the
+
+keyboard, and in a moment, a PICTURE of Javal appears: hair
+
+longer, bearded... but the eyes are unmistakable.
+
+They turn, noticing that Ambassador Han has overheard.
+
+Miranda gives Carson a "your turn to be gracious" look.
+
+Not exactly what Miranda was hoping for. Dave hands Carson a
+
+piece of paper.
+
+Carson and Miranda grab their jackets, then she stops.
+
+Carson looks again at the address...
+
+EXT.  OSAKA, JAPAN - ESTABLISHING - DAY
+
+SUPER: Osaka. Western Japan.
+
+INT.  OSAKA APARTMENT - DAY
+
+In the tiny bedroom of a wheelchair-bound JAPANESE TEENAGER,
+
+computers and HAM RADIO equipment are stacked everywhere.
+
+He turns on a tape recorder. We hear a faint, crackling VOICE:
+
+The Teenager rolls to a computer running CompuServe. He clicks
+
+the CHAT icon, types: "Anyone up on their spy terminology?"
+
+INT.  BACHELOR APARTMENT - LOS ANGELES - DAY
+
+With the gardeners gone, and their sound sensors disabled,
+
+Mrs. Han, Joy and Sam are SHOUTING for help.
+
+They listen for a response; it is completely quiet.
+
+EXT.  K-EYE STUDIOS - LANDING PAD - LOS ANGELES - DAY
+
+Just as the government helicopter lands, Bobbi's news copter
+
+lands right next to it.
+
+Bobbi intercepts Carson, Sabatini, Miranda and Colonel Lee on
+
+the pad. Her Cameraman follows, ENG camera on his shoulder,
+
+videotaping everything.
+
+Carson grabs the ENG camera, pops the videotape out of it and
+
+crushes the tape.
+
+Miranda is utterly aghast. She reaches under Carson's jacket
+
+and takes the handcuffs off his shoulder rig. She grabs Bobbi
+
+by the arm and gets her in a half-Nelson.
+
+The STATION MANAGER comes running out of the building.
+
+Bobbi wriggles out of Miranda's grasp. Carson looks at his
+
+wife, who's still fuming, and smiles to himself.
+
+The Station Manager hands Carson the keys to his Lexus.
+
+EXT.  SKY OVER PACIFIC OCEAN - DAY
+
+The cruise missile makes a slight course adjustment.
+
+EXT.  STREETS OF LOS ANGELES - VARIOUS ANGLES - DAY
+
+People begin to arrive at the events. BOOSTERS pass out food,
+
+wine and beer... and crank up the Beach Boys TUNES.
+
+Meanwhile, law enforcement cars move into the areas with high
+
+rises -- Century City, Westwood, downtown, etc.
+
+EXT.  U.S. AIR BASE - VARIOUS ANGLES - DAY
+
+A sign on the control tower reads: U.S. Air Force, Okinawa.
+
+Flight Crews direct a squadron of planes out onto the flight
+
+line: F-16 fighter bombers, along with F-15 fighter escorts.
+
+They begin to TAKE OFF...
+
+EXT.  FOUNTAIN AVENUE - DAY
+
+The Lexus is stuck in a dense knot of traffic.
+
+Carson gets out and walks across the hoods of the stopped
+
+vehicles around him -- to much COMPLAINING by their owners --
+
+until he finds the reason for the jam-up:
+
+Along the shoulder of the road, a long line of equipment
+
+trailers and motor homes, cables, lights, rent-a-cops and
+
+gawkers. A MOVIE SHOOT. Carson groans.
+
+He hurries back to the Lexus. Miranda rolls her window down.
+
+Miranda and Colonel Lee immediately get out of the car and run
+
+off, leaving Sabatini to contend with it.
+
+EXT.  MIMOSA APARTMENTS - DAY
+
+A boxy, ten-story complex built in the sixties.
+
+INT.  MIMOSA APARTMENTS - DAY
+
+Carson, (FBI jacket folded over his arm) Miranda, and Colonel
+
+Lee rush into the lobby.
+
+Carson is about to show the CONCIERGE behind the desk his i.d,
+
+but the Concierge is nervous and sweating. Carson pulls out
+
+his Sig 9mm, approaches the door behind the desk, which is
+
+ajar... He pushes it open...
+
+And finds himself staring at the muzzles of three M-16 rifles.
+
+Three SWAT TEAM members are standing there in full body armor.
+
+They lower their weapons.
+
+EXT.  ADJACENT APARTMENTS - DAY
+
+The SWAT team SHARPSHOOTERS crouch on the roof.
+
+INT.  MIMOSA APARTMENTS - UNDERGROUND PARKING LOT - DAY
+
+Sabatini drives the Lexus in and parks it in the fire lane.
+
+INT.  MIMOSA APARTMENTS - HALLWAY - DAY
+
+The fire door opens next to an elevator with the number "10"
+
+on it, and Carson, Miranda and Colonel Lee come out.
+
+Carson and Miranda creep quietly along the hallway, toward
+
+apartment 1060. Carson listens at the door, hears nothing.
+
+He moves to the next door down, apartment 1058, and quietly
+
+unlocks the door.
+
+INT.  MIMOSA APARTMENTS - #1058 - DAY
+
+The shades are drawn, and the apartment is dark.
+
+As Carson and Miranda cut through the apartment, they realize
+
+there's a WOMAN lying in the bed. She's naked, and she's not
+
+alone. Someone is under the sheets. ANOTHER WOMAN.
+
+The first Woman opens her eyes, sees the intruders, and grabs
+
+for a Colt Gold Cup .45 auto in the dresser drawer.
+
+Her friend sits up. Miranda holds her finger to her lips and
+
+shows them her FBI shield.
+
+Carson cranks open their window and steps out onto the foot-
+
+wide, ornamental balcony.
+
+She begins to protest. He shoots her a look that silences her.
+
+EXT.  MIMOSA APARTMENTS - DAY
+
+The SWAT sharpshooters watch from the next building over as
+
+Carson, ten floors up, peers through the slit in between the
+
+curtains into the window of Javal's apartment.
+
+He swings his legs over onto Javal's ornamental balcony... the
+
+bolts holding the rail onto the wall are loose and rusty...
+
+the balcony SLIPS a little...
+
+He leans on the crank-operated window until it SNAPS open.
+
+INT.  MIMOSA APARTMENTS - JAVAL'S APARTMENT - DAY
+
+Carson steps inside. He looks around the bedroom -- it's
+
+empty. No furnishings, the closet shelves are bare, even the
+
+pictures on the walls are gone, leaving only their outline.
+
+Carson cautiously goes into the living room --
+
+It's also empty. All that remains are a few cardboard boxes,
+
+and three flower pots in macramE ceiling hangers by the living
+
+room window. Some dead leaves lie on the floor beneath them.
+
+Carson cautiously approaches the cardboard boxes.
+
+INT.  MIMOSA APARTMENTS - #1058 - DAY
+
+The clock on the bedstand reads 4:25. Miranda smiles
+
+uncomfortably at the two naked women together in bed.
+
+INT.  MIMOSA APARTMENTS - HALLWAY - DAY
+
+The elevator DINGS. Sabatini comes out, H&K MP-5 in hand.
+
+SWAT Team #2, standing on the far side of the hallway with
+
+Colonel Lee, sees her machine pistol and takes aim.
+
+Colonel Lee walks over to Sabatini.
+
+Sabatini starts down the hall. Colonel Lee stays where he is.
+
+INT.  MIMOSA APARTMENTS - JAVAL'S APARTMENT - DAY
+
+Carson cautiously peers in the moving boxes. They're empty.
+
+He crosses to the front door, looks it over, unlocks the
+
+deadbolt. He turns the knob, the button POPS open...
+
+He stops, noticing a HAIRLINE SEAM in the doorjamb where a
+
+piece was cut, then neatly replaced.
+
+Then, he's startled as he hears a strange, mechanical whining
+
+NOISE coming from the kitchen.
+
+He goes to investigate -- it's an almost-dead, avocado-green
+
+refrigerator straining to start its compressor. He looks for
+
+booby-traps, opens it, and looks inside. Empty.
+
+Looking down, he notices he's got a dead leaf stuck to the
+
+bottom of his shoe.
+
+Glancing in the living room, he sees the dead leaves on the
+
+floor below the three hanging plants. He looks at the plants:
+
+two are dead. The one in the middle is not. It's plastic.
+
+We HEAR the jiggle of the front doorknob.
+
+Too late... The front door opens....
+
+Carson crouches behind the big, heavy refrigerator door...
+
+As the middle flower pot EXPLODES. It's a shrapnel bomb: it
+
+spews thousands of tiny carpet tacks 360 degrees around room.
+
+Sabatini is HIT full on -- she falls backwards into the hall.
+
+INT.  MIMOSA APARTMENTS - #1058 - DAY
+
+Miranda and the women in the darkened bedroom SCREAM as the
+
+tacks tear hundreds of HOLES through sections of the wall.
+
+Tiny shafts of LIGHT appear in the wall, except where it is
+
+covered by furniture (keeping them from being shredded.)
+
+INT.  MIMOSA APARTMENTS - HALLWAY - DAY
+
+SWAT Team #2 and Colonel Lee come running, as does Miranda.
+
+Carson is kneeling next to Sabatini. She looks up at him and
+
+tries to say something, but a only long, mournful, final
+
+BREATH escapes her. Agonized, Carson looks around...
+
+And sees Colonel Lee. He lunges for him.
+
+He punches Colonel Lee in the jaw. Colonel Lee slams against
+
+the wall, then comes back at Carson, hitting him in the throat.
+
+Miranda and SWAT Team #2 pull them apart.
+
+He kneels next to Sabatini, and closes her eyes.
+
+INT.  NEWS COPTER - (AERIAL SHOT) - DAY
+
+It's in between reports. The Cameraman listens to the Grateful
+
+Dead on a BOOM BOX. Bobbi answers her ringing CELL PHONE.
+
+EXT.  STREETS OF LOS ANGELES - VARIOUS ANGLES - DAY
+
+The streets of Hollywood are even more congested than before,
+
+as the festivities really start rockin'.
+
+INT.  GOVERNMENT HELICOPTER - (AERIAL SHOT) - DAY
+
+Carson and Miranda sit together in the back and Colonel Lee
+
+sits next to the Pilot as they fly back to the Consulate.
+
+Miranda looks at Carson, who's trying real hard not to let
+
+Sabatini's death slow him down.
+
+He glances over at Miranda. After a beat:
+
+Carson looks out the window, not hearing a word she says...
+
+INT./EXT.  BEVERLY THRIFT - (FLASHBACK) - DAY
+
+Carson is in the FBI command truck, talking on the phone to:
+
+A BANK ROBBER, barricaded inside the bank. Phone in hand, he
+
+holds a shotgun on a dozen hostages: BANK EMPLOYEES and
+
+CUSTOMERS -- including a couple of YOUNG KIDS. One is holding
+
+a soccer-sized, rainbow-colored rubber ball.
+
+The OTHER BANK ROBBER wires up a series of explosive charges.
+
+Both Robbers rush inside the vault, and pull the door closed
+
+to protect themselves...
+
+The front of the building, where the hostages are, EXPLODES.
+
+Carson runs to the bank. He spots the kid's ball, rolling in
+
+the street... BURNING. He turns away, horrified, devastated...
+
+INT.  GOVERNMENT HELICOPTER - (AERIAL SHOT) - DAY
+
+He turns away. She takes his hand.
+
+INT.  BACHELOR APARTMENT - DAY
+
+The family continues to call for HELP. As they do, we
+
+INT.  HALLWAY JUST OUTSIDE APARTMENT - DAY
+
+Their CRIES echo faintly through a deserted tangle of ladders,
+
+construction equipment, sheets of drywall, etc.
+
+A warning sign taped to the wall near the elevator reads:
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+The mood is glum. Carson looks at Robbins, Dave and Walther,
+
+then at the empty chair where Sabatini had been sitting.
+
+Hearing Beach Boys MUSIC on the TV's and radios on the
+
+surveillance console, Carson angrily punches them all off.
+
+Suddenly, Miranda looks at him:
+
+INT.  NEWS COPTER - (AERIAL SHOT) - DAY
+
+Bobbi and the News Cameraman are arguing bitterly:
+
+He sighs and turns the CAMERA on.
+
+INT.  BACHELOR APARTMENT - INCLUDE ANGLE ON TV - DAY
+
+The Han family listens to Bobbi, amazed, horrified...
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+The TV's are off -- so they see none of Bobbi's report.
+
+Carson crosses to Dave. He's at his computer, looking at a
+
+long column of telephone numbers.
+
+Dave jumps to the bottom, points at a number.
+
+Dave highlights a number: 213-965-5666.
+
+WIDER
+
+Carson glances over at the telephone on Colonel Lee's desk.
+
+(FLASHBACK) - CLOSE ON PHONE
+
+from when Carson took a call there, pushing the mute button.
+
+(FLASHBACK) - EXTREME CLOSE UP
+
+on the label showing the phone's extension number: "x666."
+
+BACK TO SCENE
+
+Across the room, Colonel Lee is watching Carson intently.
+
+Carson turns to look at him. They make eye contact.
+
+Time stands still.
+
+Realization.
+
+Feeling like he's moving in SLOW MOTION, Carson reaches for
+
+the Sig 9mm in his shoulder holster.
+
+Colonel Lee grabs the AMD-74 machine gun on the desk.
+
+Colonel Lee STRAFES the room and backs toward the door.
+
+The BULLETS trace a line across the room. One of the North
+
+Korean Espionage Agents is HIT. He slams against the console.
+
+Carson tackles Ambassador Han and shoves him onto the floor,
+
+while popping off several ROUNDS in Colonel Lee's direction.
+
+Robbins also dives for cover, pushing Walther down first.
+
+Robbins takes a BULLET in the shoulder.
+
+Miranda is HIT. The impact tumbles her over the desk.
+
+Colonel Lee, still FIRING, slips out the door.
+
+Gunsmoke hangs in the air as Carson scrambles to Miranda.
+
+Several PHONES have begun ringing. No one notices them.
+
+Dave never moved -- he sits hunched over, clutching his
+
+notebook computer, muttering the HAIL MARY.
+
+Carson rolls Miranda over. She's got a large, scorched bullet
+
+hole in the front of her blouse. Carson tears her blouse open.
+
+She's wearing a kelvar vest under it, and the slug is
+
+mushroomed against the vest.
+
+She awakens, GASPS and starts swinging her fists at him.
+
+Carson is overwhelmed with relief.
+
+Then he notices Robbins, bleeding profusely, propped against
+
+the wall next to Walther. Walther is dead -- shot in the head.
+
+OS, we hear several SPURTS of machine gun fire, and a car
+
+ENGINE roaring to life. Miranda looks at Carson...
+
+EXT.  WILSHIRE BLVD - DAY
+
+The city's reaction to Bobbi's announcement is immediate and
+
+severe. It makes the panic during the '92 riots look like a
+
+drive in the country.
+
+EXT.  NORTH KOREAN CONSULATE - DAY
+
+Carson bursts through the door just as the second armored
+
+Mercedes CRASHES through the wrought-iron entry gates. Carson
+
+fires several SHOTS, which ping harmlessly off the Mercedes.
+
+Carson sprints for a car. Miranda's Volvo is the closest one.
+
+INT.  CARSON'S VOLVO - DAY
+
+As Carson is starting it, the passenger door opens and
+
+Ambassador Han gets in.
+
+Ambassador Han responds by putting on his seat belt. Carson
+
+sighs and tears out of the driveway.
+
+EXT.  FREMONT PLACE - DAY
+
+Colonel Lee crashes through the Fremont Place guard gate, then
+
+hangs a right on Wilshire. He drives the center turn lane,
+
+zooming past the snarl of cars.
+
+EXT.  NORTH KOREAN CONSULATE - DAY
+
+In the back of the Consulate, Miranda, sore as hell, climbs
+
+into the government copter. It WHINES to life and TAKES OFF.
+
+INT.  CARSON'S VOLVO - (MOVING SHOT) - DAY
+
+Carson looks around at the chaos around them.
+
+Then he HEARS, on a nearby car's FM RADIO:
+
+Stunned, Carson looks over at Ambassador Han, who buries his
+
+face in his hands.
+
+INT.  GOVERNMENT HELICOPTER - (AERIAL SHOT) - DAY
+
+Miranda is flying just behind Carson's Volvo. The TRAFFIC is
+
+beyond nightmarish. She smiles at his concern for her.
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+Sweating, Dave is watching the ACTION outside on a TV while
+
+hurriedly bandaging Robbins' shoulder with some torn cloth. He
+
+grabs for the two-way and we realize he's panicking.
+
+He squeezes his eyes shut... After a long beat:
+
+EXT.  SKY OVER LOS ANGELES - (AERIAL SHOT) - DAY
+
+Several large military helicopters approach -- troop
+
+contingents from Pendleton and Ft. Irwin.
+
+The big CH-54 dual-rotor copters set down and offload MARINES
+
+and ARMY INFANTRY.
+
+Others, like Apache Gunship combat copters and Hueys, begin to
+
+follow the pursuit. They join the police and TV copters, and
+
+it looks like the Ride of the Valkyries.
+
+EXT.  STREETS OF LOS ANGELES - VARIOUS ANGLES - DAY
+
+People flee from the festivities in droves. Seeing the
+
+helicopters and TROOPS in bio suits only fuels the hysteria.
+
+We hear news REPORTS coming from car radios, boom boxes, TV's.
+
+Reporters chatter urgently in English, Spanish, Japanese,
+
+Korean, Farsi, their voices mixing with the shouts of
+
+pedestrians, the rumbling and horn-blowing of the traffic...
+
+Everyone, everywhere is getting into their cars in a mad dash
+
+to get out of town or rendezvous with loved ones.
+
+This is the mother of all rush hours.
+
+EXT.  WESTERN AVENUE - DAY
+
+Colonel Lee's car turns right onto Western Avenue. He's in the
+
+heart of Koreatown -- hardly any of the signs are in English.
+
+He swerves through the panicked drivers jamming the roads --
+
+in the center lane, or into the oncoming traffic. The cars he
+
+HITS crumple against the Mercedes without slowing it down.
+
+Carson's Volvo follows, squeezing through traffic in its wake.
+
+INT.  NEWS COPTER - (AERIAL SHOT) DAY
+
+Bobbi is salivating with excitement (and antacid.) She snaps
+
+off her mic and yells at her Cameraman:
+
+INT.  CARSON'S VOLVO - (MOVING SHOT) - DAY
+
+Ambassador Han looks glumly at the chaos in the streets.
+
+EXT.  WESTERN AVENUE - DAY
+
+Colonel Lee gets stuck in a line of cars trying to get onto
+
+the 10 East. Above, a swarm of HELICOPTERS circle him.
+
+INT.  APACHE HELICOPTER - (AERIAL SHOT) - DAY
+
+Marine MAJOR VREELAND and his PILOT sit in the lead
+
+helicopter, an Apache Gunship.
+
+INT.  CARSON'S VOLVO - (MOVING SHOT) - DAY
+
+Carson leans on the HORN and tries to push through traffic.
+
+INT.  COLONEL LEE'S MERCEDES - DAY
+
+Colonel Lee sees the Apache helicopter approach. He leans into
+
+the back seat, knocking the top off a long, plastic crate.
+
+INT.  APACHE HELICOPTER - (AERIAL SHOT) - DAY
+
+The SUNROOF on the Mercedes slides open. Colonel Lee's upper
+
+body pokes through the sunroof. He's holding a manportable
+
+S.A.M. -- a 3-foot-long, fiberglass rocket launcher.
+
+Vreeland tries to bring his machine guns to bear on Colonel
+
+Lee, but there's no time...
+
+EXT.  COLONEL LEE'S MERCEDES - DAY
+
+Colonel Lee depresses the trigger on the launcher and a
+
+rolling-pin-sized rocket is EXPELLED.
+
+EXT.  SKY ABOVE WESTERN AVENUE - DAY
+
+The rocket SLAMS into a police helicopter just in front of the
+
+Apache, creating a huge FIREBALL, turning the copter into two
+
+tons of red-hot shrapnel.
+
+INT.  CARSON'S VOLVO - DAY
+
+Carson and Ambassador Han watch with horror.
+
+INT.  NEWS COPTER - (AERIAL SHOT) - DAY
+
+A hundred yards away, they're BUFFETED by the explosion.
+
+EXT.  WESTERN AVENUE - VARIOUS ANGLES - DAY
+
+The burning hull of the police copter CRASHES into a mini-
+
+mall, causing a FIRE and EXPLOSION.
+
+Hot metal and debris PINGS and POPS as it rains over the
+
+neighborhood, sending cars and pedestrians rushing for cover.
+
+EXT.  HELICOPTERS - DAY
+
+Vreeland's Apache and the remaining helicopters scramble away.
+
+The copters set down in parking lots, rooftops, wherever.
+
+Armed troops climb out to keep PANICKED MOBS from swarming
+
+them in an attempt to leave the city.
+
+INT.  BACHELOR APARTMENT - INCLUDE ANGLE ON TV - DAY
+
+The Han family watches the TV, amazed, as Colonel Lee ducks
+
+back down into the Mercedes and closes the sunroof.
+
+EXT.  SANTA MONICA FREEWAY - DAY
+
+Other drivers, not knowing whether Colonel Lee's rocket is the
+
+biological missile, scatter away from him. Colonel Lee
+
+squeezes onto the freeway on-ramp.
+
+INT.  CARSON'S VOLVO - (MOVING SHOT) - DAY
+
+Pieces of burning DEBRIS are still landing nearby. Carson
+
+looks at Ambassador Han:
+
+He looks at Han.
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+Dave, calmer but still sweating, taps at his computer. A
+
+schematic of Colonel Lee's rocket launcher appears on it.
+
+INT.  POLICE CRUISER - (MOVING SHOT) - DAY
+
+Miranda has hitched a ride in a black-and-white.
+
+EXT.  SANTA MONICA FREEWAY - DAY
+
+Several police cars clear a path for two huge, yellow DWP
+
+BULLDOZERS borrowed from a construction cite.
+
+They rumble up onto the eastbound freeway, turn, and then
+
+stop, side by side, facing oncoming traffic. They lower their
+
+huge front shovels to create a roadblock.
+
+INT.  NEWS COPTER - CLOSE - DAY
+
+Bobbi sits impatiently, microphone in hand...
+
+WIDER
+
+The copter has landed behind an AM-PM Minimart/gas station.
+
+Bobbi, her Pilot and her Cameraman turn when they hear a
+
+KNOCKING on the windshield of their copter...
+
+Oblivious to the panic on the streets, a raggedy HOMELESS GUY
+
+stands with a spray bottle, wanting to wash the windows on the
+
+copter. Bobbi gulps some Mylanta and waves him away:
+
+EXT.  STREETS OF LOS ANGELES - VARIOUS ANGLES - DAY
+
+All of the celebration locales are trampled, abandoned messes.
+
+So much for "Fun Fun Fun" and L.A. putting on its best.
+
+MOBS make panicked runs on the stock in grocery, drug and
+
+hardware stores. Violence breaks out in the aisles and parking
+
+lots.
+
+PEOPLE in their homes work feverishly to seal their doors and
+
+windows against the plague with tape, towels, plastic.
+
+INT.  COLONEL LEE'S MERCEDES - (MOVING SHOT) - DAY
+
+Colonel Lee screeches to a stop 500 feet from the bulldozers,
+
+angling the Mercedes so the driver's door is facing them.
+
+EXT.  SANTA MONICA FREEWAY - DAY
+
+The windows on the Mercedes glide open....
+
+Carson hurries to catch up to it...
+
+Colonel Lee FIRES a rocket at the bulldozers through the
+
+driver's side window. The BACKBLAST from the launcher vents
+
+through the passenger's side.
+
+The ROCKET impacts the bulldozer on the left; the EXPLOSION
+
+actually FLIPS the huge machine head over tail into the air.
+
+The bulldozer lands upside down on the lane divider, crushing
+
+a portion of it.
+
+Colonel Lee rolls up his windows and drives around the burning
+
+wreckage.
+
+The other drivers really give him wide berth now...
+
+EXT.  HARBOR FREEWAY - DAY
+
+Approaching downtown, Colonel Lee turns onto the 110 north.
+
+INT.  CARSON'S VOLVO - (MOVING SHOT) - DAY
+
+Traffic moves aside for Colonel Lee's notorious Mercedes.
+
+Carson catches up to it.
+
+Carson SLAMS his Volvo into the Mercedes. Ambassador Han
+
+braces himself on the dashboard. Carson looks over at him.
+
+As Carson moves forward, Colonel Lee's window opens enough to
+
+allow the barrel of his AMD-74 machine gun to poke through.
+
+Carson shoves Ambassador Han's head down and ducks. Colonel
+
+Lee STRAFES the Volvo.
+
+Carson looks up just in time to see...
+
+A pickup truck, ahead, stalled on the shoulder.
+
+Carson slams on the brakes, but it's too late... The Volvo
+
+CRASHES headfirst into the back of the truck.
+
+The Volvo's AIRBAGS deploy, stopping Carson and Ambassador Han
+
+from plowing into the dashboard. After a beat:
+
+Ambassador Han looks at Carson, wondering if he's putting him
+
+on. The car is a twisted mess. Carson can't get the door open.
+
+EXT.  HARBOR FREEWAY - DAY
+
+A red and white LAFD paramedic's ambulance puts on its SIREN
+
+and hurries to the Volvo. Two PARAMEDICS jump out.
+
+They pry his door open with a crowbar. Carson climbs onto the
+
+roof of his car. Grimacing from pain, he looks around.
+
+The Paramedics pry the passenger door open and help Ambassador
+
+Han out. Carson looks at the ambulance. He's getting an idea...
+
+Carson climbs into the back of the ambulance.
+
+INT.  AMBULANCE - DAY
+
+Carson rummages through the supplies, finds what he's looking
+
+for, and (BELOW FRAME) starts stuffing them into a canvas bag.
+
+EXT.  SANTA MONICA FREEWAY - DAY
+
+Carson climbs onto the roof of the ambulance.
+
+EXT.  HELICOPTERS - (VARIOUS ANGLES) - DAY
+
+Everyone in the grounded helicopters -- LAPD, National Guard,
+
+Marines, media -- react to Carson's request as if he's crazy.
+
+INT.  NEWS COPTER - DAY
+
+Bobbi is standing next to her copter in the back of the
+
+minimart, listening to this exchange on a POLICE SCANNER. Her
+
+Cameraman is eating a microwave burrito. Bobbi jumps in, grabs
+
+the ENG camera, and yells at her Pilot:
+
+INT.  POLICE CRUISER - (MOVING SHOT) - DAY
+
+They rapidly cut through the traffic.
+
+EXT.  HARBOR FREEWAY - DAY
+
+Carson waves his arms as he sees a helicopter approaching.
+
+The glare from the sun masks the copter's markings. It HOVERS
+
+above him. With the canvas bag slung over his shoulder, Carson
+
+jumps up onto the runner, then climbs up inside the cockpit.
+
+INT.  NEWS COPTER - (AERIAL SHOT) - DAY
+
+Carson closes the door, then sees Bobbi.
+
+EXT.  NEWS COPTER - (AERIAL SHOT) - DAY
+
+The door opens and Bobbi comes TUMBLING out of it!
+
+WIDER
+
+They're hovering above the roof of a high-rise hotel downtown.
+
+Bobbi lands with a huge SPLASH in the rooftop swimming pool.
+
+BOBBI
+
+surfaces, sputtering and screaming:
+
+Carson replies by tossing her industrial-sized bottle of
+
+Mylanta out after her.
+
+EXT.  SKY ABOVE OCEAN - FOLLOW CRUISE MISSILE - DAY
+
+In the distance, there is smog on the horizon.
+
+INT.  NEWS COPTER - (AERIAL SHOT) - DAY
+
+They follow the 110 north. Ahead, Carson sees the Mercedes
+
+cutting across lanes.
+
+INT.  NEWS COPTER - (AERIAL SHOT) - DAY
+
+Carson has the Pilot hover just above and behind the Mercedes.
+
+It comes to a stop and the sunroof opens up.
+
+Carson lashes himself to the copter's center post with a piece
+
+of the seat harness, then slides the door open.
+
+He reaches into the canvas bag and takes out a road flare. He
+
+breaks the flare open, IGNITING it.
+
+He braces himself on door jamb...
+
+Below, Colonel Lee's head pokes up from the sunroof.
+
+EXT.  COLONEL LEE'S MERCEDES - DAY
+
+Colonel Lee calmly aims the rocket launcher and FIRES.
+
+INT.  NEWS COPTER - (AERIAL SHOT) - DAY
+
+Carson tosses the lit flare, hard, away from the helicopter.
+
+The Pilot swings the helicopter in the other direction, and
+
+the rocket FOLLOWS the flare, streaking past the helicopter.
+
+A few seconds later, the rocket EXPLODES in midair behind them.
+
+INT.  POLICE CRUISER - (MOVING SHOT) - DAY
+
+Miranda sees what Carson is doing.
+
+INT.  NEWS COPTER - (AERIAL SHOT) - DAY
+
+The News Pilot looks over at Carson.
+
+EXT.  HARBOR FREEWAY - DAY
+
+Miranda and the L.A. Cop, both holding small tear gas pistols,
+
+split up. Crouching behind the cars on the freeway, they sneak
+
+up on the stopped Mercedes.
+
+INT.  NEWS COPTER - (AERIAL SHOT) - DAY
+
+Carson takes another flare out of the canvas bag. He breaks
+
+the top off... and it doesn't ignite.
+
+Below, Colonel Lee loads another rocket into the launcher...
+
+EXT.  HARBOR FREEWAY - DAY
+
+Miranda is climbing the metal stairs leading to a graffiti-
+
+covered freeway sign.
+
+INT.  NEWS COPTER - (AERIAL SHOT) - DAY
+
+Carson fumbles to pull another flare out of the canvas bag.
+
+EXT.  HARBOR FREEWAY - DAY
+
+Avoiding coils of razor-sharp concertina wire around the sign,
+
+Miranda FIRES a tear gas canister at the Mercedes' sunroof.
+
+It misses, bouncing off the windshield, filling the area with
+
+white smoke. Colonel Lee keeps his eye on the copter...
+
+INT.  NEWS COPTER - (AERIAL SHOT) - DAY
+
+Carson gets the new flare lit and throws it away from the
+
+copter just as Colonel Lee FIRES another rocket.
+
+The rocket EXPLODES a few dozen yards away. Shrapnel PEPPERS
+
+the copter, DAMAGING the rear rotor.
+
+Struggling to maintain control, the Pilot heads for the Sixth
+
+Street on-ramp, below the freeway, out of the line of fire.
+
+EXT.  HARBOR FREEWAY - DAY
+
+Colonel Lee spots Miranda, up on the freeway sign, loading
+
+another tear gas canister. He STRAFES the sign.
+
+She flattens; the BULLETS tear through the sign above her.
+
+The L.A. Cop rushes the Mercedes. Colonel Lee FIRES at him,
+
+hitting him across the legs.
+
+Colonel Lee ducks back into the Mercedes and drives away.
+
+VARIOUS ANGLES
+
+As Miranda comes down from the sign...
+
+Carson climbs up the embankment from Sixth Street to the 101...
+
+The downed L.A. Cop waves as a pair of ambulances drive up,
+
+lights flashing and sirens WAILING.
+
+Carson runs alongside one of the ambulances, pulling the
+
+driver's door open before it's stopped.
+
+The Paramedic is the one who helped him and Ambassador Han out
+
+of the Volvo. Carson yanks him out of his ambulance.
+
+INT.  AMBULANCE - (MOVING SHOT) - DAY
+
+Carson jumps in. Miranda climbs in the passenger's side. As he
+
+peels away, Miranda smacks Carson on the head.
+
+Carson turns, surprised and annoyed to see Ambassador Han, his
+
+arm bandaged, lying in the cot in the back.
+
+Lights and SIRENS going, they rush into the 110/101 interchange.
+
+Ahead, Colonel Lee's Mercedes is driving through the cars that
+
+are parting like the Red Sea for him.
+
+Carson glances up at the sign showing the upcoming exit:
+
+Glendale Blvd - Echo Park. A thought is forming...
+
+EXT.  HOLLYWOOD FREEWAY - DAY
+
+Carson suddenly cuts to the left. When they reach the Glendale
+
+Blvd exit, he SLAMS the ambulance into the side of the
+
+Mercedes, forcing it onto the freeway off-ramp.
+
+INT.  COLONEL LEE'S MERCEDES - (MOVING SHOT) - DAY
+
+Carson pushes the Mercedes across Bellevue Avenue, toward the
+
+park surrounding Echo Lake. Colonel Lee STRAFES the ambulance.
+
+EXT.  GLENDALE BLVD - DAY
+
+Carson keeps BUMPING the Mercedes as they reach Glendale Blvd,
+
+running right alongside the lake.
+
+With a hard shove, Carson sends the Mercedes SKIDDING off the
+
+road, through the small guardrail, and INTO the lake.
+
+Carson slams on the brakes, fishtailing the ambulance into the
+
+grass surrounding the lake. Sig 9mm in hand, he hops out.
+
+The Mercedes is so heavy that it's already half-submerged.
+
+INT./EXT.  COLONEL LEE'S MERCEDES - DAY
+
+WATER pours in from the floorboards, the air vents...
+
+Colonel Lee climbs out through the sunroof and FIRES at Carson
+
+with his AMD-74.
+
+EXT.  ECHO LAKE - DAY
+
+Carson ducks behind the ambulance, takes careful aim...
+
+And SHOOTS Colonel Lee, WINGING him in the shoulder. Colonel
+
+Lee's machine gun goes flying, and he tumbles into the water.
+
+Meanwhile, Cops, Army, Marines, etc. arrive via helicopter and
+
+car. Major Vreeland is among them. The news media, ENG cameras
+
+bouncing on their shoulders, run alongside them.
+
+CLOSER
+
+Carson races over to grab Colonel Lee, who is slogging out of
+
+the lake. There is a glint of bright steel... and Colonel Lee
+
+SLASHES at Carson with a knife.
+
+Carson moves aside... but the knife SLICES across his upper
+
+arm. Carson falls backwards.
+
+Colonel Lee, on hands and knees, tries to crawl away. Suddenly,
+
+someone KICKS him in face, flipping him over.
+
+It's Miranda. Colonel Lee's knife goes flying.
+
+Carson, bleeding, piles onto Colonel Lee. Vreeland assists.
+
+Colonel Lee fights like mad to break free...
+
+Until Miranda JAMS her heel into his groin. He cries out.
+
+Surprised at his wife's new negotiating technique, Carson
+
+shoots a look at Vreeland. Vreeland grimaces.
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+Dave sits in front of his computer, phone receiver resting on
+
+his shoulder, riveted by the ACTION on the TV.
+
+He turns as his MODEM squawks and another download comes in.
+
+EXT.  ECHO LAKE - DAY
+
+While Miranda continues to apply encouragement to Colonel
+
+Lee's gonads, Ambassador Han limps over. He yells some ORDERS
+
+at Colonel Lee. After a moment, Colonel Lee sags.
+
+Carson's not so sure, but they're completely surrounded by
+
+military and law enforcement personnel. He releases his grasp.
+
+Miranda removes her heel.
+
+Then, with lightning reflexes, Colonel Lee grabs Vreeland's
+
+Rock Island Arsenal Colt .45 Auto from its snap-holster.
+
+Carson dives back onto him. But he twists his arm around and
+
+PULLS the trigger -- with the muzzle underneath his own chin.
+
+Carson, Miranda and Ambassador Han are SPRAYED with his blood.
+
+WIDER
+
+Dumbfounded everybody looks at each other...
+
+Carson, dogged, kneels next to Colonel Lee's body and searches
+
+through his pockets, looking for something, anything.
+
+EXT.  SKY ABOVE OCEAN - FOLLOW CRUISE MISSILE - DAY
+
+Ahead, in the distance, the coastline comes into view.
+
+INT.  BACHELOR APARTMENT - DAY
+
+The family stares at the TV. Mrs. Han purses her lips...
+
+fighting it... a tear rolls down her face. The time: 4:51.
+
+EXT.  ECHO LAKE - DAY
+
+Carson reaches for his two-way radio.
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+Dave is looking at the TV, paying no attention to his
+
+computer.
+
+INCLUDE COMPUTER
+
+as some bank records are being downloaded: faxed IMAGES of
+
+processed checks SCROLL down the screen.
+
+Shaking his head, Dave glances at his computer...
+
+CLOSER
+
+Just in time to glimpse the words "First & Last + Deposit" on
+
+one of the checks as it scrolls off the screen.
+
+DAVE
+
+fumbles to scroll back to the check.
+
+EXT.  BACHELOR APARTMENT - ANGLE ON WINDOW - DAY
+
+Through the sheer curtains over the window we can SEE the Han
+
+family sitting in their booby-trapped chairs.
+
+We PULL BACK... they're way up in a high-rise building... The
+
+CAMERA continues to PULL BACK, farther and farther...
+
+...REVEALING 4,222 apartment units, on 168 acres. The building
+
+in which the apartment is located is one of 18 identical, 13-
+
+story towers standing side-by-side in a series of hexagons.
+
+EXT.  ECHO LAKE - DAY
+
+Vreeland's Apache helicopter LIFTS OFF.
+
+INT.  APACHE HELICOPTER - (AERIAL SHOT) - DAY
+
+Miranda looks at Carson, then checks her watch. 4:52.
+
+INT.  NORTH KOREAN CONSULATE - SURVEILLANCE ROOM - DAY
+
+Dave, re-energized, is juggling the phone and the radio.
+
+INT.  PARK LA BREA OFFICE - DAY
+
+The dense Assistant Manager, MILTON, stands in the outer
+
+office, staring at the inner office's closed door.
+
+During this, outside:
+
+INT.  APACHE HELICOPTER - (AERIAL SHOT) - DAY
+
+Carson sticks the radio in his pocket and looks at Miranda.
+
+INT.  BACHELOR APARTMENT - DAY
+
+The hostages can hear the WHOOPING fire alarms and the (OS)
+
+ANNOUNCEMENT. Joy looks at Mrs. Han, hopeful.
+
+No answer.
+
+EXT.  PARK LA BREA - DAY
+
+Police cars, military vehicles, fire trucks, etc. converge on
+
+the complex from all directions.
+
+Several helicopters circle the complex. One has a PA in it:
+
+INT.  BACHELOR APARTMENT - DAY
+
+The family listens, frustrated, as the HELICOPTERS circle (OS).
+
+Joy carefully slides her arm along the arm rest, then tries to
+
+coax something out of her pocket -- her Zippo lighter.
+
+They look over at her as she lights it. After a beat, Mrs. Han
+
+understands... She hesitates, then:
+
+Joy drops the lighter to the floor, then swats it with her
+
+foot to Mrs. Han. She does the same, passing it to Sam, who's
+
+sitting closest to the window.
+
+With one eye on the VU movement meter, Sam kicks the lighter,
+
+sliding it across the carpet toward the curtains.
+
+INT.  PARK LA BREA OFFICE - DAY
+
+Several COPS and MARINES burst into the office. Milton, the
+
+Assistant Manager, cowers as they SHOOT the lock off the door
+
+to the inner office and rush in.
+
+They literally tear the office apart.
+
+INT.  BACHELOR APARTMENT - DAY
+
+The FIRE is consuming the curtains. Thick, toxic SMOKE begins
+
+to fill the tiny apartment, and everyone starts coughing.
+
+INT.  APACHE HELICOPTER - (AERIAL SHOT) - DAY
+
+They circle, overwhelmed by the sheer number of apartments.
+
+Miranda points to a wisp of SMOKE above one of the towers.
+
+They come around, and spot the FIRE in the apartment's window.
+
+It is nine stories up, four stories below the top floor.
+
+EXT.  SKY ABOVE OCEAN - FOLLOW CRUISE MISSILE - DAY
+
+The coast looms closer.
+
+EXT.  PARK LA BREA - INCLUDE APACHE HELICOPTER - DAY
+
+The Apache hovers parallel to the apartment, 20 feet away.
+
+Carson feeds out a steel cable from a winch...
+
+Then throws a spring-loaded grappling hook onto the thick,
+
+iron balcony railing.
+
+Hanging onto a webbed rescue harness, Carson slides quickly
+
+across the line, onto the balcony. Using the butt of his Sig
+
+9mm, he BREAKS a hole in the glass on the locked sliding glass
+
+door. He reaches through and unlatches it.
+
+INT.  BACHELOR APARTMENT - DAY
+
+The FLAMES have engulfed both sets of curtains and have begun
+
+to creep across the floor and the ceiling.
+
+Carson glances over at the electronics on the TV: 4:55 PM.
+
+The family is coughing from the smoke, trying not to panic.
+
+In the kitchen, Lisa can't cough through the tape on her
+
+mouth. She's freaking out.
+
+Seeing this, Carson runs over to her and pulls the tape off.
+
+She starts SCREAMING, so he grabs her face.
+
+He grabs one of the refrigerator handles and pulls, but it
+
+won't come loose. Lisa cries out in frustration.
+
+Carson spots Javal's toolbox. In it, he finds a socket set
+
+handle, which he levers in between the refrigerator handle and
+
+the door. He rips one handle loose, then the other.
+
+Carson turns his attention to the booby-trapped chairs.
+
+Lisa sits on the floor, frantically pulling her handcuffed
+
+hands around her feet so they're in front of her, then runs
+
+for the front door. Just as she reaches it:
+
+He grabs her before she opens the door. There's a small
+
+magnetic sensor at the top of the door jamb.
+
+He looks at the meters on the electronic units.
+
+Carson looks at Sam, impressed, then peers under the chairs.
+
+Carson looks around, thinking. He spots the roll of duct tape
+
+on the table, grabs it and unrolls a long piece.
+
+He wraps the armrest with tape, cinching it tight.
+
+They look at each other, scared... After a beat, she does.
+
+The meter JIGGLES... but stays in the black! Everyone sighs
+
+with relief. Carson repeats the process on her other armrest.
+
+Carson feels for the sensor in the seat, finding it buried
+
+under Mrs. Han's thighs. He runs a long piece of tape around
+
+the seat and wraps it tightly.
+
+He tries to lift Mrs. Han, but the meter moves to the red.
+
+He wraps another piece of tape around the seat, and tries
+
+again to lift her. This time it works!
+
+EXT.  SKY ABOVE OCEAN - FOLLOW CRUISE MISSILE - DAY
+
+The missile has almost reached land.
+
+EXT.  U.S. FIGHTER BOMBERS - SKY OVER SEA OF JAPAN - DAY
+
+Traveling toward the Korean DMZ.
+
+INT./EXT.  BACHELOR APARTMENT - INCLUDE APACHE HELICOPTER -
+
+DAY
+
+Time: 4:58. The Apache helicopter HOVERING outside is making
+
+an incredible racket.
+
+Carson is helping Joy get free of her chair. As she stands,
+
+the pieces of her hair stuck to the gum over the microphone
+
+head begin to PULL the gum away!
+
+Mrs. Han sees the meter heading for the red, and the yellow
+
+warning light flashing... She grabs Carson's arm.
+
+Carson quickly covers the mic... The meter drops to zero.
+
+WIDER
+
+The FIRE is spreading across the carpet and walls. Carson is
+
+hurrying everyone out onto the small balcony. He helps Lisa
+
+into the rescue harness. She's terrified.
+
+She nods. Miranda pulls her across the cable and send the
+
+harness back. Carson turns next to Sam, but he stands back so
+
+his sister can go.
+
+ANGLE ON BOMB
+
+One minute... fifty-nine seconds...
+
+CARSON
+
+sends Sam across... the harness comes back... he straps Mrs.
+
+Han into it...
+
+He pushes her across. As soon as she's there, he gestures to
+
+the Apache Pilot to move closer so he can release the hook.
+
+ANGLE ON BOMB
+
+Thirty seconds... twenty-nine...
+
+THE HARNESS
+
+slides back across to him; Carson grabs it with one hand and
+
+tries to undo the hook buckle with the other...
+
+But the cable is crooked, and the buckle is JAMMED -- if he
+
+can't release it, he's stuck there! Carson tries to free the
+
+hook, but it's dug in between the concrete and the railing.
+
+Fifteen seconds to go...
+
+Carson looks over at the helicopter and waves them away.
+
+INT.  APACHE HELICOPTER - (AERIAL SHOT) - DAY
+
+Miranda turns to the Pilot.
+
+INT./EXT.  BACHELOR APARTMENT - INCLUDE APACHE HELICOPTER -
+
+DAY
+
+Five seconds to go...
+
+The Apache helicopter backs away from the high-rise...
+
+The cable pulls taut...
+
+Carson wraps the webbing of the harness around his wrist...
+
+The Apache STRAINS against the resistance of the cable...
+
+The entire railing around the balcony BREAKS away, with Carson
+
+HANGING on the harness next to it...
+
+The helicopter turns and flies away...
+
+EXT.  PARK LA BREA - DAY
+
+The bomb EXPLODES, blasting a huge hole in the tower.
+
+All the windows in the nearby towers and apartments IMPLODE.
+
+CARSON
+
+is engulfed in the FIREBALL... We can't tell if he's alive.
+
+INT./EXT.  APACHE HELICOPTER - (AERIAL SHOT) - DAY
+
+The force of the blast HITS them like a tidal wave. The Pilot
+
+fights to keep control while looking for a place to set down.
+
+BELOW
+
+Huge chunks of debris, glass, furniture, etc. rain down.
+
+Carson and the section of railing underneath the helicopter
+
+swing like a pendulum from the force of the blast.
+
+Groggy, he loosens his grasp on the harness, and jumps clear
+
+as the helicopter lands.
+
+Miranda leaps out of the Apache and runs to him...
+
+WIDER
+
+Dust and debris from the explosion hang in the air;
+
+helicopters crisscross the scene.
+
+Everyone turns their eyes skyward, looking for the missile...
+
+INT.  WORKERS' PARADISE HALL - P'YUNGYANG - (INCLUDE TV) -
+
+DAY
+
+The Premier and the High Command are watching the action at
+
+Park LaBrea on CNN Live...
+
+...As Ambassador Han embraces his family.
+
+Furious, General Kai gets up and leaves the conference room.
+
+The others look at the Premier. After a beat, he crosses to a
+
+PANEL OF ELECTRONICS and SLAPS a large red button on it...
+
+EXT.  SKY ABOVE SANTA MONICA - DAY
+
+The cruise missile EXPLODES, completely obliterating it.
+
+EXT.  U.S. FIGHTER BOMBERS - SKY OVER SEA OF JAPAN - DAY
+
+The lead jet cuts away, turning around. The others follow.
+
+EXT.  PARK LA BREA - DAY
+
+The Han family crosses to Carson, blackened and bloody,
+
+sitting on the curb next to Miranda. Ambassador Han shakes
+
+his hand. Mrs. Han and Miranda cry. Joy and Sam grin at him.
+
+After a beat, Carson gathers the kids up in his arms. It is a
+
+profound catharsis for him...
+
+EXT.  WORKERS' PARADISE HALL - P'YUNGYANG - DAY
+
+General Kai is getting into his car. He look up as an ARMY
+
+OFFICER approaches... and SHOOTS him! The Officer pushes his
+
+body into the passenger's seat, gets in, and drives off.
+
+DARKNESS
+
+and the sound of RUNNING WATER.
+
+EXT.  PASTORAL SCENE - DAY
+
+A beautiful ranch house and horse barn, sitting on a meadow
+
+beside a brook, overlooking an unspoiled pine forest.
+
+INT.  CARSON'S HOUSE - BEDROOM - NIGHT
+
+The pastoral scene is a COMMERCIAL on the TV.
+
+Carson, wrapped in a towel, holds the phone and paces.
+
+Carson hangs up, and CLICKS off the TV as he leaves the room.
+
+The sound of RUNNING WATER continues (OS)...
+
+EXT.  CARSON'S HOUSE - PATIO - NIGHT
+
+Miranda, wearing a bathrobe, is WATERING her sickly roses.
+
+Carson comes outside.
+
+Miranda smiles, then looks at him, surprised, as he crouches
+
+down and helps her turn the soil around the rose bushes. They
+
+work in silence. Then, tentatively, she leans over and kisses
+
+him. Soon they're in each other's arms, holding tight...
+
+INT.  CARSON'S HOUSE - BEDROOM - NIGHT
+
+Still entwined, Carson and Miranda stumble in. While kissing:
+
+He slips her out of her robe and they fall onto the bed. It is
+
+a tender, romantic moment...
+
+Until, (OS), a CAR ALARM goes off. Miranda bolts up.
+
+Carson ignores the ALARM -- and Miranda's comment. He pushes
+
+her back onto the bed and turns off the bedside lamp.
+
+All of the books and magazines about other places to live
+
+spill from his nightstand, onto the floor...
+

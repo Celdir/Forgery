@@ -1,0 +1,1972 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+All About Eve
+
+FADE IN:
+
+INT. DINING HALL - SARAH SIDDONS SOCIETY - NIGHT
+
+It is not a large room and jammed with tables, mostly for
+
+four but some for six and eight. A long table of honor, for
+
+about thirty people, has been placed upon a dais.
+
+Diner is over. Demi-tasses, cigars and brandy. The overall
+
+effect is one of worn elegance and dogged gentility. It is
+
+June.
+
+The CAMERA, as it has been throughout the CREDIT TITLES, is
+
+on the SARAH SIDDONS AWARD. It is a gold statuette, about a
+
+foot high, of Sarah Siddons as The Tragic Muse. Exquisitely
+
+framed in a nest of flowers, it rests on a miniature altar in
+
+the center of the table of honor.
+
+Over this we hear the crisp, cultured, precise VOICE of
+
+ADDISON deWITT:
+
+The CAMERA has EASED BACK to include some of the table of
+
+honor and a distinguished gentleman with snow-white hair who
+
+is speaking. We do not hear what he says.
+
+The CAMERA EASES BACK some more, and CONTINUES until it
+
+discloses a fairly COMPREHENSIVE SHOT of the room
+
+A GROUP OF WAITERS are clustered near the screen masking the
+
+entrances of the kitchen. The screens are papered with old
+
+theatrical programs. The waiters are all aged and venerable.
+
+They look respectfully toward the speaker.
+
+CLOSE - THE AWARD on its altar, it shines proudly above five
+
+or six smaller altars which surround it and which are now
+
+empty.
+
+THE CAMERA MOVES TO: CLOSE - ADDISON deWITT, not young, not
+
+unattractive, a fastidious dresser, sharp of eye and
+
+merciless of tongue. An omnipresent cigarette holder projects
+
+from his mouth like the sward of D'Artagnan.
+
+He sits back in his chair, musingly, his fingers making
+
+little cannonballs out of bread crumbs. His narration covers
+
+the MOVE of the CAMERA to him:
+
+He looks to his left. KAREN RICHARDS is lovely and thirtyish
+
+in an unprofessional way. She is scraping bread crumbs,
+
+spilled sugar, etc., into a pile with a spoon. Addison takes
+
+one of her bread crumbs. She smiles absently. Addison rolls
+
+the bread crumb into a cannonball.
+
+Karen continues her doodling.
+
+Karen absently pats the top of her little pile of refuse. A
+
+hand reaches in to take the spoon away. Karen looks as the
+
+CAMERA PANS with IT to MAX FABIAN. He sits at her left. He's
+
+a sad-faced man with glasses and a look of constant
+
+apprehension. He smiles apologetically and indicated a white
+
+powder with he unwraps. He pantomimes that his ulcer is
+
+snapping.
+
+Karen smiles back, returns to her doodling. Addison mashes a
+
+cigarette stub, pops it out of his holder. He eyes Max.
+
+Max drops the powder into some water, stirs it, drinks, burps
+
+delicately and close his eyes.
+
+Max rests fitfully. He twitches. A hand reaches into the
+
+SCENE, removes a bottle of Scotch from before him. The CAMERA
+
+follows the bottle to MARGO CHANNING. She sits at Max's left,
+
+at deWitt's right. An attractive, strong face. She is
+
+childish, adult, reasonable, unreasonable - usually one when
+
+she should be the other, but always positive. She pours a
+
+stiff drink.
+
+Addison hold out the soda bottle to her. She looks at it, and
+
+at him, as if it were a tarantula and he had gone mad. He
+
+smiles and pours a glass of soda for himself.
+
+Margo sloshes her drink around moodily, pulls at it.
+
+Addison, having sipped his soda water, puts a new cigarette
+
+in his holder, leans back, lights it, looks and exhales in
+
+the general direction of the table of honor. As he speaks the
+
+CAMERA MOVES in the direction of his glance...
+
+At this point Addison's voice FADES OUT and the voice of the
+
+aged actor FADES IN. CAMERA is in MEDIUM CLOSE SHOT of him
+
+and the podium.
+
+EVE HANDS: Lovely, beautifully groomed. In serene repose,
+
+they rest between a demi-tasse cup and an exquisite small
+
+evening cup.
+
+Addison's eyes narrow quizzically as he listens. Then,
+
+slowly, he turns to look at Karen...
+
+Karen never ceases her thoughtful pat-a-cake with the crumbs.
+
+Addison's glance moves from Karen to Margo.
+
+Margo's face is a mask. She looks down at the drink which she
+
+cradles with both hands.
+
+The entire room is galvanized into sudden and tumultuous
+
+applause. Some enthusiastic gentlemen rise to her feet...
+
+Flash bulbs start popping about halfway down the table of the
+
+Aged Actor's left...
+
+Eve rises - beautiful, radiant, poised, exquisitely gowned.
+
+She stands in simple and dignified response to the ovation.
+
+A dozen photographers skip, squat, and dart about like water
+
+bugs. Flash bulbs pop and pop and pop...
+
+THE WAITERS applaud enthusiastically...
+
+AGED ACTOR, Award in hand, he beams at her...
+
+EVE smiles sweetly to her left, then to her right...
+
+MAX has come to. He applauds lustily.
+
+ADDISON's applauding too, more discreetly.
+
+MARGO, not applauding. But you sense no deliberate slight,
+
+merely an impression that as she looks at Eve her mind is on
+
+something else...
+
+KAREN, nor is she applauding. But her gaze is similarly fixed
+
+on Eve in a strange, faraway fashion.
+
+ADDISON, still applauding, his eyes flash first at Margo and
+
+then at Karen. Then he directs them back to Eve. He smiles
+
+ever so slightly.
+
+The applause has continued unabated. EVE turns now, and moves
+
+gracefully toward the Aged Actor. She moves through
+
+applauding ladies and gentlemen; from below the flash bulbs
+
+keep popping...
+
+As she nears her goal, the Ages Actor turns to her. He holds
+
+out the award. Her hand reaches out for it. At that precise
+
+moment - with the award just beyond her fingertips - THE
+
+PICTURE HOLDS, THE ACTION STOPS. The SOUND STOPS.
+
+ADDISON has stopped applauding, he's sitting forward, staring
+
+intently at Eve... his narration continues unbroken.
+
+As he leans back, the APPLAUSE FADES IN as tumultuous as
+
+before. Addison's look moves slowly from Eve to Karen.
+
+KAREN, she leans forward now, her eyes intently on Eve. Her
+
+lovely face FILLS THE SCREEN as the APPLAUSE FADES ONCE MORE -
+
+as she thinks back:
+
+EXT. NEW YORK THEATER STREET - NIGHT
+
+Traffic is not heavy, the shows have broken some half-hour
+
+before. The rain is just a drizzle.
+
+There are other theaters on the street; display lights are
+
+being extinguished. Going out just as Karen's taxi pulls up
+
+is: MARGO CHANNING in 'AGED IN WOOD'. The marquis display
+
+below includes "Max Fabian Presents" and "By Lloyd Richards."
+
+The taxi comes to a stop at the alley. Karen can be seen
+
+through the closed windows telling the driver to wait. Then
+
+she gets out. She takes a step, hesitates, then looks about
+
+curiously:
+
+She smiles a little at her own romanticism, puts her head
+
+down and makes her way into the alley.
+
+EXT. ALLEY - CURRAN THEATER - NIGHT
+
+Karen moves toward the stage door. She passes a recess in the
+
+wall - perhaps an exit - about halfway.
+
+Karen hesitates, looks. Eve is barely distinguishable in the
+
+shadow of the recess. Karen smiles, waits. Eve comes out. A
+
+gooseneck light above them reveals her...
+
+She wears a cheap trench coat, low-heeled shoes, a rain hat
+
+stuck on the back of her head... Her large, luminous eyes
+
+seem to glow up at Karen in the strange half-light.
+
+Karen contemplates Eve. Then she takes her arm.
+
+Karen practically propels her toward the stage door.
+
+Karen opens the door. They go in.
+
+INT. BACKSTAGE - CURRAN THEATER - NIGHT
+
+Everything, including the doorman, looks fireproof.
+
+Eve enters like a novitiate's first visit to the Vatican.
+
+Karen, with a "Good evening, Gus -" to the doorman, leads the
+
+way toward Margo's stage dressing room. Eve, drinking in the
+
+wonderment of all the surveys, lags behind. Karen waits for
+
+her to catch up...
+
+Karen smiles, takes Eve's arm. They proceed to Margo's
+
+dressing room.
+
+EXT. MARGO'S DRESSING ROOM - CURRAN THEATER - NIGHT
+
+No star on the closed door; the paint is peeling. A type
+
+written chit, thumbtacked, says MISS CHANNING.
+
+As Karen and Eve approach it, an uninhibited guffaw from
+
+Margo makes them pause.
+
+Eve smiles shakily. At the same moment:
+
+Karen enters during the line.
+
+INT. MARGO'S DRESSING ROOM - CURRAN THEATER - NIGHT
+
+It is a medium-sized box, lined with hot water pipes and
+
+cracked plaster. It is furnished in beat-up wicker. A door
+
+leads to an old-fashioned bathroom.
+
+Margo is at the dressing table. She wears an old wrapper, her
+
+hair drawn back tightly to fit under the wig which lies
+
+before her like a dead poodle. Also before her is an almost
+
+finished drink.
+
+LLOYD RICHARDS is stretched out on the wicker chaise. He's in
+
+his late thirties, sensitive, literate.
+
+Between them, by the dressing table, is BIRDIE - Margo's
+
+maid. Her age is unimportant. She was conceived during a
+
+split week in Walla Walla and born in a carnival riot. She is
+
+fiercely loyal to Margo.
+
+Karen enters during the line Margo started while she was
+
+outside. Lloyd chuckles, Birdie cackles.
+
+Karen laughs with them.
+
+She takes the wig into the bathroom. Margo starts creaming
+
+the make-up off her face.
+
+Birdie comes out of the bathroom without the wig.
+
+She picks up Lloud empty glass, asks "more"? He shakes his
+
+head. She pours herself a quick one.
+
+There is a pause. Lloyd applauds lightly.
+
+Birdie starts. Karen stops her. It's all in whisper, now,
+
+until Eve comes in.
+
+She looks to Birdie.
+
+They all laugh. Karen goes to the door, opens it. Eve comes
+
+in. Karen closes the door behind her. A moment.
+
+Margo changes swiftly into a first-lady-of-the-theater
+
+manner.
+
+She goes into the bathroom.
+
+She sits. A short lull.
+
+They start together, and stop in deference to each other.
+
+They're a little flustered. But not Eve.
+
+Eve looks at Margo, then drops her eyes.
+
+Eve pauses. Then shakes her head.
+
+Eve looks at her - grateful because Karen called her "Eve."
+
+Then away, again...
+
+Birdie comes out of the bathroom. Everybody looks at her
+
+sharply. She realizes she's in on something important. She
+
+closes the door quietly, leans against it.
+
+Eve looks at her unsmilingly, then back to her hands.
+
+Eve speaks simply and without self-pity.
+
+She finishes dry-eyes and self-composed. Margo squeezes the
+
+bridge of her nose, dabs at her eyes.
+
+That breaks the spell. Margo turns to her-
+
+She slams into the bathroom again. At that precise instant
+
+BILL SAMPSON flings open the door to the dressing room. He's
+
+youngish, vital, undisciplined. He lugs a beat-up suitcase
+
+which he drops as he crosses to Margo-
+
+Bill grins suddenly, drops to one knee beside her.
+
+Bill flashes a fleeting look at Eve.
+
+Bill grins, rises, sees Eve as if for the first time.
+
+Birdie shuts it and goes into the bathroom. In a moment we
+
+hear a shower start to run. Eve gets up.
+
+Margo, impulsively crosses to Eve.
+
+She darts into the bathroom. Eve sits down again.
+
+Lloyd gets up. Karen crosses to pound on the bathroom door.
+
+She yells - the shower is going...
+
+Margo's answer is lost in the shower noise. Karen crosses to
+
+kiss Bill. She's joined by Lloyd.
+
+They shake hands warmly. Karen and Lloyd move to Eve.
+
+Lloyd shakes her hand, crosses to join Karen who waits at the
+
+open dressing room door.
+
+Karen smiles warmly. She closes the door. They leave.
+
+INT. MARGO'S DRESSING ROOM - NIGHT
+
+Eve sits on the same chair. Bill keeps moving around. Eve
+
+never takes her eyes off him. He offers her a cigarette. She
+
+shakes her head. He looks at his watch.
+
+He goes to the dressing table, picks up Margo's pocketbook,
+
+opens it. He finds a letter. He glances at it, puts it back.
+
+There's a sudden sharp yelp from the bathroom.
+
+Bill grins.
+
+He sprawls on the chaise, closes his eyes. A pause.
+
+Bill grunts in the affirmative. Silence.
+
+He lies down again.
+
+A pause.
+
+Margo, putting on an earring, buzzes out of the bathroom
+
+followed by Birdie. Bill sits up.
+
+She grabs her pocketbook, starts rummaging. Out comes the
+
+letter...
+
+Margo drops it in the wastebasket, keeps rummaging.
+
+She goes behind the chaise. She comes up with a magnificent
+
+mink.
+
+Margo starts to straighten them.
+
+By now she's in the coat and has Eve's arm, heading for the
+
+door. Bill puts his arms around Birdie.
+
+Bill kisses her cheek. She kisses Bill.
+
+Margo and Eve precede Bill out of the door...
+
+EXT. LAGUARDIA FIELD - NIGHT
+
+American Airlines baggage counter. The rain has stopped, but
+
+it's wet.
+
+Margo, Eve, and Bill are stymied behind two or three couples
+
+waiting to be checked in. Margo's arm is through Bill's. They
+
+become increasingly aware of their imminent separation. Eve
+
+senses her superfluity.
+
+A lull. Bill cranes at the passenger heading the line, in
+
+earnest conversation with the dispatcher. He sighs.
+
+The man up ahead moves on.
+
+Bill hands Eve the ticket. Margo smiles gratefully at her.
+
+Eve smiles back.
+
+EXT. PASSAGE AND GATE - LAGUARDIA - NIGHT
+
+It's covered, with glass windows. Margo's arm is in Bill's.
+
+Bill pauses and pulls her to one side. Some passengers go by.
+
+A pause.
+
+He starts to kiss her, stops when he becomes aware of Eve
+
+standing near them. She has his ticket in her hand.
+
+She hands Bill his ticket, they start toward the gate.
+
+INT. BOARDING GATE - LAGUARDIA - NIGHT
+
+The D.C. 6 in the b.g. A few visitors. Bill hands his ticket
+
+to the guard, turns to Eve.
+
+Bill puts his arms around Margo.
+
+They kiss. Margo's arms tighten desperately. Bill pulls away,
+
+kisses her again lightly, starts for the plane. Margo turns
+
+away. Eve puts her arms through Margo's.
+
+Bill pauses en route to the plane.
+
+Margo turns to look at him with Eve.
+
+Eve looks at Margo. Margo smiles.
+
+Bill waves, climbs aboard. The door is closed behind him, the
+
+departure routine starts...
+
+Margo and eve turn to go. They walk down the passage. As they
+
+walk, Eve gently disengages her arm from Margo's and puts it
+
+comfortingly about her...
+
+INT. DINING HALL - NIGHT
+
+MARGO slides her fingers reflectively up and down the sides
+
+of the almost empty highball glass.
+
+ADDISON eyeing her quizzically. He offers her the whiskey.
+
+MARGO shakes her head, absently. She looks down at her glass
+
+again. Then, she raises her eyes to look at Eve.
+
+INT. MARGO'S LIVING ROOM - DAY
+
+It's one floor above street level. A long narrow room,
+
+smartly furnished - including a Sarah Siddons Award.
+
+MARGO'S NARRATIVE overlaps into the scene which is a SILENT
+
+ONE.
+
+Eve sits at a smart desk. She is just arranging a stack of
+
+letters which she carries to Margo with a pen. Margo sits
+
+comfortably by the fire with a play script. She hands the
+
+scrips up to Eve, shakes her head and holds her nose. Eve
+
+smiles, takes the script, hands Margo the letters to sign.
+
+Birdie comes in with a tea tray which she sets on a low table
+
+before the fire.
+
+The phone rings.
+
+Birdie and Eve both go for it. Eve gets there first. By her
+
+polite but negative attitude, we know she is giving someone a
+
+skillful brush-off.
+
+Birdie glares first at her, then at Margo.
+
+Margo leans her head back, closes her eyes blissfully...
+
+Birdie slams the double door to the landing on her way out...
+
+INT. BACKSTAGE - CURRAN THEATER - DAY
+
+From the wings. The audience is never visible. Eve in the
+
+f.g. Margo and company taking a curtain call. Tumultuous
+
+applause... the curtain falls. The cast, except for Margo and
+
+two male leads, walk off. The curtain rises again...
+
+EVE, watching and listening to the storm of applause. Her
+
+eyes shine, she clasps and unclasps her hands...
+
+THE STAGE, Eve again in the f.g., but closer. Again the
+
+curtain falls. This time the two men go off. Curtain rises on
+
+Margo alone. If anything, the applause builds...
+
+EVE, that same hypnotic look... there are tears in her eyes.
+
+The curtain falls offscene, then rises again -
+
+MARGO, the curtain falls again between her and CAMERA...
+
+BACKSTAGE, the curtain just settling on the floor. Margo
+
+starts off.
+
+She walks as she talks and winds up at Eve - still in the
+
+wings. Eve's eyes are wet, she dabs at her nose.
+
+She takes Eve's arm, they stroll toward her dressing room.
+
+They're at her dressing room by now. Margo's been unhooking
+
+her gown, with Eve's help. They go in.
+
+INT. MARGO'S DRESSING ROOM - NIGHT
+
+It's undergone quite a change. A new carpet, chintz covers
+
+for the furniture, new lampshades, dainty curtains across the
+
+filthy barred window.
+
+Birdie waits within. She's listening to a fight; she shuts it
+
+off as they enter.
+
+Margo's out of her wig and dress by now. She gets into her
+
+robe, sits at the dressing table. Eve's on the chaise, by the
+
+discarded costume.
+
+A pause. Eve rises, picking up Margo's costume.
+
+And she goes out with the costume. Birdie opens her mouth,
+
+shuts it, then opens it again.
+
+As she talks, Margo hurries to the door and out after Eve.
+
+INT. BACKSTAGE - CURRAN THEATER - NIGHT
+
+Margo pops out, looks for Eve, then stares in amazement.
+
+EVE, near the wings. She stands before a couple of cheval
+
+mirrors set up for cast members. She has Margo's dress held
+
+up against her body. She turns this way and that, bows as if
+
+to applause - mimicking Margo exactly...
+
+MARGO watches her curiously. Then she smiles.
+
+EVE, startled, whips the gown away, turns to Margo.
+
+MARGO smiles understandingly.
+
+Wordlessly, Eve brings it toward her...
+
+INT. MARGO'S BEDROOM - NIGHT
+
+Margo's asleep. A bedside clock with a luminous dial reads 3
+
+A.M. exactly. The phone rings. Her head comes up out of the
+
+pillow, she shakes it. She fumbles, switches on a lamp, then
+
+picks up the phone.
+
+Margo jumps at his vehemence. As she does so, the SCREEN
+
+WIPES DOWN DIAGONALLY LEFT TO RIGHT, so that Margo remains in
+
+the lower right-hand diagonal of the screen and Bill is
+
+disclosed in the upper left. He, too, is in bed, reading. His
+
+clock says midnight.
+
+Margo's eyes pop. Her jaw and the phone sag.
+
+Margo knows damn well it wasn't she.
+
+Margo hangs up. Bill hangs up. He replaces the phone, picks
+
+up his book... SLOW WIPE until ONLY MARGO is on screen. She
+
+puts her phone away. She gets a cigarette. She lights it. She
+
+rolls over on her back...
+
+INT. MARGO'S BEDROOM - DAY
+
+Margo is propped up in bed, still reflective. Birdie comes in
+
+with her breakfast tray and a "hi" which gets a "hi" from
+
+Margo. She starts on some petty chores. Margo takes a sip of
+
+orange juice...
+
+Birdie stops whatever it is she's doing.
+
+There is a sharp, brisk knock. Eve comes in. She's dressed in
+
+a smart suit. She carries a leather portfolio.
+
+Margo says "good morning," Birdie says nothing. Eve shows off
+
+the suit, proudly.
+
+And she's gone. Margo stares at the closed door. Then at
+
+Birdie. Birdie, without comment, goes out. Margo, alone,
+
+looks down at her orange juice. Absently, she twirls it in
+
+its bed of shaved ice...
+
+INT. DINING HALL - SARAH SIDDONS SOCIETY - NIGHT
+
+MARGO, reflectively twirling her highball glass. The applause
+
+continues. She lifts her glass to drink. Her glance meets
+
+Karen's. She raises the glass in a silent toast.
+
+KAREN smiles wanly at Margo's toast. Then the smile fades as
+
+she looks reflectively back to Eve...
+
+INT. MARGO'S BEDROOM - NIGHT
+
+It's January. The bed is littered with fur coats. Through the
+
+open door, from the floor below, the murmur of a party at a
+
+late hour. No hilarity.
+
+Karen is making repairs at Margo's dressing table. Eve
+
+enters, carrying a magnificent sable coat which she drops on
+
+the bed.
+
+Eve melts into warmth. She beams, sits on the bed. Karen has
+
+spun around on the dressing table stool.
+
+She starts out.
+
+She looks down at the coverlet once more.
+
+Eve smiles a little. A pause.
+
+She hugs Karen, leaves. She nearly collides with Birdie on
+
+her way in.
+
+They start out.
+
+Through the open door, we see them go down the stairs and out
+
+of sight.
+
+INT. SECOND FLOOR LANDING AND STAIRS - NIGHT
+
+Karen and Birdie come down the stairs to Bill, Max, Addison,
+
+a blonde young lady named MISS CASWELL (Addison's protegee-of
+
+the-moment) - and, at the feet of Bill and Addison... Eve.
+
+They are all seated on the steps.
+
+Birdie goes through and down the stairs to the first floor.
+
+Karen remains with the others.
+
+Addison is holding forth:
+
+The butler goes right by.
+
+Max leaves with her empty glass.
+
+Eve speaks almost unaware of what she says. She looks at no
+
+one in particular, just off...
+
+She becomes aware of Addison's strange smile, of Bill's looks
+
+of warm interest. She's embarrassed, she turns away - then
+
+scrambles to her feet as Margo approaches with Lloyd from the
+
+direction of the pantry.
+
+Margo's had too much to drink. Her fake smile fades as Eve
+
+gets up. She's unpleasant and depressed.
+
+Max has come up with Miss Caswell's drink.
+
+As she speaks, she makes her way to Lloyd's side.
+
+She starts upstairs.
+
+She goes up, exits out of sight. A pause. Miss Caswell
+
+reaches up to take the drink out of Max's hand.
+
+Bill gets up and goes after Margo...
+
+Eve turns away abruptly, in sudden tears.
+
+She crosses to Eve, puts an arm around her.
+
+Karen smiles back. She joins Lloyd and Max.
+
+They laugh, say "good night," and start downstairs. As Eve
+
+crosses to Addison:
+
+She follows the men downstairs. CLOSE UP of an old engraving
+
+of Mrs. Siddons as 'The Tragic Muse' which hangs among other
+
+theatrical mementos on the stair wall...
+
+INT. DINING HALL - SARAH SIDDONS SOCIETY - NIGHT
+
+The applause continues. Margo sits back in her chair now,
+
+picking at a bit of fingernail polish...
+
+INT. MARGO'S BEDROOM - NIGHT
+
+The same night as the previous sequence, but before the party
+
+has started. Margo is all dressed except for jewelry. She
+
+stands before her dressing table putting it on. She sips at
+
+an enormous Martini...
+
+Birdie comes in.
+
+Her glance meets Birdie's. She turns and strolls out.
+
+INT. THIRD FLOOR LANDING - NIGHT
+
+Margo speeds up going down the stairs.
+
+INT. SECOND FLOOR LANDING - NIGHT
+
+Margo shows up again deliberately as she reaches the landing.
+
+Sound of Bill and Eve laughing together from the living room.
+
+Margo strolls toward it casually.
+
+We see Eve seated, looking up fascinated at Bill as he talks -
+
+out of the laughter...
+
+Eve sees Margo approach. She gets up. Bill turns.
+
+INT. MARGO'S LIVING ROOM - NIGHT
+
+As Margo strolls up, very off-hand.
+
+She leaves. A short lull. Margo looks into cigarette boxes.
+
+Bill eyes her curiosity, crosses to the fire.
+
+Bill catches the drift. Incredulously.
+
+Bill and Margo look off. Eve is in the room. They have no way
+
+of knowing how long she's been there.
+
+Eve, involuntarily, looks to Margo.
+
+Eve smiles, turns to Bill.
+
+Bill smiles back and starts across the landing toward the
+
+pantry. As he crosses the stairs, Karen, Lloyd and Max come
+
+up from the street level below. General greetings. Bill
+
+continues up to pantry. Eve and then Margo come up to add
+
+their welcome...
+
+Karen yields with a "thank you, Eve-." Eve goes up with the
+
+coat. Lloyd looks after her approvingly.
+
+They start for the living room.
+
+They've come to a halt near the fireplace.
+
+Bill brings two Martinis. He hands one to Margo.
+
+He hands Eve's drink to Karen. Max has wandered off. Other
+
+guests are arriving. Margo gulps her drink, hands Bill the
+
+empty glass. He puts it on a passing tray. Margo takes a
+
+fresh one at the same time.
+
+Margo surveys them all.
+
+She downs the drink, hands the empty glass to Bill, and
+
+leaves them. She passes two women, gabbing by the piano. As
+
+they see her:
+
+She arrives at the landing just as Addison comes up with Miss
+
+Caswell. Margo takes a drink from a passing tray.
+
+Miss Caswell drapes her coat over the rail, heads for Max.
+
+Addison puts Eve's arm in his.
+
+Eve smiles uncertainly at Margo as he leads her away. Margo
+
+looks after them. She downs her drink...
+
+INT. MARGO'S LIVING ROOM - NIGHT
+
+It's many Martinis later. Most of the guests have gone. The
+
+party has reached that static state - everyone's assumed more
+
+or less permanent places.
+
+Birdie passes, carrying a cup of coffee. CAMERA FOLLOWS her
+
+to the piano where Margo sits on the bench beside the
+
+pianist. He is just finishing "Liebestraum" and she stares
+
+moodily into a Martini. Birdie halts beside her with the
+
+coffee. Margo looks up. Birdie holds out the coffee. Margo
+
+takes the onion out of the Martini, drops it into the coffee
+
+and waves Birdie away. Birdie goes. "Liebestraum" comes to an
+
+end. The pianist tries to ease into a more sophisticated
+
+rhythm. Margo stops him.
+
+Unhappily, he plays "Liebestraum." Margo sips her Martini,
+
+stares down into it again. Bill tiptoes up.
+
+Bill is about to get mad - when Max bustles up.
+
+She takes off. Max waits to set Bill straight.
+
+He starts off after Margo. As the CAMERA PANS with Bill we
+
+see Margo going into the pantry with Max following her. Bill
+
+joins Addison and Miss Caswell on the stairs.
+
+INT. PANTRY - NIGHT
+
+It's a good sized one. In the b.g., the caterers are packing
+
+dishes, glassware, etc. Margo crosses to a cupboard. She
+
+finds the bicarb.
+
+He adds water to the bicarb.
+
+Max burps.
+
+Lloyd enters, looking for her.
+
+He goes out. A pause.
+
+Another pause.
+
+Another pause.
+
+A pause. Margo closes the box of bicarb.
+
+They exit into the dining room. As they open the swinging
+
+door, the CAMERA REMAINS in the doorway. Margo and Lloyd walk
+
+toward the stairs. In the b.g., Eve is talking to the group.
+
+How much she says is dependent on how long it takes Margo and
+
+Lloyd to reach her.
+
+Just as before, she becomes aware of Margo's approach with
+
+Lloyd. She scrambles to her feet...
+
+And as Margo speaks - or before - we
+
+FADE OUT.
+
+FADE IN:
+
+EXT. N.Y. THEATER STREET - DAY
+
+Margo gets out of a cab in front of the theater and goes in.
+
+It's Friday afternoon - no performance.
+
+INT. LOBBY AND FOYER - CURRAN THEATER - DAY
+
+Margo comes from the street through the lobby ( a few people
+
+buying tickets) and into the deserted foyer. She spots
+
+Addison sprawled on one of the sofas.
+
+She heads for the auditorium.
+
+A moment of silence.
+
+As Addison speaks, he rises with excitement.
+
+Addison, of course, knows exactly what she's doing. He senses
+
+the approaching typhoon, he whips it up...
+
+Miss Caswell appears, uncertain, in the b.g.
+
+Margo, abruptly, starts for the auditorium. Addison smiles.
+
+He takes Miss Caswell's arm.
+
+He takes her toward the street.
+
+INT. THEATER - CURRAN THEATER - DAY
+
+The curtain is up; the set, covered, is a bedroom in a
+
+deteriorating Southern mansion.
+
+There is no one in the theater but Max, seated on the aisle
+
+about two-thirds down, and Eve with Lloyd and Bill on the
+
+stage. She is seated; they stand between her and auditorium.
+
+There is some ad lib talk among the three which we cannot
+
+make out. Margo marches down the aisle with a steady pace.
+
+She passes Max smiles a sickly, hopeful smile. She ignores
+
+him as if he were a used paper cup. She disappears through
+
+the door which leads backstage.
+
+Max whistles. Lloyd turns. Max indicated the door and puts
+
+his hands to his head in despair.
+
+Margo walks out of the wings on stage. Bill and Lloyd turn to
+
+her. Eve rises.
+
+Max slumps in his seat. By the time Margo turns back to them,
+
+the others have exchanged swift looks.
+
+Max submerges further in his seat.
+
+Max has edged his way to the stage.
+
+He stalks into the wings. Bill's reaction to the fight is
+
+typical. He lights a cigarette, stretches out on the covered
+
+bed. Eve stands frozen with fear. Margo yells after Lloyd
+
+into the wings.
+
+Lloyd comes out of the door leading to the auditorium. The
+
+battle goes on without a pause. As he yells back, he crosses
+
+to Max at row A, center.
+
+He starts up the aisle with Max.
+
+Now it's Max who stops and shouts back at her.
+
+Max has already walked out unhappily. Lloyd now slams out.
+
+Margo glares after him, then turns to Bill who smokes his
+
+cigarette peacefully on the bed.
+
+She turns away. Bill grabs her, pulls her down on the bed. He
+
+holds her down.
+
+Margo seems quiet. He gets up. She sits up.
+
+No word from her. He starts away.
+
+He goes out. Margo, alone, sit for a moment sadly. Then she
+
+begins to cry...
+
+INT. RICHARDS' STUDIO APARTMENT - DAY
+
+One large room, a small foyer with a door to the corridor. A
+
+stair up one wall to a narrow balcony from which a couple of
+
+bedroom open.
+
+Karen is painting. Earnestly but badly. A still life of an
+
+orange, an avocado, an eggplant and three bananas.
+
+Lloyd slams the door, flings his hat away, strides in,
+
+peeling off muffler and overcoat.
+
+He starts up the stairs to the bedroom.
+
+As he goes into one of the bedrooms, Karen sits thoughtfully
+
+on a couch. She muses...
+
+She lies down, folds her hands behind her head.
+
+She sits up. She smiles. The smile fades...
+
+She shakes her head, crosses to her easel, resumes work on
+
+the bananas. She slows down, then stops.
+
+She puts the brush away and crosses to the phone which is by
+
+Lloyd's work chair. As she crosses:
+
+She looks in a leather phone book, pick up the phone and
+
+dials.
+
+There's an answer at the other end.
+
+And as she waits we...
+
+EXT. COUNTRYSIDE - NIGHT
+
+Open country. Preferably no houses in sight. Plenty of snow.
+
+Lloyd's car drives along.
+
+INT. COUPE - NIGHT
+
+Lloyd driving. All three in the front seat.
+
+The car swerves - suddenly and slightly.
+
+They all laugh. Suddenly the car slows and stops - with that
+
+hissing sound that can mean only one thing - no gas.
+
+He tries to start it again. No luck. He turns on the
+
+dashboard lights. The gas gauge reads empty.
+
+Futilely, he runs the started again.
+
+A moment of silence.
+
+He starts out of the car. The cold comes in like a knife, the
+
+women react.
+
+Lloyd starts down the road. He slips once, recovers, waves
+
+and keeps going.
+
+They tuck the fur car robe around them. A pause. Margo turns
+
+on the radio... it's "Liebestraum."
+
+She turns it off. Another pause.
+
+There's a pause.
+
+She turns the radio on again. A piano nocturne...
+
+Margo nods, get some cigarettes out of her bag. She offers
+
+one to Karen. They light up.
+
+A pause. There are tears in Karen's eyes.
+
+She snuggles down into her furs. Karen flashes an unhappy
+
+look at her. She, too, snuggles down...
+
+EXT. THEATER ALLEY - CURRAN THEATER - NIGHT
+
+The snow has been shoveled to either side of the alley,
+
+making a lane. The performance is just over.
+
+Addison, his back to us, stands looking toward the stage
+
+door. A few actors, on their way out.
+
+He starts to walk toward the stage door.
+
+He goes in the stage door.
+
+INT. BACKSTAGE - CURRAN THEATER - NIGHT
+
+More activity than last time, the performance being just
+
+over. Addison comes through the door, picks his way toward
+
+Margo's dressing room.
+
+The door tot he dressing room is open just a bit. Addison
+
+pauses beside the door to listen.
+
+Addison uses his cane to swing the door open farther, so that
+
+both he and WE can see as well as hear.
+
+INT. MARGO'S DRESSING ROOM - NIGHT
+
+Bill faces Eve, who wears Margo's costume. She is a ravishing
+
+sight. Her eyes shine up to his radiantly:
+
+He starts out. Addison ducks.
+
+Tears come to Eve's eyes. She turns away slowly.
+
+He walks out. Addison ducks to avoid being seen. Eve glares
+
+after Bill, tears the wig from her head, throws it on the
+
+dressing table. Her glance is caught by a pair of scissors.
+
+Swiftly, she snatches them up and in a sharp, vicious gesture
+
+she slashes the wig. Addison knocks politely at the door. Eve
+
+turns.
+
+She starts creaming her face, removing make-up.
+
+Eve rises. She eyes him steadily.
+
+She goes into the bathroom.
+
+Eve does so.
+
+Eve sticks her head and naked shoulder around the door.
+
+She closes the door. He leans back, lights a cigarette.
+
+EXT. 52ND STREET - NEW YORK - NIGHT
+
+A cab drives up to "21."
+
+Karen gets out of the cab, pays and goes in.
+
+INT. LOBBY - "21" - DAY
+
+Karen consults her watch and the doorman as she enters.
+
+Karen sees Eve who waits as Addison hands his hat, coat, and
+
+cane to an attendant. She smiles, crosses to her.
+
+He turns to Karen, changing the subject.
+
+As he speaks, he crosses to pick up an evening paper, opens
+
+it as he comes back.
+
+He goes up the stairs with Eve. Karen glances after them
+
+curiously, then at the column.
+
+It is headed: "Things I Promised Not To Tell" by Addison
+
+deWitt. He expression becomes increasingly horrified. She
+
+drops the paper and rushes out...
+
+INT. MARGO'S LIVING ROOM - DAY
+
+Addison's column quivers in Margo's hand as she strides about
+
+reading it. Karen sits miserably.
+
+Margo crumples the paper as if it were Eve's neck.
+
+She pauses in midair to look at... Bill. He has come up the
+
+stairs tow at a time, stands at the landing.
+
+Margo suddenly starts to cry. She turns from him. Bill takes
+
+her in his arms. He holds her...
+
+Margo says nothing, just hides in his embrace. He soothes
+
+her, pets her... he looks over at Karen.
+
+Karen smiles back, waves, and goes out.
+
+INT. RICHARDS' APARTMENT - DAY
+
+Karen's having some lunch. Lloyd, still in his robe, sits
+
+opposite her having some coffee and a cigarette. A copy of
+
+the interview before him.
+
+Lloyd wanders about - he seems to be searching for words, for
+
+a position to maintain...
+
+He's over by a window, his back to her. Karen eyes him
+
+curiously, waiting for the payoff...
+
+A pause.
+
+Now Karen explodes. She rises.
+
+Lloyd's full of anger and guilt. He snaps back.
+
+The phone has been ringing. Lloyd snarls into it.
+
+He hangs up. He smiles - suddenly, there's peace.
+
+A pause.
+
+Karen smiles happily.
+
+INT. CUB ROOM - STORK CLUB - NIGHT
+
+Margo, Karen, Bill and Lloyd are ensconced happily at a table
+
+in the rear of the room. A bottle of fine wine is being
+
+poured. Their mood is equally bubbly.
+
+As they look at each other, they reflect the understanding
+
+that has hit them both at last.
+
+The wine has been poured by now.
+
+Lloyd lowers his glass. There's a little pause.
+
+They drink, then burst into a flurry of questions.
+
+Lloyd fills all the glasses.
+
+They drink. A waiter approaches with a note.
+
+Karen stares at it curiously, then opens it.
+
+She whips the note to Margo, who reads it aloud.
+
+Addison sits near the entrance, at a banquette table for two.
+
+A crumpled napkin and a wine glass indicate Eve's place. He
+
+nibbles daintily at some blini.
+
+Margo hails a passing captain.
+
+She gets up and goes. The CAMERA takes her past Addison's
+
+table. He rises in polite surprise.
+
+She walks past him without a word. He smiles, looks toward
+
+the group. He raises his glass in a toast.
+
+Margo responds to the toast by waving an onion with a grand
+
+flourish, then eating it.
+
+He eats one in self-defense.
+
+INT. LADIES' ROOM - STORK CLUB - NIGHT
+
+Never having been, I can't say what it looks like. It is to
+
+be hoped that there is an outer and inner room. We are
+
+concerned with the outer.
+
+There is an attendant in charge, and a constantly changing
+
+flow of ladies who pause to make various repairs. All cafe
+
+society - including one young drunk stretched out under a
+
+mink coat and a wet towel.
+
+There are two chairs - or a banquette - in a corner. Eve
+
+waits there. She rises as Karen approaches.
+
+She sits down. Karen remains standing.
+
+Karen sits, reluctantly and rigidly.
+
+She turns away from Karen. Karen's embarrassed.
+
+This time she does cry. Softly, miserably. Karen looks about.
+
+A pause. She puts an arm around Eve.
+
+Eve has reached up to take Karen's hand. She holds it now, as
+
+she turns slowly to face her.
+
+Karen stares down at her. Eve's eyes burn into tears. Karen
+
+is caught, fascinated by them.
+
+She turns away again, but Eve's grip is like a vise.
+
+Karen looks up slowly.
+
+She leaves. Karen is alone.
+
+INT. CUB ROOM - NIGHT
+
+Eve enters and slides in beside Addison.
+
+Addison puffs at his cigarette, bemused.
+
+Eve's feelings are hurt.
+
+Their eyes meet.
+
+They both look as Karen passes them on her way back to her
+
+table.
+
+GROUP, as Karen joins them. Another bottle of champagne has
+
+come and almost gone - there's a fine, cheery feeling among
+
+them. Margo, in particular, is cheery. A pause. Karen downs a
+
+glass of champagne.
+
+They all look.
+
+ADDISON AND EVE, they get up and go without looking back.
+
+GROUP, they watch for an instant.
+
+Karen's reactions are, of course, most important. Knowing
+
+what she's done to Margo - wondering how to do what she must.
+
+Margo misinterprets her vehemence.
+
+Lloyd never gets to answer. Because Karen, before anyone can
+
+stop her, bursts into hysterical laughter...
+
+Margo removes the champagne glass from in front of Karen...
+
+FADE OUT.
+
+FADE IN:
+
+INT. THEATER - CURRAN THEATER - DAY
+
+Karen is seated unobtrusively in a rear lower box. Lloyd sits
+
+beside Max up front.
+
+On stage, the play is "on its feet." Eve plays a dramatic
+
+scene with a young man. They carry "sides" but do not consult
+
+them.
+
+As she speaks, Eve moves upstage, turns to face the young man
+
+who is forced to turn his back to the auditorium.
+
+Bill calls a halt. He indicates to Eve that she was to have
+
+remained downstage.
+
+Eve seems to be at a loss. She looks at Lloyd.
+
+Lloyd rises, says that he told her to make the change.
+
+Bill comes down to the footlights to tell him to stick to
+
+writing, he'll do the directing. It mounts swiftly to a
+
+screaming fight. Bill throws the script out into the
+
+auditorium, takes his coat and stalks off.
+
+Eve runs after him. Max retrieves the script. Lloyd remains
+
+adamant. Karen has risen in dismay.
+
+Eve drags Bill back. Without looking at Lloyd, he takes the
+
+script from Max, tells the actors to pick up where they left
+
+off.
+
+Eve whispers to Lloyd from the stage. Lloyd smiles,
+
+mollified, sits down again with Max.
+
+Karen walks up the side aisle, out of the theater...
+
+INT. RICHARDS' BEDROOM - NIGHT
+
+It is a lovely, large room. Two double beds, not alongside
+
+each other and each with an extension phone beside it. In
+
+addition to the door to the living room, there are two more -
+
+to separate dressing rooms and baths. Lloyd is asleep. But
+
+not Karen. She turns restlessly, finally sits up, lights a
+
+cigarette.
+
+The phone jangles suddenly, startling her. It wakes Lloyd up.
+
+Karen answers.
+
+INT. ROOMING HOUSE - NIGHT
+
+A girl, in a wrapper, at a wall phone. Her hair's in curlers.
+
+She's frightened.
+
+RICHARDS' BEDROOM, Lloyd is sitting on the edge of the bed,
+
+looking over...
+
+Lloyd picks up his phone.
+
+ROOMING HOUSE
+
+RICHARDS' BEDROOM
+
+ROOMING HOUSE
+
+RICHARDS' BEDROOM
+
+ROOMING HOUSE
+
+She hangs up. As she moves from the phone, the ANGLE WIDENS
+
+to disclose Eve at the foot of the stairs. The girls smile at
+
+each other. They go upstairs, arm in arm.
+
+RICHARDS' BEDROOM, Karen is still in bed, phone still in her
+
+hand. She hangs up, swings her legs out, puts out her
+
+cigarette, gets into a robe. The open door and light of the
+
+dressing room tell us where Lloyd is.
+
+Karen walks to the door, starts to say something, changes her
+
+mind. She crosses to a table, lights a fresh cigarette, comes
+
+back to the door.
+
+No answer except the opening and closing of drawers.
+
+Still no answer. Her tension increasing, Karen goes back to
+
+the table, snubs out the fresh cigarette, then strides
+
+swiftly back to the open door.
+
+Now Lloyd appears. He's in flannels, and a sport shirt with
+
+no tie. He's confused and guilty and tortured.
+
+He goes back into his room.
+
+Lloyd comes out wearing a jacket. He crosses to the door,
+
+Karen after him.
+
+Lloyd goes out. Karen looks after him, despairing.
+
+EXT. SHUBERT THEATER - NEW HAVEN - DAY
+
+The theater is but a few doors from the TAFT HOTEL. The
+
+marquee announces a new play by Lloyd Richards, presented by
+
+Max Fabian, opening tonight.
+
+Addison and Eve stand before the theater admiring her photo
+
+on a lobby display. None of the actors are starred.
+
+They start for the hotel - Eve's arm through Addison's.
+
+They've arrived in front of the hotel.
+
+She goes in. Addison follows her.
+
+INT. CORRIDOR - TAFT HOTEL - DAY
+
+Addison accompanies Eve along the corridor to her door.
+
+They've arrived at her door. She opens it.
+
+He turns to go. After a few steps-
+
+Addison turns curiously, and enters behind her.
+
+INT. EVE'S SUITE - TAFT HOTEL - DAY
+
+Old-fashioned, dreary and small. The action starts in the
+
+living room and continues to the bedroom.
+
+Addison closes the door, crosses to a comfortable chair.
+
+She indicates a table elaborately stocked with liquor,
+
+glasses, etc. Addison's eyebrows lift.
+
+She carries the soda to him, sits on an ottoman at his feet.
+
+He sips his soda and puts away, carefully avoiding a look at
+
+Eve. As he looks back-
+
+Eve gets up, crosses to look out over the Common.
+
+For just a flash, Addison's eyes narrow coldly, viciously.
+
+Then they crinkle into a bland smile.
+
+Eve drops her shocked manner like a cape. Her face lights up -
+
+she crosses back to the ottoman.
+
+Addison rises slowly, to his full height. As Eve watches him,
+
+as her eyes go up to his, her smile fades-
+
+Eve gets up, now.
+
+She smiles. Then she chuckles, then laughs. A mistake.
+
+Addison slaps her sharply across the face.
+
+Eve eyes him coldly, goes to the door, throws it open.
+
+Addison walks to the door, closes it.
+
+She goes to the phone.
+
+She doesn't. Her back is to him. Addison smiles.
+
+He comes up behind her. Eve is tense and wary.
+
+She walks away. Addison eyes her keenly.
+
+Eve turns and runs into the bedroom, slamming the door.
+
+Addison opens it, follows close after her... he can be seen
+
+in the bedroom, shouting at Eve who is offscene.
+
+INT. BEDROOM - DAY
+
+Eve, trapped, in a corner of the room.
+
+Eve throws herself on the bed, face down, bursts in tears.
+
+Addison, merciless, moves closer.
+
+Eve twists to look up at him, her eyes streaming.
+
+Eve turns face down again, sobbing miserably.
+
+Eve covers her face with her hands.
+
+Addison get off the bed, looks down at her.
+
+Eve lies listlessly now, her tear-stained cheek against the
+
+coverlet. She nods.
+
+He starts out.
+
+He goes out. The CAMERA REMAINS on Eve's forlorn, tear
+
+stained face. Her eyes close... she goes to sleep.
+
+INT. DINING HALL - SARAH SIDDONS SOCIETY - NIGHT
+
+THE STOPPED ACTION of Eve reaching out for the award. The
+
+applause and bulb-popping still going on.
+
+THE ACTION picks up where it left off. Eve accepts the award
+
+from the Aged Actor, kisses him tenderly, folds the award to
+
+her bosom and waits for quiet.
+
+She speaks with assurance, yet modestly and humbly.
+
+MAX sits erect, beaming proudly.
+
+EVE, after applause greets Max.
+
+KAREN resumes her doodling as applause breaks out for her...
+
+MARGO, part of Eve's tribute has been over her CLOSE-UP. She
+
+smiles grimly in reaction to the applause.
+
+EVE looks to her right, waits for the applause to die.
+
+BILL, seated at the speakers' table. He has his award before
+
+him - a smaller one. He puts out a cigarette expressionlessly
+
+as the applause breaks out.
+
+LLOYD sits beside Bill. He, too, has a smaller award. As Eve
+
+speaks, he throws her a brief glance.
+
+EVE waits for the applause to die.
+
+ADDISON smiles approvingly.
+
+EVE stares at the award for an instant, as if fighting for
+
+self-control.
+
+Another storm of applause. Much ad lib shouting as Bill and
+
+Lloyd are summoned to pose beside her for more pictures.
+
+People are thronging out. The Aged Actor shouts above the
+
+hubbub...
+
+Eve disengages herself from the photographers, makes her way
+
+toward Addison's table... Bill and Lloyd follow. CAMERA
+
+FOLLOWS Lloyd to Karen. They kiss. He gives her the award.
+
+Max bustles into the SHOT.
+
+She and Lloyd follow Max. Addison and Eve are on their way.
+
+Lloyd goes right by. Karen pauses at Eve.
+
+Karen goes. Eve is being constantly congratulated. Some ad
+
+lib about seeing her at Max's party...
+
+Max hurries out. Margo and Bill step into the SHOT. Eve turns
+
+from a well-wisher to face her.
+
+Eve looks at her wordlessly. Margo and Bill leave. Addison
+
+and Eve are alone. The tables about them are empty. Suddenly,
+
+her face becomes expressionless, her eyes dull... she glances
+
+at the table.
+
+A well-wisher rushes up to Eve with an "Eve, darling, I'm so
+
+happy!" Eve rises, thanks her graciously. Then she pulls her
+
+wrap over her shoulder.
+
+They exit from the room, now empty of everything but tables,
+
+waiters, and the usual banquet debris.
+
+EXT. PARK AVENUE - NIGHT
+
+Eve gets out of taxi in front of a fashionable apartment
+
+hotel. She doesn't say good night to Addison, she enters the
+
+hotel as the cab drives off. She hasn't the award with her.
+
+INT. CORRIDOR OUTSIDE EVE'S APARTMENT - NIGHT
+
+Smart, but not gaudy. Eve crosses from the elevator to her
+
+apartment. She lets herself in.
+
+INT. EVE'S HOTEL APARTMENT - NIGHT
+
+A small foyer, from which one door leads to the leaving room,
+
+another to the bedroom. The bedroom and living room do not
+
+connect except through the foyer.
+
+All the lights are out. Eve turns them on in the foyer, the
+
+same as she enters the bedroom. There are some new trunks, in
+
+various stages of being packed. Eve tosses her wrap on the
+
+bed, goes through the foyer to the living room.
+
+She turns on the light in the living room. CAMERA FOLLOWS her
+
+to a smart small bar where she fixes a stiff drink. As she
+
+turns from the bar, she stares - starts in fright - and drops
+
+the drink.
+
+A young girl, asleep in a chair, wakes with a jump. She
+
+stares at Eve, horror-stricken.
+
+Eve starts for the phone. The girl rises in panic.
+
+Eve makes no comment. She lies wearily on the couch.
+
+She crosses to it.
+
+The girl puts the broken glass on the bar. She starts to mix
+
+Eve a fresh drink.
+
+She carries the drink over to Eve.
+
+The door buzzer sounds.
+
+She goes to the door, opens it. Addison stands there, the
+
+Sarah Siddons Award in his hands.
+
+She holds it as if it were the Promised Land. Addison smiles
+
+faintly. He knows the look.
+
+Phoebe lifts her eyes to him.
+
+Addison pats her shoulder lightly.
+
+Phoebe smiles shyly. Addison closes the door. Phoebe stares
+
+down at the award for an instant.
+
+She takes the award into the bedroom, sets it on a trunk. As
+
+she starts out, she sees Eve's fabulous wrap on the bed. She
+
+listens. Then, quietly, she puts on the wrap and picks up the
+
+award.
+
+Slowly, she walks to a large three-mirrored cheval. With
+
+grace and infinite dignity she holds the award to her, and
+
+bows again and again... as if to the applause of a multitude.
+

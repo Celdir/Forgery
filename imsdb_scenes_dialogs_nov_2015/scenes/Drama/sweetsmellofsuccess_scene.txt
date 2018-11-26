@@ -1,0 +1,5708 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Sweet Smell of Sucess
+
+FADE IN:
+
+EXT. INT. GLOBE NEWSPAPER BUILDING - DUSK - N.Y.
+
+A row of newspaper delivery trucks is lined up against the
+
+long loading bay, waiting for the edition.  In the foreground
+
+a large clock establishes the time as 8:10 PM. A rumbling
+
+noise warns the men to take their positions; a few seconds
+
+later the bales of newspapers come sliding the spiral chutes
+
+onto the moving belts from which they are manhandled onto
+
+the trucks.  Much noise and shouting.
+
+The front truck moves out to the city street.  As it does
+
+CAMERA EMPHASIZES the big poster on its side.  The design
+
+features a large pair of spectacles with heavy rims - a
+
+trademark of Hunsecker's. (It will later be seen as the
+
+masthead of the gossip column.)
+
+EXT. BROADWAY - DUSK - N.Y.
+
+The truck starts on its journey along Broadway.  Some shots
+
+are of the vehicle moving through very heavy traffic (taken
+
+from a camera car).  Others are from the inside of the
+
+truck; as it slows down, the delivery man tosses the heavy
+
+bundle of papers onto the sidewalk.  CAMERA following the
+
+truck, holds it in foreground against the blazing electric
+
+signs of Broadway and Times Square.
+
+EXT. BROADWAY - NIGHT
+
+The southeast corner of the intersection of Broadway and
+
+46th Street, CAMERA, fairly high, shoots north towards the
+
+impressive vista of electric signs, silhouetted against the
+
+darkening sky.  Very heavy traffic and crowded sidewalks.
+
+CAMERA descends towards the Orange Juice stand on the
+
+corner, passing the booth which sells souvenir hats.  It
+
+moves through the congestion of chattering passersby,
+
+steadily approaching a smartly dressed young man, who stands
+
+at the counter of the Orange Juice stand.  Oblivious of the
+
+hub-bub around him, SIDNEY FALCO is concerned only with his
+
+private problems.
+
+He turns sharply as a newspaper truck pulls up at the curb
+
+behind him; this is what he has been waiting for...
+
+CLOSER ANGLE - NIGHT
+
+The news truck delivery man tosses a bundle out onto the
+
+sidewalk besides a newsstand.
+
+DETAIL
+
+The bundle of newspapers.  It hits the sidewalk with a smack.
+
+CAMERA PULLS BACK as Sidney Falco crosses the sidewalk.  The
+
+owner of the newsstand, IGGY, comes to pick up the bundle;
+
+he is a grizzled gnome with a philosophical sense of humor;
+
+Sidney snaps his fingers with impatience.  Iggy wears
+
+spectacles and is clearly more or less blind, he has to
+
+grope for the cord that binds the papers.
+
+Majestically taking his time, Iggy lifts the bundle to his
+
+stand and cuts the cord.
+
+Annoyed, Sidney throws him a dime, seizes a paper and
+
+returns briskly to the orange juice stand.
+
+ORANGE JUICE STAND - NIGHT
+
+Sidney's place at the crowded counter has been taken by
+
+newcomers.  Rudely, he recovers his half-consumed glass of
+
+orange juice and sandwich.  He takes them further down the
+
+counter to a quieter corner at which he can examine the
+
+paper.  CAMERA MOVING WITH HIM, picks up further snatches of
+
+overheard dialogue. (See dialogue attached at the end of the
+
+scene) We move close enough to see Sidney's hands open the
+
+paper expertly at HUNSECKER'S column - identifiable by the
+
+picture of the spectacled eyes.  Over scene there is a
+
+babble of offstage dialogue.
+
+CLOSE UP OF SIDNEY
+
+His face is sullen as his eyes run rapidly down the column.
+
+He is reacting to a not unexpected disappointment.
+
+EXT. SIDNEY'S APARTMENT - BROADWAY - NIGHT
+
+CAMERA SHOOTS WEST on 46th Street, as Sidney comes down the
+
+side street from the newsstand in background.  Irritably, he
+
+jerks open the door of a shabby entrance.  As the glass door
+
+closes, Sidney is seen striding up the stairs.
+
+FIRST FLOOR - OUTSIDE SIDNEY'S APARTMENT - NIGHT
+
+Beside the top of the stairs is the door to Sidney's office.
+
+On it there is a cheaply printed cardboard sign which reads:
+
+SIDNEY FALCO
+
+Publicity
+
+From inside comes the sound of desultory typing.  Sidney
+
+comes up the stairs two at a time and turns into the door.
+
+INT. SIDNEY'S APARTMENT - NIGHT
+
+SALLY is on the phone as Sidney strides in.
+
+Sidney vigorously indicates that he doesn't want to take the
+
+call.
+
+She hangs up.
+
+He has begun to change his clothes.
+
+Sally goes back into the outer room.
+
+Sidney, in a state of semi-undress, comes to take the phone
+
+from her.
+
+Very abruptly, he comes alive on the phone.  A real laughing
+
+boy.
+
+INT. ROBARD'S CLUB - NIGHT
+
+Robard is a stolid, secure man, balding and with a moustache.
+
+He has a morose sense of humor.  He is speaking from a
+
+telephone on a little desk at the end of the bar.  In
+
+background, the Club is open, but there are few customers as
+
+yet.  Some recorded jazz is being played while the musicians
+
+are still arriving, strolling past in background, depositing
+
+their overcoats and music cases in the little closet assigned
+
+to them.
+
+RESUME SIDNEY
+
+Sally is watching him, unhappy on his behalf.
+
+But Robard has cut off.  Sidney hangs up.  A silence.  Sally
+
+tries to be comforting.
+
+Sally, hurt, says nothing.  Presently, he adds:
+
+Sidney, with another mercurial change of manner, begins some
+
+sarcastic clowning.
+
+Sidney is abruptly savage.
+
+She is crying.  Sidney feels uncomfortable.  Not too
+
+generously, he relents:
+
+The phone rings.  Sidney is dressed by now.  As Sally goes
+
+for it, he makes for the outer door.
+
+He is already gone as she picks up the phone.
+
+INT. ELYSIAN ROOM - NIGHT
+
+The quintet.  As the dissolve clears, a clatter of polite
+
+applause greets the end of a previous number.  CAMERA is on
+
+the bandstand, moving smoothly through the group of five
+
+musicians as the rhythm of a new number is set up: first the
+
+leader (a guitarist) snaps his fingers, giving the tempo
+
+to...the bass, who "walks" with the beat, bringing in...the
+
+drums, which start a quiet, insistent wire-brush background
+
+for...the cello and the flute, whose introductory phrases,
+
+set the stage for...
+
+STEVE DALLAS
+
+...the guitar, the leader again.  It comes in after this
+
+short preamble with the first statement of melody. (The tune
+
+has a faint echo of significance because it is one of the
+
+themes of the film, already heard as a phrase in the
+
+background score of the title music.) CAMERA lingers a
+
+moment on the guitarist, STEVE DALLAS.  He is a youth of
+
+pleasant, intelligent appearance.  He plays with the intent
+
+air of the contemporary jazz musician who takes his work
+
+very seriously indeed and affects a much greater interest in
+
+the music and his fellow musicians than in the listening
+
+audience.
+
+SIDNEY
+
+A close shot.  Sidney has just entered the club, strolling
+
+into the vestibule near the entrance.  He wears an expression
+
+of oddly unsuitable antagonism, as he looks forward...
+
+DALLAS
+
+Seen in long shot from Sidney's viewpoint.  CAMERA moves to
+
+include Sidney in foreground again.  He turns as he is
+
+accosted by RITA, the cigarette girl of the club.  She is a
+
+pert creature, attractive and not unaware of the fact.
+
+Rita wears an injured air.  Sidney, preoccupied with other
+
+worries, callously ignores it.
+
+But Sidney has moved away from her.
+
+D'ANGELO
+
+He is at the bar, listening with satisfaction to the music,
+
+watching the performers and studying the audience.  Sidney
+
+comes up behind him.  We see Sidney's eyes flick from
+
+D'Angelo towards the bandstand and back again.  Then, as he
+
+takes the stool next to D'Angelo, he assumes a different
+
+manner, a sulky resentment.  D'Angelo sees Sidney.
+
+D'Angelo is still watching the quintet.  The guitar can be
+
+heard again.
+
+ANOTHER ANGLE
+
+Shooting past D'Angelo and Sidney towards the bandstand.
+
+D'Angelo looks quickly at Sidney, sensing the undercurrent.
+
+Then he turns his back on the musicians, remarking in a
+
+quiet tone.
+
+A glum moment.  Frank sips his highball: Sidney lights a
+
+cigarette, animosity on his face.
+
+Frank again notes Sidney's resentful manner.  Sidney looks
+
+towards the musicians.
+
+A pause.  Sidney is thinking.
+
+RITA
+
+Locating Sidney, she comes up behind him.  He turns away
+
+from D'Angelo as she whispers to him.  As she departs,
+
+Sidney turns back.
+
+Sidney gets off his stool.  Casually, but to effect, he adds:
+
+He turns away, glancing towards Steve on the bandstand
+
+behind him.
+
+D'ANGELO
+
+He looks disturbed.
+
+INT./EXT. BACKSTAGE AND COURTYARD
+
+From D'Angelo's point of view.  CAMERA LOOKS UP at Steve.
+
+The Quintet is now reaching the end of the number, a driving
+
+rhythm of considerable excitement.  A waiter passes in f.g.
+
+and the CAMERA CRANES BACK through the curtained doorway to
+
+the backstage part of the club.  This movement is continued
+
+as we see some other employees, including Jerry Wiggins, the
+
+intermission pianist, who is waiting in the corridor near
+
+the fire-exit.  As he steps out of the door to discard a
+
+cigarette, CAMERA AGAIN CONTINUES ITS MOVEMENT, CRANING BACK
+
+AND DOWNWARD into the little courtyard.  Here, it discovers
+
+the figure of a young woman who is waiting in the shadow
+
+near the steps of the fire-escape, listening to the music.
+
+CLOSER ANGLE
+
+This is SUSAN HUNSECKER.  She wears an expensive mink coat.
+
+It is oddly in contrast with her personality; the face is
+
+sensitive and intelligent, but childlike and tragic.  A girl
+
+in adolescence already burdened with problems beyond her
+
+capacity.  Over scene, the music continues.  Susan shifts
+
+her position, knowing that the session will soon be at an
+
+end and that the musicians will be coming backstage.
+
+INT. ELYSIAN ROOM
+
+Steve is playing the last bars of the number; the whole
+
+group now in unison.
+
+QUINTET
+
+The music comes sharply, dramatically to its finish.  There
+
+is some applause.  The boys relax.  Steve reaches for the
+
+microphone and in the characteristically casual manner of
+
+the "cool" musician, announces the end of the set, thanking
+
+the audience, identifying the quintet by name and introducing
+
+the intermission pianist.  During this, Carson, Chico and
+
+Paul wander off the bandstand behind him.
+
+EXT. BACKSTAGE AND COURTYARD
+
+Chico, Paul and Carson come through to the corridor backstage.
+
+As they do so, Chico, glancing out of the open door sees
+
+Susan in the courtyard.  He goes out onto the fire-escape;
+
+Paul following behind.
+
+Chico goes swiftly back into the club.  Paul remains with
+
+Susan.  There is a momentary silence; Paul is embarrassed
+
+because Susan is.  Susan makes an effort at conversation,
+
+she nods towards the club.
+
+INT. CLUB
+
+Steve has been trapped by a young woman in spectacles, a
+
+much-too-earnest devotee of progressive jazz.
+
+CHICO
+
+He comes through the curtains of the doorway, pausing as he
+
+sees that Steve is involved with the Intellectual Young Woman.
+
+REVERSE ANGLE
+
+Steve glancing at Chico over the shoulder of the Intellectual
+
+Young Woman.  Seeing that Chico has something to say to him,
+
+he wriggles out of the young woman's clutches by passing the
+
+buck to the unfortunate to Fred Katz, who is descending from
+
+the bandstand behind him.
+
+RESUME CHICO
+
+Steve joins Chico and they go through the curtains into the
+
+corridor outside.
+
+CORRIDOR
+
+Chico, smiling, explains:
+
+STEVE
+
+His reaction betrays some emotion. (Over scene the
+
+intermission pianist has begun to play a Blues number.)
+
+Steve moves a quick step towards the door to the courtyard,
+
+then hesitates - almost as if he was afraid to go out.  He
+
+meets Chico's eye again.
+
+CHICO
+
+He is amused, but sympathetic.
+
+COURTYARD
+
+Susan, waiting at the foot of the iron steps, turns as Steve
+
+comes out on the fire escape above.  Steve comes quickly
+
+down the steps towards her, slowing down when he gets a few
+
+paces away from her.
+
+SUSAN
+
+She looks up at Steve.
+
+STEVE
+
+A CLOSE SHOT.  In his expression we read his mute inquiry...
+
+RESUME SUSAN
+
+Quite deliberately, with her eyes moistened by love and
+
+affection...she nods.
+
+REVERSE ANGLE
+
+Great relief and happiness can be seen in the boy's face.
+
+After a moment, he moves to her and she to him.  They
+
+embrace swiftly, hold each other close and then kiss with
+
+passion.  Presently, when the kiss is over, Susan speaks
+
+softly.
+
+Steve is still too choked with relief to speak.  For answer,
+
+he clasps her more tightly to him.  The beam of light which
+
+falls on the iron stairs behind them, narrows and then is
+
+extinguished...
+
+CORRIDOR
+
+Paul has closed the door.  Turning, he shares a look with
+
+the grinning Chico and Fred Katz who has managed to escape
+
+from the young woman.  Before there is time for either of
+
+them to make a remark, Sidney comes through the curtains
+
+from the Club.
+
+Sidney's manner is very friendly.  But it is immediately
+
+apparent from the reaction of the other three boys that none
+
+of them likes Sidney.  Fred is deliberately uncomprehending.
+
+Chico's back is to the closed door which opens onto the
+
+courtyard.  Chico nods in the opposite direction towards the
+
+stairs.
+
+COURTYARD
+
+Steve and Susan are still embracing.  Steve is exultantly
+
+proud and happy.
+
+STEVE
+
+His sobering reaction shows this is something important.
+
+SUSAN
+
+STEVE AND SUSAN
+
+Turning her head, she makes a little gesture, an unconscious
+
+movement, putting her fingers to her brow as if feeling a
+
+headache.
+
+Susan says nothing.  She looks to Steve, smiling, but the
+
+smile is not too confident.
+
+Susan stoutly shakes her head.  Defensively she reassures
+
+Steve:
+
+The topic evidently makes Susan uneasy.  In an effort to
+
+dismiss something that she does not want to think about,
+
+Susan puts her arms around Steve's neck again.
+
+But Steve is not so ready to change the subject.
+
+Now Steve responds.  He grins, holds her closer.
+
+They laugh and enjoyably; but then, as the CAMERA MOVES, we
+
+realize that Sidney is there on the fire escape above them;
+
+his manner is affable.
+
+Steve says nothing.  But he obviously resents the intrusion
+
+and finds it difficult to conceal the fact.  Sidney comes
+
+down the fire escape towards them.
+
+Steve makes a move to lead Susan back inside.  It is a
+
+gesture which appears to dismiss Sidney.  Sidney chooses to
+
+take umbrage:
+
+Steve turns to Sidney; his manner is quiet but challenging:
+
+ANOTHER ANGLE
+
+Frank D'Angelo has followed Sidney out onto the fire escape;
+
+other members of the Quintet have also appeared.
+
+Aggressively indignant, Sidney throws up his hands; he
+
+knocks on the metal of the fire escape.
+
+Sidney is trying to needle Steve; Steve's temper would
+
+normally have exploded; but now he controls it.
+
+SIDNEY
+
+His face tightens; he appears to be mortally insulted and
+
+controlling himself with difficulty.  He turns his back
+
+swiftly on Steve, addressing Susan in a voice that has a
+
+sharp edge.
+
+Sidney starts quickly up the fire escape.  This makes Steve
+
+angry and he steps forward to follow him.  But Chico
+
+contrives, without seeming to interfere to obstruct Steve.
+
+CORRIDOR
+
+Sidney comes inside.  When he is out of sight or the group
+
+in the courtyard, his manner swiftly changes.  It's obvious
+
+now that his indignation was assumed; now he looks back
+
+towards the courtyard and there is shrewdness in his eyes;
+
+he is assessing Steve's temper.  But, presently, seeing
+
+D'Angelo and the boys returning, he moves back to the
+
+curtains into the Club.
+
+COURTYARD
+
+As D'Angelo and the other boys go inside, Steve turns back
+
+to Susan.
+
+INT. CLUB
+
+Rita has succeeded in recapturing Sidney near the entrance
+
+to the club.  Sidney, alert and interested, listens to her
+
+while keeping his eye on the bandstand in b.g. where the
+
+intermission pianist is finishing his performance and the
+
+quintet are returning, ready to mount the bandstand again.
+
+Sidney is amused.  Rita continues in a confidential manner
+
+which is heavily loaded with sex appeal and not-very-
+
+convincing air of injury.
+
+Rita has mistaken Sidney's shrewdly calculating expression
+
+for inattention.
+
+Despite himself, Sidney chuckles; but she is distressed.
+
+Sidney's eyes have been caught by something at the other end
+
+of the big room.
+
+STEVE AND SUSAN
+
+From Sidney's viewpoint.  Susan has come back into the club
+
+with Steve and seems to be taking leave of him.  She starts
+
+to walk through the club on her way out.
+
+RESUME SIDNEY AND RITA
+
+Sidney, with half his attention on Susan and Steve, listens
+
+to Rita's rueful protest.
+
+Aware that Sidney is moving to leave her so that he can
+
+catch Susan, Rita detains him with an appeal:
+
+Rita is anxious to cement the offer.  Delicately, she asks:
+
+She drops her eyes, nods.  Sidney pats her arm and is gone.
+
+She looks after him.
+
+SIDNEY AND SUSAN
+
+Sidney overtakes Susan at the front entrance in time to open
+
+the door for her.  He has now reverted to another mood in
+
+which he appears to be sulking over the insult delivered to
+
+him by Steve.  He goes out ahead of her.
+
+BANDSTAND
+
+The quintet are resuming their positions on the stand.
+
+Steve lingers a moment, his guitar already in his hand while
+
+he talks to D'Angelo.
+
+D'Angelo hides his feelings, asks:
+
+He mounts the bandstand.
+
+Steve sits on the stool, quietly gives the beat to his group
+
+and begins at once the guitar opening of a very simple and
+
+lonely melody. (The Sage.)
+
+ANOTHER ANGLE
+
+While D'Angelo watches him, the boy continues.  CAMERA
+
+tracks slowly back through the club as the chatter and
+
+babble of the customers begins to diminish in appreciation
+
+of the quiet melancholy of the music.
+
+OUTSIDE THE ELYSIAN ROOM
+
+Susan is standing beside the poster which features Steve,
+
+listening to the music from inside the club.  Sidney comes
+
+to join her.  He is now pretending to be hurt.
+
+Susan shakes her head.  She looks up as she hears the
+
+doorman's whistle off screen.  Sidney moves forward to
+
+escort her to the taxi.
+
+LONGER SHOT
+
+They cross the sidewalk and get into the cab.  It starts off
+
+and CAMERA PANS with it.
+
+INSIDE CAB
+
+Susan is relaxed, content but thoughtful.  Sidney flicks her
+
+a quick, anxious look.  Finally, gloomily:
+
+SUSAN
+
+Quizzically, she studies Sidney.
+
+SIDNEY
+
+He looks up sharply, (he is momentarily startled at Susan's
+
+insight.) Swiftly, he assumes a protesting air.
+
+RESUME SUSAN
+
+She is not totally convinced by this performance.  She
+
+smiles skeptically.
+
+RESUME SIDNEY AND SUSAN
+
+Sidney makes a show of indignation.
+
+Sidney doesn't immediately answer.  Susan drops her eyes,
+
+becoming absorbed in her own problems.  Cautiously, Sidney
+
+lets the momentary silence continue.  Then:
+
+Susan says nothing.  Sidney, watching her closely, probes
+
+further:
+
+A pause.  Then Susan nods.  She is not looking at Sidney and
+
+cannot see the watchfulness in his face.  Sidney prompts
+
+again:
+
+Again Susan nods.
+
+SIDNEY
+
+The news has considerable impact on him.  But he hides it,
+
+saying lightly:
+
+RESUME SUSAN AND SIDNEY
+
+Susan continues.
+
+A pause.  Each is concerned with private thoughts.  Susan,
+
+relaxed, adds quietly:
+
+Susan ignores his remark, continuing thoughtfully:
+
+The taxi has pulled to a stop.  Susan sits for a moment
+
+before she remarks.
+
+Realizing that they have come to their destination, Susan
+
+gets up, moving out of CAMERA as she disembarks from the
+
+taxi.  CAMERA catches a glimpse of apprehension in Sidney's
+
+eyes.  Quickly, he decides to follow her.
+
+EXT. BROADWAY
+
+Susan, getting out of the taxi, moves past CAMERA.  Sidney,
+
+following her, instructs the driver.
+
+LONGER SHOT
+
+Sidney moves after the girl, calling: "Susie!"
+
+SUSAN
+
+Hearing him, Susan turns back.  Sidney walks into shot to
+
+join her.
+
+They move through the doors.
+
+REVERSE ANGLE
+
+Sidney quickly corrects himself, saying earnestly:
+
+SUSAN
+
+Susan looks thoughtful, making no comment.
+
+RESUME SIDNEY AND SUSAN
+
+Carefully (again probing) he prompts her:
+
+Susan turns away and walks out past CAMERA.  Sidney watches
+
+her.
+
+SUSAN
+
+She looks back at Sidney, quietly firm.
+
+She turns away and walks through the inner door, going down
+
+the corridor towards the elevators in background.
+
+RESUME SIDNEY
+
+The sincerity of the girl's manner strikes home to Sidney.
+
+Now that her back is turned we see the sharp twinge of pain
+
+with which he hears the statement of her feelings for
+
+another man.  Angered, he wheels, striding out of the door
+
+onto Broadway.
+
+EXT. BROADWAY
+
+Sidney returns to the cab, instructing the driver:
+
+He climbs in and the taxi drives off down Broadway.
+
+EXT. TWENTY ONE CLUB - NIGHT
+
+CAMERA HIGH, SHOOTING WEST down 52nd Street, as Sidney's cab
+
+pulls up, double parking in front of the 21 Club.  Sidney
+
+maneuvers his way between the parked cars towards the
+
+entrance and the CAMERA DESCENDS to SHOOT ALONG the courtyard
+
+towards the entrance.  We see the figure of Jimmy Weldon and
+
+his girl friend coming out of the Club.
+
+CLOSER ANGLE - NIGHT
+
+Jimmy Weldon is coming out of the Club accompanied by a
+
+girl; he is slightly tight.  As he steps through the outer
+
+doors, Weldon again spies Sidney on the sidewalk; he steps
+
+to one side of the entrance way.
+
+Sidney slips through the congestion, but just as he tries to
+
+enter the Club, Weldon's hand shoots out, neatly ambushing
+
+him, pulling him aside into the narrow courtyard.  Sidney is
+
+instantly resentful of this manhandling, but has to adjust
+
+himself, assuming a quick smile for the benefit of Weldon.
+
+Weldon, jibing at Sidney, plays his remarks off the girl,
+
+who is amused; Sidney, of course, is not.
+
+Sidney flinches, his pride touched.
+
+The girl tries to quiet Weldon, who has gone from horsing to
+
+loud contempt.
+
+Abruptly Sidney bursts out, giving as good as he has taken:
+
+Weldon, shepherded by the girl, is already on his way across
+
+the sidewalk.
+
+INT. TWENTY ONE CLUB - NIGHT
+
+Sidney, entering the Club, threads his way through the
+
+crowded foyer, coming up to CAMERA near the foot of the
+
+staircase.  There he meets a Captain who turns to him.
+
+Sidney moves past CAMERA, coming a couple of paces towards
+
+the door to the restaurant.  He pauses.
+
+REVERSE ANGLE
+
+From Sidney's viewpoint.  Shooting through the doorway into
+
+the restaurant, we can see the group at the table.
+
+(Hunsecker's back is turned to us.) CAMERA PULLS BACK to
+
+include Sidney in foreground.  He decides not to go into
+
+restaurant and turns away out of shot.
+
+INT. LOUNGE
+
+Sidney comes round the corner from the foyer and walks
+
+through the lounge to the door into the alcove where the
+
+phone booths are, CAMERA PANNING.
+
+PHONE BOOTHS
+
+Sidney moves briskly past the girl at the switchboard,
+
+instructing her:
+
+The girl reaches for a book of phone numbers, then remembers:
+
+As the girl, shrugging, puts through the call, CAMERA moves
+
+closer to Sidney in the booth.  He hears the connection
+
+made, speaks at once.
+
+We are close enough to the instrument to hear the sound of a
+
+voice on the other end.  Though the words are not
+
+distinguishable, it is quite clear that the speaker is not
+
+talking to the phone.  Sidney seems to relax, as if this is
+
+something that happens often.  He waits, studying his
+
+manicured fingertips...
+
+Presently Sidney hears the voice on the other end become
+
+clearer.  It asks: "Yes?" CAMERA moves closer as Sidney says:
+
+Hunsecker's voice, filtered through the sound of the
+
+telephone, is sharp and tiny; but the words are now very
+
+clear.
+
+There is a click as Hunsecker hangs up.  Sidney, more
+
+slowly, also hangs up.  Brooding, he comes out of the booth.
+
+INT. TWENTY ONE CLUB - LOUNGE
+
+Sidney comes out of the door to the phone booths, walks
+
+through the lounge to the hallway.  He turns towards the
+
+dining room.
+
+INT. HALLWAY
+
+Sidney comes to the door into the dining room, CAMERA
+
+tracking with him.  Here he pauses, looking towards...
+
+HUNSECKER
+
+From Sidney's viewpoint.  Hunsecker is seated at a table
+
+which is cleverly his habitual position.  We see him only in
+
+semi-back view, a broad and powerful back.  He is listening
+
+to a man who has paused at his table, stooping over Hunsecker
+
+to whisper in his ear.  As the columnist listens, his hands
+
+play with an omni-present pad and pencil which lie on the
+
+dinner table amongst an assortment of envelopes, mimeographed
+
+sheets and a telephone.  Beyond Hunsecker and the man
+
+talking to him are the SENATOR, the AGENT, and an attractive,
+
+if fatuous GIRL.
+
+The man leaves; Hunsecker is scribbling a note on the pad.
+
+Meanwhile the Senator whispers something to the girl, who
+
+giggles softly.
+
+REVERSE ANGLE
+
+Sidney comes across to the table, nervous but deliberate.
+
+CAMERA PULLS BACK to include Hunsecker in foreground.
+
+Sidney, without accosting him, stands a few feet from the
+
+columnist's elbow and deliberately lights a cigarette.
+
+Hunsecker, barely turning his head, sees him.  We have heard
+
+of Hunsecker as a monster, but he is evidently in a mild
+
+phase of his metabolism, for he seems gentle, sad and quiet,
+
+as he turns his gaze casually to the Senator, totally
+
+ignoring the young man who stands behind him.
+
+SIDNEY
+
+A close shot.  Sidney shows no reaction to this insult.  He
+
+steps in closer, an Indian fixity in his face.
+
+REVERSE ANGLE
+
+Shooting across Sidney, onto Hunsecker.  J.J. turns - but
+
+not to Sidney.  He raises his hand in a small gesture which
+
+summons a passing Captain, who steps into picture at Sidney's
+
+elbow.
+
+The Captain is already there.  But now Hunsecker's eyes have
+
+switched to Sidney's face.  For the briefest of moments,
+
+nothing happens.  Then Hunsecker, seeming to relax and
+
+ignoring the Captain whom he has summoned, turns back to
+
+casual conversation with the Senator as if nothing had
+
+happened.
+
+In foreground, Sidney turns to the Captain with a carved
+
+smile, indicating that Hunsecker's change of topic is to be
+
+interpreted as sanction for Sidney to remain.  The Captain,
+
+not entirely convinced, retreats.  Sidney finds himself a
+
+chair, places it and takes a seat which is near enough to
+
+the table to establish his presence.  During this:
+
+Sidney's interjection is quietly well-mannered.  Hunsecker
+
+totally ignores it.  The other members of the party are a
+
+little astonished at the interplay.  The girl, in particular,
+
+is fascinated; she clearly admires Sidney's looks.  The
+
+Senator, noting this, glances at Sidney, accepting the point:
+
+THE SENATOR, THE GIRL, AND THE AGENT
+
+The girl looks again towards Sidney.  The Senator again sees
+
+this, addresses Sidney pleasantly.
+
+REVERSE ANGLE
+
+Group shot.  The Senator in foreground, Sidney beyond
+
+Hunsecker in background, and the others on edge of shot.
+
+SIDNEY AND HUNSECKER
+
+Sidney nods pleasantly to the Girl and the Agent.
+
+Hunsecker is picking up the phone, continuing:
+
+REVERSE ANGLE
+
+To intercut with the above.  The Senator, the Agent and the
+
+Girl watching Hunsecker.  The Agent's reaction to Hunsecker's
+
+remark is a sickly smile.
+
+RESUME HUNSECKER
+
+He repeats aloud a story which is told him over the telephone.
+
+During the speech, CAMERA eases back to include Sidney again.
+
+At the end, Sidney looks up in the direction of the Senator.
+
+RESUME REVERSE ANGLE
+
+The Senator, amused, asks:
+
+RESUME HUNSECKER AND SIDNEY
+
+Sidney glances sidelong at Hunsecker.
+
+Hunsecker's face hardens; aware of Sidney's impertinence, he
+
+does not design to react directly; he turns towards the Agent.
+
+THE AGENT AND THE GIRL
+
+The Agent glances uneasily at the Girl beside him.
+
+RESUME HUNSECKER
+
+He studies the Girl intently.
+
+RESUME THE AGENT AND THE GIRL
+
+RESUME HUNSECKER
+
+Hunsecker's glance flicks between the Girl and the Senator.
+
+As the Girl betrays herself with a nervous glance at the
+
+Senator beside her, CAMERA eases back to include him.  The
+
+Senator is unruffled; gravely, he lights a cigar.  The Girl
+
+laughs.
+
+RESUME HUNSECKER
+
+Again his glance links the Girl and the Senator.
+
+THE SENATOR, THE AGENT AND THE GIRL
+
+The Girl and the Agent are both nervously uneasy.  The
+
+Senator closely examines the tip of his cigar and, with
+
+deliberation, turns towards Sidney.
+
+SIDNEY AND HUNSECKER
+
+Hunsecker, for the first time, half-turns in Sidney's
+
+direction, amused.
+
+RESUME THE AGENT, THE GIRL AND THE SENATOR
+
+They all look at Sidney.
+
+RESUME SIDNEY AND HUNSECKER
+
+Sidney bitterly resents the adjective, but contrives to hide
+
+the fact; he smiles, gracefully accepting the compliment.
+
+Hunsecker (who knows what Sidney feels) is pleased; he turns
+
+towards Sidney expansively.
+
+Hunsecker has started his speech lightly, but it has built
+
+up to enough cold contempt and feeling to embarrass and
+
+intimidate the others at the table.  In conclusion,
+
+Hunsecker, his eyes on Sidney, picks up a cigarette and
+
+waits expectantly...
+
+Amused, Hunsecker lights his own cigarette, turns towards a
+
+man who comes up to the table.
+
+HUNSECKER
+
+A single close up, to intercut with the above.
+
+SIDNEY
+
+A matching single; Sidney's reaction to Hunsecker and to the
+
+others at the table.
+
+THE AGENT, THE GIRL AND THE SENATOR
+
+To intercut with the above; their reactions of embarrassment.
+
+GROUP SHOT
+
+A florid MAN comes up to the table, obviously anxious to
+
+catch Hunsecker's attention.  Hunsecker, in the act of
+
+lighting, his own cigarette, scarcely looks at the man as he
+
+dismisses him:
+
+The florid man retreats.  To cover the embarrassment, the
+
+Senator makes a sally in Sidney's direction.
+
+SIDNEY AND HUNSECKER
+
+Sidney doesn't answer.
+
+RESUME THE AGENT, THE GIRL AND THE SENATOR
+
+RESUME HUNSECKER AND SIDNEY
+
+Hunsecker glances spitefully at the Girl.
+
+RESUME THE AGENT, THE GIRL AND THE SENATOR
+
+The Senator continues to Sidney:
+
+RESUME SIDNEY AND HUNSECKER
+
+Sidney leans forward, indicating to the Senator some of the
+
+items of paper that litter the table in front of Hunsecker;
+
+these are both handwritten notes and mimeograph sheets,
+
+scraps of assorted items from professional and amateur
+
+agents who supply the columnist.  Sidney fingers some of them.
+
+Sidney lifts a mimeographed sheet, as an example.
+
+THE AGENT, THE GIRL AND THE SENATOR
+
+The Agent makes the mistake of trying to agree with Hunsecker.
+
+CAMERA pulls back as Hunsecker leans forward across the
+
+table.  He vents upon the unfortunate Agent some of the
+
+annoyance prompted by Sidney's impertinence.
+
+The Senator doesn't like this treatment of others and his
+
+manner and face show it.
+
+SENATOR
+
+He finds Hunsecker's manner disturbing, but addresses him
+
+frontally.
+
+HUNSECKER
+
+RESUME SENATOR
+
+RESUME HUNSECKER
+
+He leans back, speaking more quietly, enjoying himself.
+
+AGENT
+
+Hunsecker leans into shot pointing directly at the Agent.
+
+Hunsecker points to the Girl and the CAMERA makes a slight
+
+crab movement to include the Girl as Hunsecker points in
+
+turn to her.
+
+Another CAMERA movement.  Now Hunsecker is directly
+
+challenging the Senator.
+
+RESUME HUNSECKER
+
+He smiles disarmingly.
+
+Hunsecker rises.
+
+GROUP SHOT
+
+As Hunsecker stands up, Sidney follows suit.  The Agent,
+
+very nervous, gets to his feet and the Girl does likewise.
+
+The Senator, whose face is sober, also rises from the table.
+
+With Sidney making way for him, Hunsecker walks round the
+
+end of the table to the Senator.  The Senator faces Hunsecker
+
+solemnly.
+
+Hunsecker matches the Senator's solemnity.
+
+Hunsecker moves out of shot.  Sidney murmurs a "pleased to
+
+meet you" to the Senator; then he follows Hunsecker.  The
+
+Senator remains looking after Hunsecker.  Behind him, the
+
+Agent and the Girl, watch him apprehensively.  The Senator,
+
+his face now showing the traces of guilt which he did not
+
+reveal to Hunsecker, seems unwilling to turn back to face
+
+them.
+
+ON THE WAY TO THE FOYER
+
+Hunsecker and Sidney.  Hunsecker addresses the Captain on
+
+his way out of the restaurant.
+
+CAMERA tracks with Hunsecker and Sidney as they move out
+
+towards the hat check stand.
+
+By now they are at the coatroom, Hunsecker smiling.
+
+He accepts the proferred coat as he moves past CAMERA.
+
+LONGER SHOT - NIGHT
+
+The Doorman on the sidewalk has noticed Hunsecker, almost
+
+before the columnist has appeared.  The Doorman wheels,
+
+snapping his fingers and signaling towards the car park
+
+attendant, who can be seen at some distance in the background
+
+under the lights of the Kinney Car Park.  The attendant is
+
+seen to react with alacrity, running into the Park.
+
+HUNSECKER
+
+Putting on his overcoat, he addresses another of the Captains
+
+who has escorted him out of the Club.
+
+Sidney catches up with Hunsecker as he moves out onto the
+
+sidewalk.
+
+Sidney thinks of an impertinent reply, decides not to be
+
+drawn and says nothing.
+
+Sidney again does not answer; this time he points across the
+
+street...
+
+LONGER SHOT - POLICE CAR - NIGHT
+
+The car is framed in foreground; We can read the sign POLICE
+
+attached to the visor.  Two men in plain-clothes, detectives,
+
+are in the front seats.  The man nearest is HARRY KELLO.
+
+Wanting to look like a prosperous business man, Kello looks
+
+soft, fat, mild and well-barbered; but he is dangerous; he
+
+knows it and enjoys it.  With "big shots" he is playful and
+
+kidding, always says just enough, not too much.  He is very
+
+relaxed, and mild in manner, but underneath there is not
+
+only an animal energy, but a feral pressing at you.  His
+
+voice is on the hoarse side.  He measures situations
+
+automatically and instantly.
+
+The police radio is chattering.  Also in evidence is the
+
+telephone, the radio link with headquarters.  The detective
+
+at the wheel nudges Kello, pointing across the street.
+
+Kello gets out of the car and moves to meet the columnist.
+
+Sidney follows a couple of paces behind Hunsecker; he is in
+
+no hurry to meet the detective, whom he clearly dislikes.
+
+REVERSE ON KELLO
+
+Kello offers his hand to Hunsecker.
+
+Hunsecker accepting the handshake, winces with pretended
+
+pain at what is clearly an over-enthusiastic grip.
+
+Kello laughs, releases the grip; Hunsecker strolls past him
+
+stoops to lean into the car listening to the police calls on
+
+the radio.
+
+The detective inside the car answers, respectfully.
+
+While Phil lifts the radio phone, calling headquarters,
+
+Hunsecker turns back to Kello and Sidney.
+
+ANOTHER ANGLE
+
+Mischievously, Hunsecker nods at Sidney.
+
+Instantly aware that J.J. is toying with Sidney, Kello
+
+offers his large hand to Sidney, who refuses it.
+
+The memory of something unpleasant clouds Kello's face.
+
+The policeman in the car sticks his head out of the window.
+
+ANOTHER ANGLE - 52ND STREET - NIGHT
+
+Kello gets into the police car.
+
+ANOTHER ANGLE - 52ND ST. - NIGHT
+
+The car moves off eastward.  Sidney and Hunsecker walk
+
+westward.  Sidney, falling into step with Hunsecker, glances
+
+back at the departing police car.
+
+CAMERA now SHOOTS down 52nd Street.  Hunsecker, back to
+
+CAMERA, studies the evening, hearing the sound of a screech
+
+of female laughter from one of the groups in the distance.
+
+A drunk is being thrown out of one of the strip tease joints.
+
+Amused, Hunsecker turns back; he signals across the street
+
+to the car park, indicating that the big black Lincoln
+
+Continental should follow as he strolls with Sidney.
+
+HUNSECKER.  SIDNEY FOLLOWING.
+
+CAMERA TRACKS with them in a CLOSE TWO SHOT.  Sidney is
+
+alert now.
+
+Hunsecker pauses, halts.
+
+Sidney follows quickly.
+
+Sidney steps in front of Hunsecker, blocking his way for a
+
+moment.
+
+Hunsecker, totally disinterested in Sidney's problems of
+
+conscience, signals to his car again, walks past Sidney, who
+
+continues rapidly:
+
+Sidney quickly moves into J.J.'s path, desperate to hold his
+
+attention.
+
+Hunsecker walks past Sidney, now making for the car at which
+
+the attendant still waits.
+
+HUNSECKER
+
+Hunsecker is HIT: he stops in his stride; he pauses and he
+
+turns slowly to look at Sidney.  Lowering, he hesitates,
+
+mind clicking...
+
+REVERSE ANGLE - FAVORING SIDNEY
+
+Sidney, his eyes bright, nods.  Hunsecker studies Sidney,
+
+then:
+
+A pause.
+
+Sidney nods.
+
+HUNSECKER
+
+Expressionless, he examines Sidney.  Then he walks off
+
+toward the car.  He tips the attendant, who thanks him, but
+
+instead of getting into the back of the car, he makes a
+
+small authoritative gesture to Nikko (double) to move over
+
+so that Hunsecker himself may drive.  While Nikko does so,
+
+Hunsecker turns back to Sidney, whom the CAMERA now includes.
+
+SIDNEY
+
+He is satisfied.
+
+HUNSECKER
+
+Hunsecker gets into the driver's seat beside Nikko, the
+
+Japanese houseboy.  CAMERA is CLOSE on Hunsecker who does
+
+not look back but is clearly aware of the position of Sidney
+
+as he puts the car into gear, revving the engine...
+
+SIDNEY - NIGHT
+
+The big car accelerates with impressive power.  In doing so,
+
+it sends a cloud of fumes and a swirl of dust in Sidney's
+
+direction.  He leaps out of the way, too late.  CAMERA MOVES
+
+closer to him as, with anger and ignominy he inspects his
+
+precious clothing for damage.  But, as he looks after the
+
+car, his face hardens into grim humor; he senses that this
+
+petty gesture from Hunsecker is an indication of his
+
+vulnerability, not his strength.  As, dusting his coat,
+
+Sidney walks away, CAMERA RISES, watching his jaunty figure
+
+cross the street in the direction of 51st Street.
+
+INT. TOOTS SHOR'S RESTAURANT
+
+A LONG SHOT looking over the round bar towards the entrance.
+
+Sidney comes in through the revolving doors and comes toward
+
+CAMERA.  His eyes search among the crowd.
+
+CLOSER ANGLE
+
+REVERSE ANGLE.  A CAPTAIN approaches Sidney.
+
+The Captain nods towards a booth on the other side of the
+
+bar where Mrs. Bartha is sitting alone.  Seeing that Bartha
+
+is not with her, the Captain looks around the bar...
+
+Sidney is looking back towards the entrance hall, where...
+
+BARTHA
+
+Bartha comes forward (from the Men's Room) passing the
+
+Captain and Sidney.  Sidney moves to intercept him.
+
+ANOTHER ANGLE
+
+A CLOSE SHOT on Bartha as he turns towards Sidney, stopping.
+
+SIDNEY
+
+Sidney smiles at Bartha, but the threat is clear.
+
+RESUME BARTHA
+
+He throws a quick glance at his wife in the booth in
+
+background.  CAMERA PULLS BACK as Sidney, who has noted the
+
+look, moves closer to Bartha.
+
+Sidney is pulling out of his pocket a pad on which to
+
+scribble the item.  But Bartha faces him squarely, speaking
+
+sotto voce but with emphasis:
+
+Bartha turns on his heel and turns to walk towards his wife
+
+beyond.
+
+SIDNEY
+
+Sidney's face tightens.  After a pause, he makes a decision
+
+and walks towards the booth.
+
+BARTHA AND HIS WIFE
+
+Bartha's wife is reading a tabloid and sipping champagne
+
+while her husband resumes eating a sandwich.  These two are
+
+antagonists in a long war.  Sidney comes up to the table,
+
+repeats:
+
+Bartha looks up.  What can he do?  Begrudgingly:
+
+Mrs. Bartha pushes the champagne bottle in Sidney's direction
+
+as Sidney sits pleasantly; Bartha concentrates on his
+
+sandwich.
+
+WIFE
+
+Mrs. Bartha laughs, enjoying his deftness; then:
+
+Mrs. Bartha turns to concentrate on the names in the racing
+
+column of the tabloid.
+
+BARTHA, WIFE AND SIDNEY
+
+An ANGLE favoring Bartha and Sidney.  Bartha glowers at his
+
+wife, resenting the fact that she has permitted Sidney to
+
+join them.
+
+produces his pad again, begins to write on it.
+
+Bartha notes Sidney's writing.
+
+She returns to her paper, ignoring them, Sidney finishes
+
+scribbling the item.
+
+He pushes the item to Bartha, who reads it, briefly.
+
+Meanwhile:
+
+Bartha pushes the item back towards Sidney.  Sidney glances
+
+quickly at Bartha's stony face then, significantly, turns
+
+towards his wife.
+
+Bartha raises his head, looks squarely at Sidney with
+
+contempt and anger.  His wife is unaware of this reaction.
+
+Still looking at the paper, she murmurs:
+
+Sidney pushes the item back towards Bartha.
+
+WIFE
+
+Mrs. Bartha's attention is attracted by Sidney's gesture.
+
+She looks up, made aware of this strange by-play.
+
+BARTHA AND SIDNEY
+
+A CLOSE TWO SHOT.  Sidney waits; Bartha is white-lipped, but
+
+pushes the item back again:
+
+RESUME WIFE
+
+She looks from Sidney to her husband and back.
+
+RESUME BARTHA, MRS. BARTHA AND SIDNEY
+
+The THREE SHOT favoring Bartha and Sidney.  Both Sidney and
+
+Bartha are now aware of Mrs. Bartha's curiosity.
+
+A moment of chill silence.  Then Bartha gets to his feet,
+
+signals for a waiter.  As Sidney rises also:
+
+She quickly studies her newspaper again.  As quickly, Bartha
+
+leans across the table and snatches it out of her hands.  In
+
+doing so, he upsets the glass of champagne, which contains
+
+only a few drops.
+
+SIDNEY AND BARTHA
+
+Bartha turns challengingly to Sidney.
+
+WIFE
+
+She is brushing her lap with her napkin.
+
+RESUME BARTHA AND SIDNEY
+
+Bartha ignores her, again challenges Sidney.
+
+The Waiter arrives in picture beside them, puts the check on
+
+the table and goes.  Bartha picks it up.
+
+RESUME WIFE
+
+Still mopping her dress with her napkin, she waits for her
+
+husband to speak.
+
+BARTHA
+
+He glances unhappily at his wife.
+
+MRS. BARTHA, BARTHA AND SIDNEY
+
+A THREE SHOT favoring Mrs. Bartha, her husband and Sidney in
+
+foreground.
+
+Sidney decides to retreat.  He turns, starts to go.  But
+
+Bartha blocks his way, holding Sidney and explaining to the
+
+Wife.
+
+A momentarily pause.  Then:
+
+RESUME BARTHA
+
+He is uneasy, ashamed of himself.
+
+RESUME WIFE
+
+She says nothing.
+
+RESUME BARTHA, SIDNEY AND MRS. BARTHA
+
+The ANGLE favoring Bartha and Sidney, Mrs. Bartha in
+
+foreground.  Bartha now turns on Sidney.
+
+Sidney tries to brazen it out, sneering:
+
+Mrs. Bartha slides along the seat, reaching for her fur.
+
+MRS. BARTHA
+
+CAMERA PULLS BACK with her as she collects her belongings,
+
+slides out between the tables and comes forward, passing
+
+Sidney to her husband.
+
+She presents her fur to her husband, and turns her back,
+
+inviting him to put it around her shoulders.
+
+BARTHA AND WIFE
+
+ANOTHER ANGLE, favoring Bartha.  He has not fully understood
+
+the significance of his wife's gesture.  He studies her.
+
+She confirms his hopes as she adds:
+
+With the fur around her shoulders, she turns and takes her
+
+husband's arm with some pride.  They walk away.  CAMERA
+
+ERASES BACK to include Sidney.  He is angry at himself -
+
+more for the failure of his efforts at blackmail than any
+
+sense of shame at the attempt.
+
+OTIS ELWELL
+
+A MEDIUM LONG SHOT.  At a booth on the other side of the bar
+
+sits a dapper gentleman with a twinkle of malice in his eyes.
+
+He has been watching the altercation with keen interest and
+
+satisfaction.  Elwell gives some instructions to a waiter
+
+who is serving him with drinks, pointing towards Sidney.
+
+SIDNEY
+
+Sidney's face shows a burning resentment.  He glances about
+
+him to see how much of the embarrassing scene has been
+
+observed.  As he moves away, the waiter walks into shot,
+
+addressing him.
+
+WAITER
+
+A waiter approaches Sidney.  He has a message.
+
+The waiter nods towards the other side of the circular bar.
+
+Sidney, his humiliation and rage still burning, looks off
+
+towards...
+
+OTIS ELWELL
+
+From Sidney's viewpoint.  Elwell beckons.
+
+SIDNEY
+
+He comes round the circular bar.  He shows no eagerness to
+
+join Elwell, but approaches the table.  Elwell makes a
+
+gesture, inviting Sidney to sit.  Sidney doesn't accept it.
+
+Then, returning, he leans over the table addressing Elwell
+
+with quiet anger.
+
+REVERSE ANGLE
+
+Across Sidney and Elwell.  Elwell is quietly enjoying
+
+Sidney's display of hurt dignity.
+
+SIDNEY
+
+A CLOSE SHOT.  While Elwell continues, he is not looking at
+
+Sidney.  Elwell's expression of dislike of Hunsecker is not
+
+overemphatic; but Sidney senses, nevertheless, that it is
+
+very real - and this gives him a new idea.
+
+RESUME ELWELL AND SIDNEY
+
+Elwell looks up at Sidney as he continues.
+
+REVERSE ANGLE
+
+Sidney has rapidly resumed his manner of resentment (in
+
+order to exploit Elwell's dislike of Hunsecker).
+
+ELWELL
+
+He has lost interest in Sidney.
+
+Elwell's voice fades: his attention has been caught by...
+
+REVERSE ANGLE
+
+...three people are passing the table, squeezing their way
+
+past; a man with two very fetching young women.  Elwell's
+
+eyes are riveted to the anatomy that is temptingly displayed.
+
+ELWELL
+
+He is unembarrassed at Sidney's all-too-accurate estimate.
+
+Elwell turns back towards the papers on his table, a zippered
+
+document case and some publications among which a columnist
+
+might search for scandal; among these is a magazine of
+
+semipornographic nature.
+
+REVERSE ANGLE
+
+The nature of Elwell's reading tastes is also not lost on
+
+Sidney.  With his eyes glancing at the magazine, Sidney now
+
+accepts the original offer to sit down.  He produces the
+
+slip of paper that Bartha rejected, offering it as
+
+illustration.
+
+As Elwell reads, Sidney continues giving a passing scrutiny -
+
+apparently casual - to a picture of a girl on the magazine
+
+cover.
+
+Elwell shows no undue enthusiasm for the item.
+
+But Sidney doesn't take the paper back; he explains:
+
+ELWELL
+
+This does get a reaction, a flicker of genuine interest.
+
+Elwell reads the item for a second time.
+
+SIDNEY AND ELWELL
+
+Watching Elwell read, Sidney encourages:
+
+Now Elwell lays the item down in front of him.  Clearly, he
+
+is considering it.  Sidney prompts again.
+
+Elwell nods.  But he is still reluctant.
+
+SIDNEY
+
+Sidney drops his eyes to the magazine once more.  He fingers
+
+it in a preoccupied but significant way.
+
+ELWELL
+
+His eyes go from the magazine to Sidney; he gets the point
+
+alright.
+
+Elwell reaches for the slip of paper once more.
+
+SIDNEY AND ELWELL
+
+In picking it up, Elwell clearly implies his readiness to
+
+accept the item - on conditions.  Sidney, in his turn, gets
+
+this point.  He turns towards the passing waiter.
+
+INT. SIDNEY'S APARTMENT - NIGHT
+
+Rita is in the bedroom.  She appears to have some familiarity
+
+to the premises... She hears the doorbell.  She makes swift
+
+adjustment to her appearance and takes a swift gulp of a
+
+drink as she carries it through to answer the door.
+
+SIDNEY'S OFFICE
+
+The outer room is lit only by one of the lamps on the desk.
+
+Rita crosses and goes to the door.  Sidney's shadow can be
+
+seen through the frosted glass.  At the door, Rita opens it
+
+slowly and with a seductive manner.
+
+Sidney steps into the room.  Rita begins to close the door
+
+prior to stepping into his embrace.  Sidney puts one arm
+
+about her.  But now she reacts to...
+
+ANOTHER ANGLE
+
+Otis Elwell stands on the landing outside.  In most
+
+gentlemanly fashion, he takes off his hat.
+
+RITA
+
+This new arrival gets a dismal reaction from the girl.
+
+ANOTHER ANGLE
+
+Elwell is not unaware of his cool reception.  He glances at
+
+Sidney as he comes into the room.  But his manner is suave.
+
+Elwell sits down on the sette, stretches his limbs, smiles
+
+at the girl.  Rita still says nothing.  Sidney mistakes her
+
+attitude for acquiescence.  He swallows his drink, sets it
+
+down.
+
+Rita looks at him sharply.
+
+He grins at Rita.  She doesn't respond.  Turning, she goes
+
+swiftly through the door into the bedroom.
+
+Emphasizing the asperity in her voice, she closes the door
+
+behind her.
+
+ANOTHER ANGLE
+
+Elwell looks at Sidney; Sidney looks at Elwell.  Elwell gets
+
+up slowly from the settee.
+
+Sidney is uncomfortable, not sure how Elwell is taking the
+
+rejection.  Elwell glances at his wristwatch, lays down his
+
+drink.
+
+Elwell shrugs, remarks pleasantly but with significance:
+
+He goes into the bedroom, closing the door after him.
+
+INT. BEDROOM
+
+Rita is in a flurry of indignation.  Sitting on the bed, she
+
+is fastening one high-heeled shoe.  Sidney stands glaring at
+
+her.
+
+Rita, who one shoe on, has begun to search for the other.
+
+Rita jumps to her feet.  Her righteous indignation is
+
+handicapped by the lop-sided stance caused by the lack of
+
+one shoe.
+
+Contemptuously he thrusts the coat and the shoe into her
+
+arms.  The positive force of his manner gives the girl pause.
+
+There is a silence.  Rita searches for words to explain the
+
+offense to her sensibilities.
+
+A pause.  Sidney has struck brutally home.  Rita's lower lip
+
+trembles.
+
+Sidney's manner becomes swiftly sympathetic - but still
+
+urgent.
+
+Rita begins to waver, her moral indignation losing ground
+
+before Sidney's reminders of her dire necessity.
+
+This attempt at humor signals to Sidney that he has brought
+
+her round.  He comes to her, pats her in an encouraging
+
+manner - to which she does not respond.
+
+He turns to the door, and picks up the glasses she has set
+
+down on the table behind it.
+
+Sidney goes out.
+
+SIDNEY'S OFFICE
+
+Elwell overhears the last remark and as Sidney passes him,
+
+he winks.  While Sidney pours another drink, Elwell faces
+
+the doorway.  Rita comes into it, stands on the threshold.
+
+She is still far from enthusiastic.
+
+Rita shakes her head morosely.  Sidney comes and puts a
+
+stiff drink into her hand.  Elwell raises the glass toasting
+
+the girl, encouraging her to drink.  Rita responds dimly.
+
+Sidney laughs, more from relief than from the joke.
+
+At the door Sidney takes cheerful leave of them.
+
+HALLWAY OUTSIDE SIDNEY'S APARTMENT
+
+Closing the door, Sidney seems pleased with himself.  He
+
+goes swiftly down the stairs.
+
+INT. SIDNEY'S OFFICE
+
+Rita remains on the threshold of the doorway between the two
+
+rooms.  There is an uncomfortable silence.  Elwell carries
+
+it off by coming to the girl, offering her a cigarette.  She
+
+accepts it.  Elwell studies her, smiling affectionately.
+
+Rita meets his eyes, avoids them again, then quietly offers
+
+the information:
+
+Elwell begins to laugh.  Whatever the memory, it seems to
+
+amuse him vastly because he continues to laugh.
+
+Rita drinks.  She adds glumly:
+
+Elwell continues to laugh as we...
+
+ORANGE JUICE STAND - NIGHT
+
+Shooting east on 46th Street walks Sidney, coming out of the
+
+entrance of his apartment, towards CAMERA.  He is pleased
+
+with himself, satisfied with his ingenuity in dealing with
+
+Rita and Bartha.
+
+The streets behind him are dark and empty (it is about 3:00
+
+in the morning).  CAMERA moves with Sidney as he steps
+
+briskly into the orange juice stand and lifts the receiver
+
+from the pay telephone.  There are no other customers at the
+
+counter, but the man behind is squeezing orange halves for
+
+the day ahead, piling up a mountain of empties some of which
+
+fall at Sidney's feet.
+
+EXT. HUNSECKER'S PENTHOUSE - NIGHT
+
+CAMERA shoots up at the penthouse on the roof of the Brill
+
+Bldg.  The Budweiser sign is extinguished, a black silhouette
+
+against the sky.  A light burns in the window of Hunsecker's
+
+apartment.
+
+INT. HUNSECKER'S PENTHOUSE - NIGHT
+
+The ringing of the telephone is heard in the big room - an
+
+impressively furnished apartment which has a decor indicating
+
+that the owner thinks of himself in epic terms.
+
+CAMERA moves to discover Hunsecker in robe and pajamas,
+
+tapping at his typewriter.  Taking his leisurely time, he
+
+picks up the phone and eventually answers it.
+
+ORANGE JUICE STAND - NIGHT
+
+CAMERA shoots past Sidney at the phone toward Broadway,
+
+which is now deserted.  A street-flushing truck goes by,
+
+moving through the dead city.
+
+HUNSECKER'S PENTHOUSE - NIGHT
+
+Hunsecker is writing Robard's name on his pad, but he says
+
+into the phone:
+
+He cradles the phone, looks at it for a moment, switches his
+
+eyes and then physically follows them, rising to stroll
+
+towards the glass doors onto the terrace.  He moves out and
+
+turns aside to look in at the adjoining window, which
+
+belongs to Susan's bedroom.
+
+INT. SUSAN'S BEDROOM - NIGHT
+
+CAMERA shoots across Susan in foreground; she is asleep, a
+
+tired, helpless, sweet kid.  The figure of her brother is
+
+seen - a dark shape on the terrace outside.  He moves away
+
+across the terrace.
+
+EXT. TERRACE - NIGHT
+
+Hunsecker turns from the window.  CAMERA is close on his
+
+brooding face.  CAMERA tracks with him as he crosses towards
+
+the parapet.  At this height there is a wind which blows his
+
+hair and the movement of the camera emphasizes a remarkable
+
+vista of the New York skyline.  The buildings are now dark,
+
+only a few of the electric signs are left on all night.
+
+CAMERA comes to rest looking over Hunsecker's shoulder; it
+
+tilts downward to a view of Broadway below, Duffy Square in
+
+the distance.
+
+HUNSECKER - NIGHT
+
+A close-up; Hunsecker is looking down on his "kingdom".  But
+
+there is little love in the man's face, only authoritarian
+
+power.
+
+EXT. FROM THE TERRACE - NIGHT
+
+From Hunsecker's viewpoint.  The streets empty, except for
+
+an occasional passing taxi.  The street flushing truck comes
+
+up Broadway from Duffy Square...
+
+EXT. FROM THE TERRACE - DAY
+
+The identical camera set-up.  Through the dissolve the light
+
+changes from night to day; Broadway magically becomes a
+
+roaring stream of traffic.
+
+EXT. GLOBE BUILDING - DAY
+
+In foreground a NEWS VENDOR.  Sidney comes out of the exit
+
+of a subway, reaching for his pocket as he approaches the
+
+news vendor who offers him a paper.
+
+Sidney buys and opens the paper.  CAMERA MOVES closer to
+
+shoot over his shoulder.  We see the gossip column which
+
+bears a photograph of Otis Elwell at the top.  Smirking with
+
+satisfaction, Sidney turns away from the CAMERA and throws
+
+the paper into a trash basket before he disappears into the
+
+impressive entrance of a large office building.  The sign
+
+above the doorway reads: THE NEW YORK GLOBE.
+
+INT. GLOBE BUILDING
+
+Mary, Hunsecker's secretary, occupies a cubicle which is
+
+separated form the rest of the newsroom by a partition.
+
+From the big room beyond, comes the hum and chatter of a big
+
+newspaper.  The walls of the urgent murmur of the staff of a
+
+big newspaper.  The walls of Mary's cubicle are covered with
+
+photographs; filing cabinets are piled high with unopened
+
+mail; two wire service teletype machines click desultorily.
+
+Mary is plain but attractive, past 30, a level-headed woman
+
+with a sense of integrity.  She is on the phone just now,
+
+bored with the insistent voice on the other end.  Beside her
+
+an earnest young LAWYER waits with several papers in hand.
+
+Sidney has come through the newsroom in background.  He
+
+pauses tactfully, seeing Mary occupied with the lawyer.
+
+As the disgruntled lawyer leaves, Sidney comes in, wearing
+
+his most winning smile.  With a glance after the lawyer,
+
+making sure that he is not observed, Sidney greets Mary,
+
+assuming a brogue:
+
+Sidney's hand caresses her shoulder with a gesture which
+
+indicates a certain intimacy between them.
+
+Sidney reaches for the phone.  As he does so, Mary hesitates
+
+and glances at a copy of The Record which lies on the desk
+
+open at Otis Elwell's column.  She picks it up.
+
+Sidney murmurs casually, "Yeah.  Why?" as he dials.  Mary
+
+holds up the paper, indicating the item.
+
+Sidney accepts the paper from Mary, examines the item while
+
+he talks to Sally on the phone.
+
+He hangs up, continuing to read.
+
+He discards the paper with a show of disinterest.  Mary
+
+picks it up again.
+
+Sidney moves around behind Mary.  His eyes are fixed on a
+
+spike which sits on Mary's desk.  On it is impaled a proof
+
+of Hunsecker's column.  Meanwhile, he remarks:
+
+INSERT
+
+From Sidney's viewpoint, Hunsecker's column.  The shot is
+
+just too distant for us to be able to read the print.
+
+SIDNEY AND MARY
+
+Sidney is looking at the column.  Mary is concentrated on
+
+papers before her.  Without looking up, she is clearly aware
+
+of Sidney's efforts to read the proof.
+
+Sidney, caught "in flagrante", laughs.
+
+He turns away, changing the subject (apparently).
+
+Mary turns to study him.
+
+Mary is thoughtful.  Without malice, in a detached sort of
+
+way, she examines Sidney.
+
+Sidney finds this analysis hard to take.  Again he tries to
+
+laugh his way out of it.
+
+Mary, smiling, decides "to let him off the hook".  She takes
+
+the spike and the column and passes it across to Sidney's
+
+side of the desk, as she returns briskly to her business.
+
+Sidney doesn't like this; but, on the other hand, he does
+
+want to look at the column.  After only a momentary struggle,
+
+he picks the column off the spike and reads.
+
+He goes to the door, grinning.
+
+She looks after Sidney, thinks about him for a moment.  Then
+
+she types.
+
+EXT. PALACE THEATRE - DAY
+
+Sidney comes down 47th Street from Broadway, making for the
+
+stage door entrance of the Palace theatre.  He walks
+
+confidently into the alleyway, paying no attention to the
+
+old doorman gossiping with the shoeshine boy at the chairs
+
+next to the entrance.  The doorman turns, protesting:
+
+Sidney, without halting, looks back towards the Doorman,
+
+addressing him with the patronizing manner of a superior.
+
+He is already on his way into doorway.
+
+INT. BACKSTAGE OF PALACE THEATRE
+
+The movie will soon by finished and the comedian who opens
+
+the stage show is ready and made-up in the wings.  He sits
+
+with his agent, (AL EVANS) a small, worried, bespectacled
+
+man, who waves an unlighted cigar as big as himself.  They
+
+converse in loud whispers, talking against the muffled and
+
+echoing sound of the film sound track, silhouetted against
+
+the ghostly, distorted images on the big screen seen at a
+
+weird angle behind them.
+
+The comedian, Herbie Temple, looks up.  Sidney comes through
+
+a fire-proof door which separates the stage from the
+
+corridors to dressing room.  In background two chorus girls
+
+in costume are squeezed into a telephone booth.  Sidney
+
+joins the comedian and the agent; he smiles to the comedian,
+
+while he addresses the agent.
+
+The agent looks from Sidney to Temple, surprised and
+
+displeased.
+
+Sidney has clearly never met Evans; blandly he chooses to
+
+regard the agent's remark as an introduction; he offers his
+
+hand with generous amiability.
+
+The comic accepts the hand doubtfully.
+
+Evans stands up, warns the comic.
+
+Temple's smile congeals.
+
+Sidney stands up.
+
+Sidney moves toward the doorway onto the corridor.  The
+
+chorus girls have now vacated the phone booth.
+
+Smiling wise, Evans shakes his head.
+
+Sidney presses, as if annoyed.
+
+Temple turns away from Sidney, leaving him to Evans.
+
+Evans moves to Sidney, trying to shepherd him out the way he
+
+came.
+
+ANOTHER ANGLE
+
+Evans makes the mistake of laying a hand on Sidney's elbow.
+
+Sidney doesn't like people touching him.  He reacts in
+
+anger, as we have seen before - fixes a burning eye on Evans.
+
+Sidney stops briskly up the stairs into the corridor.
+
+Evans, angry, is stalled for a moment of delay action by
+
+mention of the magic name of Hunsecker.
+
+SIDNEY
+
+But Sidney has already stepped to the phone booth and is
+
+dialing.
+
+REVERSE ANGLE
+
+Shooting past Sidney in foreground onto Temple and Evans
+
+beyond, they watch him, open-mouthed.  Sidney notes their
+
+reaction.
+
+INT. SIDNEY'S APARTMENT - DAY
+
+Gloria is at her desk, bewildered as she speaks into the
+
+phone.
+
+RESUME BACKSTAGE OF PALACE THEATRE
+
+While doing so, he glances back with disinterest at Evans
+
+and Temple.  The comedian and the agent exchange looks.
+
+Evans is uneasy; he comes up the steps into the corridor to
+
+address Sidney with a deflated manner.
+
+With his hand over the mouthpiece, Sidney addresses Evans
+
+with contempt.
+
+RESUME - GLORIA IN INT. OF SIDNEY'S APARTMENT
+
+Shaking her head, Gloria places the phone down on the desk,
+
+looks at it as it chatters away.  She considers returning to
+
+her typing, but, worried, picks the phone up again.  Sidney's
+
+chattering voice is barely audible: "You know Herbie Temple,
+
+the comic...?  What about him?  He's at the Palace and he's
+
+great.  That's what about him.  And you'd do me a big bunny
+
+basket of a favor if you would say it in tomorrow's column.
+
+RESUME BACKSTAGE PALACE THEATRE
+
+Temple and Evans are now staring at Sidney with considerable
+
+respect.
+
+REVERSE ANGLE
+
+The comedian and the agent in foreground, Sidney still on
+
+the phone beyond.
+
+The comedian and the agent in foreground, Sidney still on
+
+the phone beyond.
+
+He turns and walks away down the corridor.  As he vanishes,
+
+Temple starts after him.
+
+CORRIDOR
+
+Sidney walks off in the direction of the exit -- (not so
+
+fast that he can't be overtaken).  Temple hurries into the
+
+corridor and comes after him.  Evans also follows, though
+
+not so eagerly.
+
+Sidney permits himself to be detained.
+
+Evans, not as wholly convinced as the comedian, comes up to
+
+join them.  Temple looks at the agent.
+
+Sidney, shrugging, makes a negligent exit.
+
+They look after him.  Evans face is cold and suspecting, but
+
+Temple's face contains fresh warmth.
+
+STAIRS OUTSIDE SIDNEY'S OFFICE - DAY
+
+Sidney comes briskly up the stairs.  Outside his door he
+
+pauses, listens, hearing the murmur of voices inside.  Then
+
+he walks in casually.
+
+INT. SIDNEY'S OFFICE - DAY
+
+Sidney steps in, closing the door.  He pretends surprise as
+
+he sees...
+
+ANOTHER ANGLE
+
+...Steve and D'Angelo waiting for him.  Sidney comes into
+
+SHOT.  Sally remains at her desk while Steve and D'Angelo
+
+are silent, looking at Sidney.
+
+D'Angelo rises from the couch, crossing to Sidney to hand
+
+him a copy of the tabloid, The Record.  It is folded open at
+
+Elwell's column.  As he passes it to Sidney, D'Angelo marks
+
+with his thumbnail an item near the bottom of the column.
+
+Sidney takes the paper and reads. (He reads a little too
+
+quickly.)  Then he hands it back to D'Angelo.
+
+ANOTHER ANGLE
+
+Steve notes Sidney's too-perfunctory reading.
+
+Sidney turns on Steve, coldly:
+
+REVERSE ANGLE
+
+Favoring Sidney.  He pauses.
+
+RESUME REVERSE ANGLE
+
+Sidney's manner is a little too vigorous. (In adopting an
+
+aggressive tone, he is really trying to needle Steve.)
+
+Steve, though on the verge of losing his temper, is sharp
+
+enough to notice the point:
+
+D'ANGELO
+
+Sensing the danger, D'Angelo moves forward soothingly
+
+between them.
+
+Steve, with a glare at both men, goes to the phone on
+
+Sally's desk.  He dials.
+
+In background Steve speaks quietly into the phone:
+
+STEVE
+
+Sidney's reaction to the mention of Susan's name gives Steve
+
+food for thought.  While he waits for Susan to be summoned
+
+to the phone, he studies Sidney.
+
+INT. HUNSECKER'S PENTHOUSE - SUSAN'S BEDROOM - DAY
+
+Susan is on the phone.  Listening to what Steve says, she is
+
+frightened - almost too frightened; it is as if, in some
+
+curious sense, she had been expecting this blow.  It brings
+
+an echo of an earlier tragedy.
+
+INT. SIDNEY'S APARTMENT
+
+Steve is on the phone in foreground, the others watching him.
+
+In particular, Sally, who stands near Steve, is studying him
+
+with obvious sympathy.  She looks slowly towards Sidney.
+
+He hangs up quietly, looks at Sidney and walks towards the
+
+door.
+
+ANOTHER ANGLE
+
+As the door closes behind Steve, Frank follows, more slowly.
+
+As D'Angelo reaches the door, he pauses with his hand on the
+
+doorknob and turns back to study Sidney.
+
+SIDNEY
+
+He feels uneasy under D'Angelo's scrutiny.  Sally, in
+
+background, is also watching Sidney.
+
+D'ANGELO
+
+He does not answer for a moment.  The unspoken accusation in
+
+his look is very clear.  Then:
+
+RESUME SIDNEY
+
+He brazens it out.
+
+RESUME D'ANGELO
+
+D'Angelo shakes his head.
+
+D'Angelo goes slowly out.
+
+RESUME SIDNEY
+
+He hesitates before turning towards Sally (because he
+
+realizes that this exchange with D'Angelo must have confirmed
+
+Sally in her suspicions).
+
+SALLY
+
+Her face shows that Sidney is right.  Sally is deeply hurt,
+
+disillusioned.
+
+ANOTHER ANGLE
+
+Sidney turns to her, challenging.
+
+Resentfully, Sidney moves about the room.  Sensing the
+
+silent accusation against him, he is aggressive.
+
+Sidney comes to the phone on her desk.  He dials.  Then he
+
+glances swiftly at Sally and, carrying the phone, walks into
+
+the bedroom, dragging the long cord behind him.
+
+INT. BEDROOM
+
+When the phone comes alive, Sidney pushes the bedroom door
+
+shut.  The gesture is as casual as he can contrive to make
+
+it.  Keeping his voice fairly low so that it cannot be heard
+
+in the other room, he says:
+
+He sets the phone down on the bedside table, looks at it
+
+thoughtfully before he goes back to the bedroom door, opens
+
+it and goes back into the office.
+
+INT. OFFICE
+
+Sidney stands on the threshold, studying Sally.  His manner
+
+is now more sympathetic as he asks:
+
+Leaving the bedroom door open, Sidney comes up to her,
+
+watches her shrewdly, cautiously.
+
+Sally is putting paper in the typewriter, trying to hold her
+
+head up.
+
+Sidney comes closer to her.  He puts his hand on the nape of
+
+her neck, carrassing her.  Under his touch, the girl is
+
+unhappy, and yet at the same time, responsive.  Sidney still
+
+has power over her but she is disturbed by feelings of shame.
+
+Feeling her relaxed, Sidney bends and kisses her on the side
+
+of the throat with more than negligence, for something about
+
+her always excites him; his aggression tune in with her
+
+submissiveness.
+
+The phone in the bedroom rings.  Sidney, reacting sharply,
+
+forgets his advances to Sally as he turns towards the bedroom.
+
+He goes into the bedroom, closing the door as he goes.
+
+Sally looks at the closed door.
+
+INT. BEDROOM
+
+Sidney has picked up the phone.
+
+INT. HUNSECKER'S PENTHOUSE - THE STUDY - DAY
+
+Hunsecker wears a dressing gown as he sits at his breakfast
+
+table.  Behind him are the big glass windows to the terrace
+
+overlooking the Manhattan skyline.  The papers are at
+
+Hunsecker's elbow; his manner is crisp and cold:
+
+RESUME SIDNEY'S APARTMENT
+
+Sidney smiles confidently, answers calmly:
+
+RESUME HUNSECKER'S PENTHOUSE
+
+Hunsecker pauses, eyes full of cold voltage.
+
+He bangs down the phone, tense thought in his manner.
+
+INT. SIDNEY'S APARTMENT
+
+Sally is busy with her typing again, but in a depressed mood
+
+when Sidney comes out of the bedroom to put the phone down
+
+on her desk again.  He seems satisfied with himself, smug.
+
+Sally watches him for a moment.  Then:
+
+Sidney prepares to leave the apartment.  His tone is full of
+
+confidence, self-assertive.  (For once Sidney is certain
+
+that he is smarter, more cunning than even Hunsecker).
+
+Sidney makes for the door, goes out.
+
+INT. CIGAR STAND - LOBBY
+
+Susan buys paper - DOLLY with her - toward elevator - she
+
+gets in.
+
+INT. HUNSECKER'S LIVING ROOM
+
+J.J. has not moved; he is thoughtful and morose.  Nikko, the
+
+Japanese butler, comes in to remove the breakfast table.
+
+Smiling, Nikko leaves.  Hunsecker picks up a pencil and
+
+makes a note on a pad, about birds no doubt.  Abruptly he
+
+looks up, calling:
+
+She has been trying to pass unnoticed to her room.  She
+
+comes forward to him; her manner is serious and wary.  His
+
+act is one of a tasteful Mammy singer, but he is watchful,
+
+too.
+
+She shakes her head.
+
+He soothes, smiles indulgent, but watchful:
+
+With a paternal gesture of affection, he holds out his arms,
+
+inviting her into his comforting embrace.  Not wanting to,
+
+she walks into his open waiting arms.
+
+Hunsecker considers this gravely, as if it was a new and
+
+troubling thought.
+
+She leaves his arms; he watches keenly.
+
+He goes to her gently; she appraises both him and her
+
+wrenched life with brooding, frightened eyes.
+
+She gets up and walks around in considerable agitation.
+
+She turns to Hunsecker, her manner firmer.
+
+He walks away with a wag of indignation,  but turns, asking:
+
+Susan shakes her head emphatically.
+
+Staring, he pauses; then he deftly changes the subject.
+
+Susan hesitates.  Hunsecker waits for her to continue.  But
+
+she isn't yet sure enough of herself or of the point she
+
+means to make.  She turns away.
+
+Hunsecker strides about, elaborately playing on a note of
+
+disillusion and pain.
+
+He looks at her with pursed lips and, for a change, some
+
+real interest.  Her level, straightforward manner has pinned
+
+him down completely; he shows a slow, charming grin, as he
+
+goes for a private phone book:
+
+He crosses to the white desk phone, delaying dialing for a
+
+moment:
+
+Susan doesn't like this idea, is evasive:
+
+EXT. TV THEATRE - DAY
+
+CAMERA SHOOTS TOWARDS the entrance to the TV theatre.  A
+
+line of people are queuing for Hunsecker's TV Broadcast
+
+which is advertised by large posters beside the entrance.  A
+
+taxi drives up in foreground; Susan Hunsecker gets out.
+
+SIDNEY
+
+Sidney comes up Sixth Avenue towards the theatre.  As he
+
+reaches the corner of the building, he halts, having seen...
+
+SUSAN
+
+Susan is seen in the act of paying the driver.  As the taxi
+
+pulls away, Susan walks CAMERA left.
+
+TV THEATRE
+
+Susan pauses, deciding not to enter the theatre; turning she
+
+looks about her and waits on the sidewalk outside.
+
+SIDNEY
+
+Sidney decides that this is not the moment to approach Susan.
+
+He glances down the sidestreet then moves off in that
+
+direction.
+
+SIDESTREET
+
+Sidney moves down the sidestreet towards a stage entrance,
+
+through which are emerging some TV technicians.  He slips
+
+inside.
+
+INT. TV STATION
+
+Hunsecker is standing at a table, stop watch in hand,
+
+reading aloud from a script which he is rehearsing and
+
+timing.  Beside him sits Mary busy typing more of the
+
+material from Hunsecker's handwritten note.  Mary is calm,
+
+but he is irritable, trying to concentrate despite the
+
+bustle around him.
+
+An old movie star, MILDRED TAM, sits waiting in one of the
+
+canvas-backed chairs supplied for the guests on the show.
+
+BURTON, a manager, also waits, deadpan, at Hunsecker's elbow.
+
+Hunsecker clicks his stop watch as he reads:
+
+He turns in exasperation to Burton.
+
+Burton departs.  Mary whips a second sheet out of the
+
+typewriter, hands it to Hunsecker.  As he accepts it,
+
+Hunsecker looks off towards the auditorium.
+
+SIDNEY
+
+SHOOTING towards the auditorium, from Hunsecker's viewpoint.
+
+Sidney mounts the steps onto the stage.  Seeing that the
+
+columnist is surrounded but knowing that J.J. wants to talk
+
+to him privately, Sidney loiters so that J.J. can join him
+
+as soon as he chooses to.  CAMERA PULLS BACK to include
+
+Hunsecker.  Only momentarily distracted by private
+
+considerations connected with Sidney's arrival, Hunsecker
+
+returns to the business of timing the script.  He clicks the
+
+watch again...
+
+ANOTHER ANGLE
+
+Sidney lingers beside the old movie star who is listening,
+
+rapt, to Hunsecker's words.  Sidney is less impressed with
+
+J.J.'s eloquence.  At the conclusion, Mildred applauds
+
+lightly.  She stands up and moves towards J.J.  J.J. wants
+
+to talk to Sidney but is frustrated by the old movie star.
+
+Under the pretense of studying the typed script, J.J. walks
+
+away across the stage.  Sidney strolls after him.
+
+ANOTHER ANGLE
+
+A TRACKING SHOT.  Sidney comes up beside Hunsecker, falls
+
+into step beside him.  As they cross towards a water cooler
+
+at the back of the stage, they talk in rapid undertone.
+
+A pause.  Hunsecker renumerates.
+
+Hunsecker gives him certain slow begrudging admiration:
+
+Hunsecker permits himself a faint smile.  Burton is
+
+approaching with script in hand.
+
+Sidney smirks.  He turns away and goes off towards the
+
+auditorium in the background.
+
+EXT. TV STATION - DAY
+
+Frank D'Angelo pays a taxi out of which he and Steve have
+
+just emerged.  Frank turns towards the boy, resuming a
+
+conversation as they stroll across the sidewalk towards the
+
+entrance of the theatre.
+
+Steve completes the sentence with a slow shake of the head;
+
+compromise is a gesture which he finds very difficult.
+
+D'ANGELO
+
+D'Angelo studies the boy with a paternal affection.
+
+D'Angelo stops, halted by an expression which he sees in
+
+Steve's face.
+
+STEVE
+
+He is looking through the glass doors of the TV Theatre, no
+
+longer listening to D'Angelo's words; his face has hardened
+
+in anger.
+
+INT. TV THEATRE FOYER
+
+From Steve's viewpoint.  Sidney has come out of the curtained
+
+entrance to the auditorium.  CAMERA PULLS BACK to include
+
+Steve in foreground.  With a movement that suggests his
+
+annoyance at discovering Sidney present, Steve jerks open
+
+the glass door and moves in.
+
+ANOTHER ANGLE
+
+Susan is waiting in the foyer.  She is standing in a position
+
+where she has not been able to see Steve until he enters;
+
+now she moves forward to greet him.  As soon as she is near
+
+him, she speaks in a quiet, urgent manner:
+
+But she, too, is halted as Steve lays a hand on her arm.
+
+Seeing his look over her shoulder, she turns...
+
+SIDNEY
+
+He is already strolling forward to join them.  CAMERA PANS
+
+with him to include Susie, Steve and D'Angelo.
+
+STAGE
+
+Hunsecker comes forward to the front of the stage looking
+
+towards...
+
+STEVE, SUSAN, D'ANGELO AND SIDNEY
+
+In the group that comes down the aisle of the empty theatre.
+
+RESUME HUNSECKER
+
+He studies them, then calls out:
+
+REVERSE ANGLE
+
+Hunsecker back to CAMERA in foreground; he begins to whistle
+
+The Wedding March to the rhythm of Steve and Susan's walk.
+
+STEVE
+
+He breaks the rhythm of his stride, his face rigid.
+
+RESUME HUNSECKER
+
+He descends to meet them; his manner is full of welcome.
+
+REVERSE ANGLE
+
+Susan nervously makes the introduction - Steve is nervous;
+
+D'Angelo hangs behind warily; Sidney is in background.
+
+Steve shakes the hand that the smiling Hunsecker gives.
+
+Hunsecker flicks a look at Sidney.  No one else, warier by
+
+the minute, knows what to say.  Hunsecker purrs onward:
+
+Hunsecker cuts her off with lazy good nature:
+
+Hunsecker crosses toward Sidney.
+
+D'ANGELO, STEVE AND SUSAN
+
+Steve is thrown for a loss momentarily; Frank steps in.
+
+HUNSECKER AND SIDNEY
+
+RESUME D'ANGELO, STEVE AND SUSAN
+
+GROUP SHOT
+
+But Steve, on a heated rip, has turned to Hunsecker:
+
+HUNSECKER
+
+STEVE, D'ANGELO AND SUSAN
+
+HUNSECKER
+
+GROUP SHOT
+
+Steve stops dead.  Then, strangely and dangerously, he picks
+
+up Hunsecker's smile.  On each man's face the smile broadens
+
+and grows up into a chuckle from each; but the meanness
+
+still flickers around Hunsecker's mouth.  Steve is out of
+
+the net!
+
+HUNSECKER AND SIDNEY
+
+STEVE, D'ANGELO AND SUSAN
+
+HUNSECKER AND SIDNEY
+
+Even Hunsecker smiles.  Sidney likes neither the ridicule or
+
+the turn of events.  He moves quickly past CAMERA.
+
+SIDNEY, STEVE, D'ANGELO AND SUSAN
+
+Sidney comes round the row of theatre seats to attack Steve.
+
+HUNSECKER
+
+GROUP SHOT
+
+Playing along nicely, Hunsecker looks at Steve and Frank and
+
+slowly removes his arm from Susan; he pauses before asking
+
+Dallas:
+
+With a roar Hunsecker takes them both out of play; he stands
+
+up.
+
+SIDNEY, STEVE, D'ANGELO
+
+Hunsecker enters from behind CAMERA.
+
+Steve is cornered, the other completely out of play.  He
+
+pauses:
+
+Switching his leonine tail, Hunsecker looks broodingly at
+
+Susie.  Frank says one beseeching word, "Steve...", but no
+
+one hears him.
+
+SUSAN
+
+HUNSECKER
+
+STEVE AND SUSAN
+
+Steve hesitates defensively but can't resist a small smile;
+
+he moves nearer to Susan.
+
+REVERSE ANGLE
+
+Susan in foreground, Steve, Hunsecker and Sidney beyond.
+
+Hunsecker pauses; Sidney throws in a stage whisper:
+
+Steve walks to Susie, trying to lift her with his hopes and
+
+air of gentle urging and support.
+
+SUSAN
+
+She stares at the floor.
+
+RESUME REVERSE ANGLE
+
+Hunsecker doesn't like the drift of things; his mouth
+
+tightens and he speaks to Susan with veiled warning:
+
+SUSAN
+
+Suddenly Susan lets loose, with restrained nervous energy;
+
+she is near to tears.
+
+HUNSECKER
+
+He interjects.
+
+RESUME SUSAN
+
+Restraining tears, she runs up the steps to the stage.
+
+STEVE, HUNSECKER AND SIDNEY
+
+Steve looks after her.  Sidney watches intently.  Hunsecker's
+
+smile is frostily taunting:
+
+Steve turns a blank-eyed stare at him.  Tension gone, a slow
+
+mumbling fatigue has set in.  Hunsecker plays it light:
+
+He turns and stares away, but Steve stops him with---
+
+STAGE
+
+Hunsecker comes up the steps from the auditorium, Sidney
+
+following closely behind.  In background, beyond, Steve and
+
+D'Angelo are walking up the aisle to the exit.  CAMERA
+
+TRACKS CLOSE on Sidney and Hunsecker.  Hunsecker's face is
+
+rigid.  Sidney, close at his elbow, whispers:
+
+Sidney is full of confidence.  But Hunsecker barely hears
+
+him (Hunsecker has been hurt very deeply by the boy's
+
+attack; in particular, by the appalling fear that what Steve
+
+has said is the kind of thing which Susan may also secretly
+
+believe.)
+
+ANOTHER ANGLE
+
+Susan is still standing in the wings.  Mary is with her,
+
+obviously sympathetic.  The girl is drying her eyes with
+
+Kleenex, and Mary glances at her employer with a look of
+
+reproach.  Hunsecker walks round the table, obviously trying
+
+to approach Susan; seeing this, Susan turns away and moves
+
+further from him.  Hunsecker stops.
+
+HUNSECKER
+
+There is some emotion in his face as he looks towards the
+
+girl.  More gently, he moves forward past CAMERA...
+
+SUSAN
+
+Sensing the approach of Hunsecker behind her, she moves away
+
+again; she is still crying, but is trying to recover.
+
+Presently Hunsecker approaches her again.  He speaks very
+
+gently, soothingly, comforting...
+
+Hunsecker again tries to come nearer to her.
+
+Ignoring the shake of her head, he calls to Sidney.
+
+HUNSECKER
+
+Again we see some emotion in his face as he studies the girl.
+
+His eyes flick towards the stage behind him where Sidney
+
+stands watching.  He moves gently forward and then speaks in
+
+a quiet voice which reveals how desperately he needs her
+
+reassurance:
+
+SUSAN
+
+After a pause, she turns towards him; she looks him straight
+
+in the face.
+
+RESUME HUNSECKER
+
+He seems to take this as a gesture of forgiveness from her.
+
+Now he touches her.  His need for her is apparent; he tries
+
+to reach her, tries to find an excuse to embrace her.  She
+
+submits to this very passively.
+
+SUSAN
+
+A VERY CLOSE SHOT.  We see the effort with which she is
+
+controlling herself.
+
+RESUME TWO SHOT
+
+Satisfied with this crumb of affection from his sister,
+
+Hunsecker lets her go.  Susan moves away, still avoiding his
+
+eyes.  Then she goes off towards the steps down into the
+
+auditorium.  Sidney looks at Hunsecker, then after Susan and
+
+follows her.
+
+RESUME HUNSECKER
+
+He goes back to Mary and the script.  He instructs her:
+
+Poring over the typewritten pages, he senses Mary's eyes on
+
+him.  He speaks to her quietly without raising his head and
+
+there is still an undertone of feeling in his voice:
+
+Mary says nothing.  Hunsecker gathers his papers and with a
+
+visible effort to resume his public personality turns
+
+towards the machinery of the television broadcast in
+
+background.
+
+INT. TV THEATRE FOYER
+
+Susan crosses towards the doors out onto the street.  Sidney
+
+comes behind her, watchful as he overtakes her near the
+
+doors.  He goes past her to open the door for her.
+
+Susan stops dead.
+
+She goes out into the street.  Beyond, we see a crushing cab.
+
+Hesitating, Sidney adds:
+
+But Susan has already moved out of shot, hurrying across the
+
+sidewalk to hail the taxi.
+
+RESUME SIDNEY
+
+Uncertain what to do, whether to follow her or not, he moves
+
+after her.
+
+SUSAN
+
+She has already opened the door of the taxi.  She turns to
+
+see Sidney come up behind her.  As he enters SHOT, she
+
+repeats:
+
+She starts to get into the cab...
+
+SIDNEY
+
+Alert, he moves to detain her (anxious to know exactly the
+
+extent of her suspicion.)
+
+ANOTHER ANGLE
+
+As Sidney steps up, he grasps at the door of the taxi,
+
+trying to hold it open, but Susan pulls it shut, catching
+
+his fingers in the door.  Sidney steps back in pain...
+
+TAXI
+
+It drives off down Sixth Avenue.
+
+SIDNEY
+
+Nursing the injury to his hand, he looks after the
+
+disappearing taxi.  As he recovers from the pain, his
+
+expression slowly changes to one of thoughtful appraisal.
+
+(Susan's suspicions maybe of less importance than some other
+
+considerations.)
+
+INT. TWENTY ONE CLUB WASHROOM - NIGHT
+
+Hunsecker and Sidney are washing in adjoining basins.  Coat
+
+off, the former is in one of his punitive moods of silence.
+
+Sidney, despite his throbbing, bandaged finger, is feeling
+
+satisfied and self-confident.  He hums quietly.  Hunsecker
+
+throws him annoyed side-glances, but Sidney refuses to
+
+"catch on".  The following dialogue is spaced between the
+
+washing, the drying and hair-combing.
+
+Sidney no longer hums; after a moment, he answers.
+
+Sidney's cheerfulness annoys Hunsecker.
+
+Hunsecker moves out of shot.
+
+Hearing the sound of the door, Sidney turns sharply.  CAMERA
+
+MOVES to discover that Hunsecker has gone out.  Sidney,
+
+quickly, finishing the brushing of his hair, follows...
+
+INT. DINING ROOM - "21" CLUB
+
+Two waiters are fussing over Hunsecker's table at which
+
+places are already set for Sidney and Hunsecker.  Matre d'
+
+hands him an envelope as he passes.
+
+When the columnist comes up to the table, the waiters
+
+quickly pull out the table for him.  Sidney comes to join
+
+him; Sidney gets some attention, but considerably less.
+
+CAMERA MOVES CLOSER.
+
+A waiter shifts the position of the salad dish at Hunsecker's
+
+elbow.
+
+The waiter retreats rapidly.
+
+Delicately salting his oysters, Hunsecker looks obliquely at
+
+Sidney.
+
+Hunsecker, with a casual gesture, tugs lightly at the end of
+
+Sidney's tie.
+
+Hunsecker's gesture is playful, but it inflicts great injury
+
+to Sidney's dignity; Sidney cannot bear to be touched; he
+
+finds this liberty on J.J.'s part as intolerable as anything
+
+he has experienced, and only with great difficulty controls
+
+himself.  The SHOT FAVORS Sidney.
+
+SIDNEY AND HUNSECKER
+
+Hunsecker continues:
+
+HUNSECKER
+
+From Sidney's viewpoint.  Without turning, Hunsecker
+
+interrupts:
+
+RESUME SIDNEY AND HUNSECKER
+
+Sidney senses a warning in Hunsecker's manner.  He protests:
+
+HUNSECKER
+
+From Sidney's viewpoint.  Pausing during the process of
+
+eating, Hunsecker reaches into an inside pocket.
+
+CAMERA PULLS BACK to include Sidney as Hunsecker tosses in
+
+front of him an envelope.  Sidney opens it, extracts two
+
+steamship tickets.
+
+Sidney slowly pushes the envelope back to Hunsecker, who
+
+leaves it lying on the table before him.
+
+SIDNEY
+
+He has an instinct to laugh; but something tells him not to.
+
+HUNSECKER
+
+As Sidney makes no response, Hunsecker slowly, carefully
+
+continues in a voice which is dangerously soft:
+
+SIDNEY AND HUNSECKER
+
+SHOOTING ACROSS Hunsecker onto Sidney.  Sidney puts down his
+
+fork.  He sees now that the issue is serious and must be
+
+faced.
+
+HUNSECKER
+
+He wants no advice from Sidney.  He interrupts with quiet
+
+savagery.
+
+SIDNEY AND HUNSECKER
+
+SHOOTING ACROSS Hunsecker onto Sidney.  Sidney feels sick.
+
+CAMERA MOVES CLOSER as Sidney picks scratch pad up.  We can
+
+read two words: "Get Kello".
+
+HUNSECKER
+
+Hunsecker finishes eating.  During the ensuing speech, which
+
+he begins quietly and sensibly, Hunsecker's venomous feelings
+
+are unexpectedly betrayed.
+
+CAMERA PULLS BACK to include Sidney.  Hunsecker manages to
+
+control himself; he reaches with nervous fingers toward his
+
+scribbling pad.
+
+SIDNEY
+
+Sidney's face has tightened.  He has begun now to realize
+
+the extent of this man's megalomania.  After a moment he
+
+says:
+
+HUNSECKER AND SIDNEY
+
+SHOOTING ACROSS Sidney onto Hunsecker.
+
+SIDNEY
+
+Sidney feels the chill of despair upon him.
+
+HUNSECKER AND SIDNEY
+
+SHOOTING ACROSS Hunsecker onto Sidney.  A waiter has come to
+
+serve the next course.  Hunsecker appears relaxed, but
+
+Sidney is sightlessly staring at the piece of paper in his
+
+hand.  He speaks with a quaver in his voice, for he has
+
+worked hard to make a life which is now ready to relinquish:
+
+Sidney begins to get up from the table.
+
+Hunsecker looks up at Sidney.
+
+HUNSECKER
+
+From Sidney's viewpoint.
+
+SIDNEY
+
+From Hunsecker's viewpoint.
+
+He leans over Hunsecker and the CAMERA PULLS BACK to include
+
+Hunsecker in f.g.
+
+SIDNEY
+
+A CLOSE UP.  He knows the truth of what is said.  But he
+
+takes refuge in quiet retaliation:
+
+HUNSECKER
+
+Hunsecker is prepared to give it out, but not take it.
+
+SIDNEY
+
+He looks down on Hunsecker, leans over the table.
+
+CAMERA has PULLED BACK to include Hunsecker, whose attention
+
+has returned to his food.
+
+But as he speaks the last words, Sidney's voice falters
+
+because he has glanced down at the table...
+
+SIDNEY
+
+We see that an idea has entered his head - an idea that
+
+takes the wind out of his indignation.  His eyes lift
+
+rapidly to Hunsecker's face.
+
+RESUME SIDNEY
+
+He is quite speechless.  Over scene Hunsecker's voice:
+
+HUNSECKER AND SIDNEY
+
+CAMERA SHOOTS across Sidney again onto Hunsecker.  Hunsecker
+
+leans back, looks at Sidney.
+
+Seeing that Sidney has accepted the proposition, he smiles.
+
+In a pleasantly affable way, he leans across the table to
+
+tap the hand with which Sidney is leaning on the table.
+
+Helplessly, Sidney unclenches a fist and reveals the slip of
+
+paper which he had meant to keep.  Hunsecker takes it.  With
+
+his eyes on Sidney, he slowly tears it up...
+
+CIGAR STAND AND PHONE BOOTH - EVENING
+
+D'Angelo is buying a cigar at the counter.  He turns as
+
+Steve opens the door of one of the booths and comes out.
+
+Steve is in a gloomy, irksome mood; D'Angelo is sympathetic
+
+and fatherly.
+
+CAMERA TRACKS with them as they come out into the hallway.
+
+They move towards the side entrance, away from the elevators.
+
+The boy shrugs impatiently.
+
+Some passersby come down the hall and enter a waiting
+
+elevator, barely glancing at D'Angelo and the boy.  D'Angelo
+
+feels uneasy.
+
+D'ANGELO
+
+He addresses Steve soberly.
+
+RESUME STEVE AND D'ANGELO
+
+Steve is silent.  He hears the sound of the elevator door
+
+opening and turns.
+
+Susan comes out of the elevator, the one farthest from them,
+
+and looks around.
+
+D'Angelo acknowledges her greeting, touches his hat and
+
+retires tactfully.  Susan faces Steve.  It's an awkward
+
+meeting.  Each does not know where the other stands.  She
+
+has thrown her fur coat about her shoulders like a cloak; it
+
+will keep slipping off.  He is faintly embittered, a little
+
+hurt and baffled, but he is sympathetic; he is involved and
+
+concerned.
+
+MED. CLOSE TWO SHOT OVER SHOULDER - SUSAN TO STEVE
+
+REVERSE ANGLE
+
+Susan nods in the direction of the door into the little cafe.
+
+As he walks with her towards the cafe:
+
+INT. CAFE
+
+As they enter the cafe, the Counterman looks up from counting
+
+the day's take at the far end.
+
+The Counterman goes to the urn for the coffee.
+
+SUSAN AND STEVE
+
+A closer angle.  They talk in quiet undertones.  Steve waits
+
+for her to speak first; she starts slowly, hesitantly, with
+
+difficulty:
+
+STEVE
+
+SUSAN
+
+This accusation is made lightly, in passing.  But Susan
+
+reacts to it, trying to interject:
+
+SUSAN
+
+After a pause, she says:
+
+SUSAN AND STEVE
+
+Steve flares up.
+
+Susan, pathetically despairing, fingers the handle of her
+
+coffee cup, which she has not touched.  The coat slips from
+
+her shoulders...
+
+ANOTHER ANGLE
+
+Steve stoops to pick it up, replaces it on her shoulders.
+
+Susan turns to him.  She is deflated, lacking all will power.
+
+STEVE
+
+He reacts vigorously, protesting:
+
+SUSAN
+
+A despairing cry:
+
+SUSAN AND STEVE
+
+It takes her a moment to recover.  When she does so, she
+
+gets up, leaving the counter.
+
+She moves towards the exit into the hallway; he follows.
+
+HALLWAY
+
+D'Angelo is waiting for them.  Silently they come up to join
+
+him, very depressed.  Susan looks towards D'Angelo, speaks a
+
+little pathetically:
+
+He walks a little way down the corridor, again leaving them
+
+alone.
+
+SUSAN AND STEVE
+
+She smiles at him, trying to smile, trying to make a joke.
+
+Steve steps to her quickly, kisses her.  Then he turns and
+
+swiftly walks off down the corridor without a backward
+
+glance.  He goes past D'Angelo, who walks quietly after him
+
+towards the exit in background.
+
+SUSAN
+
+She remains just in the attitude in which he left her.
+
+EXT. BRILL BUILDING - NIGHT
+
+Steve comes out of the door, pauses without looking back.
+
+D'Angelo comes up behind him.
+
+D'Angelo looks discreetly over his shoulder.
+
+SUSAN
+
+From D'Angelo's point of view.  She is still standing where
+
+Steve left her.
+
+RESUME STEVE AND D'ANGELO
+
+D'Angelo turns back to Steve.
+
+Steve, still without looking back, walks up the street;
+
+CAMERA TRACKING WITH THEM.
+
+Steve, his manner full of pain, stops.
+
+D'Angelo takes him firmly by the arm.
+
+Steve looks at him, knowing that he can never shake off the
+
+devoted Frank; he shrugs.  They walk past CAMERA.
+
+INT. HUNSECKER'S PENTHOUSE - NIGHT
+
+The heavy brass doors of the elevator slide open and the
+
+Elevator Man pulls open the grille.  Susan, still in the
+
+mood in which Steve left her, stands in the elevator for a
+
+moment before she realizes that she has reached the top
+
+floor.  As she walks out, the Elevator Man looks at her
+
+anxiously.  CAMERA PANS with Susan towards the door to the
+
+apartment.  Susan fumbles for her key.
+
+INT. HUNSECKER'S PENTHOUSE
+
+The apartment is dark as Susan enters.  She does not switch
+
+on the lights.  She walks through the shadows of the big
+
+room, which has a grim and menacing atmosphere.  She kicks
+
+off her shoes and, hugging the coat about her for warmth
+
+walks to the glass windows of the terrace.  After a moment
+
+she opens them and steps out.
+
+EXT. TERRACE - NIGHT
+
+Susan walks across the terrace.  At this height the wind is
+
+very strong.  CAMERA TRACKS with the girl, emphasizing the
+
+dizzying panorama of New York at night.  The girl's manner
+
+is strange; she moves as if under compulsion, a sleepwalker.
+
+When she reaches the stone parapet, she leans against it
+
+with her body slumped, still hugging the fur coat as if it
+
+were some protection against her misery.
+
+EXT. FROM THE TERRACE - NIGHT
+
+Vertically downward.  From Susan's point of view.  The stone
+
+sidewalks of Broadway are a terrifying distance below.
+
+SUSAN
+
+An angle, shooting sharply upwards against the night sky.
+
+Wind blows the girl's hair, as she looks fixedly downwards.
+
+Her face is blank, expressionless. (For a moment we may fear
+
+for her, afraid that she may have suicide in mind.) But
+
+presently she lifts her head looking towards the horizon...
+
+EXT. ROBARD'S CLUB - NIGHT
+
+CAMERA SHOOTS PAST the entrance to Robard's Club, framing
+
+the outline of the bridge in sky in background.  From inside
+
+comes the sound of music -- the Quintet.
+
+The taxi drives up; Sidney gets out; he glances at his
+
+wristwatch, looks around and then makes his way into the club.
+
+INT. ROBARD'S CLUB - NIGHT
+
+Steve Dallas' Quintet on the stand.  CAMERA FRAMES the group
+
+in foreground, SHOOTING towards the entrance way.
+
+INT. ROBARD'S CLUB - NIGHT
+
+Sidney has come in through the entrance.  He is taking off
+
+his overcoat.  He moves forward past the hat check room on
+
+the left, approaching the recess in which several music
+
+cases are stacked beside a coat rack on which the musicians'
+
+overcoats are hung.
+
+DETAIL
+
+As he hangs up his coat, Sidney identifies the other coat, a
+
+black and white check raglan which he (and we) saw Steve
+
+wearing when he visited Hunsecker at the TV Studio.
+
+SIDNEY
+
+A CLOSE SHOT.  The coat appears to have some significance
+
+for him; Sidney is under tension.
+
+A waiter, carrying a carton of beer cans, comes out of the
+
+doorway just behind Sidney, moving between him and the
+
+overcoat.  Thus interrupted, Sidney turns away.
+
+INT. ROBARD'S CLUB - NIGHT
+
+Robard is standing at the bar, surrounded by a group of his
+
+cronies.  Drink is flowing and there is a sentimental mood
+
+of celebration.
+
+As Sidney arrives at the bar, ordering a drink, FRANK
+
+D'ANGELO is seen coming from the interior of the club where
+
+Dallas and the Quintet can be seen playing; D'Angelo accosts
+
+Robard:
+
+REVERSE ANGLE
+
+CAMERA shoots past D'Angelo and Robard in f.g. towards
+
+Sidney, who overhears:
+
+In b.g., Sidney sets down his drink, reacting to this
+
+information.  Robard clamps D'Angelo on the shoulder,
+
+reassuring him with warm emphasis:
+
+SIDNEY
+
+Sidney, thinking rapidly, leaves the bar, moving
+
+unobtrusively but purposefully towards a telephone booth.
+
+He enters and closes the door.
+
+PHONE BOOTH
+
+A CLOSER ANGLE.  Shooting through the glass panel we see
+
+Sidney dialing.  His manner is urgent.
+
+EXT. ROBARD'S CLUB - NIGHT
+
+A long shot of the club exterior.  A different musical
+
+number is now being played in the interior. (GOODBYE BABY).
+
+A black car comes swiftly under the bridge, turns into the
+
+little square opposite the club, braking sharply.
+
+CLOSER ANGLE
+
+As the car comes to a stop, CAMERA shoots across the hood
+
+onto the windshield where we see the insignia: POLICE.
+
+The occupants of the car are not visible.
+
+INT/EXT. ROBARD'S CLUB
+
+Sidney lingers near the doorway of the club.  He is looking
+
+across the square towards the car which can be seen in b.g.
+
+Now he turns and walks towards the coat rack, CAMERA tracking
+
+with him.  He takes his own coat and, as he thrusts his arm
+
+into the sleeve, contrives neatly to slip some unseen object
+
+into the pocket of Steve's overcoat; CAMERA notes the
+
+gesture, but only very briefly.  Overscene a voice addresses
+
+Sidney:
+
+SIDNEY
+
+A CLOSE UP.  As he turns in swift apprehension, we note the
+
+moment of panic in his face.
+
+REVERSE ANGLE
+
+CAMERA shoots past Sidney in foreground towards D'Angelo who
+
+advances on Sidney.  D'Angelo's manner is unfriendly; for an
+
+instant we feel, like Sidney, that D'Angelo may have seen
+
+Sidney tampering with Steve's coat, but then we are reassured
+
+as D'Angelo, deliberately using Sidney's surname, says:
+
+REVERSE ANGLE
+
+Shooting across D'Angelo onto Sidney, who now relaxes, his
+
+fears ungrounded.
+
+SIDNEY
+
+As D'Angelo moves away again Sidney looks after him.  Once
+
+more his face goes tense. (He asks himself, does this
+
+development - which he himself anticipated - change the
+
+situation?) He turns away, moving out of shot.
+
+ANOTHER ANGLE
+
+CAMERA moves with Sidney as he walks towards the doorway.
+
+There he hesitates again; he looks back into the club.
+
+DALLAS
+
+From Sidney's viewpoint.  A LONG SHOT of Steve on the
+
+bandstand.  CAMERA PANS deliberately towards the coatrack in
+
+f.g.  A group of newly arrived musicians walk into the shot,
+
+setting down their instrument cases and starting to hang up
+
+their coats. (Clearly, Sidney could not now return to the
+
+coat rack - even if he decided that he did want to undo his
+
+handiwork.)
+
+RESUME SIDNEY
+
+CAMERA, shooting out across the square, frames Sidney in f.g.
+
+Facing the inevitable, Sidney turns away, walks across the
+
+sidewalk.  On the other side of the square the headlamps of
+
+the car blink twice.  Sidney walks towards it.
+
+POLICE CAR
+
+A big man gets out of the seat next to the driver.  As he
+
+comes round the hood of the car, the headlamps of a passing
+
+truck illuminate him, identifying HARRY KELLO.  CAMERA PANS
+
+as he walks to meet Sidney.
+
+CLOSER ANGLE
+
+Kello pauses as Sidney comes up to him, asks affably:
+
+They wait for a moment, listening to the sound of the music
+
+in the distance.  It is a blues number (GOODBYE BABY) Kello
+
+hums nonchalantly; Sidney glances at him with irritation,
+
+finding something gruesome in his relaxed manner.
+
+INT. POLICE CAR
+
+There are two plainclothes policemen inside, one at the
+
+wheel, the other in the back seat.  The latter leans forward
+
+to ask the former:
+
+Murph's tone shows obvious repugnance.  The 1st Policeman
+
+broods for a moment; he adds in a quiet, but viciously
+
+resentful manner:
+
+RESUME KELLO AND SIDNEY
+
+Sidney, increasingly uncomfortable, turns to Kello.
+
+To Kello this is a great joke.  He laughs, enjoying Sidney's
+
+uneasiness.  He begins to "cat and mouse" Sidney.
+
+Sidney, annoyed at this sarcasm, moves past Kello, not
+
+deigning to respond.  As he goes by, Kello grasps him
+
+forcibly by the arm.
+
+CAMERA HAS PANNED to SHOOT towards the car out of which
+
+emerges a second detective.
+
+Kello, holding Sidney, turns towards the second detective in
+
+background.
+
+Sidney jerks his arm away, rapidly retreats a few yards, a
+
+safe distance from Kello.  CAMERA PANS with him to the
+
+bottom of the steps.
+
+ANOTHER ANGLE
+
+Sidney in foreground, Kello and Murph beyond.  Kello laughs;
+
+but obviously he would like to be nearer to Sidney.  Perhaps
+
+to detain Sidney, Kello drawls:
+
+KELLO
+
+He moves forward a little.
+
+SIDNEY
+
+He turns swiftly and goes up the stairs out of Kello's reach.
+
+ANOTHER ANGLE
+
+From half-way up the stairs.  Sidney comes up the steps two
+
+at a time.  Kello and Murphy are seen beyond.
+
+FROM THE BRIDGE
+
+Sidney reaches the top.  He comes along the pedestrian walk
+
+up to CAMERA, slowing down he turns across the rail and
+
+looks down towards the square.  CAMERA MOVES to take in the
+
+scene in WIDE ANGLE: Sidney in foreground, the police car
+
+and detectives below, the entrance to Robard's across the
+
+square.  Sidney waits.  In the distance we can hear the
+
+music of Dallas' last number coming to an end.
+
+INT. ROBARD'S CLUB
+
+The last bars of the number.  Enthusiastic applause.
+
+STEVE
+
+He responds to the ovation, nicely but a little wearily.  He
+
+gets down off the stand.  There is too much noise to hear
+
+his parting words to his fellow musicians, but it is clear
+
+that he is urging them to stay without him.  He walks off
+
+towards the entrance to the club.
+
+D'ANGELO
+
+D'Angelo leaves the bar, in search of Steve.  He sees...
+
+INT/EXT. ROBARD'S CLUB - NIGHT
+
+Steve is putting his guitar away in the case, collecting his
+
+overcoat.  In this gesture he is arrested by the sound of
+
+D'Angelo's voice over scene.
+
+Steve, mildly startled, looks up.
+
+REVERSE ANGLE
+
+Shooting into the club.  D'Angelo comes forward from the bar.
+
+He is a little drunk, a little emotional.  He waddles toward
+
+Steve, then takes the white carnation out of his buttonhole
+
+and puts it in the buttonhole of Steve's coat, saying:
+
+RESUME ROBARD'S CLUB
+
+Steve is touched.
+
+He picks up his guitar case and makes for the door.  D'Angelo
+
+goes a few paces with him, CAMERA TRACKING.  Then it moves
+
+past D'Angelo, following Steve out onto the sidewalk, where
+
+he stands under the light of the club framed against the
+
+dark background of the square.
+
+FROM THE BRIDGE
+
+CAMERA PANS from the small figure of Steve to include Sidney
+
+big in foreground.  Below him Kello and Murph turn towards
+
+the club.
+
+KELLO
+
+CLOSER ANGLE downward from Sidney's viewpoint.  Kello turns
+
+deliberately to look at the bridge above.
+
+RESUME BRIDGE
+
+Sidney sees Kello's look; he nods deliberately.  Below him
+
+we see Kello and Murphy move swiftly to get into the car.
+
+Sidney, as if shrinking from a sight from which he doesn't
+
+wish to witness, draws back from the balustrade.  He turns
+
+and begins to walk towards CAMERA.
+
+POLICE CAR
+
+A LOW ANGLE SHOOTING upwards at the car, the stairs to the
+
+bridge in background.  As the doors of the car slam, it
+
+starts to move forward and, abruptly, its headlamps are
+
+switched on, glaring into the lens.
+
+EXT. ROBARD'S CLUB - NIGHT
+
+Steve, concerned only with his only melancholy thoughts,
+
+walks down the sidewalk under the bridge.  The car headlamps
+
+illuminate him in their glare as they move across him.
+
+Steve, without undue, interest, glances back but continues
+
+on his way.
+
+CAMERA SHOOTS eastward towards the silhouette of the bridge.
+
+The Police Car turns as it comes out of the square under the
+
+bridge towards CAMERA.  It moves slowly; again its headlamps
+
+flare into the lens.  CAMERA PULLING BACK includes Steve in
+
+foreground.  Behind him the Police Car slows down at the
+
+curb; it barely stops as Kello slips out of the off-side
+
+door; then the car moves forward along the curb leaving him
+
+behind Steve.  As the car goes out of picture past CAMERA,
+
+Kello strolls across the sidewalk, following Steve.  Steve,
+
+looking past CAMERA, notices...
+
+REVERSE ANGLE
+
+CAMERA SHOOTS toward 2nd Avenue.  The Police Car slows down
+
+again at the curb and Murph gets out of it, turning to face
+
+Steve.
+
+RESUME
+
+Steve, seeing the man ahead of him, notes something slightly
+
+menacing in his manner and slows down in his walk.  Then,
+
+instinctively, he realizes that there is a second man behind
+
+him, turns to look at Kello.  Kello approaches.
+
+CAMERA MOVES CLOSER and CLOSER on Steve.  In his face we see
+
+a growing sense of something wrong...
+
+INT. ROBARD'S CLUB
+
+A JUMP CUT.  Loud noise, Chico Hamilton on the drums...
+
+INT. BAR
+
+Another jump cut in the sound track.  Silence.  It is an
+
+empty saloon, occupied only by a solitary drinker at one end
+
+of the long bar, nursing a beer, and by the bartender who is
+
+making out a dope sheet.  Sidney enters, strides to the bar
+
+and throws down a jangling half dollar.
+
+While the change is made, Sidney stands with cocked head,
+
+listening in reality or imagination to what is happening
+
+down the street.  As the barman supplies the change, Sidney
+
+goes to the juke box and loads it with nickels saying over
+
+his shoulder:
+
+Sidney puts both hands on the juke box as if leaning on it.
+
+With a click, drop and whirl, the music box comes to life;
+
+music blares out.  Pausing a moment, Sidney turns back
+
+toward the bar.
+
+SIDNEY
+
+He reaches for his drink, downs it.  He is shivering.
+
+INT. ROBARD'S CLUB - NIGHT
+
+Once more, an abrupt sound transition: the jam session at
+
+full blast.  CAMERA FRAMES the musicians in foreground, but
+
+moves away from them towards the entrance in background.
+
+Near the doorway there is some activity; an attendant
+
+beckons to Robard who is drinking with D'Angelo.  Robard
+
+moves toward the entrance.
+
+INT/EXT. ROBARD'S CLUB - NIGHT
+
+CAMERA STARTS on D'Angelo at the bar.  He looks off after
+
+Robard.  There is little concern in his face, but as he
+
+watches, curiosity grows.  He strolls out after the
+
+proprietor.  CAMERA TRACKS with him as D'Angelo comes to
+
+join the little mob of two or three people on the sidewalk.
+
+PANNING, THE CAMERA now SHOOTS TOWARDS 2nd Avenue.  Beyond
+
+the bridge we can see the Police Car.  Kello and Murphy are
+
+beside one of the open doors (into which Steve has been
+
+carried). Murphy turns back, walks a few paces across the
+
+sidewalk and picks up Steve's music case, which he carries
+
+back to the Squad Car.  He gets in and the car drives off.
+
+REVERSE ANGLE
+
+D'Angelo's face shows a bewildered astonishment and dismay
+
+as he turns back to the couple of people who are talking to
+
+Robard.  D'Angelo is a little befuddled with drink.  He
+
+pushes towards Robard.
+
+D'ANGELO
+
+He turns to look back towards the direction in which the
+
+Police Car has departed.  He seems unable to comprehend what
+
+he has heard; but a slow and terrible fear is dawning on
+
+him...
+
+Susan opens the door to discover Frank D'Angelo in lobby.
+
+He speaks at once:
+
+D'Angelo has no wish to become involved with the girl; he
+
+doesn't reply.
+
+D'Angelo backs away, shaking his head.
+
+He turns back to the elevator.  Susan closes the door, but
+
+slowly; she is watching D'Angelo.  CAMERA MOVES WITH D'Angelo
+
+as he goes to the bell of the elevator and rings it.  He
+
+remains in this position, waiting for the elevator, but now
+
+(believing himself to be alone) he leans his head against
+
+the wall and begins to weep, quietly.  Surprisingly, Susan
+
+is abruptly at his elbow, she seizes him forcibly by the
+
+arm, demanding:
+
+D'Angelo, with his face contorted in grief and bitterness,
+
+can no longer refuse to answer her.
+
+Susan is becoming hysterical.
+
+D'Angelo recovers his self control.  There is force and
+
+authority in his voice as he insists:
+
+Susan is sobered by his seriousness.
+
+INT. HALLWAY - HUNSECKER'S PENTHOUSE
+
+The elevator door opens and Sidney steps out: He crosses to
+
+the door of the apartment, pushes the button.  The bell is
+
+heard ringing inside.  While he waits, Sidney produces a
+
+handkerchief, dabs his face, straightens his tie; clearly he
+
+is trying to sober up.  He goes to the bell push to ring
+
+again.  Now he notices something that had escaped him
+
+before: the door is not quite shut.  He pushes it open.
+
+INT. HUNSECKER'S PENTHOUSE
+
+From inside.  Sidney hesitates, enters tentatively.
+
+LONGER ANGLE
+
+The apartment appears empty.  Only one light is lit; the
+
+place is eerie.
+
+RESUME SIDNEY
+
+Sidney closes the door, goes into the main living room,
+
+CAMERA pans with him.  Something chills him, he calls
+
+softly, "J.J.?"
+
+ANOTHER ANGLE
+
+Sidney walks towards the study, there is nobody there either.
+
+He goes back towards the stairs to the upper floor; in doing
+
+so he repasses the door of Susan's bedroom, sees that it is
+
+half open, goes to look in.
+
+INT. BEDROOM
+
+From Sidney's viewpoint.  The bed has been slept in but is
+
+unoccupied.  The room is empty.
+
+On the seat at the foot of the bed is a drawer that has been
+
+pulled out of the wardrobe; it contains a collection of
+
+miscellaneous objects, a snapshot album, letters, souvenirs,
+
+disarranged as if someone had been looking at them.
+
+SIDNEY
+
+He looks at the empty room, disturbed.
+
+RESUME BEDROOM
+
+The curtains of the window onto the terrace are blowing: the
+
+window is open.  Sidney walks into shot form behind CAMERA.
+
+He calls:
+
+Susan steps into the room from the terrace, confronting
+
+Sidney.  She is dressed, wearing the fur coat over a skirt
+
+and blouse.  Her manner is very strange; the effect of the
+
+drugs, no doubt.
+
+RESUME SIDNEY
+
+Sidney is very uncomfortable in her presence; Susan is the
+
+last person he wants to have conversation with.
+
+He retreats across the threshold of the bedroom, into the
+
+outer room.
+
+RESUME SUSAN AND SIDNEY
+
+She walks forwards.
+
+INT. LIVING ROOM
+
+Sidney stands back to let her pass.
+
+Susan comes out of the bedroom, walks past CAMERA.
+
+He studies the girl, says nothing.
+
+LONGER ANGLE
+
+She walks listlessly across the room, moving like a
+
+somnambulist.
+
+RESUME SIDNEY
+
+He watches her cautiously, not sure of how to deal with her.
+
+SUSAN
+
+A CLOSE UP.  Susan's expression is blank; her eyes are
+
+unseeing.
+
+There is a tone of great despair in her voice.  Presently,
+
+she recovers, CAMERA eases back to include Sidney beyond.
+
+She glances at him.
+
+RESUME SIDNEY
+
+Sidney looks at her, tensely.  Her voice is so calm, so
+
+certain that Sidney finds it difficult to play-act innocence.
+
+He protests a little too loudly:
+
+RESUME SUSAN AND SIDNEY
+
+Susan interrupts, with a simplicity which is damaging.
+
+LONGER ANGLE
+
+Sidney decides that it is wiser not to argue.  He assumes a
+
+tolerant sympathy.  He moves towards her.
+
+Now she turns to him.
+
+She walks past him, still aimlessly wandering about the
+
+room; then she turns back, indicates herself.
+
+She studies Sidney.
+
+REVERSE ANGLE
+
+Shaken, Sidney decides to ridicule the implied threat.
+
+He walks past CAMERA.
+
+RESUME SUSAN
+
+Sidney walks into shot, going past her on his way to the door.
+
+Susan, in foreground, remains quite still, says nothing.  In
+
+background, Sidney slows down, his confidence failing him;
+
+he looks back at her.
+
+SIDNEY
+
+He can't go.  Probably, she's bluffing.  But he can't be
+
+certain.  He is suddenly angry.
+
+RESUME SUSAN AND SIDNEY
+
+He strides back towards her.
+
+She moves past him.  He grips her, turning her around.
+
+CAMERA HOLDS Sidney and Susan in foreground.  But it is now
+
+shooting towards the door of the apartment.  A PANNING
+
+movement has included a figure at the other end of the big
+
+room...
+
+HUNSECKER
+
+He is taking off his overcoat near the door of the apartment.
+
+We don't know how long he has been there, how much he has
+
+overheard.  Without appearing to be consciously spying,
+
+Hunsecker is listening to Sidney's voice over scene.
+
+CAMERA PANS round with Hunsecker who strolls across the
+
+room, making his presence known.  Sidney breaks off, drops
+
+his hands, releasing the girl.  Susan turns towards Hunsecker.
+
+Hunsecker lays his briefcase and papers on the table.  He
+
+addresses Susan without looking at her.
+
+Susan makes no move.  Hunsecker glances at her, sees Sidney
+
+but treats Sidney as if he were invisible.
+
+Susan walks towards Hunsecker.
+
+Sidney moves forward also.
+
+Hunsecker still ignores his existence, he walks past Susan
+
+carrying his papers to the desk.  Susan turns, watching him.
+
+Hunsecker studies the item in the paper.
+
+SUSAN
+
+She is staring at her brother.  Suddenly, she is unable to
+
+suffer his authoritative air; she goes to him; he ignores
+
+her...
+
+HUNSECKER AND SUSAN
+
+Childishly, she snatches the paper from his hand, throws it
+
+to the floor.  He looks at her.  Patiently, as with a
+
+hysterical infant, he stoops, recovers the paper.
+
+SUSAN
+
+Her head comes up sharply at the insult.
+
+HUNSECKER AND SUSAN AND SIDNEY
+
+Hunsecker glances at Sidney, clearly reminding them of the
+
+compromising situation in which they were found.  Sidney
+
+moves to answer.
+
+Hunsecker's rising tide of brutality is having some effect
+
+on Susan, and Sidney, fearing for her, tries to intervene.
+
+Susan is staring sightlessly at the floor near Hunsecker's
+
+feet.  After a moment she turns and moves to the door of her
+
+bedroom; her walk is a little unsteady; she goes inside,
+
+closes the door in Hunsecker's face.
+
+INT. BEDROOM
+
+With the door closed, she leans against it as if afraid of
+
+falling.  She gropes for the door handle, finds the key and
+
+turns it.
+
+INT. LIVING ROOM - HUNSECKER AND SIDNEY
+
+Hunsecker is studying the closed door.
+
+SIDNEY
+
+Sidney seems not to hear this remark.  He is concentrated on
+
+the door; he moves hesitantly towards it, apprehensive.
+
+CAMERA includes Hunsecker in background.
+
+Much more concerned with his anxiety for Susan, Sidney
+
+interrupts.
+
+Sidney's conviction is impressive.  But Hunsecker is
+
+unwilling to admit the danger, he continues.
+
+Seeing that Hunsecker is not taking his advice, Sidney
+
+strides swiftly to the door of Susan's bedroom.  He knocks
+
+on it.
+
+INT. BEDROOM
+
+SHOOTING TOWARDS the door.  Susan is sitting on the bed in
+
+foreground.  In a methodical, hypnotic way, she is destroying
+
+the contents of the drawer, tearing letters into small
+
+fragments.  Sidney's voice is heard outside: "Susie!" Susan
+
+appears not to hear it; CAMERA TRACKS closer to her.
+
+Sidney's voice is heard again, louder: "Susie!" Susan turns
+
+sharply towards the door.
+
+SUSAN
+
+A CLOSE UP.  Susan rises to her feet, staring at the door.
+
+She begins to back away from it.
+
+RESUME REVERSE ANGLE
+
+CAMERA PULLS BACK as Susan glances down at the record player
+
+beside her.  She turns the knob.  We hear the clatter of a
+
+record dropping and music begins.  The tune is "The Sage."
+
+INT. LIVING ROOM
+
+CLOSE SHOT of Sidney.  He hears the music starting.
+
+HUNSECKER
+
+Hunsecker has come forward.  But now, as he listens to the
+
+gramaphone record playing in the bedroom, Hunsecker relaxes,
+
+assuming that this is a sign that Sidney's suspicions are
+
+unfounded.
+
+CAMERA TRACKS to include Sidney.  He does not share
+
+Hunsecker's confidence; he knocks again, calling:
+
+CAMERA TRACKS closer to Sidney.  As he tries the doorknob,
+
+CAMERA TILTS DOWN.  Sidney's hand tries the doorknob, finds
+
+it locked, shakes it forcefully.
+
+DETAIL
+
+From inside the bedroom.  We see the doorknob rattled.
+
+RESUME SUSAN
+
+A CLOSE UP.  She realizes that Sidney means to insist.  She
+
+turns away towards the blowing curtains in background.
+
+RESUME LIVING ROOM
+
+A DETAIL SHOT.  Sidney's hand is still shaking the doorknob.
+
+He releases it.  CAMERA PULLS BACK to a TWO SHOT of Sidney
+
+and Hunsecker as Sidney retreats from the door in
+
+apprehension.  Now Hunsecker has begun to share Sidney's
+
+anxiety.  He moves to the door, knocks and then pounds on it.
+
+SUSAN
+
+A CLOSE UP.  She comes forward past the blowing curtains.
+
+The wind whips at her hair.  Over scene we hear the rumble
+
+of the traffic on Broadway far below.
+
+RESUME HUNSECKER
+
+He is pounding on the door again.  CAMERA makes a quick pan
+
+to Sidney who, in a split second, realizes that Susan may
+
+have gone out on the balcony.  He turns, dashes towards the
+
+study to look out on the terrace.
+
+RESUME SUSAN
+
+She has now started to climb onto the parapet.  Sidney leaps
+
+into shot, dragging her bodily off the parapet and out of
+
+shot.  We hear Susan cry out, a hysterical gasp.  CAMERA,
+
+looking through the windows of Susan's bedroom, sees the
+
+door fly open as Hunsecker bursts into the room.  He looks
+
+swiftly around, advances towards the open window.
+
+Exasperated by the sound of the gramaphone, he switches it
+
+off; he steps out onto the terrace.  CAMERA PANS with him as
+
+he turns to look back into the study where Susan's inanimate
+
+figure is sprawled on the floor, half across the low
+
+upholstered footstool.  Sidney, white and shaking, is
+
+standing over her.
+
+REVERSE ANGLE
+
+CAMERA at floor level.  Susan is framed in foreground.  The
+
+lower half of Sidney can be seen beside her.  Hunsecker is
+
+on the terrace in background.  Shocked, he moves quickly
+
+into the room.
+
+HUNSECKER
+
+A CLOSE UP.  He looks down at his sister.  He is badly
+
+shaken.  The sharp bite of terror produces a reaction of
+
+something akin to anger.  But he swiftly controls it.  He
+
+moves past CAMERA.
+
+REVERSE ANGLE
+
+Hunsecker stoops into shot.  Tenderly, he lifts the girl's
+
+body to get it into the arm chair.  Susan is quite lifeless,
+
+limp with the dead weight of a creature that has lost any
+
+instinct for self-preservation.  But as she feels her
+
+brother's arms, and as she recognizes who it is, she breaks
+
+out in hysteria.
+
+But Susan strikes at him, a vicious gesture of revulsion.
+
+Hunsecker lets her go.  She falls into the arm chair, her
+
+face hidden from him; she begins to sob.
+
+Hunsecker would like to comfort her, but he dare not touch
+
+her again for fear of inviting another rebuff.  He is deeply
+
+hurt and wounded.  Embarrassed that Sidney should watch this
+
+moment, Hunsecker rises.  To cover his emotion, he walks to
+
+the tray of drinks in background; he pours a brandy and
+
+comes back.  Stooping, he offers it to Susan.  Her only
+
+reaction is again to wrench herself away from him, facing
+
+the opposite direction.
+
+Hunsecker sets down the drink, stands up.
+
+Over scene the telephone rings.  It is ignored.  While
+
+Hunsecker looks down at the girl, helplessly, the telephone
+
+continues to ring.
+
+SUSAN
+
+A CLOSE UP.  It is she who first becomes aware of the
+
+telephone.  Her weeping has stopped now.  Slowly, she raises
+
+her head.  CAMERA EASES BACK to include Sidney beyond her;
+
+he notes this movement, seeing in it a revival of the girl's
+
+will to live; he is moved.
+
+ANOTHER ANGLE
+
+The telephone is framed in foreground, Susan beyond.  It
+
+continues to ring.  As Hunsecker crosses to his desk to pick
+
+up the instrument, CAMERA PULLS BACK.  Hunsecker speaks:
+
+RESUME SUSAN
+
+A CLOSE SHOT.  She raises her head higher, still weakly.  We
+
+see in her face a mixture of terror and hope.
+
+REVERSE ANGLE
+
+Hunsecker comes forward to set down the telephone in front
+
+of her, on the footstool.  Hunsecker and Sidney watch.  She
+
+reaches a hand, which is still trembling, picks up the
+
+receiver.  Her voice as she speaks to the instrument is
+
+barely audible.
+
+Presently, she hangs up.  When she becomes aware that
+
+Hunsecker and Sidney are waiting for an explanation, she
+
+tells them:
+
+HUNSECKER
+
+Hunsecker nods.  He already knows this.  Then:
+
+SUSAN
+
+She does not look at him, she lowers her eyes but answers
+
+with a nod.  And then, more positively:
+
+RESUME HUNSECKER
+
+He studies the girl.  His face has hardened.  He moves,
+
+beginning to pace. (And also beginning his 'manipulations'.)
+
+CAMERA FOLLOWS Hunsecker.  It now takes in Sidney who is
+
+standing beside him.  Sidney has begun to stare fixedly at
+
+Hunsecker. (He is now realizing that Hunsecker, although he
+
+has been faced with this demonstration of the girl's
+
+willingness to kill herself, has still learned nothing, is
+
+still continuing in the old pattern.)
+
+SIDNEY
+
+A CLOSE UP.  Revolted, Sidney breaks in:
+
+GROUP SHOT
+
+Hunsecker wheels on Sidney, bellowing:
+
+Sidney, with equal heat, spins round to Susan, crying out
+
+before he has time to check himself:
+
+SIDNEY
+
+Sidney has gone too far now to pull back.  Inevitably, he
+
+continues.  During the speech, CAMERA PULLS BACK to include
+
+Susan and then Hunsecker.
+
+During the latter part of the speech, Susan rises slowly to
+
+her feet, staring first at Sidney and then, with fearful
+
+significance, at her brother.  Hunsecker does not look at
+
+her; he is concentrated on Sidney.  Twice he has been about
+
+to demolish Sidney, but he now stops, A THOUGHT IN HIS HEAD.
+
+HUNSECKER
+
+He is perfectly controlled, smiling.
+
+Hunsecker pauses impressively.
+
+GROUP SHOT
+
+Framing Hunsecker in foreground, Susan and Sidney beyond.
+
+Susan listens to Hunsecker objectively, with a mounting
+
+sense of his diseased reasoning.
+
+SUSAN
+
+She is looking at Hunsecker.
+
+Slowly, Susan nods.
+
+REVERSE ANGLE
+
+SHOOTING ACROSS Susan onto Hunsecker.  Hunsecker turns away
+
+from her and walks to the telephone.  He picks it up and
+
+begins to speak.  While the scene continues, we hear his
+
+voice off screen, speaking to the phone, saying: "This is
+
+J.J. Hunsecker.  I want you to get a message through to
+
+Lieutenant Kello.  Ask him to ring me back.  It's urgent."
+
+Susan backs slowly away from Hunsecker.  Then she turns into
+
+CAMERA, which TRACKS with her and includes Sidney.  Susan
+
+looks at Sidney and then, ashamed, avoids his eye.  But
+
+Sidney comes nearer to her.  Susan is deeply distressed.
+
+She looks again at Sidney.  Deliberately, Sidney nods.
+
+Susan walks toward her bedroom.
+
+INT. BEDROOM
+
+Susan comes into the room, finding shelter from the
+
+revelation which has so appalled her.  Inexorably Sidney
+
+follows her.  He comes across the threshold, closes the door.
+
+A pause.  Sidney moves closer to her.
+
+There are some tears of pity in Susan's eyes.  Once more she
+
+moves away from Sidney.  Sidney senses that her compassion
+
+for Hunsecker might easily lead her once again to slip back
+
+into the trap.  He insists:
+
+Another pause.  Sidney again repeats:
+
+She moves away from Sidney, CAMERA following her.  After a
+
+moment, she answers:
+
+SIDNEY
+
+Sidney is moved, having done his solitary act of chivalry.
+
+To hide his feelings, he is harsh:
+
+CAMERA PULLS BACK to include Susan.  From the other room, we
+
+hear the telephone ring.  Sidney turns and goes quickly out.
+
+After a moment, Susan looks back at the door through which
+
+Sidney has disappeared.
+
+INT. LIVING ROOM
+
+Hunsecker is framed in foreground, speaking into the
+
+telephone.  Sidney is in background, outside the door of
+
+Susan's bedroom.  Hunsecker is fully aware of Sidney's
+
+presence, as he says:
+
+SIDNEY
+
+A CLOSE SHOT.  He watches Hunsecker with a curious detachment.
+
+Producing a cigarette, he lights it and then looks up
+
+towards Hunsecker.
+
+RESUME HUNSECKER AND SIDNEY
+
+Hunsecker framed in foreground, Sidney beyond.  Hunsecker
+
+has at the same time been tapping a cigarette on the desk.
+
+Sidney walks across to Hunsecker, offers the lighted match.
+
+HUNSECKER - REVERSE ANGLE
+
+As he accepts the light he continues speaking to the phone:
+
+RESUME HUNSECKER AND SIDNEY
+
+Sidney turns on his heel, walking out of the apartment.
+
+CAFE ON BROADWAY
+
+Kello is in a phone booth.
+
+Kello leans out of the booth into the cafe signaling through
+
+the window to the street outside where the squad car pulls
+
+ahead to a position ready for him outside the door.
+
+Kello hangs up.  Hurries out.  We see him get into the squad
+
+car which rapidly accelerates.
+
+INT. HUNSECKER'S LIVING ROOM
+
+Hunsecker has hung up.  He stares at the telephone for a
+
+moment.  Then he moves towards Susan's door, CAMERA TRACKING
+
+with him.  He comes to the threshold, looks at Susan who is
+
+standing in much the same position in which Sidney left her.
+
+SUSAN
+
+Unaware that her brother is watching her, she picks up the
+
+fur coat on the bed. (She is about to start packing her
+
+belongings.) She turns as she hears Hunsecker speak.
+
+REVERSE ANGLE
+
+SHOOTING ACROSS Susan, towards Hunsecker.  Hunsecker comes
+
+into the room.
+
+Susan turns squarely to face him.
+
+RESUME SUSAN
+
+She braces herself to tell him:
+
+RESUME REVERSE ANGLE
+
+He does not sense any danger in the seriousness of her tone
+
+(or, if he does, refuses to recognize it.)
+
+Without waiting for a response, Hunsecker goes out, closing
+
+the door.  Susan stares at it for a moment.  Then she moves
+
+to get a small suitcase which she lays on the bed.
+
+TERRACE
+
+Hunsecker opens the windows onto the terrace, comes out and
+
+looks over the parapet, (looking to see how far Sidney has
+
+got, hoping to see Kello's squad car.)
+
+RESUME SUSAN
+
+She completes her simple packing, closing the suitcase.
+
+With a gesture that is obviously automatic, she starts to
+
+put on the fur coat; then she halts, realizing what she is
+
+doing.  She pauses; CAMERA MOVES CLOSER.  Now, deliberately
+
+she throws the coat back on the bed.  CAMERA PANS down with
+
+the gesture.  She looks down at the coat, the discarded
+
+symbol of her dependence upon her brother.  CAMERA PULLS
+
+BACK again as she takes a quick look round, then goes to
+
+take a duffle coat from the wardrobe.  She throws this over
+
+her arm, picks up the suitcase, goes to the door.
+
+INT. LIVING ROOM
+
+Susan comes out of the door.  She moves with a sober
+
+determination, expecting to find Hunsecker in the room.
+
+CAMERA TRACKS with her.  But then she realizes that Hunsecker
+
+has gone out on the terrace.  She takes a step or two
+
+towards him, then pauses.
+
+HUNSECKER
+
+From Susan's viewpoint, SHOOTING through the big glass
+
+windows.  Hunsecker is at the parapet.  He is impatiently
+
+looking down into Broadway.
+
+SUSAN
+
+A CLOSE UP.  She now realizes that there is no point in
+
+saying goodbye to him: she has already told him that she is
+
+leaving and, if she becomes involved in further argument
+
+with him, it can do no good.  Yet there is some emotion on
+
+her face as she takes a last look at her brother; she turns
+
+away.
+
+HUNSECKER
+
+Framing him in foreground at the parapet.  Susan can be seen
+
+through the windows before she disappears to the door.
+
+Hunsecker reacts as he catches sight of a vehicle on Broadway
+
+below...
+
+EXT. BROADWAY
+
+The squad car comes down Broadway at speed.
+
+EXT. DUFFY'S SQUARE
+
+Sidney is walking across the square.  The squad car appears
+
+in foreground; it pauses hardly at all as Kello slips out of
+
+it, and starts to move after Sidney.  Then the car
+
+accelerates round Duffy Square to cut Sidney off on the
+
+other side.
+
+SIDNEY
+
+Sidney comes up towards CAMERA.  Seeing something ahead, he
+
+halts...
+
+SQUAD CAR
+
+From Sidney's viewpoint.  The car breaks to a stop.  It's
+
+door opens and a detective gets out slowly.  It is Phil.
+
+RESUME SIDNEY
+
+Sidney is framed in foreground, the squad car beyond.
+
+Sidney knows what this means.  He starts to speak before he
+
+turns to look over his shoulder.
+
+REVERSE ANGLE
+
+Kello, moving silently up behind Sidney, slows down, amused
+
+at Sidney's prescience.
+
+Kello's manner is almost affectionate.  He shakes his head,
+
+admonishing Sidney.
+
+REVERSE ANGLE
+
+SHOOTING ACROSS Kello onto Sidney.  Sidney's smile is tired.
+
+Sidney turns away to look back towards Phil.  Then, taking
+
+Kello totally by surprise, he wheels, striking the cop
+
+viciously across the mouth.
+
+KELLO
+
+Kello's head jerks back.  Recovering at once, he guffaws,
+
+lurches into CAMERA with a sudden vicious movement.  There
+
+is a sharp guttural cry over scene.
+
+LONGER ANGLE
+
+Phil runs forward towards the figures of Sidney and Kello
+
+seen beyond him.  In doing so, he blocks the view so that we
+
+do not clearly see the violence with which Kello strikes
+
+Sidney down.  Phil, in foreground, is seen to relax.  When
+
+he moves aside, clearing the view, Sidney is writhing on the
+
+ground at Kello's feet.
+
+CLOSER ANGLE
+
+Kello wipes his knuckles on his handkerchief.  He signals to
+
+Phil to help lift the body at his feet.  Phil enters shot
+
+and they raise Sidney, half carrying, half dragging him out
+
+of shot.
+
+LONG SHOT
+
+The cops carry the figure of Sidney Falco across Duffy
+
+Square; they bundle him into the police car.  The pigeons in
+
+the square, circle.
+
+HUNSECKER'S TERRACE
+
+CAMERA LOOKS down towards Duffy Square in the distance.  The
+
+police car can be seen moving off, circling the square and
+
+disappearing southward on Broadway.  CAMERA PULLS BACK to
+
+include Hunsecker in foreground.
+
+HUNSECKER
+
+A CLOSE SHOT, SHOOTING sharply upward at Hunsecker.  He
+
+looks down, quiet impassively, and there is a slightly
+
+insane grandeur, a paranoiac superiority in the way that he
+
+turns back, dismissing Sidney from his thoughts.
+
+INT. LIVING ROOM
+
+CAMERA SHOOTS towards the closed door of Susan's room.
+
+Hunsecker walks into the shot, stops before the door.  He
+
+begins to take off his tie and unbutton his shirt, clearly
+
+preparing to go to bed.  As an after-thought, he comes back
+
+to the door, addresses it:
+
+CAMERA MOVES CLOSER.  It is at a low level, still emphasizing
+
+the man's dignity.  He strolls for a few paces.
+
+CAMERA has now moved so that we are shooting past Hunsecker
+
+onto Susan's door.  He gets no answer except silence.
+
+HUNSECKER
+
+A CLOSE SHOT, REVERSE ANGLE.  We now see in his face a
+
+flicker of fear.  With what is clearly an effort, he
+
+reassumes a confident manner.
+
+Still no answer from inside the bedroom.  Hunsecker's forced
+
+expression remains unnaturally fixed upon his face.  He
+
+calls out:
+
+INT. BEDROOM
+
+The room is quite empty.  CAMERA SHOOTS across the bed
+
+towards the door in background.  Susan's discarded fur coat
+
+lies on the bed.  And the doors of the wardrobe are open.
+
+Hunsecker's voice can be heard continuing over scene:
+
+A pause.  Then, very tentatively, the bedroom door is opened.
+
+Now he opens the door and comes in.
+
+HUNSECKER
+
+A BIG CLOSE UP.  The sight of the empty room freezes his
+
+face for a moment.  His eyes look round.
+
+INT. BEDROOM
+
+From Hunsecker's viewpoint.  A PANNING SHOT, from the open
+
+door of the cupboard to the fur coat.  CAMERA PULLS BACK to
+
+include Hunsecker.  He steps to the bed, picks up the coat.
+
+REVERSE ANGLE
+
+There is a dazed, incredulous look on his face.  But, as he
+
+glances over his shoulder, CAMERA ZOOMS PAST him towards a
+
+little door in the wall behind him: It is ajar, showing a
+
+couple of inches of light.
+
+RESUME HUNSECKER
+
+Once again Hunsecker reassures himself that Susan must be
+
+behind the door.  But his voice is even more false as he
+
+declares:
+
+CAMERA NOW MOVES CLOSER and closer to Hunsecker.  The ANGLE
+
+is a weird one, tilting grotesquely upward.
+
+Hunsecker, his fists clenching fiercely at the fur coat,
+
+walks towards the door.  CAMERA PANS with him.  He stands a
+
+few inches from the narrow opening.  He seems about to push
+
+the door open further, but is afraid to do so.
+
+INT. BATHROOM
+
+CAMERA SHOOTS ACROSS the bathtub, showing enough of the tiny
+
+room to make it clear that it, too, is completely empty.
+
+Through the slit in the door, we can see only a glimpse of
+
+the movement of Hunsecker outside.  Hunsecker's voice
+
+continues:
+
+INT. BEDROOM
+
+A DOWNWARD ANGLE, SHOOTING past Hunsecker to the door.  As
+
+Hunsecker retreats from the door, he is still clutching the
+
+fur coat.  He stands alone in the middle of the room and his
+
+gestures are a little wild.  CAMERA rises higher to shoot
+
+down at Hunsecker, alone in the little room.
+
+With an increasingly eccentric manner, Hunsecker strides out
+
+of the bedroom door into the living room again.
+
+INT. LIVING ROOM
+
+A similar ANGLE, SHOOTING down on Hunsecker as he comes out
+
+of the bedroom.  But as he starts to roam the vast room,
+
+CAMERA rises higher still, pulling backwards and upwards to
+
+a LONG SHOT which holds the entirety of the big room in all
+
+its ugliness.
+
+Hunsecker is now addressing the whole of the apartment, no
+
+longer pretending even to himself, that the girl is still
+
+listening.  He moves off towards the windows to the terrace
+
+where the curtains are now blowing in the morning wind.  He
+
+goes out towards the terrace, his voice becoming more
+
+distant - a man shouting empty nonsense, addressing no one.
+
+EXT. BROADWAY
+
+CAMERA SHOOTS STEEPLY UP towards the top of the Brill Bldg.
+
+(At this angle Hunsecker's terrace will not be visible but
+
+its position is established in relationship to the Budweiser
+
+sign.) CAMERA PANS DOWN to pick up the figure of Susan
+
+Hunsecker as she pushes her way out of the brass doors onto
+
+Broadway.
+
+CLOSER ANGLE
+
+Susan pauses on the sidewalk.  She stays there for a moment.
+
+She breathes in the fresh morning air, looking around with
+
+the expression of someone who sees the world with new eyes.
+
+Then she starts up Broadway - away from the Times Square
+
+area.  The girl's step has a purpose in it; she has
+
+confidence and courage.  Music for the end titles is quiet,
+
+simple and lyrical.
+

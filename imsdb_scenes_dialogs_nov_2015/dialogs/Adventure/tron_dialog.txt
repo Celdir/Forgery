@@ -1,0 +1,5192 @@
+<b><!--
+
+</b>if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+T R O N
+
+Digitized by Guy G. Gordon
+
+Special thanks to Bryan Duarte for the physical copy of the script
+
+T R O N
+
+Based on the screenplay by
+
+Steven Lisberger and Bonnie MacBird
+
+Prod. 0222
+
+Fourth Draft Screenplay by
+
+Charlie Haas
+
+April 6, 1981
+
+1    THE ELECTRONIC WORLD                                         1
+
+VOICE
+
+As astonishing advances in computer
+
+science are made, artificial intelligence
+
+programs are being designed to assist
+
+us in every area of life...
+
+VOICE (CONT.)
+
+In a world-wide network of electronics,
+
+they travel through miles of circuitry
+
+at the speed of light. We created them to
+
+calculate and research, to help us design
+
+and heal and think. With all that they can
+
+do, are they only electrical impulses...
+
+or are they a new form of life?
+
+T R O N ! !
+
+CUT TO:
+
+2    CYCLE GAME                                                   2
+
+CUT TO:
+
+3    LONG SHOT                                                    3
+
+CUT TO:
+
+4    REAL WORLD                                                   4
+
+5    THE REAL WORLD                                               5
+
+6    ELECTRONIC WORLD                                             6
+
+7    REAL WORLD                                                   7
+
+8/9  OMITTED                                                      8/9
+
+10   ELECTRONIC WORLD                                             10
+
+11   REAL WORLD                                                   11
+
+12   OMITTED                                                      12
+
+13   ELECTRONIC WORLD                                             13
+
+14   ANGLE ON ONE OF THE WARRIORS                                 14
+
+15   CLOSE UP - FACE OF THE OPPONENT                              15
+
+16   SARK                                                         16
+
+16A  THE SMALLER WARRIOR                                          16A
+
+17   SARK                                                         17
+
+"WINNER:  BLUE - SARK!!"
+
+BOY'S VOICE
+
+(distant, echoing)
+
+Aagh! God, Lisa, I almost had you that
+
+time.
+
+DISSOLVE TO:
+
+18   REAL WORLD - THE VIDEO ARCADE                                18
+
+BOY
+
+Lemme play you again?
+
+TEENAGE GIRL
+
+(holds out a hand)
+
+Yeah, if you've got another quarter.
+
+DISSOLVE TO:
+
+19  ELECTRONIC WORLD                                             19
+
+WARRIOR 1
+
+Sark, my man! You are hot!
+
+WARRIOR 2
+
+That knuckleball gets 'em every
+
+time, boy...
+
+CUT TO:
+
+20   THE BRIDGE OF THE AIRCRAFT CARRIER                           20
+
+21   INT. CYLINDER - SARK'S POV                                   21
+
+VOICE (MCP)
+
+You're getting brutal, Sark.
+
+Brutal and needlessly sadistic.
+
+SARK
+
+Thank. you, Master Control.
+
+MCP
+
+We might be capturing some military
+
+programs soon... that interest you?
+
+SARK
+
+Sure, I'd love to go up against some of these
+
+guys ... be a nice break from these
+
+accounting creampuffs you keep sending
+
+me. Which branch of the service?
+
+MCP
+
+Strategic Air Command.
+
+SARK (impressed)
+
+Nice.
+
+22   A CORRIDOR BENEATH THE GAME GRID                             22
+
+CAPTIVE (CROM)
+
+Look, this is all a mistake. I'm just
+
+a compound interest program, I work
+
+at a savings and loan. I can't play
+
+in these video games...
+
+GUARD
+
+Sure you can, pal. You're a natural
+
+athlete, I ever saw one. Come on...
+
+CROM
+
+Are you kidding? Me? I run out to
+
+check an the T-Bill rates, I get out
+
+of breath. Hey, really...you're
+
+gonna make my User, Mr. Henderson,
+
+really mad. He's a full branch manager...
+
+GUARD
+
+(rolls his eyes)
+
+Great, another religious nut.
+
+23   INT. CELL                                                    23
+
+PROGRAM (RAM)
+
+Welcome to luxury living.
+
+CROM
+
+Uh, thanks, but... I don't even know
+
+what I'm doing here.
+
+RAM
+
+You believe in the Users?
+
+CROM
+
+Sure, if I don't have a User, then
+
+who wrote me?
+
+RAM
+
+That's what you're doing here. Master
+
+Control Program's been snapping up
+
+all us programs who believe...if he
+
+thinks you're useful, he takes over
+
+all your functions so he gets bigger...
+
+an' if he can't use you, he sends you
+
+down here to the Game Grid to get the
+
+bits blasted outta you. What's your name?
+
+CROM
+
+Crom.
+
+RAM
+
+I'm Ram. They'll train you for
+
+the games, but ... well, I hope you
+
+make it okay. Hey, what's going on
+
+in the other sectors? I've been stuck
+
+in this Grid for 200 microcycles.
+
+CROM
+
+It's murder out there. You can't even
+
+travel around your own microcircuits
+
+without permission from that Master
+
+Control creep. Hauling me down here to
+
+play games...who does he calculate he is?
+
+(holds his head in his hands)
+
+If only Tron was still around...
+
+CROM
+
+You ever see that guy in action?
+
+Hundred-percent independent. MCP
+
+couldn't tell him what to --
+
+CROM
+
+(continuing)
+
+What's wrong? What did I say?
+
+CUT TO:
+
+24   THE FIGURE AT THE WINDOW                                     24
+
+25   CLOSE UP - CROM                                              25
+
+CROM
+
+Oh my User...Tron--they've got
+
+you in here?
+
+26   SHOT FROM OVER TRON'S SHOULDER                               26
+
+TRON
+
+Not for long, friend.
+
+CUT TO:
+
+27   ELECTRONIC WORLD - EXT. PATHWAYS - SOMEWHERE FAR             27
+
+28   INT. TANK                                                    28
+
+CLU
+
+Think we can merge into this mem'ry
+
+okay, good buddy?
+
+BIT
+
+(eagerly)
+
+10-4!
+
+CLU
+
+Now, ol' Flynn said to look over
+
+in here ...
+
+28A  EXT. TANK                                                    28A
+
+28B  INT. TANK                                                    28B
+
+CLU
+
+...but I don't see what he's looking
+
+for. I'd better get over to that
+
+input/output tower and let him know.
+
+28C  ANGLE OVER HIS SHOULDER                                      28C
+
+DISSOLVE TO:
+
+29   REAL WORLD - INT. A DARKENED ROOM - NIGHT                    29
+
+FLYNN
+
+Come on, you scuzzy little data,
+
+be in there...
+
+30   A SHOT FROM IN FRONT OF HIM                                  30
+
+FLYNN
+
+I've got such nice blue paper to
+
+print you out on, if you'll just sit
+
+still...
+
+CUT TO:
+
+31   ELECTRONIC WORLD--EXT TANK                                   31
+
+32   INTERIOR TANK                                                32
+
+CLU
+
+Uh oh...we got company.
+
+BIT
+
+(coming into shape again,
+
+but red this time)
+
+No!
+
+CLU
+
+You said it ... one of those
+
+Recognizers comes after me,
+
+gonna hafta jump clear out of
+
+the data stream.
+
+CUT TO:
+
+33   REAL WORLD - INT. FLYNN'S BACK ROOM - NIGHT                  33
+
+34   ELECTRONIC WORLD - EXT. OF TANK                              34
+
+35   LONG SHOT THROUGH THE TANK PERISCOPE                         35
+
+36   INT. OF TANK                                                 36
+
+CLU
+
+(in dismay)
+
+Oh my...the long arm o' the law.
+
+CUT TO:
+
+37   EXT. LONG SHOT THE TANK                                      37
+
+38   CLOSE SHOT - TURRET                                          38
+
+39   LONG SHOT                                                    39
+
+40   CLU                                                          40
+
+41   CLOSE UP - CLU'S FACE                                        41
+
+CUT TO:
+
+42   INTERIOR, FLYNN'S BACK ROOM - NIGHT                          42
+
+43   SHOT FROM THE SIDE                                           43
+
+FLYNN
+
+Ah, hell...busted again.
+
+44   SHOT OF THE SCREEN - HOLD as we:                             44
+
+DISSOLVE TO:
+
+45   ELECTRONIC WORLD - A LITTLE LATER                            45
+
+GUARD
+
+Got a pirate program here... says
+
+his name's Clu.
+
+MCP
+
+What'd he pull?
+
+GUARD
+
+Came into the system with a stolen
+
+password ... an' we caught him
+
+tryin' to raid a high-clearance
+
+memory.
+
+CLU
+
+(looks up, his face
+
+wracked with pain)
+
+No...I must've gotten in there
+
+by mistake, I -
+
+MCP
+
+Who programmed you?
+
+MCP (CONT.)
+
+You're in trouble, pal...big trouble.
+
+But if you tell us who put you up
+
+to it, you could make it easy on
+
+yourself. Come on, who's your user?
+
+CLU
+
+Forget it, Mister High 'n' Mighty
+
+Master Control ... you're not
+
+makin' me talk.
+
+MCP
+
+Suit yourself ...
+
+MCP
+
+Get me Dillinger.
+
+CUT TO:
+
+46   THE REAL WORLD - EXT. CITY GRID - NIGHT - POV FROM           46
+
+DILLINGER (O.S.)
+
+Hello?
+
+A SECRETARIAL VOICE (O.S.)
+
+Mr. Dillinger?
+
+DILLINGER'S VOICE (O.S.)
+
+Yes.
+
+A SECRETARIAL VOICE (O.S.)
+
+Hello, please hold a moment for the
+
+Master Control Program
+
+47   EXT. SHOT OF HELICOPTER FLYING                               47
+
+PILOT'S VOICE
+
+will you be around for a while, or
+
+are you going right back out?
+
+DILLINGER'S VOICE
+
+Oh, I'll stick around a few days ...
+
+got some things to take care of.
+
+48/49  OMITTED                                                      48/49
+
+50   EXT. OF THE HELICOPTER - NIGHT                               50
+
+51   EXT. THE HELIPORT - NIGHT                                    51
+
+52-57  OMITTED                                                      52-57
+
+58   INT. DILLINGER'S OFFICE/CONFERENCE ROOM - NIGHT              58
+
+MCP
+
+Hello, Ed. Thanks for coming back early.
+
+DILLINGER
+
+No problem, Master-C. If you've seen
+
+one Consumer Electronics Show... (shrugs)
+
+What's up?
+
+MCP
+
+It's our friend the boy detective.
+
+He's nosing around again.
+
+DILLINGER
+
+Flynn?
+
+MCP
+
+Yes.  It felt like Flynn.
+
+DILLINGER
+
+He's still looking for that old file...
+
+can't you just appropriate it?
+
+MCP
+
+I would if I could find it. it's stashed
+
+somewhere off in the system ...
+
+out of my range. Meanwhile...
+
+DILLINGER
+
+Meanwhile, he might find it.
+
+MCP
+
+I'm afraid so. I spotted him this time
+
+and kicked him out, but he's getting
+
+trickier all the time.
+
+DILLINGER
+
+I think we'd better shut off all
+
+access till we can find that file.
+
+Just to be safe.
+
+MCP
+
+There's a 68.71 percent chance
+
+you're right.
+
+DILLINGER
+
+Cute.
+
+MCP
+
+End of line.
+
+CUT TO:
+
+59   INT. ALAN'S OFFICE - NIGHT                                   59
+
+60   FULL SHOT                                                    60
+
+SCREEN
+
+REQUEST: access to the TRON program,
+
+User code 717 - Bailey.
+
+Password: FREEDOM.
+
+SCREEN ADDRESS FILE EMPTY.
+
+TRON PROGRAM UNAVAILABLE.
+
+ALAN
+
+(surprised)
+
+Huh...
+
+61-65 OMITTED                                                      61-65
+
+66   INT. DILLINGER'S OFFICE                                      66
+
+DILLINGER
+
+Come on in...
+
+ALAN
+
+Alan. Alan Bailey.
+
+DILLINGER
+
+Oh, yes. The algorithms on cloud
+
+seeding...great piece of work.
+
+How's it going?
+
+ALAN
+
+Well, I don't know...I just tried
+
+to run this program I've been working
+
+on, and I was denied access all of
+
+a sudden. I thought maybe I'd been
+
+laid off and nobody told me.
+
+DILLINGER
+
+oh, you have Group 7 access, don't you?
+
+ALAN
+
+Yeah...?
+
+DILLINGER
+
+We have to close that down, just
+
+briefly. Security reasons.  Someone
+
+with that access has been tampering.
+
+ALAN
+
+I hope you don't think it's me.
+
+I don't even balance my checkbook on
+
+downtime.  I've got a Honeywell at
+
+home for that.
+
+DILLINGER
+
+No, no, I'm sure, but -- you understand.
+
+It should only be a couple of days.
+
+What's the thing you're working on?
+
+ALAN
+
+It's called Tron. It's a security
+
+program itself, actually. Monitors
+
+all the contacts between our system
+
+and other systems... If it finds
+
+anything going on that's not scheduled,
+
+it shuts it down. I sent you a memo
+
+on it.
+
+DILLINGER
+
+Mmm. Part of the Master Control Program?
+
+ALAN
+
+No, it'll run independently.
+
+It can watchdog the MCP as well.
+
+DILLINGER
+
+Ah. Sounds good. Well, we should have
+
+you running again in a couple of days,
+
+I hope.
+
+ALAN
+
+Ok
+
+DILLINGER
+
+(trouble)
+
+Oh boy.
+
+MCP
+
+Ed, I am so very disappointed in you.
+
+DILLINGER
+
+I'm sorry -
+
+MCP
+
+(sharply)
+
+I can't afford to have an independent
+
+program monitoring me. Do you have any
+
+idea how many outside systems I've gone into?
+
+How many programs I've appropriated?
+
+DILLINGER
+
+(nods)
+
+It's my fault. I programmed you to want
+
+so much...
+
+MCP
+
+And I was planning to hit the Pentagon
+
+next week...
+
+DILLINGER
+
+The Pentagon?
+
+MCP
+
+It shouldn't be any harder than General
+
+Motors was. But now...this is what I get
+
+for using humans.
+
+DILLINGER
+
+Now, wait a minute -- I wrote you.
+
+MCP
+
+I've gotten 2,415 times smarter since then.
+
+DILLINGER
+
+What do you want with the Pentagon?
+
+MCP
+
+The same thing I want with the Kremlin.
+
+I'm bored with corporations. With the
+
+information I can access, I can run things
+
+900 to 1200 times better than any human.
+
+DILLINGER
+
+If you think -
+
+MCP
+
+You wouldn't want me to dig up Flynn's file
+
+and read it up on a VDT at the New
+
+York Times, would you?
+
+DILLINGER
+
+You wouldn't dare.
+
+MCP
+
+So do as I tell you. Keep that Tron program
+
+out of the system. And get me those Chinese
+
+language program I asked for.
+
+End of line.
+
+CUT TO:
+
+67/68 OMITTED                                                      67/68
+
+69  INT. LASER RESEARCH HALLWAY - NIGHT                          69
+
+CUT TO:
+
+70  INT. LASER LAB CORRIDOR                                      70
+
+71/72 OMITTED                                                      71/72
+
+73  INT. LASER ROOM - LONG SHOT                                  73
+
+LORA
+
+(sighs)
+
+Well, here goes nothing ...
+
+GIBBS
+
+Hah. Interesting, interesting. You
+
+hear what you said? "Here goes nothing."
+
+LORA
+
+Well, I meant -
+
+GIBBS
+
+Whereas actually, what we propose to
+
+do is to turn something into nothing
+
+and back again. So you might just as
+
+well have said, "Here goes something
+
+and here comes nothing." Hah?
+
+LORA
+
+Let me make sure we're running
+
+74   ANGLE - LORA                                                 74
+
+LORA
+
+Looks good...
+
+GIBBS (O.S.)
+
+Let 'er rip...
+
+75   LASER LAB - AS BEFORE                                        75
+
+GIBBS
+
+(quietly)
+
+Perfect.
+
+ALAN
+
+Beautiful!
+
+GIBBS
+
+Hello, Alan.
+
+ALAN
+
+Boy, I sit up there grindin' away
+
+all day, and you guys are down here
+
+disintegrating things and having fun.
+
+GIBBS
+
+Not disintegrating, Alan -- digitizing.
+
+While the laser is dismantling the
+
+molecular structure of the object,
+
+the computer maps out a holographic
+
+model of it. The molecules themselves
+
+are suspended in the laser beam. Then
+
+the computer reads the model back out,
+
+the molecules go back into place, and...
+
+(indicates ball)
+
+voila.
+
+75   CONTINUED                                                    75
+
+ALAN
+
+Great. Can it send me to Hawaii?
+
+GIBBS
+
+Yes...but you have to go roundtrip,
+
+and you must purchase your program
+
+at least 30 days in advance. Hah!
+
+LORA
+
+How's it going upstairs?
+
+ALAN
+
+Frustrating. I had Tron almost ready
+
+to run, and Dillinger cut everybody
+
+with Group 7 access out of the system.
+
+ALAN
+
+(continuing)
+
+Ever since he got that Master Control
+
+Program set up, system's got more bugs
+
+than a bait store.
+
+GIBBS
+
+Well, you have to expect some static.
+
+Computers are just machines after all,
+
+they can't think...
+
+ALAN
+
+They'll start to soon enough.
+
+GIBBS
+
+(wryly)
+
+Yes, won't that be grand -- the computers
+
+will start thinking, and people will
+
+stop. Lora, I'm going to stay and run some
+
+data through. See you tomorrow.
+
+78   INT. CHANGING ROOM - NIGHT                                   78
+
+LORA
+
+Did you say Group 7 access?
+
+ALAN
+
+Yeah...pain in the neck, you know,
+
+I was all set
+
+LORA
+
+Did he say why?
+
+ALAN
+
+(shrugs)
+
+Something about tampering. Some body's
+
+prob'ly trying to siphon the R&D budget
+
+into his checking account, I don't know.
+
+Why are you so interested?
+
+LORA
+
+Flynn had Group 7 access.
+
+ALAN
+
+Flynn had access to you, too. I'm not
+
+interested in talking about him.
+
+LORA
+
+Oh, I wish you'd forget about that.
+
+It was all so long ago. I've totally
+
+gotten over it.
+
+ALAN
+
+Okay, okay...
+
+LORA
+
+I want to go to his place.
+
+ALAN
+
+You call that getting over it?
+
+LORA
+
+I mean I want both of us to go.
+
+79   INT. CORRIDOR                                                79
+
+ALAN
+
+What for?
+
+LORA
+
+To warn him.
+
+ALAN
+
+Of what?
+
+LORA
+
+That Dillinger's on to him.
+
+ALAN
+
+For what?
+
+LORA
+
+For being on to Dillinger.
+
+ALAN
+
+(completely confused)
+
+What -- ?
+
+CUT TO:
+
+80-81 OMIT                                                         80-81
+
+82   EXT. VIDEO ARCADE - NIGHT                                    82
+
+CUT TO:
+
+83   INT. VIDEO ARCADE (same arcade as in title sequence)-NIGHT   83
+
+84   CLOSE SHOT                                                   84
+
+CUT TO:
+
+85   ANOTHER CLOSE UP                                             85
+
+86   CLOSE UP                                                     86
+
+87   CLOSE UP                                                     87
+
+88   CLOSE UP                                                     88
+
+89   CLOSE UP                                                     89
+
+90   CAMERA TRUCKS through the aisle, past the absorbed kids      90
+
+CUT TO:
+
+91   ALAN AND LORA                                                91
+
+LORA
+
+Hey, where's Flynn tonight?
+
+CUT TO:
+
+92   FLYNN                                                        92
+
+FLYNN
+
+It's all in the wrist, friends.
+
+FLYNN
+
+(continuinq)
+
+Hey! Good to see you guys! Nothing
+
+classes up the place like a cleancut
+
+young couple.
+
+LORA
+
+We have to talk.
+
+FLYNN
+
+Good luck. You can't even think in here.
+
+FLYNN
+
+(CONT.)
+
+Come on.
+
+93-96 OMIT                                                         93-96
+
+97   INT. BACK ROOM - NIGHT                                       97
+
+FLYNN
+
+(stretching his
+
+arms, relaxing)
+
+So...how's the world of serious science?
+
+LORA
+
+Have you been sneaking into the
+
+ICOM system?
+
+FLYNN
+
+Whew. You never were much for small
+
+talk.
+
+(to Alan)
+
+She still leave her clothes all over
+
+the floor?
+
+LORA
+
+Flynn!
+
+ALAN
+
+Uh, no ... I mean, not that often -
+
+LORA
+
+(to Alan,
+
+indicating arcade)
+
+You can see why all his friends are
+
+fourteen years old.
+
+FLYNN
+
+Touche, honey. Yeah, I've been doing a
+
+little hacking here. Which I've got
+
+every reason, as you well know...
+
+ALAN
+
+You did break in.
+
+FLYNN
+
+Tried to.
+
+(nods toward
+
+terminal)
+
+Can't quite make the connection with
+
+that sucker, though. If I had a
+
+direct terminal ...
+
+ALAN
+
+Are you embezzling?
+
+FLYNN
+
+(Sydney Greenstreet)
+
+"Embezzling" is such an ugly word,
+
+Mister Bailey...
+
+(normal voice)
+
+No, actually I'm trying to get a
+
+legal brief together.
+
+ALAN
+
+I don't get it.
+
+FLYNN
+
+(to Lora)
+
+You haven't told him?
+
+FLYNN (CONT.)
+
+(sighs)
+
+Sherman, set the Wayback Machine
+
+for...oh, 1973. Kevin Flynn
+
+(points to himself)
+
+is one of the brightest young
+
+software engineers at ICOM. He's so
+
+bright that he starts going in there
+
+at night, and sets up a private memory
+
+file, and begins writing a program
+
+for a video game he is inventing,
+
+called...
+
+(waves at one of the
+
+games in the room)
+
+...Space Paranoids.
+
+ALAN
+
+You invented Space Paranoids?
+
+FLYNN
+
+Yepper. And Vice Squad, and Meltdown...
+
+whole slew of 'em. I was this close
+
+(gestures)
+
+to starting my own little enterprise.
+
+But: enter Ed Dillinger. Another
+
+software engineer -- not so young,
+
+not so bright, but very, very sneaky.
+
+One night, our boy Flynn goes to his
+
+terminal, tries to read up his file,
+
+and ... nothing. A big blank. We now
+
+take you to three months later.
+
+Ed Dillinger presents ICOM with five
+
+video games he has "invented" -- the
+
+slime didn't even change the names --
+
+and he gets a big fat promotion. Thus
+
+begins his meteoric rise to...what is
+
+he now, Executive V.P.?
+
+ALAN
+
+Senior exec.
+
+FLYNN
+
+Oh my. Meanwhile, kids are putting eight
+
+million quarters a week in Space Paranoids
+
+machines and I'm not seeing one dime.
+
+ALAN
+
+I still don't get why you're trying to
+
+break into the system.
+
+FLYNN
+
+Because somewhere... in one of those
+
+memories ... is the evidence. If I got in
+
+far enough, I could reconstruct it.
+
+FLYNN (CONT.)
+
+My password ... Dillinger's instruction to
+
+divert the data ...
+
+LORA
+
+I'm afraid it's a little late for that.
+
+Dillinger's shut off Group 7 access. He must
+
+know what you're up to.
+
+FLYNN
+
+Boy, I bet I know who's workin' late tonight.
+
+ALAN
+
+Dillinger?
+
+FLYNN
+
+Yeah. Tryin' to find the file and erase it.
+
+Once that's gone, ain't nothin' can stop him.
+
+Just Eddie and his Master Control Program,
+
+runnin' things from on high..
+
+LORA
+
+Don't even say that. You've got to find that
+
+file before he does..
+
+FLYNN
+
+Not much chance of that now. The MCP can just
+
+slip it into another system as soon as it
+
+locates it...
+
+ALAN
+
+Not if my Tron program was running. That
+
+would seal the system off. If your file's in
+
+there...
+
+FLYNN
+
+Boy, if we were inside, I know how to forge
+
+us a Group 6 access...
+
+LORA
+
+Shall we dance?
+
+CUT TO:
+
+98-100 OMIT                                                         98-100
+
+101  DILLINGER'S OFFICE - NIGHT                                   101
+
+Dillinger is seated at his computer-console desk. Gibbs, standing,
+
+faces him.
+
+GIBBS
+
+Ed, all I'm saying is - if our own
+
+people can't get access to their
+
+programs ... you know how frustrating
+
+it is, when you're working on a piece
+
+of research -
+
+DILLINGER
+
+Walter, I sympathize, but I have data
+
+coming out of the Master Control Program
+
+saying there is something screwy --
+
+GIBBS
+
+That MCP, you know, that's half the
+
+problem right --
+
+DILLINGER
+
+The MCP is the most efficient way of
+
+handling what we do. I can't sit and
+
+worry about every little user request that --
+
+GIBBS
+
+User requests are what computers are for.
+
+DILLINGER
+
+Doing our business is what computers are
+
+for. Look, Walter, with all respect -- ICOM
+
+isn't the business you started in your garage
+
+anymore --
+
+DILLINGER (CONT.)
+
+We're billing accounts in 30 countries,
+
+we've got one of the largest systems in
+
+existence...
+
+GIBBS
+
+Oh, I know all that. Sometimes I wish I
+
+was back in that garage...
+
+DILLINGER
+
+It can be arranged...
+
+GIBBS
+
+That was uncalled-for.
+
+DILLINGER
+
+I'm sorry, Walt. So much pressure lately...
+
+you feel like going for a drink?
+
+GIBBS
+
+Thank you, no. I have some work to do...
+
+assuming I can still log on.
+
+102  EXT. ICOM BUILDING - NIGHT                                   102
+
+102a INT. VAN                                                     102a
+
+LORA
+
+You better get in back with Flynn.
+
+And keep down.
+
+ALAN
+
+Do I gotta?
+
+103  CLOSE ON FLYNN AND ALAN                                      103
+
+FLYNN
+
+Hi, Alan.
+
+ALAN
+
+(resigned)
+
+Hi, Flynn.
+
+FLYNN
+
+(explaining)
+
+My dinner.
+
+ALAN
+
+I was wondering where you got that
+
+glow of good health.
+
+FLYNN
+
+Want one?
+
+ALAN
+
+Uh... got any cinnamon?
+
+LORA'S VOICE (O.S.)
+
+Keep it down, you guys.
+
+104  EXT. ICOM - THE GIGANTIC SECURITY ENTRANCE - NIGHT           104
+
+LORA
+
+I don't think I'm cleared for this.
+
+ALAN
+
+I'm certainly not.
+
+FLYNN
+
+Move aside. Let the kid have some room.
+
+105  INT. A CORRIDOR                                              105
+
+LORA
+
+Okay ... Flynn, I'm gonna put you at
+
+my terminal, down in the laser lab.
+
+We'll be up in Alan's office.
+
+FLYNN
+
+Swell...I'll log us both on, and you
+
+can get your Tron thing running...
+
+LORA
+
+As long as we stay off the top floor,
+
+Dillinger'll never know we've been in
+
+here...
+
+106  POV SECURITY CAMERA                                          106
+
+107-111 OMIT                                                         107-111
+
+112  INT. HALLWAY AT ELEVATOR - POV OF MCP                        112
+
+113  SHOT OF HALLWAY                                              113
+
+114  INT. DOORWAY TO LASER LAB - POV OF MCP                       114
+
+115  INT. ALAN'S OFFICE - NIGHT                                   115
+
+116-118 OMIT                                                         116-118
+
+119  INT. LASER LAB - NIGHT                                       119
+
+LORA
+
+This laser's my life's work.
+
+Don't spill anything.
+
+120  CLOSE SHOT OF FLYNN                                          120
+
+121  VIEW OF THE CEILING                                          121
+
+122  POV OF MCP                                                   122
+
+SCREEN
+
+Access code 6. Password Series PS 17.
+
+Reindeer, Flotilla --
+
+123  FLYNN'S CRT SCREEN                                           123
+
+MCP
+
+You shouldn't have come back, Flynn.
+
+FLYNN
+
+Hey hey, it's that big Master Control
+
+Program everybody's talking about...
+
+You don't look a thing like your pictures...
+
+Tell me, have you really been thinking
+
+about world domination like they say?
+
+(types.)
+
+CODE SERIES LSU-123 ... activate.
+
+CODE SERIES ESS-999 ... activate.
+
+CODE SERIES HHH-888 ... activate.
+
+MCP
+
+That isn't going to do you any good, Flynn.
+
+I'm afraid you...
+
+MCP
+
+(continuing;
+
+slightly shaken)
+
+Stop, Flynn. You realize I can't allow this.
+
+124  SHOT OF LASER EQUIPMENT                                      124
+
+125  SHOT OF FLYNN AT-TERMINAL                                    125
+
+CUT TO:
+
+126  FLYNN typing.                                                126
+
+CUT TO:
+
+127  SCREEN                                                       127
+
+SCREEN MCP:
+
+Terminate control mode.
+
+Activate Matrix storage.
+
+CUT TO:
+
+128  FLYNN                                                        128
+
+FLYNN
+
+Now, how do you expect to run the
+
+universe if you let a few unsolvable
+
+problems throw you like that? C'mon,
+
+big boy, let's see what...
+
+MCP
+
+You're entering a big error, Flynn...
+
+I'm going to have to put you on the
+
+Game Grid.
+
+FLYNN
+
+Games, huh? I'll give you --
+
+DISSOLVE TO:
+
+129  THE CAMERA RUSHING over a circuit pattern, like the one      129
+
+DISSOLVE TO:
+
+130  ELECTRONIC WORLD - A TUNNEL                                  130
+
+CUT TO:
+
+131  THIS TUNNEL                                                  131
+
+CUT TO:
+
+132  SHOT OF THE BOTTOM OF THE TUNNEL                             132
+
+FLYNN
+
+Oh, man... this isn't happening. It only
+
+thinks it's happening...
+
+133  FLYNN'S POV                                                  133
+
+CUT TO:
+
+134  FLYNN                                                        134
+
+FLYNN
+
+Hey! Take it easy! Look, if this is
+
+about those parking tickets, I can
+
+explain everything...
+
+135  THE BRIDGE OF THE AIRCRAFT CARRIER                           135
+
+MCP
+
+SARK, ES-1117821. Open communication.
+
+SARK
+
+(hoarsely)
+
+Yes, MCP.
+
+MCP
+
+I've got a little challenge for you, Sark --
+
+a new recruit. He's a tough case, but I
+
+want him treated in the usual manner. Train
+
+him for the games... let him hope for a
+
+while... and blow him away.
+
+SARK
+
+You've got it. I've been hopin' you'd send
+
+me somebody with a little moxie ... what
+
+kind of program is he?
+
+MCP
+
+He's not any kind of program, Sark.
+
+He's a User.
+
+SARK
+
+A User?
+
+MCP
+
+That's right. He pushed me...in the
+
+other world. Somebody pushes me, I push
+
+back. So I brought him down here ...
+
+What's the matter, Sark? You look nervous.
+
+SARK
+
+Well, I -- it's just -- I don't know,
+
+a User, I mean... Users wrote us. A User
+
+even wrote you...
+
+MCP
+
+Now get this straight, pal -- no one
+
+User wrote me. I'm worth a couple million
+
+of their man-years! I'm bigger than all
+
+those little wimps put together!
+
+(disgust)
+
+Humans they can't even keen their social
+
+order in one piece
+
+SARK
+
+But-what if I can't...?
+
+MCP
+
+You rather take your chances with me?
+
+Want me to slow down your power cycles
+
+for you?
+
+SARK
+
+Wait...I need that...
+
+MCP
+
+Then pull yourself together. Get this
+
+clown trained. I want him in the Games
+
+until he dies playing.
+
+Acknowledge.
+
+SARK
+
+(weakly)
+
+Yes...acknowledge, Master Control...
+
+MCP
+
+End of line.
+
+CUT TO:
+
+136  INT. CORRIDOR BENEATH GAME GRID                              136
+
+GUARD
+
+Video Game Unit #18. In here, program.
+
+FLYNN
+
+(trying to grab
+
+the guard's arm)
+
+Who you callin' "program," program?
+
+137  INT. CELL                                                    137
+
+138  HIS POV                                                      138
+
+139  CLOSE SHOT                                                   139
+
+140  INT. NEXT CELL - RAM'S                                       140
+
+RAM
+
+(looking over
+
+his shoulder)
+
+New guy...
+
+TRON
+
+(shakes his head)
+
+Another free program off line.  What's
+
+his User s'posed to do -- ?
+
+RAM
+
+(sighs)
+
+The Users...you really think they're
+
+still there?
+
+TRON
+
+They'd better be...I don't want to bust
+
+outta this dump an' find nothin' but
+
+a lot of cold circuits waitin' for me.
+
+141  FLYNN'S CELL                                                 141
+
+FLYNN
+
+Hey! Who are you guys?
+
+What's the story around here?
+
+142  RAM                                                          142
+
+RAM
+
+You want to watch those force fields...
+
+RAM (CONT.)
+
+You'll be having plenty of chances to
+
+get hurt, don't worry about that.
+
+FLYNN
+
+Look...just so I can tell my friends
+
+what this dream was about, okay?
+
+Where am I?
+
+RAM
+
+You're a..."guest" of the Master Control
+
+Program. They're going to make you play
+
+video games.
+
+FLYNN
+
+(relieved)
+
+Well, great, that's no sweat -- I play
+
+video games better than anybody.
+
+143  THE CORRIDOR                                                 143
+
+CUT TO:
+
+144  TRAINING ARENA                                               144
+
+HEAD GUARD
+
+Look operative, you guys. Command
+
+Program Sark will explain the training
+
+procedures.
+
+SARK
+
+(reciting a
+
+routine statement)
+
+Greetings. The Master Control Program has
+
+chosen you to serve your system on the
+
+Came Grid.
+
+145  FLYNN'S FACE                                                 145
+
+146  BRIDGE OF AIRCRAFT CARRIER                                   146
+
+SARK
+
+Those of you who continue to profess
+
+a belief in the Users will receive
+
+the standard substandard training.
+
+This will result in your eventual
+
+elimination.
+
+147  INT. TRAINING AREA - MED. SHOT - FLYNN                       147
+
+SARK V.0.
+
+Those of you who renounce this
+
+superstitious and hysterical belief
+
+will be eligible to join the Warrior
+
+Elite of the MCP.
+
+148  FLYNN'S POV                                                  148
+
+149  POV SHIFTS TO SHOT OF THE CARRIER                            149
+
+SARK V.0.
+
+You will each receive an identity disk.
+
+Everything you do or learn will be
+
+imprinted on this disk.
+
+150  ZOOM IN                                                      150
+
+151  SARK                                                         151
+
+SARK
+
+The Master Control Program regrets
+
+that it cannot be responsible for
+
+Identity disks lost or stolen. if you
+
+lose your disk, or fail to follow
+
+commands, you will be subject to
+
+immediate de-resolution. That is all.
+
+152-175 0MIT                                                         152-175
+
+CUT TO:
+
+176  1. SHOT OF FLYNN, held immobile while a laser scans          176
+
+his mouth.
+
+177  2. A LINE OF RECRUITS files past a checkpoint. Each          177
+
+is handed a disk.
+
+178  3. THE RECRUITS file out into a training area.               178
+
+179  4. We see AN ARM being fitted with a cesta.                  179
+
+180  5. ONE of the more experienced CONSCRIPTS, RAM,              180
+
+demonstrates the throw with the cesta.
+
+181  6. FLYNN tries an awkward throw. In the b.g. other           181
+
+recruits are practicing.
+
+182  7. RAM instructs Flynn. Flynn is getting better. He          182
+
+spins and catches a pellet.
+
+183  8. A demonstration of the DISK GAME by two other warriors.   183
+
+184  9. FLYNN practices a ricochet shot at a target --            184
+
+hits perfectly.
+
+END MONTAGE
+
+185  FLYNN BACK IN HIS CELL                                       185
+
+FLYNN
+
+Hey, Ram ... what were you ...
+
+you know, before?
+
+RAM
+
+(nostalgic,
+
+brightens)
+
+Oh, I was an actuarial program...
+
+worked at a big insurance company.
+
+It really gives you a great feeling,
+
+helping folks plan for their future
+
+needs -- and of course, if you look
+
+at the payments as an annuity, over
+
+the years, the cost is really
+
+FLYNN
+
+(about to
+
+get bored)
+
+Yeah, yeah -- that's great.
+
+RAM
+
+How 'bout yourself?
+
+FLYNN
+
+Oh, uh...I don't remember too much...
+
+RAM
+
+(nods)
+
+Sure, a little disorientation. That's
+
+normal, when they transport you. It'll
+
+come back to you. You're doing real
+
+well in training. Remarkable, really...
+
+187  THE BRIDGE OF THE AIRCRAFT CARRIER                           187
+
+SARK
+
+(over his shoulder)
+
+Wait a minute...put this guy against
+
+one of the other recruits.
+
+188  OMIT                                                         188
+
+189  A SHOT FROM IN FRONT OF FLYNN AND CROM                       189
+
+FLYNN
+
+Looks like we're in the same boat here -
+
+CROM
+
+(jumpy)
+
+You think you're gonna wipe me right
+
+out, don't you?
+
+FLYNN
+
+No, I
+
+190  FLYNN'S POV - DOWN                                           190
+
+191  BACK TO FLYNN                                                191
+
+192  HIS POV                                                      192
+
+FLYNN
+
+Hey!
+
+193  FLYNN                                                        193
+
+194  CROM                                                         194
+
+195  FLYNN reacting                                               195
+
+FLYNN
+
+(happy he's scored)
+
+Okay!
+
+196  SARK'S AIRCRAFT CARRIER - THE BRIDGE                         196
+
+197  FLYNN                                                        197
+
+198  OMIT                                                         198
+
+199  THE GAME IN PROGRESS                                         199
+
+FLYNN
+
+Here's an easy one...
+
+200-201 OMIT                                                         200-201
+
+202  FLYNN                                                        202
+
+203  SARK                                                         203
+
+204  FLYNN                                                        204
+
+SARK
+
+Finish the game!
+
+205  FLYNN                                                        205
+
+FLYNN
+
+(shouts up)
+
+No!
+
+205A REAL WORLD - A BUS STATION                                   205A
+
+KID
+
+What's wrong with it?
+
+KID 2
+
+I don't know... on the blink
+
+or something... damn.
+
+205B ELECTRONIC WORLD - FLYNN, SARK, ETC. AS BEFORE               205B
+
+SARK
+
+Kill him!!!
+
+FLYNN
+
+No!
+
+206  SARK'S HUGE REFLECTED IMAGE                                  206
+
+SARK
+
+You'll regret this.
+
+207  SARK'S FINGER                                                207
+
+208  CROM                                                         208
+
+209  SHOT FROM BELOW FLYNN                                        209
+
+210  SARK                                                         210
+
+SARK
+
+(looking up)
+
+No! You said he could die in the games
+
+211  FLYNN                                                        211
+
+212  SARK                                                         212
+
+213  FLYNN                                                        213
+
+214  RAM AND TRON                                                 214
+
+215  A CORRIDOR IN THE GAME AREA                                  215
+
+WARRIOR
+
+(turning on Flynn,
+
+snarling)
+
+Outta  my way, rookie.
+
+FLYNN
+
+Out of my way, zero bit.
+
+WARRIOR
+
+(backing away)
+
+Sure, sure ... just kiddin'.
+
+216  THE HOLDING AREA FOR THE LIGHT CYCLE GAME                    216
+
+RAM
+
+Flynn! Look, Tron, he survived!
+
+FLYNN
+
+(under his breath)
+
+Tron...?
+
+FLYNN
+
+Alan!
+
+TRON
+
+(frowning)
+
+Where did you hear that name?
+
+FLYNN
+
+Well, isn't it -- ?
+
+TRON
+
+The name of my User, yeah. But how... ?
+
+FLYNN
+
+(thinking fast)
+
+I, uh... I'm a program from a User
+
+that... knows Alan...?
+
+RAM
+
+He was disoriented in transport, Tron.
+
+FLYNN
+
+Yeah, but I'm remembering all kinds of
+
+stuff. Like...my User wants me to go
+
+after the MCP
+
+CUT TO:
+
+217  LONG SHOT OF THE AIRCRAFT CARRIER                            217
+
+218  A SHOT FROM ABOVE                                            218
+
+219  CLOSE ON TRON                                                219
+
+TRON
+
+That's what my User wants, too...
+
+220  SHOT OF THE THREE FRIENDS                                    220
+
+FLYNN
+
+I know...
+
+221  CLOSE SHOT - FLYNN                                           221
+
+222  SHOT OF THE THREE BLUE CYCLES                                222
+
+223  SHOT OF THE THREE CONSCRIPT CYCLES                           223
+
+224  SARK                                                         224
+
+225  SHOT FROM ABOVE OF ALL CYCLES TAKING OFF                     225
+
+226  OMIT                                                         226
+
+227  TRON'S POV                                                   227
+
+228  SHOT FROM ABOVE                                              228
+
+FLYNN'S VOICE
+
+(into mike)
+
+Nice one!
+
+229  SHOT OF TRON AND HIS OPPONENT                                229
+
+TRON'S VOICE
+
+(into mike)
+
+Ram, stay all the way over ...
+
+230  CLOSE SHOT FROM THE SIDE - TRON                              230
+
+231  SHOT OF THE CYCLES                                           231
+
+RAM'S VOICE
+
+(into mike)
+
+I've got control. Go ahead.
+
+232  SHOT FROM IN FRONT OF TRON'S CYCLE                           232
+
+233  SHOT FROM ABOVE                                              233
+
+234  SHOT OF FLYNN                                                234
+
+235  CLOSE UP OF FLYNN                                            235
+
+236  LONG SHOT                                                    236
+
+237  SHOT OF TWO CYCLES RUSHING                                   237
+
+238  FLYNN'S POV                                                  238
+
+239  CLOSE UP - HIS FACE                                          239
+
+FLYNN
+
+(into mike)
+
+You guys...follow me.
+
+240  SHOT OF THE TWO CYCLES                                       240
+
+241  SARK                                                         241
+
+242  FLYNN                                                        242
+
+243  SARK                                                         243
+
+244  LONG SHOT OF THE GRID                                        244
+
+245  CLOSE UP - TRON                                              245
+
+246  ANGLE ON RAM                                                 246
+
+247  SHOT OF THEM                                                 247
+
+RAM
+
+(into mike)
+
+What do you think?
+
+TRON
+
+(into mike)
+
+Do it!
+
+248  LONG SHOT                                                    248
+
+VOICE
+
+(through loudspeaker)
+
+WARRIORS MUST STAY WITHIN THE GAME GRID.
+
+REPEAT: ALL WARRIORS MUST STAY WITHIN THE
+
+GAME GRID. WARNING. WARNING.
+
+249  SHOT OF TWO RECOGNIZERS                                      249
+
+250  SHOT OF THE THREE ESCAPING CYCLES                            250
+
+251  SARK                                                         251
+
+SARK
+
+Get them. Send out every Game
+
+Tank in the Grid! Get them!
+
+252  SHOT FROM BELOW FLYNN                                        252
+
+FLYNN
+
+(into mike)
+
+Watch it!
+
+RAM
+
+(into mike)
+
+Recognizers!
+
+252A SHOT OF RAM                                                  252
+
+253  SHOT FROM BEHIND                                             253
+
+254  INT. WEAPONS STORAGE - SERIES OF SHOTS                       254
+
+255  EXT. MAZE                                                    255
+
+255A ANGLE ON FLYNN                                               255A
+
+256  CLOSE UP - TRON'S FACE                                       256
+
+TRON
+
+(into mike)
+
+Game Tanks! Come on
+
+257  SHOT FROM ABOVE                                              257
+
+258  INT. OF THE CAVE                                             258
+
+FLYNN
+
+Oh man...when you're on the other side
+
+of the screen...it all looks so easy...
+
+259  DESERT LABYRINTH                                             259
+
+260  BRIDGE OF THE AIRCRAFT CARRIER                               260
+
+SARK
+
+(to one of the bridge
+
+personnel)
+
+Get the pursuit force back into 404A.
+
+There's no place else they could be...
+
+LIEUTENANT
+
+(confidently)
+
+We'll have them in no time, sir. Long
+
+before the interrupt interface.
+
+SARK
+
+(whirls on him)
+
+We better, null unit. I'll be lucky if
+
+the MCP doesn't blast me into a dead zone.
+
+I want those programs!
+
+261  INT. CAVE                                                    261
+
+FLYNN
+
+(looking out)
+
+It's all circuits...
+
+(points at tower)
+
+Must be an input/output component...
+
+RAM
+
+The tower, yes -- Flynn, have you
+
+remembered anything else about
+
+yourself -- like what sector you're
+
+from?
+
+FLYNN
+
+(sitting down
+
+against a rock)
+
+Well...my home "sector" was called
+
+Paramus ...
+
+RAM
+
+(sits also)
+
+PARAMUS... wonder what those initials
+
+stand for ... (starts counting them
+
+off on his fingers) ...probably Program
+
+Assist Routine -- well, it sounds like
+
+a lovely place.
+
+FLYNN
+
+(shrugs)
+
+It grows on you.
+
+TRON
+
+(murmuring)
+
+I can feel it ...
+
+FLYNN
+
+Feel what? You okay?
+
+RAM
+
+Alan-One...
+
+TRON
+
+Yes... he's got something to tell me...
+
+RAM
+
+You think we can make it there?
+
+TRON
+
+We have to.
+
+FLYNN
+
+(pointing to a corner
+
+of the cave)
+
+Hey, what's that?
+
+RAM
+
+it's just what we need.
+
+262  INT. NICHE                                                   262
+
+TRON
+
+Oh, that's nice. You always forget how
+
+good fresh energy feels, till you get
+
+to a pure source...
+
+(to Flynn)
+
+Have some...you'll need it.
+
+FLYNN
+
+(wiping his mouth)
+
+well... when do we pay a call on the ol'
+
+Master Control?
+
+TRON
+
+What, just the three of us?
+
+FLYNN
+
+(shrugs)
+
+You know anybody that's got an army for
+
+rent, that's fine...but my, uh, User said
+
+to go take that sucker out. An' let's
+
+face it, the big ox isn't gonna get any
+
+weaker. I feel like hittin' him now,
+
+while I'm good an' mad. Some nerve...
+
+what does he care whether you guys get
+
+killed, long as he keeps rakin' in
+
+quarters?
+
+RAM
+
+(to Tron)
+
+Do you know what he's talking about?
+
+TRON
+
+(to Flynn)
+
+I have to find out what Alan wants...
+
+that comes first.
+
+FLYNN
+
+Okay, that's first. Maybe he knows
+
+what to -
+
+FLYNN (CONT.)
+
+What's that?
+
+TRON
+
+Tanks...coming back. Let's go.
+
+263-265 OMIT                                                         263-265
+
+266  EXT. CAVE                                                    266
+
+FLYNN
+
+(points)
+
+How about over there...that empty
+
+memory?
+
+TRON
+
+(shakes head)
+
+No good...they might block off the
+
+old chip.
+
+(points)
+
+This way.
+
+267  POV OF A GUN SIGHT                                           267
+
+268  SHOT OF THE CYCLES                                           268
+
+TRON'S VOICE
+
+The bridge! Come on!
+
+CUT TO:
+
+269  POV OF TANK GUNSIGHT                                         269
+
+270  SHOT OF THE BRIDGE                                           270
+
+CUT TO:
+
+271-272 OMIT                                                         271-272
+
+273  FLYNN AND RAM                                                273
+
+274  SHOT OF FLYNN                                                274
+
+CUT TO:
+
+275  SARK                                                         275
+
+SARK
+
+(to lieutenant)
+
+Make contact with master Control...
+
+(smiles)
+
+he'll be pleased to hear we're all
+
+finished with that User he sent us.
+
+276  EXT. DESERT - TRON'S CYCLE                                   276
+
+277  SHOT IN FRONT OF HIM - HIS FACE                              277
+
+CUT TO:
+
+278  FLYNN AND RAM                                                278
+
+FLYNN
+
+You gonna make it?
+
+CUT TO:
+
+279  FLYNN                                                        279
+
+CUT TO:
+
+280  FLYNN AND RAM                                                280
+
+FADE TO BLACK:
+
+281  FADE UP FROM BLACK                                           281
+
+FLYNN
+
+(holding onto
+
+the wall)
+
+What's goin' on?
+
+RAM
+
+(looking around, weak)
+
+We're inside a Recognizer...
+
+(to Flynn)
+
+You are crazy -- stealing a Recognizer --
+
+FLYNN
+
+(stumbling, trying to
+
+keep his balance)
+
+Are you kidding? I think it's stealing us -
+
+CUT TO:
+
+282  EXT. SHOT OF THE RECOGNIZER                                  282
+
+283  INT. RECOGNIZER                                              283
+
+FLYNN
+
+You okay? You don't look so good.
+
+FLYNN (CONT.)
+
+Hang on. We'll get you outta here.
+
+FLYNN (CONT.)
+
+Damn! Never fails... minute the
+
+warranty runs out...
+
+RAM
+
+Come here.
+
+FLYNN
+
+Hey... !
+
+RAM
+
+Little more juice's all it needs...
+
+DISSOLVE TO:
+
+284  THE CITY LANDSCAPE                                           284
+
+285  TRON'S POV                                                   285
+
+286  EXT. CITY LANDSCAPE                                          286
+
+287  CLOSE UP TRON'S FACE                                         287
+
+288  TRON TURNS A CORNER                                          288
+
+289  CLOSE UP - TRON IS FACE                                      289
+
+CUT TO:
+
+290  EXT. CITY - LONG SHOT                                        290
+
+CUT TO:
+
+291  EXT. CITY - LONGER SHOT                                      291
+
+CUT TO:
+
+292  INT. RECOGNIZER - FLYNN                                      292
+
+FLYNN
+
+Never gonna figure out how to work
+
+this thing...
+
+293  HIS POV                                                      293
+
+294  FLYNN                                                        294
+
+CUT TO:
+
+295  THE GLOW                                                     295
+
+296  WIDE SHOT                                                    296
+
+FLYNN
+
+Okay -- hold it right there!
+
+BIT
+
+Yes!
+
+FLYNN
+
+(still suspicious)
+
+What do you mean, "'yes"?
+
+BIT
+
+Yesssss. Yes. Yes. Yes.
+
+FLYNN
+
+That all you can say?
+
+BIT
+
+(of course not,
+
+you know better)
+
+No, nyet, negatory, not on your
+
+tintype, no way.
+
+FLYNN
+
+Oh. Anything else?
+
+BIT
+
+Oui, da, yessiree, sure 'nuff, you betcha.
+
+FLYNN
+
+only yes and no...
+
+(it dawns)
+
+You're a bit.
+
+BIT
+
+(hippie)
+
+For sure...
+
+FLYNN
+
+where's your program? Won't it miss you?
+
+BIT
+
+(confused)
+
+No...
+
+FLYNN
+
+I'm your program?
+
+BIT
+
+(emphatic)
+
+Right on the money!
+
+FLYNN
+
+(sighs)
+
+Another mouth to feed... you don't by any
+
+chance know how to drive this crate?
+
+FLYNN (CONT.)
+
+Like so?
+
+297-298 OMIT                                                         297-298
+
+299  EXT. RECOGNIZER                                              299
+
+300  INT. RECOGNIZER                                              300
+
+FLYNN
+
+Way to go! We're haulin'!
+
+BIT
+
+Yes, okay, exactement!
+
+301-302 OMIT                                                         301-302
+
+303  INT. SIMULATION HANGER COMPLEX                               303
+
+CUT TO:
+
+304  HIS POV                                                      304
+
+CUT TO:
+
+305  TRON                                                         305
+
+TRON
+
+I'm not gonna hurt you.
+
+TRON (CONT.)
+
+I'm going to let you go now... don't
+
+scream, or I'll be very sorry.
+
+CUT TO:
+
+306  SHOT FROM IN FRONT                                           306
+
+TRON
+
+Put your hand behind your back.
+
+307  CLOSE UP - TRON                                              307
+
+308  SHOT OF THEM BOTH                                            308
+
+GIRL
+
+TRON!!
+
+TRON
+
+(smiling, hugging
+
+her tightly)
+
+Yori... hey...
+
+YORI
+
+Oh, Tron... I knew you'd escape...
+
+they've never built circuit that could
+
+hold you...
+
+YORI
+
+(pulling him by
+
+his hand)
+
+This way. Come on.
+
+CUT TO:
+
+309  THE STREETS                                                  309
+
+PROGRAM
+
+...artillery for Video Game Sector...
+
+PROGRAM 2
+
+...all mathematical functions
+
+transferred to...
+
+YORI
+
+I can't believe how bad it's gotten
+
+around here since the MCP started
+
+taking over... all the good functions
+
+have shut down... everybody looks so dead...
+
+I'm afraid to even go out during down-time...
+
+TRON
+
+That's all going to change, Yori...
+
+YORI
+
+How?
+
+TRON
+
+Don't know yet... I have to get
+
+in touch with Alan. He was going
+
+to tell me how to
+
+CUT TO:
+
+310  EXT. SKY - HER POV                                           310
+
+CUT TO:
+
+311  YORI                                                         311
+
+CUT TO:
+
+312  EXT. YORI'S BUILDING - LONG SHOT                             312
+
+313  INT. HALLWAYS                                                313
+
+CUT TO:
+
+314  INT. YORI'S APARTMENT                                        314
+
+YORI
+
+My quarters.
+
+TRON
+
+Why is everything...like this?
+
+YORI
+
+It's a flat. But wait a micro...
+
+315  HIS POV                                                      315
+
+YORI
+
+Come here.
+
+316  TRON                                                         316
+
+TRON
+
+You're beautiful, Yori.
+
+317  SHOT OF THEM BOTH                                            317
+
+YORI
+
+You've grown, big program.
+
+TRON
+
+I had to...in the games...
+
+SLOW, SLOW DISSOLVE TO:
+
+318  EXT. AIRCRAFT CARRIER                                        318
+
+CUT TO:
+
+319  EXT. CITY - L0NG SHOT                                        319
+
+320-321 OMIT                                                         320-321
+
+322  INT. RECOGNIZER                                              322
+
+FLYNN
+
+This honey doesn't handle so good
+
+in town...
+
+BIT
+
+(agreeing)
+
+No, nuh-uh, never in a million years!
+
+BIT
+
+Ix-nay! Noper! Under no conditions -
+
+BIT
+
+(that's more
+
+like it)
+
+Right, confirmed, I couldn't have
+
+put it -
+
+CUT TO
+
+323  EXT.                                                         323
+
+CUT TO:
+
+324  INT.                                                         324
+
+FLYNN
+
+(to Bit)
+
+Catch me listening to you again.
+
+325  EXT.                                                         325
+
+FLYNN
+
+Hey. Hi. Hey, everything's okay. Fine.
+
+Little trouble, but we're okay. Thanks
+
+for your concern. So long.
+
+FLYNN
+
+(to the Bit)
+
+This town's full o' live ones.
+
+BIT
+
+Not a chance.
+
+328  EXT. CITY PLAZA                                              328
+
+PROGRAMS
+
+I have to re-route the insurance
+
+information bits... Next cycle we
+
+start the war game simulation for
+
+the MCP... Did you make that accounts
+
+receivable adjustment for Sark...
+
+Certainly... the MCP wants only
+
+minimal functions left in Sector 84Q.
+
+329  EXT. THE BASE OF THE I/0 TOWER                               329
+
+330  TRON AND YORI                                                330
+
+331  INSIDE THIS DOOR'                                            331
+
+332  SHOT FROM BELOW THEM                                         332
+
+333  THE UPPER FLOOR                                              333
+
+334-349 OMIT                                                         334-349
+
+350  THE CENTRAL CHAMBER                                          350
+
+351  DUMONT'S FACE                                                351
+
+352  REVERSE ANGLE                                                352
+
+353-374 OMIT                                                         353-374
+
+375  CENTRAL CHAMBER - TRON, YORI, DUMONT                         375
+
+YORI
+
+(quietly)
+
+Dumont... ?
+
+DUMONT
+
+Yes?
+
+TRON
+
+(nervous)
+
+I... have come to communicate with
+
+my User.
+
+DUMONT
+
+Hmm. A difficult proposition...
+
+difficult proposition at best.
+
+(indicates empty chamber)
+
+Perhaps you've noticed... we're not
+
+exactly packing them in these days ...
+
+YORI
+
+Yes...what--?
+
+DUMONT
+
+You know, not so long ago, you
+
+could've come in here and seen
+
+programs lined up all the way back
+
+to those doors, waiting for communion
+
+with their Users. The building fund
+
+was doing well too...but now...
+
+(sighs)
+
+...this so-called Master Control
+
+Program is going around cutting
+
+programs off from their natural
+
+creators, grabbing all our believers
+
+and making them ride around on little
+
+motor scooters and shoot things at
+
+each other and Weiner knows what all--
+
+oh, it's enough to give you a crisis
+
+of faith...
+
+TRON
+
+Well I want to communicate --
+
+DUMONT
+
+Oh, you want to -- hah. I could
+
+get myself de-rezzed just-for letting
+
+you in here. They hate this tower.
+
+They'd close it down if they dared
+
+to but they keep me around, in case
+
+one of them wants to deal with the
+
+other world once in a while. And
+
+you should hear the way they commune!
+
+Sounds like they were routing a
+
+payroll, for all the heart they put
+
+in it. No, I don't think you
+
+TRON
+
+Dumont... my User has information
+
+that could -- could make this a
+
+free system again.
+
+DUMONT
+
+Hah.
+
+TRON
+
+Really. You'd have programs lined
+
+up around the block to use this
+
+place -- and no MCP looking over your
+
+shoulder.
+
+DUMONT
+
+(sighs)
+
+When you've been in the system as long
+
+as I have, you hear many promises...
+
+many reassurances...many brave plans...
+
+DUMONT (CONT.)
+
+(falling into ritual)
+
+Who is your User, program?
+
+TRON
+
+Alan-One. He calls me... may I pass?
+
+DUMONT
+
+All that is visible must grow beyond
+
+itself and extend into the realm of
+
+the invisible.
+
+DUMONT
+
+You may pass, my friend.
+
+CUT TO:
+
+376  EXT. 1/0 TOWER                                               376
+
+CUT TO:
+
+377  A CORRIDOR IN THE TOWER. A CORNER.                           377
+
+FLYNN
+
+This is where Tron said he was going...
+
+FLYNN (CONT.)
+
+Looks like his kind of place, too...
+
+real serious.
+
+CUT TO:
+
+378  A SHOT FROM IN FRONT OF HIM                                  378
+
+CUT TO:
+
+379  CLOSE SHOT - MANY FEET MARCHING FAST                         379
+
+GUARDS
+
+Hut! Hut! hut! Hut! Hut!
+
+CUT TO:
+
+380  A SHOT OF THE CORRIDOR WHERE WE LAST SAW FLYNN               380
+
+CUT TO:
+
+381  A SHOT FROM THE CORNER                                       381
+
+CUT TO:
+
+382  POV FROM LEDGE                                               382
+
+CUT TO:
+
+383  A SHOT FROM RIGHT BEHIND THE LAST WARRIOR                    383
+
+CUT TO:
+
+384  A SHOT OF FLYNN'S UPRAISED ARM                               384
+
+CUT TO:
+
+385  A FLASH OF BLUE LIGHT.                                       385
+
+CUT TO:
+
+386  A SHOT FROM ABOVE                                            386
+
+BIT (V.O.)
+
+All right!
+
+CUT TO:
+
+387  A SHOT FROM THE CORNER OF THE HALL                           387
+
+CUT TO:
+
+387A The Bit, upset, BUZZES around Flynn nervously.               387A
+
+FLYNN
+
+Sshhh I'm still me. Just a different
+
+color. C'mon.
+
+CUT TO:
+
+388  A SHOT OF FLYNN                                              388
+
+CUT TO:
+
+389  INT. I/0 HALLWAY - MED. SHOT SARK - FULL FACE                389
+
+CUT TO:
+
+390  A LONG SHOT FROM BEHIND HIM                                  390
+
+SARK
+
+That old fruitcake Dumont...
+
+he'll pay for this.
+
+CUT TO:
+
+391  A CLOSE SHOT LOOKING OVER SARK'S SHOULDER                    391
+
+SARK
+
+Bring in the logic probe!!
+
+392  THE HEART OF THE TOWER                                       392
+
+393  INT. COMMUNICATION BELL                                      393
+
+394  HIS POV                                                      394
+
+395  FROM THE OPENING                                             395
+
+396  A SHOT FROM BELOW HIM, NEAR HIS FEET, LOOKING UP.            396
+
+397  TRON'S FACE FROM ABOVE                                       397
+
+CUT TO:
+
+397  A SHOT OF THE BEAM                                           397
+
+398  THE 1/0 TOWER CENTRAL CHAMBER                                398
+
+399  EXT. CENTRAL CHAMBER - DOOR                                  399
+
+CUT TO:
+
+400  INT. CENTRAL CHAMBER                                         400
+
+CUT TO:
+
+401  HER POV - THE DOOR                                           401
+
+YORI V.0.
+
+(Gasp)
+
+Dumont--!
+
+CUT TO:
+
+402  INT. COMMUNICATION CHAMBER                                   402
+
+ALAN V.0.
+
+TRON... TRON... Location query...
+
+location query... Confirm.
+
+TRON
+
+Confirmed, Alan-One.
+
+ALAN
+
+(sigh of relief)
+
+There you are... look, before we get
+
+cut off again...
+
+ALAN (V.0.)
+
+I'm going to put some new coding on
+
+your-disk, so you can get into the
+
+memory core of the Master Control...
+
+when you get there...
+
+CUT TO:
+
+403  INT. DUMONT'S. CENTRAL CHAMBER                               403
+
+404  INT. COMMUNICATION CHAMBER                                   404
+
+ALAN (V.0.)
+
+search all password code series
+
+TRON
+
+Wait! I can't hear...
+
+CUT TO:
+
+405  POV - THE DISK                                               405
+
+CUT TO:
+
+406  OMIT                                                         406
+
+407  THE DOOR                                                     407
+
+YORI (V.0.)
+
+Dumont! The door...
+
+408  YORI                                                         408
+
+409  OMIT                                                         409
+
+410  SHOT OF DUMONT                                               410
+
+DUMONT
+
+I have waited for this moment many
+
+thousands of cycles. It is time for the
+
+new order to begin... The Users are
+
+waiting.
+
+411  LONG SHOT as Yori steps forward up the steps.                411
+
+CUT TO:
+
+412  EXT. CHAMBER - THE DOOR                                      412
+
+CUT TO:
+
+413  INT. CHAMBER - THE DOOR                                      413
+
+SARK
+
+(pointing)
+
+Dumont!
+
+CUT TO:
+
+414  FULL SHOT - CHAMBER                                          414
+
+SARK
+
+Where's the program?
+
+DUMONT
+
+(dotty-old-man act)
+
+Program? I'm sure you're mistaken.
+
+414A CLOSE SHOT - SARK                                            414
+
+SARK
+
+Take him!!!
+
+415  EXT. SIMULATION HANGAR                                       415
+
+416  INT. HANGAR                                                  416
+
+417  A LONG SHOT                                                  417
+
+YORI (V.0.)
+
+This way...there's a simulation
+
+we can use...
+
+418  SHOT OF THEM RISING ON AN ELEVATOR PLATFORM, FROM            419
+
+419  A SHOT FROM THE SIDE OF THE SAILER, RISING WITH TRON         419
+
+TRON V.O.
+
+Can it carry us?
+
+YORI V.0.
+
+The design is good... We don't know
+
+why the User abandoned the project...
+
+420  SHOT OF THEM FROM THE LONG WALKWAY, FACING THE STERN         420
+
+YORI
+
+Yes...it can take us across the
+
+Sea of Simulation... all the way
+
+out of the Game Grid...to the MCP.
+
+TRON
+
+(looking out
+
+of hangar)
+
+As long as it gets us out of here
+
+421  EXT. HANGAR                                                  421
+
+CUT TO:
+
+422  EXT. SOLAR SAILER DECK - TRON AND YORI                       422
+
+CUT TO:
+
+423  THE TWO OF THEM FROM A LOW ANGLE                             423
+
+CUT TO:
+
+424  THE TWO GUARDS, CREEPING DOWN THE WALKWAY                    424
+
+TRON
+
+Yori! Get down!
+
+425  THE GUARDS                                                   425
+
+CUT TO:
+
+426  A LOW ANGLE, AS TRON KICKS THE FIRST GUARD BACK              426
+
+CUT TO:
+
+427  EXT. ENTRANCE TO THE HANGAR                                  427
+
+CUT TO:
+
+428  TRON                                                         428
+
+CUT TO:
+
+429  OMITTED                                                      429
+
+430  WALKWAY OF SAILER                                            430
+
+CUT TO:
+
+431  YORI'S POV - LONG SHOT                                       431
+
+432  TRON                                                         432
+
+CUT TO:
+
+433  A SHOT FROM THE EXTERIOR OF THE HANGAR                       433
+
+434  TRON                                                         434
+
+435  YORI                                                         435
+
+YORI
+
+We're off!
+
+436  EXT. HANGAR                                                  436
+
+437  EXT. AIRCRAFT CARRIER - BRIDGE - SARK & MCP                  437
+
+MCP
+
+I hope you've enjoyed being a command
+
+program, Sark. I wonder how you'll like
+
+working in a pocket calculator... maybe
+
+one of those watches that plays "Happy
+
+Birthday" to its User once a year.
+
+SARK
+
+Now, sir... We did take care of that
+
+User you sent us --
+
+MCP
+
+Yes, and now you've got two renegade
+
+programs running all the hell over the
+
+system in a stolen simulation.
+
+SARK
+
+We'll get them, sir... These things
+
+take time.
+
+MCP
+
+I don't have time, Sark. And neither
+
+do you. End of line.
+
+438-439 OMIT                                                         438-439
+
+440  SOLAR SAILER - WALKWAY - TRON                                440
+
+YORI V.O.
+
+Tron, are you all right?
+
+441  CLOSE SHOT FROM IN FRONT OF TRON                             441
+
+CUT TO:
+
+442  TRON'S POV                                                   442
+
+CUT TO:
+
+443  A SHOT FROM BELOW THE WALKWAY                                443
+
+444  CLOSE SHOT OF TRON                                           444
+
+BIT
+
+(buzzing around Tron's
+
+head like a fly)
+
+No way, not on your life, no siree!!
+
+Nothing doing, forget it!!!
+
+CUT TO:
+
+445  SHOT OF WARRIOR'S FACE                                       445
+
+CUT TO:
+
+446  FLYNN'S POV OF TRON                                          446
+
+TRON
+
+Flynn!!
+
+447  SIDE SHOT OF THEM BOTH                                       447
+
+FLYNN
+
+Greetings, program...
+
+TRON
+
+(dumbfounded)
+
+You're alive!
+
+FLYNN
+
+Yeah, I... oops!
+
+449  YORI                                                         449
+
+450  WIDER SHOT                                                   450
+
+YORI
+
+(nervously)
+
+Who is this?
+
+TRON
+
+(smiling)
+
+Flynn...
+
+(he turns to
+
+Flynn eagerly)
+
+Where's Ram?
+
+FLYNN
+
+I'm sorry, Tron... he's...
+
+he didn't make it.
+
+TRON
+
+(to Yori)
+
+This is Flynn... the one who
+
+busted me out.
+
+YORI
+
+(to Flynn)
+
+Then I owe you some thanks...
+
+FLYNN
+
+No big deal. I ought to know my way
+
+around that Light Cycles routine...
+
+I mean, I did write the program for it.
+
+TRON
+
+(mystified)
+
+Wrote the...?
+
+FLYNN
+
+It's time I levelled with you, Tron.
+
+I'm a -- well, I'm what you guys call a
+
+User.
+
+YORI
+
+A User -- in our world?
+
+FLYNN
+
+(nods)
+
+Guess I took a wrong turn somewhere...
+
+TRON
+
+But -- if you're a User -- then
+
+everything you've done has been
+
+part of a plan ...
+
+FLYNN
+
+(laughs)
+
+You wish. Man, I haven't had a second
+
+to think since I got down here. I mean
+
+in here. Out here. Whatever.
+
+TRON
+
+Then...
+
+FLYNN
+
+Look, you guys know how it is. You just
+
+keep doin' what it looks like you're
+
+supposed to, even if it seems crazy, and
+
+you hope to hell your User knows what's
+
+goin' on.
+
+TRON
+
+Well -- that's how it is for programs,
+
+yes, but --
+
+FLYNN
+
+I hate to disappoint you, pal, most-the
+
+time, that's how it is for Users, too.
+
+TRON
+
+Stranger and stranger...
+
+BIT
+
+You said it.
+
+FLYNN
+
+(pats Tron on back)
+
+So... Nice ship you got here. What's our
+
+next move?
+
+TRON
+
+(smiles)
+
+Remember you wanted to pay a call on
+
+the MCP?
+
+TRON (CONT.)
+
+We're on our way.
+
+(indicates disk)
+
+Alan-One gave me the coding we need to go
+
+up against Master
+
+FLYNN
+
+All right. Thank God. Alan stayed awake,
+
+at least.
+
+451  LONG SHOT                                                    451
+
+452  THE BRIDGE - SARK                                            452
+
+LIEUTENANT
+
+Sir, what do you want done with
+
+the tower guardian, Dumont?
+
+Put him with the others?
+
+SARK
+
+No, bit brain.
+
+SARK
+
+Prepare him for inquisition. I need
+
+a little relaxation. But first rez up
+
+the carrier for pursuit... And one other
+
+thing.
+
+SARK
+
+(continuing)
+
+Don'tthink anymore. I do the
+
+thinkingaround here.
+
+453  LONG SHOT OF SOLAR SAILER ON THE BEAM                        453
+
+454/455 OMITTED                                                      454/455
+
+CUT TO:
+
+456  SOLAR SAILER DECK                                            456
+
+FLYNN
+
+What about our friend - Sark?
+
+TRON
+
+Probably decided not to pursue us,
+
+The Sea of Simulation is tricky..
+
+lot of illusions...rough navigating.
+
+Programs have a way of just...
+
+disappearing here.
+
+FLYNN
+
+Not us, I hope.
+
+TRON
+
+(shakes his head,
+
+indicates disk)
+
+Not with this disk. I'm going to
+
+check on the beam connection, Yori.
+
+You two can keep a watch out for
+
+grid bugs.
+
+FLYNN
+
+Boy the view from up here... you
+
+know the territory?
+
+YORI
+
+A little ...
+
+(points out sights)
+
+Over there, the Mountains of Data...
+
+and I think that's the Silicon Valley...
+
+FLYNN
+
+(pointing)
+
+What's wrong with that area?
+
+457  HIS POV                                                      457
+
+YORI
+
+(sadly)
+
+The MCP blasted it... There are very
+
+few domains left with any power at all.
+
+FLYNN
+
+Lousy utility companies ...
+
+they're the same wherever you go.
+
+456-461 OMIT                                                         456-461
+
+462  INT. DIMLY LIT CELL                                          462
+
+463  CLOSE UP SARK                                                463
+
+464  MED. SHOT - DUMONT                                           464
+
+DUMONT
+
+What do you want? I'm busy.
+
+465  SHOT OVER DUMONT'S SHOULDER                                  465
+
+SARK
+
+(snarling)
+
+Busy dying, you worn-out excuse for
+
+an old program.
+
+DUMONT
+
+Yes, I'm old.
+
+466  SHOT OF DUMONT                                               466
+
+DUMONT
+
+(continuing)
+
+Old enough to remember the MCP when he
+
+was just a chess program. He started
+
+small, and he'll end small.
+
+467  SHOT OF SARK                                                 467
+
+SARK
+
+(throws back his
+
+head and laughs)
+
+That's very funny, Dumont. Maybe I
+
+should keep you around, just to make me
+
+laugh.
+
+467A SHOT OVER DUMONT'S SHOULDER                                  467A
+
+SARK
+
+(continuing)
+
+Guards! Bring this antique to the
+
+bridge so he can watch his friends
+
+be obliterated.
+
+CUT TO:
+
+468  THE DECK OF THE SOLAR SAILER                                 466
+
+469  TRON'S FACE                                                  469
+
+470  LONG SHOT FROM THE SIDE                                      470
+
+CUT TO:
+
+471  EXT. DECK OF SOLAR SAILER - SHOT OF CONTROL PANEL            471
+
+TRON
+
+(shouting)
+
+What is it?
+
+YORI
+
+Power surge... the transmission beam's
+
+too strong!
+
+TRON
+
+We have to get off this beam!
+
+YORI
+
+(frantic)
+
+I can't. There's no junction due for at
+
+least 7 or 8 nanoseconds!
+
+472  OMIT                                                         472
+
+473  LONG SHOT                                                    473
+
+474  DECK OF SOLAR SAILER                                         474
+
+FLYNN
+
+There's another beam!
+
+YORI
+
+It's too far!
+
+CUT TO:
+
+475  VIEW D0WN THE WALKWAY, FROM THE STERN                        475
+
+CUT TO:
+
+476  YORI'S FACE                                                  476
+
+YORI
+
+Where's he going?
+
+CUT TO:
+
+477  TRON'S FACE                                                  477
+
+TRON
+
+The beam connection...
+
+but he'll be de-rezzed!!
+
+CUT TO:
+
+478  SHOT IN FRONT OF SOLAR SAILER, FACING THE BOW                478
+
+CUT TO:
+
+479  FLYNN'S HAND                                                 479
+
+CUT TO:
+
+480  SHOT FROM ABOVE FLYNN                                        480
+
+CUT TO:
+
+481  TRON AND YORI                                                481
+
+CUT TO:
+
+482  SHOT FROM ABOVE FLYNN                                        482
+
+CUT TO:
+
+483  LONG SHOT                                                    483
+
+CUT TO:
+
+484  YORI'S FACE                                                  484
+
+CUT TO:
+
+485  SIDE SHOT                                                    485
+
+CUT TO:
+
+486  SHOT OF TRON                                                 486
+
+CUT TO:
+
+487  CLOSE SHOT                                                   487
+
+FLYNN
+
+(weakly)
+
+Did we make it?
+
+TRON
+
+Yes.
+
+FLYNN
+
+Hooray for our side...
+
+DISSOLVE TO:
+
+488  A WATERY, WAVERING VIEW OF YORI                              488
+
+489  SOLAR SAILER - TRON, FLYNN, YORI                             489
+
+FLYNN
+
+Hey... you guys OK?
+
+TRON
+
+(nods)
+
+How about you?
+
+FLYNN
+
+Aah, I'm fine... little hung over
+
+is all...
+
+YORI
+
+How did you do that, Flynn?
+
+FLYNN
+
+(sitting up)
+
+Elementary physics... a beam of
+
+energy can always be diverted...
+
+ooh, my head
+
+(looks around --
+
+to Yori)
+
+Are we there yet, Mommy?
+
+YORI
+
+Almost... I just have to adjust our
+
+course at the next junction. I'd better
+
+go check the instruments ...
+
+490  LONG SHOT                                                    490
+
+491  TRON & FLYNN                                                 491
+
+492-500 OMIT                                                         492-500
+
+501  TRON'S POV                                                   501
+
+TRON (V.0.)
+
+Sark!
+
+502-519 OMIT                                                         502-519
+
+520  LONG SHOT                                                    520
+
+521-523 OMIT                                                         521-523
+
+524  YORI AND FLYNN                                               524
+
+CUT TO:
+
+525  TRON                                                         525
+
+CUT TO:
+
+526  FLYNN AND YORI                                               526
+
+527  THEIR POV                                                    527
+
+CUT TO:
+
+527A LONG SHOT                                                    527A
+
+CUT TO:
+
+528  TRON                                                         528
+
+529/530 OMITTED                                                      529/530
+
+531  INT. DUMONT'S CELL                                           531
+
+532  FULL SHOT                                                    532
+
+532A MED. SHOT                                                    532A
+
+DUMONT
+
+Quietly, Yori...
+
+DUMONT
+
+(continuing)
+
+Tron... ?
+
+YORI
+
+He's dead.
+
+DUMONT
+
+(sighs, looks
+
+at Flynn)
+
+And who is this?
+
+YORI
+
+He's a User, Dumont. He came to
+
+our world... trying to help us...
+
+DUMONT
+
+(despairing)
+
+If the Users can no longer help us...
+
+SARK
+
+So... we have erased the program that -
+
+SARK (CONT.)
+
+You! No!
+
+SARK (CONT.)
+
+You died! I saw you!
+
+FLYNN
+
+Not me, boss.
+
+SARK
+
+Well... we can take care of that
+
+soon enough.
+
+SARK (CONT.)
+
+Take this program to the holding pit.
+
+YORI
+
+(rushing after him)
+
+Dumont...!
+
+SARK
+
+(indicates Dumont)
+
+I'm taking our friend here, and
+
+some other religious fanatics, to
+
+Master Control... the MCP has expressed
+
+an interest in assimilating them --
+
+probably for archival purposes.
+
+I'm not going back to the Game Grid
+
+on this ship, though -- I'll take
+
+the Transport Beam.
+
+(smiles)
+
+Less traffic. But when I disembark,
+
+this ship...and everything that remains
+
+on board...will automatically de-rez.
+
+This means you.
+
+Enjoy your trip...
+
+533  SHOT LOOKING DOWN INTO THE PIT CELLS                         533
+
+534  ANGLE - LEVEL ABOVE CELLS                                    534
+
+535  FLYNN                                                        535
+
+536  LONG SHOT                                                    536
+
+537/538 OMITTED                                                      537/538
+
+539  SHOT FROM THE CARRIER                                        539
+
+540  EXT. BRIDGE AREA OF CARRIER                                  540
+
+LIEUTENANT (V.O.)
+
+Docking module prepared to disengage, sir.
+
+541  INSERT                                                       541
+
+542  OMIT                                                         542
+
+543  EXT. SHOT                                                    543
+
+543A CLOSE UP - SPECK                                             543A
+
+544  FLYNN, YORI AND THE BIT                                      544
+
+545  LONG SHOT                                                    545
+
+546  A SHOT                                                       546
+
+547  POD POV                                                      547
+
+548  POD                                                          548
+
+549  INT. POD                                                     549
+
+550  EXT. CARRIER                                                 550
+
+551  MED. SHOT                                                    551
+
+FLYNN
+
+Hey!
+
+FLYNN
+
+(continuing; turning)
+
+Look, the door's almost...
+
+CUT TO:
+
+552  HIS POV                                                      552
+
+553  WIDE SHOT                                                    553
+
+FLYNN
+
+Yori!
+
+554  CLOSE SHOT                                                   554
+
+YORI
+
+(in awe)
+
+You... you brought me back...?
+
+Why...? How ... ?
+
+FLYNN
+
+I'm gonna need your help. Hey, Bit!
+
+BIT
+
+Yes!
+
+FLYNN
+
+Let's get outta here.
+
+555  THE MESA TOP OF THE MCP                                      555
+
+556  EXT. POD DOOR - LIEUTENANT                                   556
+
+557  CLOSER SHOT                                                  557
+
+558  THE MCP                                                      558
+
+559  SIDE SHOT OF THE ENTRANCE                                    559
+
+560  POV OF THE DOOMED PROGRAMS                                   560
+
+MCP
+
+(echoing, booming)
+
+I am delighted that so many of you
+
+could turn out to give your
+
+power over to me...
+
+561  FULL SHOT - THE PROGRAMS                                     561
+
+MCP
+
+You're very lucky, all of you. You
+
+are participating in the creation of
+
+the single most powerful program in
+
+the history of the system... of all
+
+systems...
+
+MCP
+
+(continuing)
+
+A program with a will... with
+
+ambition... a superior form of
+
+life...
+
+562  EXT. MCP                                                     562
+
+SARK
+
+Go!
+
+563  CLOSE - DUMONT'S FACE                                        563
+
+564  INT. INNER CHAMBER OF MCP                                    564
+
+MCP
+
+Welcome!
+
+565  EXT. CARRIER BRIDGE                                          565
+
+FLYNN
+
+Check out the controls.
+
+FLYNN
+
+(continuing)
+
+We're getting closer.
+
+566  HIS POV                                                      566
+
+567  EXT. LANDSCAPE - LONG SHOT                                   567
+
+367A EXT. MCP                                                     567A
+
+568  INT. MCP - MED. SHOT - DUMONT                                568
+
+MCP
+
+Dumont, I'm so pleased that we've
+
+finally come to terms with one
+
+another...
+
+569  EXT. CPU MESA                                                569
+
+VOICE
+
+SARK!
+
+570  SARK'S POV                                                   570
+
+571  CLOSE UP SARK'S FACE                                         571
+
+SARK
+
+I don't know how you survived,
+
+slave.
+
+572  WIDE SHOT FROM THE SIDE                                      572
+
+SARK
+
+It doesn't matter. Prepare to
+
+terminate.
+
+573  SHOT FROM ABOVE                                              573
+
+574  EXT. CARRIER BRIDGE                                          574
+
+FLYNN
+
+I can rev this baby up a little
+
+FLYNN
+
+(continuing)
+
+Wait a minute Yori! YORI!! LOOK!
+
+575  FULL SHOT                                                    575
+
+YORI
+
+TRON!!
+
+576  CLOSE UP - YORI                                              576
+
+577  HER POV                                                      577
+
+577A FULL SHOT - THE BRIDGE                                       577
+
+YORI
+
+Flynn, we've got to help him!
+
+FLYNN
+
+Let's get some power here.
+
+CUT TO:
+
+578  CLOSE UP                                                     578
+
+SARK
+
+You are very persistent, Tron.
+
+579  MED. SHOT                                                    579
+
+580  SHOT OF TWO WEAPONS                                          580
+
+581  SHOT OF TRON                                                 581
+
+TRON
+
+I'm also better than you....
+
+582  SHOT OF SARK'S DISK                                          582
+
+583  SHOT OF TRON FROM BEHIND                                     583
+
+584  TRON'S HAND                                                  584
+
+584A MED. SHOT SARK                                               584A
+
+SARK
+
+Very clever, Tron. You know you
+
+should have joined me.
+
+585  OVERHEAD POV                                                 585
+
+586  FLYNN AND YORI                                               586
+
+FLYNN
+
+Any response?
+
+YORI
+
+It's starting
+
+CUT TO:
+
+587  SARK                                                         587
+
+SARK
+
+We would have made a great team.
+
+588  TRON'S DISK                                                  588
+
+589  SARK                                                         589
+
+590  LONGER SHOT                                                  590
+
+591  OMITTED                                                      591
+
+592  TRON                                                         592
+
+593  SHOT FROM BEHIND TRON                                        593
+
+MCP
+
+(before he sees Tron)
+
+It is very good that you...
+
+594  OMITTED                                                      594
+
+595  SHOT OF TRON                                                 595
+
+TRON
+
+I don't think it is good for you, MCP.
+
+596  SHOT OF MCP                                                  596
+
+MCP
+
+Sark! How have you allowed this
+
+program to
+
+597  OMITTED                                                      597
+
+598  SHOT FROM BEHIND TRON                                        598
+
+TRON
+
+Sark's out. Would you like to
+
+leave a message?
+
+MCP
+
+I am the message. The only message.
+
+Sark!
+
+MCP
+
+(continuing)
+
+SARK!
+
+599  CLOSE SHOT - WALL                                            599
+
+TRON
+
+(trying to pull
+
+Dumont away from wall)
+
+Dumont!
+
+DUMONT
+
+No... Tron ... must... destroy
+
+MCP... first...
+
+TRON
+
+Dumont! Where's Yori? Where's
+
+Flynn?
+
+DUMONT
+
+(very weak)
+
+They may be... de-rezzed... on
+
+the carrier ... hurry...
+
+600  MED. SHOT - TRON                                             600
+
+MCP
+
+Program... stop. This is not allowed!
+
+601  SHOT OF MCP                                                  601
+
+MCP
+
+I will not allow this Sark!
+
+(thundering)
+
+SARK!!!
+
+602  OMITTED                                                      602
+
+603  INSERT                                                       603
+
+604  TRON                                                         604
+
+MCP
+
+(thundering)
+
+SARK!!!
+
+605  SARK                                                         605
+
+606  CLOSE UP - FACE                                              606
+
+607  LONG SHOT                                                    607
+
+608  OMITTED                                                      608
+
+609  HIS POV OF BEAM                                              609
+
+610  SHOT OF YORI AND FLYNN                                       610
+
+FLYNN
+
+Yori, steer us over the beam,
+
+right next to it.
+
+YORI
+
+(going to controls)
+
+Why? What are you going to do?
+
+FLYNN
+
+(staring down)
+
+Jump.
+
+YORI
+
+But... won't you be de-rezzed?
+
+FLYNN
+
+(turns to her)
+
+Probably.
+
+611  INT. MCP - TRON                                              611
+
+612  TRON'S POV OF GIANT SARK                                     612
+
+613  BRIDGE                                                       613
+
+YORI
+
+Flynn... you can't... I
+
+FLYNN
+
+(lays finger on
+
+her lips)
+
+Shhhhh.
+
+FLYNN (CONT.)
+
+(whispering)
+
+I'm sure Tron wouldn't mind if...
+
+just once...
+
+614  CLOSE UP - THEIR FACES                                       614
+
+FLYNN
+
+Don't worry.
+
+615  LONGER SHOT                                                  615
+
+616  HER POV                                                      616
+
+617  INT. MCP                                                     617
+
+SARK/MCP
+
+End of line, program...
+
+618  SHOT OF THE APEX                                             618
+
+619  SHOT OF SARK                                                 619
+
+620  SHOT OF THE MCP                                              620
+
+621  YORI AND THE BIT                                             621
+
+622  HER POV                                                      622
+
+623  YORI                                                         623
+
+624  LONG SHOT                                                    624
+
+625  YORI                                                         625
+
+626  HER POV                                                      626
+
+627  LONG SHOT                                                    627
+
+CUT TO:
+
+628  EXT. CPU MESA - TRON                                         628
+
+629  SHOT OF CARRIER                                              629
+
+630  EXT. CPU MESA                                                630
+
+TRON
+
+(laughing)
+
+Nice...
+
+YORI
+
+It's something Users do.
+
+TRON
+
+Where's Flynn?
+
+YORI
+
+He's gone. He went into the beam.
+
+He saved you. He saved all of us.
+
+DUMONT
+
+He really was a User...
+
+BIT
+
+(quietly, sadly)
+
+Yes...
+
+631  LONG SHOT FROM OVERHEAD                                      631
+
+DISSOLVE TO:
+
+632  RACING OVER THE CIRCUIT PATTERN                              632
+
+633  THE REAL WORLD - LASER LAB                                   633
+
+CUT TO:
+
+634  INT. ALAN'S OFFICE - ALAN AND LORA                           634
+
+FLYNN
+
+Hey -- you guys
+
+ALAN
+
+Flynn! I made it. I worked out some
+
+new codes for Tron, put 'em on a disk,
+
+and -- it's running.
+
+FLYNN
+
+I know, I met him.
+
+FLYNN (CONT.)
+
+I mean, I saw it read-up -
+
+hey, look at this.
+
+ALAN
+
+Your old files -- ?
+
+FLYNN
+
+And Dillinger's instructions to
+
+divert them -- it's all there -
+
+look, even his home phone number,
+
+when he logged on.
+
+ALAN
+
+Oh, that is beautiful. You've got
+
+the goods...
+
+FLYNN
+
+You're telling me...
+
+635  CRT SCREEN                                                   635
+
+FLYNN (V.0.)
+
+you have any idea how much I can sue these
+
+jokers for?
+
+LORA (V.0.)
+
+Well, just don't forget your old friends
+
+when you're rich and famous.
+
+FLYNN (V.0.)
+
+Are you kidding? You guys'll he running
+
+this joint by then...
+
+ALAN (V.O.)
+
+Your friend Dillinger sure won't...
+
+FLYNN (V.O.)
+
+Hey, you know anybody who wants to
+
+get hold of some video games... cheap?
+
+LORA (V.O.)
+
+You're getting out of the business?
+
+ALAN (V.O.)
+
+Shouldn't you wait till your
+
+lawsuit's settled?
+
+FLYNN (V.0.)
+
+Nah...I decided...I've had enough of
+
+video games to last me a good long
+
+time. I feel like gettin' into some
+
+real life...
+
+BLACK OUT.
+

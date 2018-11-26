@@ -1,0 +1,3194 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Jurassic Park 3
+
+JURASSIC PARK III
+
+Written by
+
+Peter Buchman
+
+revisions by
+
+Alexander Payne, Jim Taylor and John August
+
+1 	EXT. PACIFIC OCEAN  DAY	1
+
+2 	EXT. BOAT - DAY 							2
+
+3 	EXT. BOAT - DAY 							3
+
+BEN
+
+You make sure to get us as close as you can,
+
+okay? If it's a good trip, I'll give you a
+
+little extra.
+
+ENRIQUE
+
+Don't worry. I take you close. But not too
+
+close.
+
+(rubbing Eric's head)
+
+You don't want them to eat you.
+
+ENRIQUE (CONT'D)
+
+Ready, amigos?
+
+ERIC
+
+What was that?
+
+ERIC (CONT'D)
+
+Ben!
+
+BEN
+
+Unclip your line!
+
+4 	EXT. SUBURBAN BACKYARD - DAY 					4
+
+CHILD (O.S.)
+
+RRRRROW! GRRRRRR!
+
+GRANT
+
+Oh, actually, Charlie, those two are
+
+herbivores. They wouldn't be interested in
+
+fighting each other. But these...
+
+(picking up two other dinosaurs)
+
+See, these are carnivores. And this one here
+
+-- see its claws -- this one here uses its
+
+claws to gouge at the throat of its opponent...
+
+ELLIE
+
+(interrupting)
+
+Uh, Alan?
+
+GRANT
+
+Hmm?
+
+ELLIE
+
+He's three. Why don't you wait till he's a
+
+little older?
+
+GRANT
+
+Oh, right.
+
+(back to Charlie)
+
+Happy dinosaurs.
+
+ELLIE
+
+That must be Mark.
+
+(calling out)
+
+Mark, were back here!
+
+MARK DEGLER coming through the gate carrying a briefcase. He's their age, handsome but not annoyingly so, with a friendly,
+
+ELLIE (CONT'D)
+
+Good day?
+
+MARK
+
+Keeping the world safe.
+
+(re: baby)
+
+Here, let me take her.
+
+ELLIE
+
+Mark, this is Alan Grant.
+
+MARK
+
+Nice to meet you, Alan. I've heard a lot about
+
+you.
+
+CHARLIE
+
+Daddy, this is a herbabore.
+
+5 	INT. DINING ROOM - NIGHT 					5
+
+the bird with a cookie, holding a it just out of reach.
+
+GRANT
+
+What's my name? Come on, Jack, say it. Is my
+
+name Alan? Say my name.
+
+The bird doesn't respond.
+
+GRANT (CONT'D)
+
+He used to know me.
+
+ELLIE
+
+Sorry, Alan it's been six years.
+
+MARK
+
+More coffee?
+
+ELLIE
+
+(relived)
+
+Yes. Great.
+
+ELLIE (CONT'D)
+
+So, Mark's working at the State Department
+
+now.
+
+GRANT
+
+Really?
+
+(To Mark)
+
+What do you do there?
+
+MARK
+
+(with mock bravado)
+
+I could tell you about it, but than I'd have to
+
+kill you.
+
+GRANT
+
+Indeed.
+
+ELLIE
+
+GRANT
+
+ELLIE
+
+Anything good?
+
+GRANT
+
+Raptors, mostly.
+
+ELLIE
+
+My favorite.
+
+GRANT
+
+You remember the sounds they made?
+
+ELLIE
+
+I try not to.
+
+GRANT
+
+We've done cranial scans, and raptors
+
+actually had a quite sophisticated
+
+resonating chamber. I have a theory that
+
+their ability to vocalize is the key to their
+
+social intelligence. The way they can work
+
+together as a team.
+
+ELLIE
+
+You think they could talk to each other?
+
+GRANT
+
+To a degree we never imagined.
+
+JACK
+
+Bullshit!
+
+ELLIE
+
+You taught him that.
+
+6 	EXT. SUBURBAN STREET - NIGHT 					6
+
+ELLIE
+
+Good luck with the fund raising.
+
+GRANT
+
+It was never easy, but before Jurassic Park,
+
+you could find money. Somewhere. Now fossils
+
+are out. Everyone wants to see a real live
+
+dinosaur.
+
+ELLIE
+
+Times change Alan. But you're the still the
+
+best. I mean that.
+
+GRANT
+
+The last of my breed.
+
+GRANT (CONT'D)
+
+I'd better get going.
+
+ELLIE
+
+Let me know if I can help, Alan. Youre bad
+
+about asking for help, but please ask me.
+
+Anything, anytime.
+
+GRANT
+
+(deep down knowing he never
+
+will)
+
+Okay. Goodbye, Ellie.
+
+ELLIE
+
+Goodbye, Alan.
+
+ELLIE (CONT'D)
+
+When I met you, I thought that one day
+
+millions of years ago, all the dinosaurs
+
+became extinct. Wiped out. But you told me
+
+otherwise. When conditions changed,
+
+dinosaurs changed. They became other things.
+
+They evolved.
+
+GRANT
+
+A well-accepted theory.
+
+ELLIE
+
+(simply)
+
+Alan don't be afraid to evolve.
+
+7 	INT. AUDITORIUM - DAY 						7
+
+GRANT
+
+It's through the painstaking study of the
+
+Interior chamber in multiple specimens that
+
+we can determine this exciting correlation
+
+between the larynx and the upper plate. That
+
+lets us theorize -- theorize, mind you -- that
+
+the raptor might have been capable of bird-
+
+like vocalizations. Which as you can
+
+imagine, would be a tremendous breakthrough.
+
+SYMPOSTIUM LEADER
+
+Thank you very much Dr. Grant. Now does
+
+anyone have a question?
+
+GRANT
+
+Does anyone have a question that doesn't
+
+relate to Jurassic Park?
+
+GRANT (cont'd)
+
+Or the incident in San Diego, which I'll
+
+remind you, I did not witness.
+
+MALE STUDENT
+
+Your theory on raptors is good and all, but
+
+isn't all this conjecture kind of moot?
+
+MALE STUDENT (CONT'D)
+
+I mean, once the U.N. and Costa Rica and
+
+everyone decides how to handle the second
+
+island, scientist will just go in and look
+
+for themselves.
+
+TOO-CLEVER SCIENCE REPORTER
+
+Isn't paleontology itself in danger of
+
+extinction?
+
+GRANT
+
+No, and let me be perfectly clear on this
+
+point. Dinosaurs lived 65 million years ago.
+
+What's left of them is fossilized in stone
+
+the actual scientists spend years to
+
+undercover.
+
+(MORE)
+
+GRANT (CONT'D)
+
+what John Hammond and InGen created are
+
+theme park monsters. Nothing more, nothing
+
+less.
+
+The class clearly disagrees with his assessment.
+
+ANOTHER STUDENT
+
+You're saying you wouldn't want to study
+
+them if you had the chance?
+
+GRANT
+
+No force on this earth or in heaven could get me on
+
+that island.
+
+8 	INT. DERELICT COCKPIT - DAY 					8
+
+9 	EXT. AIRCRAFT GRAVEYARD - DAY 					9
+
+10 	INT. CARGO PLANE - DAY 					       10
+
+UDESKY
+
+Udesky.
+
+(beat)
+
+Yes sir. we're good to go. I'll lock it down as
+
+soon as you drop me the payment.
+
+11 	EXT. CARGO PLANE - DAY 					       11
+
+UDESKY
+
+That's right, two of the very best I could
+
+find. No, I haven't worked with them
+
+personally, but they come with the highest
+
+recommendations.
+
+UDESKY (CONT'D)
+
+You've got nothing to worry about, sir. This
+
+is going to be a piece of cake.
+
+12 	EXT. EXCAVATION BASE CAMP, PT. PECK LAKE, MT - DAY 	12
+
+CHERYL
+
+Billy? I don't think I'm doing this right.
+
+BILLY
+
+You need to go slowly. See, just take it little
+
+at a time.
+
+CHERYL
+
+I can never tell what's bone and what's rock.
+
+BILLY
+
+Technically, it's all rock. The calcium in the
+
+bones is replaced during fossilization. But
+
+you can feel the difference. See? Rough,
+
+smooth. Rough, smooth.
+
+CHERYL
+
+Rough.
+
+CHERYL (cont'd)
+
+Smooth.
+
+BILLY
+
+Dr. Grant!
+
+GRANT
+
+Mr. Brennan.
+
+CUT TO:
+
+12A	EXT. WALKING TO THE MAIN TENTS - DAY 			12A
+
+BILLY
+
+How was your trip? Profitable?
+
+GRANT
+
+We'll be broke in four weeks.
+
+BILLY
+
+Three weeks. I had to rent some equipment.
+
+GRANT
+
+You rented an automated litter box.
+
+BILLY
+
+It's a rapid prototyper. I feed in the scan
+
+data from the raptor skull, than the computer
+
+breaks it into thousands of slices which this
+
+thing prints, one layer on top of the other.
+
+It's the future of paleontology.
+
+GRANT
+
+Not if it can't dig.
+
+BILLY
+
+I give you a raptor's resonating chamber.
+
+BILLY (cont'd)
+
+(falsely casual)
+
+Oh, I forgot to tell you. Some visitors
+
+wanted to come by and talk	to you. I
+
+told them you'd be happy to see them.
+
+maybe even have dinner with them.
+
+GRANT
+
+Absolutely not.
+
+BILLY
+
+They're here.
+
+GRANT
+
+What?
+
+Who were walking up to them.
+
+Putting on a friendly smile, Billy goes up to them.
+
+MAN
+
+Dr. Grant?
+
+GRANT
+
+Yes?
+
+MAN
+
+(extending his hand)
+
+Paul Kirby. Kirby Enterprises
+
+(reaching into his pocket)
+
+My card.
+
+as friendly, is harder to read. There seems to be
+
+GRANT
+
+What can I do for you, Mr. Kirby?
+
+PAUL
+
+Well sir, I am a great admirer
+
+of yours, and I have an extremely interesting
+
+proposition to discuss. Would you let my wife
+
+and I take you to have dinner tonight? Our treat.
+
+GRANT
+
+You know, I've been traveling and I'm very
+
+tired. Maybe some other time.
+
+PAUL
+
+I guarantee it'll be worth your while.
+
+GRANT
+
+It's be my pleasure.
+
+13 	INT. HELL CREEK BAR AND GRILL, JORDAN, MT - NIGHT 	13
+
+PAUL
+
+First off let me say as a dinosaur enthusiasts,
+
+Amanda and I have admired your work for
+
+years.
+
+AMANDA
+
+It is truly, whats the word? Inspiring.
+
+GRANT
+
+Thank you.
+
+PAUL
+
+Amanda and I, well, we just love the outdoors.
+
+Heck we've been on pretty much any adventure
+
+tour they can come up with: Galapagos, K2,
+
+the Nile...
+
+AMANDA
+
+We even have two seats reserved aboard the
+
+first commercial moon flight.
+
+GRANT
+
+Hmmm.
+
+PAUL
+
+Now, for our wedding anniversary this year
+
+we wanted to do something really special,
+
+something...
+
+AMANDA
+
+...once-in-a-lifetime.
+
+PAUL
+
+We've arranged for a private airplane to
+
+take us flying over Isla Sorna. And we want
+
+you to be our guide.
+
+GRANT
+
+That's a very nice offer, Mr. Kirby, but I'm
+
+afraid I'm much to busy. If you like I can
+
+refer you to a number of highly qualified...
+
+PAUL
+
+No, no, see Dr. Grant, you're the best. You've
+
+seen these animals in the flesh. No one else
+
+has come close to you.
+
+GRANT
+
+I'm flattered, but I've taken this little
+
+adventure tour. And with the air
+
+restrictions they've imposed after the
+
+incident in San Diego, you cant fly low
+
+enough to see anything of interest.
+
+AMANDA
+
+You see, that's just the thing. Paul and I
+
+have special permission to fly low.
+
+BILLY
+
+How low?
+
+PAUL
+
+Well, I'm no aviation specialist. But I do
+
+know it's hell of a lot lower than anyone
+
+else.
+
+AMANDA
+
+From what I understand, it's pretty much
+
+whatever we want.
+
+GRANT
+
+That's hard to believe.
+
+PAUL
+
+Let's just say that through my business --
+
+imports/exports, emerging markets -- I've
+
+made some friends in high places. In this
+
+case, the Costa Rican government.
+
+AMANDA
+
+Dr. Grant, you don't know how important it is
+
+for us to have you come along. It would make
+
+all the difference.
+
+PUAL
+
+And of course, we're prepared to make a
+
+sizeable contribution to your research here.
+
+PAUL (cont'd)
+
+I can write all kinds of numbers on this
+
+check. Just tell me what exactly it would
+
+take.
+
+CUT TO:
+
+14 	EXT. SKY - DAY 							14
+
+15 	INT. PLANE - DAY 							15
+
+GRANT
+
+Even with what I pay you, you could get a
+
+better bag.
+
+BILLY
+
+No way. This is lucky. Couple years ago
+
+some buddies and I went hang gliding off
+
+these cliffs in New Zealand. Updraft sent me
+
+right into the side. BOOM!
+
+GRANT
+
+That does sound lucky.
+
+BILLY
+
+It was this strap alone that saved my life.
+
+Got caught on a rock as I was falling.
+
+GRANT
+
+Reverse-Darwinism. Survival of the most
+
+idiotic.
+
+BILLY
+
+Listen Alan, I really appreciate you
+
+bringing me along.
+
+GRANT
+
+The bones will be there when we get back.
+
+That's the nice thing about them. They never
+
+run away.
+
+(beat)
+
+And besides, you got me into this. I don't
+
+intend to be alone with these people.
+
+BILLY
+
+So how do you know the Kirby's?
+
+COOPER
+
+Through our church.
+
+BILLY
+
+What Religion?
+
+COOPER
+
+Uh...the one that worships God and believes in being
+
+Good.
+
+16 	EXT. SKY - DAY 							16
+
+17 	INT. PLANE - DAY / HOURS LATER 					17
+
+RAPTOR
+
+Alan.
+
+18 	INT. PLANE - DAY 					       		18
+
+BILLY
+
+19 	EXT. SKY - COUNTINUOUS DAY 					19
+
+20 	INT. PLANE - COUNTINUOUS DAY 					20
+
+21 	INT. COCKPIT - COUNTINUOUS DAY 				21
+
+RADIO VOICE
+
+(Spanish accent)
+
+Unidentified aircraft approaching Isla
+
+Sorna, this is San Juan approach. You are
+
+flying in restricted airspace. Immediately
+
+turn to the coordinates two-zero-zero. I repeat
+
+redirect to...
+
+22 	EXT. PLANE - COUNTINUOUS DAY 				       22
+
+23 	INT. PLANE - CONTINUOUS DAY 				       23
+
+BILLY
+
+Admit it. You're excited.
+
+UDESKY
+
+Cooper! Yell up if you see anything!
+
+COOPER
+
+(yelling back)
+
+No, I thought I'd keep it to myself.
+
+GRANT
+
+There. There! An Apatosaur. Look at the
+
+coloration.
+
+EXT. ISLA SORNA  GRASSY FIELD  CONTINUOUS DAY
+
+INT.  PLANE  CONTINUOUS DAY
+
+BILLY
+
+(amazed)
+
+I'm so use to seeing bones. It's weird to see
+
+skin.
+
+GRANT
+
+Mr. and Mrs. Kirby! If you look out the right
+
+you can see...
+
+24 	INT. COCKPIT - CONTINUOUS DAY 				       24
+
+UDESKY
+
+South shore is clear. The rest is rock.
+
+NASH
+
+Are we on?
+
+UDESKY
+
+We're on.
+
+25 	INT. MAIN CABIN - CONTINUOUS DAY  			       25
+
+GRANT
+
+That's not the landing gear?
+
+GRANT (CONT'D)
+
+What you're...
+
+(realizing)
+
+You can't land.
+
+PAUL
+
+Dr. Grant if you'd just sit tight, we'll
+
+explain this all in a jiffy.
+
+GRANT
+
+This plane can not land!
+
+AMANDA
+
+It's going to be all right. Just...
+
+26 	OVER THE DARKNESS 						26
+
+AMANDA
+
+Eric! Eric! Are you there honey? Ben!
+
+Erriccc!
+
+27 	INT. PLANE - DAY 							27
+
+GRANT
+
+Tell me we didn't land.
+
+BILLY
+
+I think they're looking for someone.
+
+28 	EXT. LANDING STRIP, ISLA SORNA - DAY 			       28
+
+PAUL
+
+Dr. Grant, are you alright? I'm sorry we
+
+had to be so...
+
+GRANT
+
+What the hell is going on? What are they
+
+doing?
+
+PAUL
+
+Establishing a perimeter. Making it safe.
+
+These guys are really good. One of them was a
+
+Green...
+
+GRANT
+
+Mr. Kirby, trust me, on this island, there is
+
+no such thing as safe. We have to get back in
+
+this plane...
+
+AMANDA
+
+(on-bullhorn)
+
+ERRR-IIIC!
+
+GRANT
+
+And tell your wife to stop making so
+
+much noise! We're food to these damn
+
+animals.
+
+PAUL
+
+(yelling)
+
+Amanda, Honey! Dr. Grant says it's a bad
+
+idea!
+
+AMANDA
+
+(on the bullhorn)
+
+What?
+
+PAUL
+
+(pointing broadly at Alan)
+
+He says it's a bad idea!
+
+AMANDA
+
+(on the bullhorn)
+
+What's a bad idea?
+
+PAUL
+
+(to Alan)
+
+What was that?
+
+Then a couple shots are heard.
+
+BILLY
+
+(low)
+
+Is it a rex?
+
+GRANT
+
+I don't think so.
+
+GRANT (CONT'D)
+
+Sounds bigger.
+
+UDESKY
+
+We gotta go, now!
+
+PAUL
+
+What's the problem? Can't you guys...?
+
+29 	INT. PLANE - CONTINUOUS - DAY 				       29
+
+AMANDA
+
+We can't just...
+
+PAUL
+
+Don't worry, honey. We'll circle around and
+
+come back.
+
+BILLY
+
+What about the other guy?
+
+UDESKY
+
+Coop's a professional. He can handle himself.
+
+NASH
+
+(yelling back)
+
+We're going!
+
+30	EXT. RUNAWAY - DAY						30
+
+31	INT. PLANE - DAY							31
+
+32	EXT. RUNWAY - DAY							32
+
+COOPER
+
+Come on, Nash. Slow down, buddy.
+
+33	INT. THE COCKPIT - DAY					       33
+
+NASH
+
+Coop, you know I can't do it pal.
+
+PAUL
+
+What are you doing? That's Mr. Cooper!
+
+34	EXT. RUNWAY - CONTINUOUS - DAY				34
+
+35	INT. THE COCKPIT - CONTINUOUS - DAY			       35
+
+AMANDA
+
+Oh, my God! Paul, my God!
+
+36	INT. THE COCKPIT - CONTINUOUS - DAY			       36
+
+37	EXT. RUNWAY - CONTINUOUS - DAY 				37
+
+38	INT. PLANE - CONTINUOUS - DAY 					38
+
+BILLY
+
+Is anyone hurt?
+
+UDESKY
+
+Quiet! We're okay. Let's everybody just stay
+
+put.
+
+NASH
+
+Who's got the sat-phone?
+
+PAUL
+
+Right here!
+
+RECORDED VOICE
+
+We're sorry. All circuits are busy. Please
+
+try your call again later...
+
+NASH
+
+Shit!
+
+PAUL
+
+What is it? What's the matter?
+
+pilot.
+
+39	EXT. JUNGLE - CONTINUOUS - DAY				       39
+
+The plane breaks free of the tree limbs and DROPS tail-first to
+
+40	INT. PLANE - CONTINUOUS - DAY				       40
+
+41	EXT. JUNGLE FLOOR - CONTINUOUS - DAY			41
+
+42	INT. PLANE - CONTINUOUS - DAY					42
+
+BILLY
+
+Over here!
+
+GRANT
+
+This way!
+
+43	EXT. JUNGLE - DAY						       43
+
+44	EXT. CLEARING - CONTINUOUS - DAY				44
+
+GRANT
+
+Don't worry. It's dead.
+
+GRANT (CONT'D)
+
+Nobody move a muscle.
+
+45	EXT. JUNGLE - DAY							45
+
+GRANT
+
+Come on!
+
+46	EXT. JUNGLE - DAY							46
+
+GRANT
+
+Why did you bring us here?
+
+AMANDA
+
+Our son is on this island. We need your help
+
+to find him.
+
+PAUL
+
+This is him. Eric. Hes thirteen now. He's
+
+just about the greatest kid in the world.
+
+AMANDA
+
+He's with a man named Ben Hildebrand.
+
+BILLY
+
+Who's that?
+
+PAUL
+
+Her new boyfriend.
+
+AMANDA
+
+A friend. We were vacationing. Eric wanted
+
+to see the island and the dinosaurs, so Ben
+
+found a guy who would take them parasailing.
+
+They never came back.
+
+PAUL
+
+We called everyone, did everything we could.
+
+Because of all the controversy over this
+
+island, no one will step in. Costa Rica says
+
+it's a no-fly zone, it's their own damn fault.
+
+Guys at the U.S Embassy -- our U.S. Embassy --
+
+said we should "accept the inevitable." You
+
+believe that?
+
+GRANT
+
+So you hired these mercenaries.
+
+UDESKY
+
+We prefer "recovery specialists." We do
+
+overseas custody issues and...
+
+GRANT
+
+(interrupting)
+
+Then you duped us into coming here.
+
+PAUL
+
+We needed somebody who knew the lay of the
+
+land. Somebody who'd been to this island before.
+
+GRANT
+
+(disbelieving)
+
+I have never been on this island!
+
+PAUL
+
+Sure you have. You wrote that book...
+
+BILLY
+
+That was Isla Nublar. This is Isla Sorna.
+
+The second island.
+
+PAUL
+
+(low, to Udesky)
+
+I didn't know, there were two islands.
+
+AMANDA
+
+Still, you have survived the dinosaurs before. You
+
+saved those kids.
+
+GRANT
+
+A few of us survived. A lot more died. And we
+
+were better prepared and better armed.
+
+(finally)
+
+How many days have they been missing?
+
+PAUL
+
+Eight weeks.
+
+GRANT
+
+After what you've seen today, you really
+
+think your son could be alive?
+
+AMANDA
+
+He's smart, Dr. Grant. And he knows so much
+
+about dinosaurs.
+
+GRANT
+
+No, I'm sorry, but no. We'll savage what we
+
+can from the plane. Then we head for the
+
+coast. There may be a boat left, something to
+
+get us off this island.
+
+PAUL
+
+Dr. Grant, we're not leaving without our son.
+
+GRANT
+
+You can stick with us, or you can go and look for
+
+him. Either way you're probably not getting
+
+out of here alive.
+
+PAUL
+
+What do we do?
+
+UDESKY
+
+Well, I think we should start searching for your
+
+son. In the direction they're going.
+
+PAUL
+
+Excellent.
+
+47	EXT. PLANE CRASH SITE						47
+
+PAUL
+
+Sorry.
+
+AMANDA
+
+Nothing you haven't seen before.
+
+AMANDA (CONT'D)
+
+How much weight have you lost?
+
+PAUL
+
+Twenty, twenty-fire pounds. I've been
+
+swimming at the Y.
+
+AMANDA
+
+You hate to swim.
+
+PAUL
+
+People change.
+
+PAUL (CONT'D)
+
+You look good.
+
+AMANDA
+
+So do you.
+
+GRANT
+
+How would you classify it?
+
+BILLY
+
+Obviously a superpredator.
+
+(best guess)
+
+Suchimimus. that snout.
+
+GRANT
+
+They never got that big.
+
+BILLY
+
+Baryonyx?
+
+GRANT
+
+Not with that sail.
+
+(Billy gives up)
+
+Spinosaurus Aegypticus.
+
+BILLY
+
+I don't remember that on InGen's list.
+
+GRANT
+
+That's because it wasn't on their list. Who
+
+knows what else they were up to?
+
+BILLY
+
+So Mr. Kirby, tell me, when you climbed K2,
+
+did you base camp at 25- or 30,000 feet?
+
+PAUL
+
+Thirty-thousand, I think. Closer to the top.
+
+BILLY
+
+About a thousand feet above it, actually.
+
+(closer)
+
+Most mountain-climbers remember how tall
+
+that mountains were.
+
+GRANT
+
+There is no Kirby Enterprises, is there?
+
+PAUL
+
+There is. I own a place called Kirby Paint
+
+and Title Plus. We're out in the Westgate
+
+Shopping Center in Enid, Oklahoma. The
+
+"plus" is for bathroom fixtures, fireplaces
+
+accessories, patio furniture. Stuff like
+
+that.
+
+BILLY
+
+I don't suppose that check you wrote us is
+
+any good.
+
+UDESKY
+
+He paid us half up front. Cash.
+
+PAUL
+
+Mortgaged everything we had to do it. Even
+
+the store. and if we make it off this island
+
+with my son, I swear, I'll make good on the
+
+money I owe you. I don't care if it takes me
+
+the rest of my life.
+
+UDESKY
+
+However long that is.
+
+48	EXT. JUNGLE PATH - DAY						48
+
+AMANDA
+
+Eric!
+
+GRANT
+
+Quiet!
+
+PAUL
+
+(loud whisper to Amanda)
+
+Stop that. Dr. Grant says this is dangerous
+
+territory.
+
+AMANDA
+
+Well we should split up or something. We can
+
+cover twice the area.
+
+PAUL
+
+No, Dr. Grant says...
+
+AMANDA
+
+Dr. Grant says this, Dr. Grant says that...
+
+PAUL
+
+Well what's the use of hiring an expert if
+
+your not going to listen to him?
+
+AMANDA
+
+Because "Dr. Grant" isn't looking for Eric.
+
+Dr. Grant is looking for the coast.
+
+PAUL
+
+Fine...and when the Tricyclatops comes after
+
+you, don't come crying to me.
+
+AMANDA
+
+Oh, don't worry about that.
+
+PAUL
+
+What?
+
+AMANDA
+
+Nothing.
+
+PAUL
+
+What did you say?
+
+AMANDA
+
+Nothing.
+
+PAUL
+
+What did you say!
+
+AMANDA
+
+Just drop it Paul!
+
+UDESKY
+
+If they split up, I'm going with you.
+
+49	EXT. JUNGLE CLEARING - DAY					49
+
+PAUL
+
+Young adult.
+
+AMANDA
+
+Eric...
+
+UDESKY (O.S)
+
+Hey. Got something here.
+
+AMANDA
+
+That's Ben's!
+
+UDESKY
+
+Here, give that to me.
+
+BILLY
+
+It looks intact.
+
+GRANT
+
+We should take it with us to signal any planes.
+
+UDESKY (O.S)
+
+I think I've got it.
+
+AMANDA
+
+It works!
+
+UDESKY
+
+I don't know for how long.
+
+PAUL (O.S.)
+
+(excited)
+
+That's him. Thats Eric!
+
+AMANDA (O.S.)
+
+I filmed this the morning they left.
+
+ERIC
+
+Ben!
+
+BEN
+
+Unclip the line!
+
+BEN (CONT'D)
+
+Hand on! Hang on buddy!
+
+BEN (CONT'D)
+
+Are you ok, buddy?
+
+ERIC
+
+(through his sobs)
+
+I don't know. I think so.
+
+BEN
+
+We're okay. It's going to be okay. Here, get
+
+ready. I'm going to unhook you.
+
+ERIC
+
+I'm all right
+
+BEN (O.S)
+
+(weaker)
+
+We're going to get out of this, pal.
+
+PAUL
+
+See? He's okay. He's alive! Everything's
+
+going to be all right now.
+
+PAUL (CONT'D)
+
+Amanda!
+
+50	EXT. THICKNESS - DAY						50
+
+PAUL
+
+I'm sorry Amanda. I am. And I'm sorry for
+
+the things I said about him.
+
+AMANDA
+
+No, it's...
+
+PAUL
+
+I know you liked Ben. I had no right to...
+
+AMANDA
+
+(frustrated)
+
+Its not about him. It's Eric. He's alone out
+
+here somewhere. Our baby is all alone.
+
+AMANDA (CONT'D)
+
+I guess I was hoping that with Ben around,
+
+there'd be someone to keep him safe.
+
+UDESKY
+
+Dr. Grant!
+
+GRANT
+
+Raptors.
+
+And as he says the words, off in the distance, we hear
+
+SMASH CUT TO:
+
+51	EXT. FUTHER IN THE FOREST - DAY				51
+
+AMANDA
+
+(to Paul)
+
+Whats a raptor?
+
+UDESKY
+
+They don't look that big. I mean,
+
+comparatively.
+
+GRANT
+
+If we came across one, we might live.
+
+PAUL
+
+Well that's good.
+
+GRANT
+
+But you never came across just one.
+
+AMANDA
+
+Wait! Where's Billy?
+
+Grant
+
+Billy! Billy!
+
+AMANDA
+
+(almost sotto)
+
+I thought we weren't suppose to yell.
+
+BILLY (O.S)
+
+Here!
+
+BILLY (CONT'D)
+
+I got some great pictures of the nest. You
+
+know this proves raptors raised their young
+
+in colonies.
+
+BILLY (CONT'D)
+
+This speaks to a larger social structure, the
+
+possibility of Darwinian altruism. It
+
+changes everything.
+
+BILLY (CONT'D)
+
+We could co-write a paper.
+
+GRANT
+
+Ah yes, the first rule of academics. Publish
+
+or perish.
+
+52	SCENE PREVIOUSLY OMITTED					52
+
+53	EXT. RIDGE - DAY (HOURS LATER)					53
+
+PAUL
+
+I bet there's a very good chance Eric's in
+
+there. I'd bet my bottom dollar.
+
+54	EXT. INGEN COMPOUND - DAY					54
+
+World)
+
+55	INT. BUILDING LOBBY - DAY					55
+
+PAUL
+
+(calling out)
+
+Eric! Are you here?
+
+AMANDA
+
+Eric!
+
+AMANDA (CONT'D)
+
+What the hell.
+
+56	INT. CORRIDOR - DAY						56
+
+PAUL
+
+Let's see. I've got about a dollar seventy-
+
+five. How about you guys?
+
+BILLY
+
+Thank God for preservatives.
+
+57	INT. HATCHING LABORATORY					57
+
+AMANDA
+
+This is how you make dinosaurs?
+
+GRANT
+
+This is how you play God.
+
+BILLY
+
+Okay if I take pictures?
+
+PAUL
+
+Amanda!
+
+GRANT
+
+Back out! Move!
+
+58	INT. HALLWAY - CONTINUOUS - DAY				58
+
+PAUL
+
+In here!
+
+59	INT. DINO KENNEL - CONTINUOUS - DAY				59
+
+AMANDA
+
+Push!
+
+GRANT
+
+She's calling for help.
+
+60	EXT. COMPOUND - DAY						60
+
+GRANT
+
+Head for the trees!
+
+GRANT (cont'd)
+
+THIS WAY!
+
+BILLY
+
+ALAN!
+
+GRANT
+
+KEEP GOING!
+
+61-19	OMIT									61-69
+
+69A	EXT. EDGE OF THE JUNGLE - DAY					69A
+
+PAUL
+
+Udesky.
+
+AMANDA
+
+(Listening)
+
+He's this way.
+
+PAUL
+
+It's not safe.
+
+AMANDA
+
+We have to help him.
+
+BILLY
+
+He's right. A predator wouldn't leave a kill
+
+wounded.
+
+AMANDA
+
+He's not a kill, he's still alive.
+
+PAUL
+
+They couldnt climb up, so they were trying
+
+to get us to come down.
+
+BILLY
+
+They set a trap
+
+(amazed)
+
+They actually set a trap.
+
+PAUL
+
+Where's Grant?
+
+69B	EXT. ELSEWHERE IN THE JUNGLE - DAY				69B
+
+GRANT
+
+What does that mean? What are you saying?
+
+GRANT (CONT'D)
+
+God damn you, Billy.
+
+GRANT (CONT'D)
+
+It means, "Give us the egg," doesn't it? "We
+
+want the egg."
+
+VOICE
+
+Come on! They'll be back!
+
+69C	EXT. JUNGLE - LATE DAY						69C
+
+69D	EXT. INGEN COMPOUND - TWILIGHT				69D
+
+69E	INT. INSIDE THE BUNKER - TWILIGHT				69E
+
+GRANT
+
+Eric...
+
+GRANT (CONT'D)
+
+Eric, your parents are both here.
+
+ERIC
+
+In Costa Rica?
+
+GRANT
+
+On the island.
+
+ERIC
+
+They'll never make it. I mean, they can't
+
+manage when the cable goes out.
+
+GRANT
+
+You'd be surprised what people can do when
+
+they have too.
+
+ERIC
+
+You're Alan Grant, aren't you?
+
+(off surprised reaction)
+
+I read both of your books.
+
+GRANT
+
+Which one do you prefer?
+
+ERIC
+
+The first one. Before you where on the island.
+
+You liked dinosaurs back then.
+
+GRANT
+
+Back then, they hadn't tried to eat me.
+
+ERIC
+
+When InGen cleared out, they left a lot of
+
+stuff behind.
+
+GRANT
+
+Any weapons, radios?
+
+ERIC
+
+Found this, but the battery's dead.
+
+GRANT
+
+It's a wonder you aren't. I'm amazed, Eric. I
+
+barely lasted 30 hours. You lasted eight
+
+weeks.
+
+ERIC
+
+Is that all it's been? I thought it was longer.
+
+GRANT
+
+(trying to be positive)
+
+The important thing is we both made it.
+
+That's something we have in common.
+
+GRANT (CONT'D)
+
+Did you read Malcolm's book?
+
+ERIC
+
+Yeah.
+
+GRANT
+
+What did you think?
+
+ERIC
+
+I dunno. I mean, it was kind of preachy.
+
+Chaos-this, chaos-that. And like, to me, the
+
+guy seemed kind of high on himself.
+
+GRANT
+
+That's two things we have in common.
+
+69F	EXT. TREETOPS - NIGHT						69F
+
+AMANDA
+
+We can't just stop looking. Eric and Dr.
+
+Grant are out there somewhere.
+
+PAUL
+
+I want to find them too, but we can't do a bit
+
+of good right now. For every scary thing we
+
+saw in the daylight, I'll bet there ten times
+
+more of 'em at night.
+
+(to Billy)
+
+Am I right?
+
+BILLY
+
+I dont know.
+
+PAUL
+
+I thought you were an expert.
+
+BILLY
+
+Dr. Grant was.
+
+AMANDA
+
+Well Dr. Grant isn't here, so we're going to
+
+have to figure out what to do ourselves.
+
+AMANDA (cont'd)
+
+So what do we do?
+
+69G	EXT. DEEP IN THE FOREST - NIGHT					69G
+
+69H	EXT. TREETOPS - NIGHT (LATER)					69H
+
+PAUL
+
+I just want you know, Amanda. It's not
+
+your fault what happened.
+
+PAUL (cont'd)
+
+Eric has always been headstrong, and you
+
+throw Ben Hildebrand into the mix and well...
+
+AMANDA
+
+Well what?
+
+PAUL
+
+Well damn it. I don't speak ill of the dead.
+
+What I'm trying to say is, its was just a crazy
+
+accident. The exact same thing could have
+
+happened if he was with me. You can't go
+
+beating yourself up about it.
+
+AMANDA
+
+This wouldn't happen if he was with
+
+you. I mean, you drive five miles below the
+
+speed limit. I totaled three cars in fives
+
+years.
+
+PAUL
+
+That one time was just the bumper.
+
+AMANDA
+
+He would have been, safe. Completely,
+
+entirely, suffocatingly safe.
+
+(beat)
+
+I would have him to see more of the world than
+
+Enid, Oklahoma. I wanted to see more of the
+
+world than Enid, Oklahoma. And so yes, it's
+
+my fault that this happened. I'm sorry that
+
+you have to be here.
+
+PAUL
+
+I'm not sorry at all.
+
+69I	EXT. INGEN COMPOUND - DAY					69I
+
+ERIC
+
+Know what this is?
+
+GRANT
+
+(takes it)
+
+A raptor claw. I use to have one. A fossil.
+
+ERIC
+
+Mine's new.
+
+GRANT
+
+How much of this island have you explored?
+
+ERIC
+
+I stayed pretty close to the compound,
+
+Figured if anyone came to look for me, that's
+
+where they'd start.
+
+GRANT
+
+We need to head for the coast.
+
+ERIC
+
+Are you sure?
+
+GRANT
+
+Why?
+
+ERIC
+
+Closer you get to the water, the bigger
+
+things get.
+
+69J	EXT. JUNGLE - DAY							69J
+
+BILLY
+
+We need to stick to the plan. Head for the
+
+coast.
+
+AMANDA
+
+What about Eric and Dr. Grant?
+
+BILLY
+
+Going to the coast was Alan's idea. If he's
+
+alive, thats where he's headed.
+
+AMANDA
+
+What about Eric?
+
+PAUL
+
+(rationalizing)
+
+He's probably has a better chance by the coast
+
+as it is. Figures that all the big dinosaurs
+
+would live in the center of the island.
+
+(to Billy)
+
+Right?
+
+BILLY
+
+Sure.
+
+69K	EXT. JUNGLE - DAY							69K
+
+69L	EXT. JUNGLE - CONTUNUOUS DAY					69L
+
+PAUL
+
+My phone.
+
+AMANDA
+
+You had the phone the whole time?
+
+BILLY
+
+Where is it?
+
+PAUL
+
+I don't know. I don't have it with me.
+
+AMANDA
+
+When did you have it last?
+
+PAUL
+
+I don't remember
+
+AMANDA
+
+Think.
+
+PAUL
+
+The plane. I got a call on the plane, put it in
+
+my coat pocket, and...
+
+AMANDA
+
+What?...WHAT!?
+
+PAUL
+
+I loaned it to Nash. He must have had it on
+
+him when he...
+
+69M	EXT. JUNGLE - DAY							69M
+
+ERIC
+
+Mon! Dad!
+
+AMANDA
+
+(reassuring him)
+
+Sweetheart, you're okay.
+
+(reassuring herself)
+
+You're okay.
+
+(disbelieving)
+
+You're okay.
+
+PAUL
+
+Never had a doubt. Never did. Us Kirby men,
+
+we stick around, huh?
+
+ERIC
+
+We do.
+
+PAUL
+
+Honey, there's not enough spit in the world
+
+for that.
+
+GRANT
+
+We need to keep moving.
+
+BILLY
+
+Alan, I want to tell you that I'm so sorry
+
+about the...
+
+GRANT
+
+Billy, I can't talk to you now.
+
+BILLY
+
+Please, okay? Just yell at me. Call me an
+
+idiot. An asshole. Stupid. Tell me I screwed
+
+up because I know I did.
+
+BILLY (CONT'D)
+
+I thought if we could get a raptor back
+
+to the mainland, we could get serious money
+
+for it. Enough to fund the digging for 10
+
+years. More. Whatever it took.
+
+BILLY (CONT'D)
+
+You have to believe me. I did it with the
+
+best intentions.
+
+GRANT
+
+(finally turning on him)
+
+Some of the worst things imaginable have
+
+been done with the best intentions. You
+
+rushed in with no thought to the
+
+consequences, to yourself or anyone else.
+
+(finally)
+
+You're no better than the people who built
+
+this place.
+
+70	INT. CANYON BUILDING - DAY					70
+
+71	EXT. RIVER CANYON - DAY						71
+
+GRANT
+
+We climb down to the barge and follow the
+
+river out to the ocean. With any luck, the
+
+Costa Rican coast guard will pick us up.
+
+ERIC
+
+Then we go home?
+
+AMANDA
+
+Then we go home.
+
+72	EXT. LANDING - DAY							72
+
+AMANDA
+
+You okay?
+
+GRANT
+
+How about if we try this way?
+
+AMANDA
+
+Do you think it goes all the way across?
+
+GRANT
+
+One way to find out.
+
+GRANT (CONT'D)
+
+(glancing back)
+
+We'd better do this one at a time.
+
+PAUL
+
+Dr. Grant?
+
+GRANT (O.S.)
+
+Come on over. One at a time.
+
+AMANDA
+
+Eric, its okay. You'll be right behind me.
+
+PAUL
+
+We're not going anywhere, I promise.
+
+Amanda
+
+We're all together now, Eric.
+
+73	EXT. REVER CANYON - FAR WALL - DAY				73
+
+AMANDA
+
+(calling out)
+
+Okay! Come on, Eric!
+
+74	EXT. LANDING - DAY							74
+
+PAUL
+
+How 'bout if I...
+
+ERIC
+
+No, I can do it.
+
+PAUL
+
+(muttering to himself)
+
+That's it Eric. Nice and easy...
+
+75	EXT. CATWALK - DAY							75
+
+ERIC
+
+Mom?
+
+75A	EXT. RIVER CANYON - FAR WALL - DAY				75A
+
+GRANT
+
+Oh, my God.
+
+AMANDA
+
+What is it?
+
+GRANT
+
+A bird cage.
+
+75B	EXT. CATWALK - DAY							75B
+
+PAUL
+
+Eric!
+
+BILLY
+
+It won't hold!
+
+PAUL
+
+ERIC!
+
+AMANDA
+
+(shouting)
+
+Paul! Where is he? Can you see him?
+
+PAUL
+
+(shouting back)
+
+I'm trying! That thing took him down this
+
+way!
+
+GRANT
+
+Split up!
+
+75C	EXT. PTERANODON NEST - DAY					75C
+
+76	EXT. OBSERVATION ROOM - CONTINUOUS DAY			76
+
+GRANT
+
+BILLY! WAIT!
+
+BILLY
+
+I CAN GET HIM!
+
+GRANT
+
+NO!
+
+BILLY
+
+I KNOW THE CONSEQUENCES!
+
+77-80	OMIT									77-80
+
+81	EXT. PTERANODON NEST - DAY					81
+
+BILLY
+
+ERIC! HOLD ON!
+
+82	EXT. ENCLOSED CATWAY - DAY					82
+
+PAUL
+
+Hang on, Eric!
+
+83	EXT. CANYON - IN THE AIR - DAY					83
+
+84-85	OMIT									84-85
+
+86	EXT. OVER THE RIVER - DAY					86
+
+87	OMIT									87
+
+88	EXT. OVER THE RIVER - DAY					88
+
+BILLY
+
+Let go!
+
+89	EXT. BROKEN CATWALK - DAY					89
+
+90	EXT. RIVER - DAY							90
+
+91	EXT. CANYON WALL - DAY						91
+
+92-93	OMIT							  92-93
+
+94	EXT. RIVER BANK - DAY					      94
+
+95	EXT. CANYON WALLL - DAY						95
+
+96	EXT. RIVER BANK - DAY						96
+
+GRANT
+
+He made it!
+
+GRANT (CONT'D)
+
+Billy, look out!
+
+BILLY
+
+Get back! Get back!
+
+GRANT
+
+Billy!
+
+PAUL
+
+It's no use, Dr. Grant. No use.
+
+97	EXT. THE RIVER - CONTINUOUS DAY				97
+
+98	EXT. ON THE BARGE - CONTINUOUS DAY				98
+
+99	EXT. DOWN RIVER - DAY / LATER					99
+
+PAUL
+
+My own kid was right in front of me and I
+
+didn't do a damn thing.
+
+AMANDA
+
+You couldn't have made that jump.
+
+PAUL
+
+I should have tried. It should have been me
+
+on that beach back there, not Billy.
+
+AMANDA
+
+How would you have helped Eric?
+
+(he can't answer)
+
+He needs you, Paul. He needs us.
+
+PAUL
+
+He could have died.
+
+AMANDA
+
+But he didn't. And neither did you. And I'm
+
+glad about that.
+
+99A	UP ON THE BOW							99A
+
+ERIC
+
+Do you have any kids?
+
+GRANT
+
+No. Although I've studied them in the wild.
+
+GRANT (CON'T)
+
+I have a theory that there's two kinds of
+
+boys. Those who want to be astronomers and
+
+those who want to be astronauts.
+
+ERIC
+
+I want to be an astronaut.
+
+GRANT
+
+See, I was the opposite. I never understood
+
+why anyone would want to go into space. It's
+
+so dangerous. You do one thing wrong and
+
+you're dead. The astronomer -- or the
+
+paleontologist -- get to study these amazing
+
+things from a place of complete safety. And
+
+truthfully, everything you really need to
+
+learn, you can learn it from the ground.
+
+ERIC
+
+But then you never get to go in space.
+
+GRANT
+
+Exactly. The difference between imagining
+
+how things might be and seeing how they
+
+really are. To be able to touch them. That's
+
+what Billy wanted to do.
+
+GRANT (cont'd)
+
+I can blame the people who made this island.
+
+But I can't blame the people who want to see
+
+it. To study it.
+
+GRANT (cont'd)
+
+How's a boy suppose to resist this?
+
+100	EXT. FURTHER DOWNSTREAM - NIGHT				100
+
+GRANT
+
+Keep quiet.
+
+101	EXT. RIVER BANK - CONTINUOUS - NIGHT				101
+
+GRANT
+
+Find it before it stops ringing!
+
+PAUL
+
+I've got something. I think I've got
+
+something!
+
+AMANDA
+
+I've got it! I've got it!
+
+RECORDED VOICE (ON PHONE)
+
+You too can own a time share in beautiful
+
+Guadalajara. Enjoy a meal in one of our four
+
+star restaurants, explore our coral reefs, or
+
+just walk on the beach...
+
+PAUL
+
+Can't help but be a little offended.
+
+102	EXT. BACK ON THE BARGE - NIGHT					102
+
+PAUL
+
+Whatever you do, don't call the U.S. Embassy.
+
+They won't do a God Damn thing.
+
+GRANT
+
+Well, we don't exactly have a Costa Rican
+
+phone book here, so it will have to be
+
+somebody we know in the states. Someone we
+
+can absolutely count on to send help.
+
+PAUL
+
+(to Amanda)
+
+Stan.
+
+AMANDA
+
+I wouldn't trust Stan with a snowball in a
+
+blizzard.
+
+ERIC
+
+What's that?
+
+GRANT
+
+Bonitas.
+
+ERIC
+
+Something must've scared them.
+
+GRANT
+
+Get the motor going.
+
+AMANDA
+
+Who are you calling?
+
+GRANT
+
+Pick up! Pick up!
+
+103	INT. ELLIE'S LIVING ROOM - NIGHT				103
+
+CHARLIE
+
+Hewwo?
+
+GRANT
+
+Charlie? Charlie. Get your mother. Right
+
+away!
+
+GRANT (CONT'D)
+
+Charlie? Are you there?
+
+CHARLIE
+
+Hewwo?
+
+GRANT
+
+(desperate)
+
+Charlie! It's the dinosaur man! Go get
+
+mommy, okay?
+
+CHARLIE
+
+Okay.
+
+104	EXT. BARGE - NIGHT [END INTERCUTTING]			104
+
+CUT TO:
+
+105	INT. ELLIE'S LIVING ROOM - NIGHT				105
+
+ELLIE
+
+Was somebody on the phone?
+
+CHARLIE
+
+Dinosaur man.
+
+BACK TO:
+
+106	EXT. THE BARGE - NIGHT						106
+
+GRANT
+
+ELLIE!
+
+106A	INT. ELLIES LIVING ROOM - NIGHT					106A
+
+ELLIE
+
+Alan?
+
+ELLIE (CONT'D)
+
+Alan? Alan!
+
+CHARLIE
+
+(imitating)
+
+Raaaar!
+
+106B	EXT. BACK ON THE BARGE - NIGHT					106B
+
+107	EXT. THE RIVER - UNDERWATER - NIGHT				107
+
+AMANDA
+
+PAUL!
+
+ERIC
+
+DAD!
+
+GRANT
+
+(looking around)
+
+Up! Up!
+
+ERIC
+
+Where's Dad?
+
+AMANDA
+
+Just hold on.
+
+GRANT
+
+Jump! Swim for the far shore!
+
+107A	EXT. FAR SHORE - NIGHT						107A
+
+ERIC
+
+We have to keep looking for Dad. We have to.
+
+AMANDA
+
+I know. I know. I want to look for him too.
+
+ERIC
+
+then we should...
+
+AMANDA
+
+Let me tell you a few things about you Dad,
+
+okay? He's very very very clever, very very brave,
+
+and he loves you ever very much.
+
+ERIC
+
+He loves you too.
+
+AMANDA
+
+Okay. He loves us very very much. And I know
+
+that right now more than anything, your Dad
+
+would want to know that we're safe. Okay?
+
+AMANDA (CONT'D)
+
+We're going to get out of this, and
+
+everything's going to be all right, I promise.
+
+A VOICE
+
+Listen to your mother.
+
+PAUL
+
+Good thing I've been swimming, huh?
+
+CROSSFADE TO:
+
+108-109	OMIT								108-109
+
+110	EXT. BEACH - DAY							110
+
+PAUL
+
+You remember when we went fishing last
+
+summer? And I was trying to put the boat in
+
+and the trailer sank? And then the tow truck
+
+came and tried to pull it out, but it got
+
+dragged in? And the truck driver threatened
+
+to knock your Dad's lights out? So I said I
+
+was the governor and he believed me?
+
+ERIC
+
+Yeah.
+
+PAUL
+
+That was a fun day.
+
+AMANDA
+
+We should try fishing again.
+
+PAUL
+
+You mean it?
+
+AMANDA
+
+I do. It's worth another shot. And who knows?
+
+Things might turn out differently.
+
+ERIC
+
+The lady you called, how do you know she can
+
+help us?
+
+GRANT
+
+She's the one person I could always count on.
+
+And she's saved me more times than she
+
+realizes. I owe her everything.
+
+GRANT (CONT'D)
+
+It's strikes me now I never told her that.
+
+ERIC
+
+You should.
+
+GRANT
+
+You're right.
+
+GRANT (CONT'D)
+
+Eric, do you know what happened to the boat?
+
+that brought you here? Why did it crash?
+
+ERIC
+
+No. I couldn't see.
+
+GRANT
+
+Do me a favor. Go back to your parents for a
+
+minute, would you?
+
+(pre-empting objections)
+
+They look worried.
+
+ERIC
+
+(excited)
+
+Mom! Dad!
+
+PAUL
+
+Helicopters. Helicopters!
+
+ERIC
+
+(yelling over)
+
+Dr. Grant! Helicopters are coming!
+
+ERIC (CONT'D)
+
+We're safe!
+
+GRANT
+
+(to himself)
+
+No we're not.
+
+GRANT (CONT'D)
+
+NO! STAY BACK! THEY'RE IN THE TREES!
+
+110A	INT. FIRST CHOPPER - DAWN					110A
+
+110B	EXT. BEACH - DAWN							110B
+
+110C	EXT. BY THE TREES - DAWN						110C
+
+110D	INT. SECOND CHOPPER - DAWN					110D
+
+AMANDA
+
+(to the pilot)
+
+You have to go back! We can't leave him!
+
+110E	EXT. THE BEACH - DAWN					   110E
+
+110F	INT. SECOND CHOPPER - DAWN					110F
+
+AMANDA
+
+They're not following.
+
+GRANT
+
+(shouting over the noise)
+
+We have to cut it! Find something sharp!
+
+110G	EXT. OCEAN - DAWN							110G
+
+110H	INT. COPPER / FLYING - DAWN					110H
+
+ERIC
+
+What do you think is going to happen with the
+
+dinosaurs?
+
+GRANT
+
+The population will Stabilize eventually.
+
+They'll adapt to fit different roles.
+
+PAUL
+
+Either that, or the government will firebomb
+
+it back to the Stone Age.
+
+AMANDA
+
+I would completely support that.
+
+ERIC
+
+I hope they don't. I want to come back
+
+someday.
+
+GRANT
+
+So do I.
+
+EXT. OCEAN  DAWN
+
+The helicopter flies away across the ocean, leaving the island behind.
+
+THE END
+

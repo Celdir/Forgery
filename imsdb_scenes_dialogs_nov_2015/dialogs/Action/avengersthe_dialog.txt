@@ -1,0 +1,5434 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Avengers
+
+THE AVENGERS
+
+Screenplay by Don Macpherson
+
+June 21, 1995
+
+1	BLUE SKY WITH CLOUDS
+
+2	EXT - SALTFLATS - DAY
+
+3	RED PHONE BOX
+
+4	IN DISTANCE
+
+5	CAR
+
+6	KINKY BOOT
+
+7	BEAUTIFUL WOMAN
+
+EMMA
+
+How now brown cow ...
+
+(pause)
+
+The rain in Spain falls mainly
+
+on the plain ...
+
+(pause)
+
+The quick brown fox jumped over
+
+the lazy --
+
+VOICE (V.O.)
+
+(filtered)
+
+Password affirmative. Thank you,
+
+Doctor.
+
+8	INSIDE PHONE BOX
+
+9	INT.  LABORATORY
+
+10      FROM AIRLOCK DOOR
+
+PETER
+
+Ready, darling?
+
+EMMA
+
+Ready as I'll ever be ...
+
+11      LONG CORRIDOR
+
+VALENTINE
+
+Atmospheric pressure checked, antenna ready...
+
+Thermal chamber ready ... Compression module
+
+set ... Temperature control on course between
+
+one and one forty ... Water turbulence steady ...
+
+PETER
+
+Anything else?
+
+VALENTINE
+
+Good luck ... Peter ... Emma.
+
+EMMA
+
+Thanks, Valentine ...
+
+PETER
+
+Just a minute, darling. My brother's a
+
+worry wart. I better have a word ...
+
+Valentine --
+
+12      CLOSEUP - DIAMOND GEM
+
+13      BACK TO SCENE
+
+PETER
+
+Something to remember me by.
+
+PETER
+
+(checks his watch)
+
+See you in an hour ...
+
+EMMA
+
+One sunny day ...
+
+14      IN DISTANCE
+
+15      INT.  LAB CHAMBER
+
+16      FROM EMMA'S POV
+
+17      UP IN CONTROL ROOM
+
+VALENTINE
+
+(thrilled)
+
+Readings still normal ...
+
+18      EXT.  SALTFLATS - DAY
+
+19      DOWN BELOW
+
+up     as if --
+
+20      CLOSEUP - WHITE GLOVED HAND ON DIAL
+
+21      DOWN IN HIS VAULT
+
+PETER
+
+(intercom cutting out)
+
+Losing control -- malfunction
+
+in thermal chamber -- for Christ's
+
+-- Emm --!
+
+22      IN CONTROL ROOM
+
+COUNTDOWN (V.O.)
+
+Five -- four --  three -- two --
+
+one ... Three -- two -- one ...
+
+(repeating)
+
+Three -- two -- one ...
+
+23      INSIDE COFFIN
+
+24      IN HER COFFIN
+
+25      EXT.  SALTFLATS - DAY
+
+26      INT.  CONTROL ROOM - CONTINUOUS ACTION
+
+VALENTINE
+
+Emma, Peter, get out! It's going to explode!
+
+VALENTINE
+
+Emma ...
+
+27      FROM HER VAULT
+
+28      ANGLE (IN DREAMLIKE SLOW MOTION)
+
+29      BACK TO SCENE
+
+VALENTINE
+
+Get out! Leave him -- ! Emma!
+
+30      RAPID INTERCUTS
+
+EMMA
+
+Peter!
+
+VALENTINE
+
+Don't wait for him -- he's not --
+
+31      ABOVE GROUND
+
+32      CLOSEUP ON EMMA'S DIAMOND RING
+
+33      BACK TO SCENE
+
+PETER
+
+(faint)
+
+Emma ... Emma ...
+
+34      ANGLE (IN EXTREME SLOW MOTION)
+
+35      SERIES OF SHOTS
+
+36      INT.  EMMA'S BEDROOM - PRE-DAWN
+
+37      HER POV
+
+38      BACK TO SCENE
+
+39      EXT.  STREETS - DAWN
+
+40      LONDON (1999)
+
+ANNOUNCER (V.O.)
+
+(filtered)
+
+... The War Office today approved military
+
+expenditure for the nation's new defense alert
+
+system. A spokesman  said he would raise the
+
+matter at the forthcoming World  Council of
+
+Ministers, but that a state of vigilance was
+
+still necessary in the uncertain climate.
+
+41      EXT.  STEED'S GARAGE - DAWN
+
+42      INT.  STEED'S FLAT - DAWN
+
+STEED
+
+Brenda -- ?
+
+43      FROM ABOVE HIM
+
+MOTHER (O.S.)
+
+Steed -- ?!
+
+44      BACK TO SCENE
+
+STEED
+
+Mother. I thought you were burglars.
+
+MOTHER
+
+Brenda and I thought we'd drop in.
+
+BRENDA
+
+See how you're getting on ...
+
+STEED
+
+Something in the wind?
+
+MOTHER
+
+Weather's turning nasty.
+
+STEED
+
+You didn't come to talk about the
+
+weather, surely.
+
+MOTHER
+
+Oh yes I did. I want you to meet
+
+somebody.
+
+(off Steed's look)
+
+I expect you'll like her.
+
+STEED
+
+'Her'?
+
+45      INT.  EMMA'S FLAT (PRIMROSE HILL) - DAY
+
+46      AT DOOR
+
+47      IN CORRIDOR
+
+MESSENGER
+
+Dr. Peel?
+
+EMMA
+
+Thank you ...
+
+EMMA
+
+(reads)
+
+'Please answer the Telephone.'
+
+WOMAN (V.O.)
+
+(filtered)
+
+Boodles Club, the Mall, 2:30 p.m.
+
+Mr. John Steed ... Boodles Club,
+
+the Mall, 2:30 p.m. Mr. John
+
+Steed ...
+
+EMMA
+
+Kippers ...?
+
+48      EXT.  BOODLE-S CLUB (PALL MALL) - DAY
+
+49      INT.  BOODLES' LOBBY - CONTINUOUS ACTION
+
+PORTER
+
+May I help you, madam ...
+
+EMMA
+
+Mr. John Steed, please.
+
+PORTER
+
+I'm afraid that's impossible.
+
+EMMA
+
+Impossible?
+
+PORTER
+
+You are female?
+
+EMMA
+
+As you see.
+
+PORTER
+
+Then you can't come in.
+
+EMMA
+
+I have an appointment.
+
+PORTER
+
+No women. Not in Boodles. Not
+
+since 1922.
+
+EMMA
+
+Really -- what happened in 1922?
+
+EMMA
+
+Thank you so much. I can find Mr.
+
+Steed myself ...
+
+50      INT.  BOODLES - TURKISH BATHS - DAY
+
+STEED
+
+Doctor Peel, I presume?
+
+EMMA
+
+And you must be Steed. Please
+
+don't get up.
+
+STEED
+
+I was about to throw in the towel.
+
+EMMA
+
+I had a spot of bother at the door.
+
+STEED
+
+I shouldn't wonder. Not a woman
+
+inside Boodles since --
+
+EMMA
+
+1922. Why the kippers?
+
+STEED
+
+Red herring would have been too
+
+obvious, don't you think?
+
+EMMA
+
+(looks around)
+
+So what was all this -- some sort
+
+of test?
+
+STEED
+
+Congratulations, you've penetrated a
+
+bastion of male privilege. I guessed
+
+you weren't a stickler for Tradition,
+
+doctor.
+
+EMMA
+
+Whereas you are.
+
+STEED
+
+Dyed in the wool. But I can admire
+
+someone who doesn't play by the
+
+rules.
+
+EMMA
+
+Rules are made to be broken.
+
+STEED
+
+Not by me. Play by the rules,
+
+Doctor, or the game is nothing.
+
+EMMA
+
+And just what is the game?
+
+STEED
+
+I say, this is all terribly formal.
+
+Must I go an calling you Dr. Peel?
+
+EMMA
+
+(re:  the steamroom)
+
+Under the circumstances, you may
+
+call me Mrs. Peel.
+
+STEED
+
+Much better.
+
+EMMA
+
+And now that we've settled the matter
+
+of honorifics, will you kindly explain
+
+why you wished me to meet you?
+
+STEED
+
+I didn't. Mother did.
+
+EMMA
+
+Mother?
+
+STEED
+
+I expect you'll like him.
+
+51      EXT.  THAMES RIVER (NEAR WHITEHALL) - DAY
+
+STEED
+
+Tea time -- four o'clock.  Mustn't
+
+be late.
+
+(beat)
+
+A word of warning. Don't take the
+
+macaroon. Mother's favorite.
+
+RIVER THAMES WATER AUTHORITY
+
+No Admittance
+
+52      LARGE WINDOW CURTAIN
+
+53      INT. SECRET SERVICE HQ - UNDERWATER - DAY
+
+MOTHER
+
+That's better. I much prefer a
+
+womb with view, don't you, Mrs.
+
+Peel?
+
+MOTHER
+
+Shall I be mother?
+
+MOTHER
+
+I expect you're wondering where
+
+you are.
+
+EMMA
+
+Don't tell me: You're the shadow secret
+
+service. You're so hushhush, even the
+
+legit secret service knows nothing about
+
+it. Am I right?
+
+MOTHER
+
+Close. We're so hush-hush, even
+
+we know nothing about it.
+
+(before Emma can
+
+make sense of this)
+
+Now let's see, there's coconut cake,
+
+date and walnut; I recommend the
+
+rum baba ...
+
+EMMA
+
+Hmmm ...
+
+MOTHER
+
+Looks like rain, Steed...
+
+STEED
+
+... Showers followed by sunny periods.
+
+EMMA
+
+(looks up from
+
+trolley)
+
+We're not here to talk about the
+
+weather, surely.
+
+MOTHER
+
+Oh, yes we are.
+
+BRENDA
+
+(to Emma, cunning)
+
+Macaroon?
+
+54      IN DARKNESS
+
+MOTHER
+
+We've had a series of bizarre weather reports.
+
+We kept them hush-hush and sent agents into
+
+the field for data. Case number one:
+
+April 14, 3:35 P.M., Special Agent Simkins
+
+investigating mysterious fires in corn circles.
+
+A field outside the village of Little Snoring,
+
+one of the hottest days of the year. Trapped
+
+by a sudden blizzard. Found frozen to death
+
+in a giant ice cube -- like a mammoth in
+
+perma-frost.
+
+(the picture changes)
+
+Case two: Pilot Raymond Shaw, May 6, 11:28 A.M.
+
+Took off from a deserted airstrip near Stoke Poges,
+
+investigating bizarre atmospheric reports. A freak
+
+rainstorm downed him. Knocked unconscious by a
+
+flying fish, falling from 15,000 feet. Twenty-five
+
+inches of rain in eight minutes, over an area the size
+
+of a cricket pitch ...
+
+(the picture changes)
+
+... Case three: June 2, 5:43 P.M. Defense Chief
+
+Major Courtnay. Remains discovered in a turnip
+
+field near Ashby de la Zouche. Our boffins
+
+recorded a sudden blast of heat. Scorched earth,
+
+temperature of 1000 degrees. Spontaneous
+
+combustion. Not much of him left ...
+
+MOTHER
+
+My number two. Special assignments.
+
+She's --
+
+EMMA
+
+Let me guess -- 'Father'?
+
+FATHER (OLDER WOMAN)
+
+All happy families here, Mrs. Peel.
+
+EMMA
+
+You're --
+
+FATHER
+
+God, you're quick.
+
+MOTHER
+
+Have a look at these, Mrs. Peel --
+
+STEED
+
+Ah ... From Trubshaw's.  My
+
+shoemaker.
+
+EMMA
+
+(unimpressed)
+
+A kipper. Or a red herring? What were
+
+they investigating?
+
+FATHER
+
+A series of bizarre shifts in local weather
+
+patterns ...
+
+STEED
+
+Global warming?
+
+FATHER
+
+Jungle plants in the Arctic? A lush
+
+English village transformed overnight
+
+into African scrubland? Blizzards in summer?
+
+EMMA
+
+How curious ...
+
+MOTHER
+
+Something strange is happening. And
+
+whoever knows about it doesn't want
+
+us to find out.
+
+FATHER
+
+(to Steed)
+
+Your mission is simple. Find out
+
+how and why these agents died.
+
+EMMA
+
+I'm no spy -- where do I fit in?
+
+MOTHER
+
+Your research into climate engineering was
+
+state-of-the-art. Your experiments could
+
+have revolutionized our knowledge of global
+
+warming -- had they succeeded. We need
+
+your expertise.
+
+STEED
+
+Perhaps I'd better start calling you doctor
+
+again, Mrs. Peel --
+
+EMMA
+
+I'm not sure I'm ready to return to work.
+
+I've been out of action for some time. I'll
+
+consider your proposal.
+
+FATHER
+
+One moment, Mrs. Peel. There's another
+
+special reason we wanted you to join our
+
+happy family; rather curious, actually ...
+
+MOTHER
+
+Eye witness reports. Strangers in the area.
+
+One description tallied in all three places.
+
+Recognize her?
+
+EMMA
+
+Me, isn't it?
+
+FATHER
+
+Think of it as special assignment, Mrs. Peel.
+
+With a twist. You're our chief suspect.
+
+EMMA
+
+You're saying I have no choice.
+
+MOTHER
+
+Father will be your controller. Steed here
+
+will show you the ropes.
+
+EMMA
+
+(very arch)
+
+Ropes?
+
+55      INT.  SECRET SERVICE HQ SHOOTING GALLERY
+
+Emma, who works at reloading as
+
+56      HIGH ABOVE IN ONE-WAY MIRRORED GALLERY
+
+STEED
+
+Think she really killed those agents?
+
+MOTHER
+
+She may not know. Theory goes she
+
+may be very ill.
+
+STEED
+
+Amnesia?
+
+MOTHER
+
+Possibly. Split personality ...
+
+STEED
+
+Insane ... ?
+
+MOTHER
+
+Who knows? If Dr. Darling is right,
+
+you should watch out.
+
+STEED
+
+Why?
+
+MOTHER
+
+She may try to kill you.
+
+57      IN SHOOTING GALLERY
+
+STEED
+
+Perhaps I ought to talk with Dr.
+
+Darling.
+
+58      INT.  SECRET SERVICE HQ PSY OPS ROOM
+
+DR. DARLING
+
+One key point: Mrs. Peel is a widow:
+
+she's obsessively devoted to the memory
+
+of her husband the scientist Peter Peel.
+
+You may find her a little ... remote.
+
+DR. DARLING
+
+They were a team. Met at Cambridge.
+
+Working on a top secret research mission
+
+into weather conditions, code name The
+
+Prospero Project, when Peel died.
+
+MOTHER
+
+Something went wrong. System malfunction.
+
+Explosion. Mrs. Peel had a narrow escape.
+
+Suspected sabotage. Nothing proven. File
+
+still open.
+
+STEED
+
+How come you took so much interest
+
+in her, Dr. Darling?
+
+DR. DARLING
+
+Her husband was one of ours.
+
+STEED
+
+(eyes Peel's photo,
+
+then Mother)
+
+Peel? Did she know?
+
+MOTHER
+
+Still doesn't. Better safe than sorry.  She
+
+was in a dangerous game, Steed. High
+
+stakes. She may prove to be a risk.  If
+
+she is, there's only one solution.  Termination.
+
+STEED
+
+Anyone particular in mind?
+
+MOTHER
+
+You.
+
+59      INT.  SECRET SERVICE FENCING SALON
+
+STEED
+
+You're a lady of hidden talents,
+
+Mrs. Peel ...
+
+EMMA
+
+I've no intention of hiding them ...
+
+STEED
+
+Scientist ...
+
+(tic-tac)
+
+... marksman ...
+
+(tic-tac)
+
+... swordsman ...
+
+(tic-tac)
+
+... To what do you attribute your
+
+overachievements?
+
+EMMA
+
+My father always wanted a boy.
+
+STEED
+
+Really?  I fail to see the connection.
+
+EMMA
+
+I had a feeling you would. Touche!
+
+STEED
+
+I take your point.
+
+EMMA
+
+Do you?
+
+STEED
+
+Yes indeed. I need protection.
+
+60      EXT.  SIGN - DAY
+
+EMMA
+
+I thought we were on our way.
+
+STEED
+
+Oh, absolutely, but Trubshaw's a man
+
+worth meeting. No point setting out
+
+half shod.
+
+EMMA
+
+(dry)
+
+Or half cocked.
+
+61      CLOSEUP - TRUBSHAW
+
+STEED
+
+I couldn't agree more. Thank you,
+
+Trubshaw.
+
+TRUBSHAW
+
+(significantly)
+
+Very good, Mr. Steed.
+
+62      INT.  TRUBSHAW'S GENTLEMEN'S SHOP - DAY
+
+EMMA
+
+(gags at the waistcoat)
+
+Steed, we really must be --
+
+STEED
+
+(relishing his shoes)
+
+Ahh. Perfect fit. The luxury of a
+
+hand-made shoe. As unique as a face
+
+or a fingerprint. Or should I say DNA?
+
+63      BEHIND DISPLAY
+
+EMMA
+
+You can but I wish you wouldn't ...
+
+STEED
+
+Thank you, Trubshaw ...
+
+64      EXT.  LONDON STREETS - DAY
+
+EMMA (V.O.)
+
+That place is so absurd, so out of date ...
+
+STEED (V.O.)
+
+Do you really think so?
+
+65      SIGN
+
+STEED (V.O.)
+
+Press that button, would you?
+
+Tea?
+
+66      CLOSEUP - SPECIAL DASHBOARD COMPARTMENT
+
+67      INT.  JAG - DAY
+
+STEED
+
+Sorry. Didn't mean to interrupt
+
+your flow of oratory ...
+
+EMMA
+
+You know what I mean. This car
+
+-- and you. Nobody walks around
+
+like that. Milk?
+
+STEED
+
+Not all Tradition is bad, Mrs.
+
+Peel. No thank you.
+
+EMMA
+
+But why? What's the point?
+
+STEED
+
+A Gentleman has to have a code.
+
+This is part of mine. A uniform.
+
+Think of it as my suit of shining
+
+armor.
+
+EMMA
+
+And I suppose you're the knight.
+
+STEED
+
+The most unpredictable piece on
+
+the board. And always ready to
+
+protect his queen.
+
+EMMA
+
+That's predictable. When I find
+
+a queen in need of protection
+
+I'll let you know.
+
+STEED
+
+I'm hoping you will.
+
+68      EXT.  COUNTRYSIDE - DAY
+
+69      INT.  JAG - DAY
+
+EMMA
+
+Sir August Merryweather ... why
+
+are we seeing him first?
+
+STEED
+
+As per mother's instructions.
+
+EMMA
+
+Do we always follow Mother's
+
+instructions?
+
+STEED
+
+For a man in my position --
+
+EMMA
+
+Just what is your position, if you don't
+
+mind my asking.  How did a stuffed
+
+shirt like you get into this line of work?
+
+STEED
+
+(smiles)
+
+They call me in when they've reached a
+
+dead end. Freelance. Like yourself.
+
+EMMA
+
+I have no choice. Why should you
+
+risk your life?
+
+STEED
+
+After our fencing match, I was rather
+
+hoping you would do the risking.
+
+More tea?
+
+EMMA
+
+No thanks.
+
+STEED
+
+I meant me.
+
+70      EXT.  HIGHLANDS - DAY
+
+STEED (V.O.)
+
+According to Mother, Sir August owns
+
+half of the Highlands. A millionaire.
+
+Former head of Special Projects at the
+
+Ministry. Now ...
+
+EMMA (V.O.)
+
+An eccentric recluse?
+
+71      INT.  JAG - DAY
+
+STEED
+
+Not so much eccentric. More barking
+
+mad. He has a wife called June. And
+
+a daughter somewhere -- Julie.
+
+EMMA
+
+June, July ... August?
+
+STEED
+
+The family does seem to be somewhat
+
+meteorologically inclined.
+
+EMMA
+
+Any other vices?
+
+STEED
+
+All of a piece, really. A fanatical
+
+weatherman. Chairman of BROLLY.
+
+(off her look)
+
+British Royal Organisation For
+
+Lasting Liquid Years. Thinks British
+
+weather has been tampered with
+
+by ... aliens.
+
+EMMA
+
+So ... I distract him while you snoop
+
+around? How?
+
+STEED
+
+Small talk.  Try the weather.
+
+72      EXT.  HUGE COUNTRY HOUSE - DAY
+
+73      INT.  MANOR HOUSE CORRIDOR - DAY
+
+EMMA
+
+Original ...
+
+BUTLER
+
+This way, miss ...
+
+EMMA
+
+Missus ...
+
+74      INT.  A LARGE ROOM
+
+EMMA
+
+Sir August ... ? Sir August ... ?
+
+VOICE (O.S.)
+
+Eh? In here!
+
+75      INT.  CONSERVATORY
+
+EMMA
+
+I've come to apply for membership
+
+in Brolly --
+
+SIR AUGUST
+
+(shouts above the tempest)
+
+You don't get rain like you used to in
+
+England. A good shower that's the ticket.
+
+Stiffens resolve, puckers the spirit, quells
+
+the namby-pamby in a man.
+
+EMMA
+
+I so agree. How did you acquire a
+
+taste for it?
+
+SIR AUGUST
+
+Out in India. So character-forming for the
+
+British. Not the heat. Good Lord, no. The
+
+rain, dash it. A good monsoon. Fifteen
+
+inches overnight. A whole week of lovely
+
+rain. I remember one summer in Jaipur ...
+
+SIR AUGUST
+
+You
+
+EMMA
+
+Have we met?
+
+SIR AUGUST
+
+You mean you don't recall??
+
+SIR AUGUST
+
+Ah, Lady June ...
+
+LADY JUNE
+
+Dear August.  Loves his showers.
+
+Like a baby.
+
+(beat)
+
+Scones, Mrs. Peel?
+
+EMMA
+
+Thank you, Lady -- June ...
+
+SIR AUGUST
+
+Ah, beautiful. Just as he promised.
+
+EMMA
+
+Promised? Who promised?
+
+SIR AUGUST
+
+There, look!
+
+SIR AUGUST
+
+Imagine being caught out in a blow
+
+like that!
+
+76      EXT.  MOORLAND - DAY
+
+STEED
+
+I say, this is a bit much.
+
+77      UNDULATING SAND DUNES
+
+78      IN DISTANCE - RED PHONE BOX
+
+STEED
+
+'The Merry Widow'...?
+
+VOICE (V.O.)
+
+(filtered)
+
+... Hello ... Hello? ... Who the
+
+hell...? Who is this? ... You must
+
+leave the test area. I repeat,
+
+leave the area ... Help is on the
+
+way ...
+
+79      ON HORIZON
+
+.STEED
+
+Mrs. Peel. Good of you to drop by.
+
+And I see you're wearing your -
+
+riding outfit?
+
+STEED
+
+Manners, Mrs. Peel.
+
+80      EMMA'S POV
+
+81      EMMA
+
+82      STEED'S POV	82
+
+FADE TO BLACK.
+
+83      INT.  SECRET SERVICE HOSPITAL - DAY
+
+STEED
+
+Ah, Brenda ...
+
+(as she leaves)
+
+Mrs. Peel?
+
+EMMA
+
+You should be dead.  How do you
+
+feel?
+
+STEED
+
+(eyes her)
+
+Strange.
+
+EMMA
+
+You were very lucky.  Four shots to
+
+the heart. I found you after I slipped
+
+away from Sir August. Mother brought
+
+you here. Not me you should thank.
+
+STEED
+
+I wasn't about to.
+
+EMMA
+
+I mean your man Trubshaw.  Your
+
+bullet-proof waistcoat.  I thought
+
+you were just overdressed.
+
+STEED
+
+I might say the same.
+
+84      FROM GALLERY
+
+EMMA
+
+Mother and Dr. Darling have me
+
+under observation. They think I
+
+tried to kill you.
+
+STEED
+
+Why should they think that?
+
+EMMA
+
+You told them. You said I arrived
+
+on a camel, shot you four times.
+
+Left you for dead.
+
+STEED
+
+Frankly that's how I remember it.
+
+EMMA
+
+But that's absurd. I may not be
+
+over-fond of you, Steed, but it's
+
+not my style.
+
+STEED
+
+Perhaps your memory plays tricks,
+
+Mrs. Peel.
+
+EMMA
+
+(conceding)
+
+That's possible. Sir August was convinced
+
+he'd met me before. But I'd never met him.
+
+Another odd thing. When it rained, he said
+
+it was just as someone had promised.
+
+STEED
+
+Did he say who?
+
+EMMA
+
+No. But he must know. Incidentally,
+
+my double left you with this.
+
+STEED
+
+An invitation. To a 'formal picnic'...?
+
+EMMA
+
+Did you say formal? I must dress.
+
+85      EXT.  LONDON STREET - NIGHT
+
+86      CLOSEUP OF HER HEEL
+
+STEED
+
+I must say, you look more your
+
+old self --
+
+EMMA
+
+You mean my other self ...
+
+STEED
+
+Either way ... may I ask: why
+
+you dress in that fashion?
+
+EMMA
+
+I should have thought that was
+
+obvious ...
+
+(off his smirk)
+
+I'm in mourning.
+
+STEED
+
+I can't wait to see afternoon.
+
+EMMA
+
+Where's the picnic?
+
+87      INT.  CONFERENCE ROOM - NIGHT
+
+VOICE (V.O.)
+
+(filtered)
+
+Ladies, gentlemen and bears ...
+
+VOICE (V.O.)
+
+(filtered)
+
+Today is history. The first day of the future.
+
+I welcome you to the first general meeting
+
+of the Wonderland Corporation, now allied
+
+with our colleagues from Brolly ...
+
+VOICE (V.O.)
+
+(filtered)
+
+You have all given time, money and expertise
+
+to achieve our goal. But we are reaching a
+
+new phase of our operation. From today,
+
+many of you will no longer be needed. I have
+
+to warn you ...
+
+VOICE (V.O.)
+
+(filtered)
+
+A cuckoo.  The first sign of spring, and ...
+
+A cuckoo in our nest. Our organization is
+
+no longer secret. Agents are investigating
+
+us. Their names are John Steed and Emma
+
+Peel. I believe we have a traitor among us
+
+... perhaps more than one ...
+
+VOICE (V.O.)
+
+(filtered)
+
+That remains to be seen. When we find
+
+the traitors, they will be dealt with severely.
+
+TEDDY BEAR #l
+
+These agents.  Where are they?
+
+VOICE (V.O.)
+
+(filtered)
+
+Here. In this building. By our estimate, they
+
+will enter this room in thirty-five point five
+
+seconds precisely ...
+
+VOICE (V.O.)
+
+(filtered)
+
+I am sorry the party is over.  But we
+
+shall meet again.
+
+To each of you a gift. A token of
+
+my appreciation.
+
+88      INT.  BUILDING - NIGHT
+
+89      TINY EMMA PEEL
+
+STEED (O.S.)
+
+For you, Mrs. Peel.
+
+90      BACK TO SCENE
+
+EMMA
+
+Another invitation. 38 Marlborough
+
+Terrace ...
+
+91      INT.  EMBASSY (BELGRAVIA) - NIGHT
+
+Then   moves over to the wine rack, picks up a vintage bottle of champagne --
+
+STEED
+
+(admiringly)
+
+Hm ... A Veuve-Cliquot '56 ...
+
+(then puzzled)
+
+But he bites the end of his
+
+Monte Cristos ... ?
+
+(frowning)
+
+Clearly, we're dealing with a
+
+maniac.
+
+92      NEXT ROOM - EMMA'S POV
+
+93      BACK TO SCENE
+
+STEED
+
+Colonel Crabtree. International
+
+Satellite Systems. Formerly of
+
+the Ministry.
+
+EMMA
+
+How on earth can you tell?
+
+STEED
+
+Elementary, Mrs. Peel. Trubshaw
+
+isn't the only shoemaker still
+
+practicing his trade ...
+
+EMMA
+
+Very good, Steed ...
+
+EMMA
+
+What's that?
+
+94      ANOTHER ROOM
+
+95      STEED
+
+STEED
+
+What on earth?
+
+EMMA
+
+Any ideas?
+
+STEED
+
+Well, he was a fellow of the Royal
+
+Zoological Society ...
+
+EMMA
+
+Is that written in his shoe?
+
+STEED
+
+(smug)
+
+Common knowledge, Mrs. Peel ...
+
+EMMA
+
+(shrugs)
+
+She had this in her mouth. There,
+
+there...
+
+STEED
+
+Not again.  There's got to be
+
+another. way to go about this.
+
+96      EXT.  CADOGAN PLACE APARTMENT BUILDING (KNIGHTSBRIDGE) -
+
+97      INT.  KNIGHTSBRIDGE FLAT - NIGHT
+
+98      INT.  STEED'S JAG - NIGHT
+
+STEED
+
+Now, now ...
+
+(sings)
+
+'I can't give you anything but
+
+love, baby...'
+
+99      INT.  KNIGHTSBRIDGE FLAT - NIGHT
+
+100     OUTSIDE FLAT DOOR	100
+
+a key in lock.  Door opens.  Silence.
+
+101     INSIDE - EMMA
+
+102     INT.  STEED'S JAG - NIGHT
+
+103     INT.  KNIGHTSBRIDGE FLAT - NIGHT
+
+VOICE (V.O.)
+
+(filtered)
+
+Naughty teddy ...
+
+MAN
+
+No! You can't ...
+
+VOICE (V.O.)
+
+(filtered)
+
+Ask not for whom the telephone
+
+rings, it rings for thee ...
+
+MAN
+
+But I've got rid of her.  She's ...
+
+VOICE (V.O.)
+
+(filtered)
+
+Go to the window ... To the window.
+
+104     IN OTHER ROOM
+
+EMMA
+
+Major D'Arcy ... ?
+
+105     OVER HER SHOULDER
+
+EMMA
+
+Well, well. If it isn't me ...
+
+106     EXT. ROOFTOPS - NIGHT
+
+107     BEHIND GARGOYLE
+
+108     EMMA'S POV
+
+109     BACK TO SCENE
+
+110     ON NEXT ROOFTOP
+
+111     AGAINST SKYLINE
+
+112     EMMA'S POV - HIGH ANGLE
+
+113     BACK TO SCENE - EMMA
+
+114     EMMA'S POV
+
+115     BACK TO SCENE
+
+116     OVER LEDGE
+
+117     ADVERTISEMENT
+
+118     BACK TO SCENE
+
+119     ABOVE HER
+
+120     STRIPED AWNING
+
+121     BALCONY WINDOW
+
+STEED
+
+For you, Mrs. Peel.
+
+EMMA
+
+Thanks ...
+
+(dry)
+
+I see what you mean about letting
+
+me do the risking ... Hello?
+
+SIR AUGUST (V.O.)
+
+(filtered)
+
+Mrs. Peel ... Come quickly.
+
+Brolly's been betrayed! I'll tell
+
+you everything ... The weather's
+
+getting worse and worse ... they're
+
+after me ... coming for me ... come
+
+quickly!
+
+EMMA
+
+Sir August...?
+
+(to Steed)
+
+What now?
+
+STEED
+
+Ask Mother.
+
+122     INT.  MANOR HOUSE (SCOTLAND) - DAY
+
+SIR AUGUST
+
+Mrs. Peel -- ?
+
+VOICE (V.O.)
+
+(filtered)
+
+Ask not for whom the telephone
+
+rings ...
+
+SIR AUGUST
+
+No, please! I beg you ...
+
+VOICE (V.O.)
+
+(filtered)
+
+Walk over to the window ...
+
+SIR AUGUST
+
+Let it be rain, please let it be --
+
+VOICE (V.O.)
+
+(filtered)
+
+Stay by the window. By the window.
+
+123     OUTSIDE
+
+FATHER (V.O.)
+
+Emergency alert ...
+
+124     EXT.  WHITEHALL STREETS - DAY
+
+FATHER (V.O.)
+
+A cyclone hit Banffshire last night.
+
+Completely unpredicted ...
+
+125     INSIDE CAR
+
+EMMA
+
+Where's Mother?
+
+FATHER
+
+Mobile HQ. In a blue funk.  Can't
+
+take chances. I'm looking after
+
+things while he's hiding out ...
+
+FATHER
+
+You're probably wondering how I
+
+can drive 'blind.' Simple. A new
+
+prototype from the boys in X division.
+
+Micro-sensors in the system read
+
+signals and road information. Converts
+
+the info into miles per hour.
+
+Ultra-sensitive.  Ultra-smart.
+
+STEED
+
+We know one thing. That suspect
+
+was not Mrs. Peel.
+
+FATHER
+
+So you say ...
+
+EMMA
+
+You don't believe him?
+
+FATHER
+
+It's Mother you have to convince.
+
+He's very agitated.  Wait here.
+
+EMMA
+
+But
+
+STEED
+
+Don't bother.  Here's a bus ...
+
+BRENDA
+
+Fares, please,
+
+126     INT.  BUS - DAY
+
+127     UPSTAIRS
+
+MOTHER
+
+Welcome to mobile H.Q. Weather's
+
+turning quite nasty. Sir August was
+
+blown to smithereens. Along with
+
+half of Banffshire.  The Ministry's
+
+worried.
+
+EMMA
+
+He tried to warn us ...
+
+STEED
+
+We had a lead to Wonderland
+
+Weather but we got there too late.
+
+Someone tipped them off ...
+
+MOTHER
+
+Too late anyway. Today's escapade
+
+was only for starters. This is no
+
+ordinary weather. It's manmade. A
+
+kind of weather bomb.
+
+STEED
+
+Impossible.
+
+EMMA
+
+Not quite. This is my field.
+
+STEED
+
+Is there anything that isn't?
+
+EMMA
+
+(ignores)
+
+The Prospero Project was started by
+
+my husband. It was an early attempt
+
+to solve the problems of global warming.
+
+In theory, climate engineering is entirely
+
+feasible. We thought of injecting a
+
+chemical cocktail into the atmosphere
+
+by laser and satellite. A 'quick fix'...
+
+STEED
+
+Filling in mother nature's blind
+
+spots ... ?
+
+EMMA
+
+Exactly. There'd been earlier attempts
+
+to pump carbon dioxide into deep sea.
+
+Propane gas mostly. In small quantities
+
+it captures chlorine. Protects the ozone
+
+layer. But it proved impractical.
+
+Too bulky ...
+
+STEED
+
+But if someone miniaturized the
+
+process...
+
+EMMA
+
+That's what we were working on.
+
+STEED
+
+Sounds as if someone's hijacked
+
+your research.
+
+MOTHER
+
+Would it be possible to use it for
+
+military purposes?
+
+EMMA
+
+Directed by laser. Bounced by
+
+satellite. Quite possible.
+
+STEED
+
+Where would they aim for?
+
+MOTHER
+
+London. The World Council of Ministers
+
+meets soon on global defence. If you can
+
+control the weather, you control the world.
+
+EMMA
+
+After the cold war ...
+
+STEED
+
+The hot and cold war ...
+
+128     EXT.  WONDERLAND WEATHER OFFICES - DAY
+
+129     INT.  WONDERLAND WEATHER OFFICES - DAY
+
+BAILEY
+
+New orders. The penultimate phase.
+
+Now fully operational ...
+
+130     INT.  WONDERLAND OFFICE - DISPLAY - DAY
+
+BAILEY
+
+We're not yet open for business,
+
+I'm afraid.
+
+STEED
+
+Shame. I was recommended. By a
+
+friend.
+
+BAILEY
+
+Really?
+
+STEED
+
+Sir August Merryweather? I was
+
+looking for something relaxing.
+
+Say, a Tuscan hillside in June?
+
+BAILEY
+
+Normally, we'd be eager to
+
+oblige --
+
+STEED
+
+Seriously?
+
+BAILEY
+
+Of course. Natural weather delivered
+
+to your door on demand. Down your
+
+phoneline. For limited periods.
+
+STEED
+
+You don't say. How real does it feel?
+
+BAILEY
+
+As real as you wish. Hot or cold.
+
+Humid or dry. Anything you like.
+
+Within reason.
+
+STEED
+
+There are limits?
+
+BAILEY
+
+The technology is brand new. Soon
+
+it will be more powerful. We
+
+anticipate a huge demand. Leave us
+
+your number. We'll be in touch.
+
+STEED
+
+No need. I'll call again.
+
+131     EXT.  WONDERLAND OFFICES - STREET - DAY
+
+EMMA (V.O.)
+
+My car. I'll drive.
+
+132     EXT.  COUNTRY ROADS - DAY
+
+STEED (V.O.)
+
+A day in the country ...
+
+133     INT.  LOTUS - DAY
+
+EMMA
+
+Three agents killed by bad weather...
+
+STEED
+
+... And by you, Mrs. Peel ...
+
+EMMA
+
+(ignores)
+
+Then a mad millionaire. Head of a secret
+
+defense establishment. A group of
+
+eccentrics obsessed by weather ...
+
+STEED
+
+... And by you, Mrs. Peel. Everything
+
+points to you.  No sisters?  No
+
+undiscovered twin?
+
+EMMA
+
+Not that I know of.  Explanation?
+
+STEED
+
+According to Dr. Darling, you're a
+
+psychopathic personality with
+
+schizophrenic delusions, suffering from
+
+recurring amnesia based on traumatic
+
+repression, leading to outbursts of
+
+anti-social and violent behavior.  Q.E.D.
+
+EMMA
+
+Is that what you think?
+
+STEED
+
+Oh, well ...
+
+(beat)
+
+Just my type, Mrs. Peel.
+
+134     EXT.  COUNTRY LANES - SEVERAL ANGLES - DAY
+
+135     INT. LOTUS - DAY
+
+STEED
+
+Do you always drive this fast?
+
+EMMA
+
+Have I trespassed on a male
+
+prerogative?
+
+(before his reply)
+
+We're being followed. I saw him
+
+at Trubshaw's ...
+
+EMMA
+
+Hold on ...
+
+136     EXT.  COUNTRY LANES - DAY
+
+137     BEND
+
+138     HUGE TRUCK
+
+STEED
+
+Turn!
+
+139     EMMA
+
+140     TRUCK
+
+141     ON HAYSTACK
+
+OLD LADY
+
+Are you alright, young man?
+
+STEED
+
+I think so, thank you so much ...
+
+BAILEY
+
+(relishing)
+
+Reach for the sky, pardner.
+
+OLD LADY
+
+Oh, dear --
+
+OLD LADY
+
+Cocky little bastard. I hope he
+
+was a baddy.
+
+STEED
+
+I feel sure of it.
+
+OLD LADY
+
+I'm Alice. Mother said you'd be
+
+on your way. Mrs. Peel with you?
+
+STEED
+
+(looks around)
+
+She was ...
+
+OLD LADY
+
+You with Mother or Father?
+
+STEED
+
+Both, actually.
+
+OLD LADY
+
+Good. Glad to see they're together at last.
+
+They don't get along. Promotion. Top job.
+
+Most unfair. Quite a fuss at the Ministry.
+
+STEED
+
+(not paying attention)
+
+You don't say.
+
+(mumbles)
+
+Like looking for a needle in a ...
+
+142     INSIDE HAYSTACK
+
+STEED
+
+What, Lady Disdain? Are you yet
+
+breathing?
+
+EMMA
+
+Barely.
+
+STEED
+
+You will let me know if you find
+
+that queen who's in need of
+
+protection, won't you?
+
+143     OUTSIDE HAYSTACK
+
+EMMA
+
+(holding it ruefully)
+
+This must be the last straw.
+
+STEED
+
+(takes one off
+
+her back)
+
+Here's the one that broke the
+
+camel's back.
+
+EMMA
+
+Someone didn't want us to get to
+
+the party.
+
+STEED
+
+I expect we'll have to gatecrash.
+
+OLD LADY
+
+I may be able to help you.
+
+144     EXT.  STATELY HOME FROM POSTCARD - DAY
+
+STEED
+
+(checks postcard)
+
+Wonderland Weather Ltd.
+
+OLD LADY
+
+This way ...
+
+145     EXT.  HALLUCINOGEN HALL - GROTTO AND MAZE - DAY
+
+OLD LADY
+
+Over here ...
+
+146     MAZE
+
+EMMA
+
+Aha ... Yes ... It's clear now. A
+
+trapezoid shape, dictated by twin
+
+diagonal paths and a single
+
+curving path. A late Seventeenth
+
+Century design, originally for
+
+King William of Orange, copied...
+
+Ah ...
+
+STEED
+
+... Mrs. Peel? I think I'm seeing
+
+double again.
+
+147     FROM ABOVE
+
+148     INT.  HALLUCINOGEN HALL - CONTROL ROOM - DAY
+
+VOICE (O.S.)
+
+Now this is more like it ...
+
+149     EXT.  MAZE - DAY
+
+150     ANOTHER PART OF MAZE
+
+151     INT.  RABBIT HOLE
+
+EMMA
+
+Steed ... !
+
+STEED (V.O.)
+
+Mrs. Peel ... ?
+
+152     EXT.  MAZE - DAY
+
+STEED
+
+Mrs. Peel ... ?
+
+STEED
+
+Mrs. Peel ... !
+
+(more kiss)
+
+Mrs. Peel ...
+
+STEED
+
+Your lipstick ...
+
+153     INT.  HALLUCINOGEN HALL - DAY
+
+154     UPSTAIRS
+
+155     LONG CORRIDOR UPSTAIRS
+
+156     INSIDE ROOMS
+
+157     EXT.  HOUSE
+
+158     IN MAZE
+
+STEED
+
+(re: rain)
+
+Not again.
+
+OLD LADY
+
+It's a trap. Tell Mother, beware.
+
+Tell Father.
+
+159     INT.  HALLUCINOGEN HALL   PLAYROOM - DAY
+
+160     FROM BEHIND
+
+VOICE (V.O.)
+
+I wouldn't shake that too hard.
+
+The weather might turn nasty.
+
+EMMA
+
+Quite a collection.
+
+VOICE (V.O.)
+
+If nature gives a man a collector's mind,
+
+it doesn't matter what he collects.
+
+Butterflies. Old China. Penny farthings.
+
+A true collector grows more obsessive
+
+as the years pass.
+
+EMMA
+
+Your voice -- it's so familiar ...
+
+VOICE (V.O.)
+
+We have met ...
+
+EMMA
+
+Peter ... ?
+
+EMMA
+
+I must be dreaming ...
+
+PETER
+
+Listen... Very much alive.
+
+PETER
+
+Darling, it's me...
+
+EMMA
+
+Peter ...
+
+161     CLOSEUP - EMMA'S EYES
+
+FLASH CUTS TO:
+
+162     MEMORY FLASHES
+
+163     BACK TO SCENE
+
+EMMA
+
+Impossible ... how?
+
+PETER
+
+For you ... all for you ...
+
+PETER
+
+Don't be afraid, darling.
+
+PETER
+
+Don't run away. I forgive you,
+
+Emma. I know you left me. But
+
+I still love you. Do you still have
+
+my ring? I need it.
+
+164     EXT.  HALLUCINOGEN HALL - WINDOW - DAY
+
+EMMA
+
+Steed!
+
+STEED
+
+Oh, no. First time, shame on
+
+you. Third time, shame on me.
+
+DR. DARLING (V.O.)
+
+Diagnosis confirmed.  Mrs. Peel is
+
+suffering from delusions and
+
+hallucinations. An extreme personality
+
+disorder. She imagines her husband
+
+Peter Peel has come back to her ...
+
+DR. DARLING (V.O.)
+
+A classic syndrome, to overcome her
+
+subconscious guilt at her other crimes.
+
+We've attached her to the dreamscape
+
+machine. We'll soon see what her
+
+unconscious looks like...
+
+EMMA
+
+Where am I?
+
+STEED
+
+The Winslow Home for Retired
+
+Lepidoptorists. I'm so sorry
+
+I struck you, Mrs. Peel. Please
+
+forgive me. I thought you were
+
+someone else ...
+
+EMMA
+
+Was I?
+
+STEED
+
+(no smile)
+
+I expect that's for you to know
+
+and me to find out ...
+
+EMMA
+
+It was Peter -- I saw him ...
+
+165     ABOVE HER
+
+DISSOLVE TO:
+
+166     SAME SCENE - LATER
+
+167     EXTREME CLOSEUP ON HER EYES
+
+168     UP ON WALL
+
+169     BESIDE "BED"
+
+170     UP IN GALLERY
+
+MOTHER
+
+This man -- did you see him?
+
+STEED
+
+No. Her husband, she says. Alice
+
+tried to warn us. A trap. Tell
+
+Mother beware. Tell Father
+
+That's all.
+
+171     BY COUCH
+
+172     FROM HER POV
+
+173     BACK TO SCENE
+
+DR. DARLING
+
+I want you to say the first thing
+
+that comes into your head when I
+
+say these words. Do you
+
+understand ... ?
+
+(as she nods)
+
+Blue ...
+
+EMMA
+
+... bottle ...
+
+DR. DARLING
+
+Red ...
+
+EMMA
+
+... head ...
+
+DR.  DARLING
+
+White ...
+
+EMMA
+
+Knight ...
+
+DR. DARLING
+
+Black...
+
+EMMA
+
+... death ...
+
+DR. DARLING
+
+Love...
+
+EMMA
+
+... death ...
+
+DR. DARLING
+
+Flower ...
+
+EMMA
+
+... power ...
+
+DR. DARLING
+
+Nature ...
+
+EMMA
+
+... preserve...
+
+DR. DARLING
+
+Secret ...
+
+EMMA
+
+... love...
+
+DR. DARLING
+
+Hope...
+
+EMMA
+
+... love ...
+
+DR. DARLING
+
+Fear ...
+
+EMMA
+
+... love ...
+
+DR. DARLING
+
+Peter ...
+
+EMMA
+
+... Piper picked a peck of pickled
+
+peppers how many pecks of pickled
+
+peppers did Peter Peel -- ?
+
+174     CLOSEUP - EMMA
+
+EMMA
+
+How long have I been here?
+
+DR. DARLING
+
+Three days.
+
+EMMA
+
+Do you get paid by the hour?
+
+MOTHER
+
+(filtered)
+
+You are here under observation,
+
+Mrs. Peel. You must answer Dr.
+
+Darling's questions
+
+EMMA
+
+I resign.
+
+MOTHER
+
+(filtered)
+
+You need treatment, Mrs. Peel.  You
+
+can't resign.
+
+EMMA
+
+Watch me.
+
+MOTHER
+
+Don't open that, Mrs. Peel!
+
+175     INT.  ANTI-GRAVITY CHAMBER
+
+EMMA
+
+(echoing)
+
+What are you trying to do to me?
+
+MOTHER
+
+(flailing)
+
+We want to help...!
+
+EMMA
+
+I thought I was a widow. My
+
+husband ... the only man I ever
+
+loved ... is dead. For the rest
+
+of my life I have to live with
+
+that.
+
+MOTHER
+
+The death of Peter Peel was a
+
+great loss. To us all ...
+
+EMMA
+
+To you ... ?
+
+STEED
+
+I think you owe Mrs. Peel an
+
+explanation ...
+
+MOTHER
+
+Peter Peel was a first class agent.
+
+A senior operative.
+
+'X' department Special operations.
+
+He was engaged in top secret research.
+
+Top priority.  Government approved.
+
+EMMA
+
+The Institute ... the funding ...
+
+MOTHER
+
+A cover ... for us.
+
+(beat)
+
+I'm sorry...
+
+EMMA
+
+So all that time. Our work, our research
+
+was for you ... for this? And the
+
+accident --
+
+DARLING
+
+It was no accident.
+
+EMMA
+
+The official investigation ...
+
+MOTHER
+
+... was written by me.
+
+(beat)
+
+It was sabotage, Mrs. Peel.
+
+EMMA
+
+Who?
+
+MOTHER
+
+Quite frankly ... it could have
+
+been you.
+
+STEED
+
+You're accusing Mrs. Peel of
+
+killing her own husband?
+
+MOTHER
+
+Her husband suspected someone very
+
+close to the operation. On the day he
+
+died, he was setting a test.
+
+To prove to himself -- to us that his
+
+wife was beyond suspicion. He had to
+
+be certain. He said he was going to
+
+give Mrs. Peel something ...
+
+MOTHER
+
+... I want you to remember. Did
+
+Peter give you anything on-that
+
+day?
+
+176     CLOSEUP - EMMA
+
+177     BACK TO SCENE
+
+EMMA
+
+No.
+
+DR. DARLING
+
+He said if it vanished, he'd know
+
+it was ... you who betrayed him.
+
+He took a huge risk. The ultimate
+
+test.
+
+EMMA
+
+So I'm still ...
+
+MOTHER
+
+Under suspicion. Everyone died in
+
+the explosion, Mrs. Peel. You were
+
+the only survivor ...
+
+MOTHER
+
+This is an official matter, Mrs.
+
+Peel. No need to take it
+
+personally. Where are you going?
+
+EMMA
+
+To find out who killed my husband.
+
+MOTHER
+
+The doors and walls are monitored,
+
+Mrs. Peel. This is a very secure
+
+establishment.
+
+EMMA
+
+So am I.
+
+DR. DARLING
+
+She must remain here. She's
+
+highly dangerous.
+
+178     IN HALL - CONTINUOUS ACTION
+
+MOTHER
+
+Pity. I was growing fond of Mrs.
+
+Peel. Unfortunately --
+
+STEED
+
+Guilty until proven innocent?
+
+MOTHER
+
+Mother and Father know best.
+
+MOTHER
+
+Something quick. Nothing too ...
+
+messy.
+
+179     EXT.  COUNTRYSIDE CLINIC - DAY
+
+180     EXT.  COUNTRYSIDE - DAY
+
+181     INT.  STEED'S JAG - DAY
+
+182     CLOSEUP - CONCEALED MICRO-BUG - INTERCUT
+
+183     EXT.  LANES - DAY
+
+184     INT.  STEED'S JAG - DAY
+
+RADIO ANNOUNCER (V.O.)
+
+(filtered)
+
+'... Sunny intervals leading to
+
+sudden storms and gale warnings
+
+for all areas.
+
+(as he frowns)
+
+... Outbursts of rain, scattered
+
+hailstorms and freezing fog
+
+greeted the World Council of
+
+Ministers as they arrived in
+
+London for their conference ...'
+
+185     INT.  COUNTRY CHURCH - DAY
+
+EMMA
+
+You followed me.
+
+STEED
+
+Orders.
+
+EMMA
+
+To kill me?
+
+STEED
+
+(fractional pause)
+
+Nothing personal.
+
+186     INT.  CHURCH BELL TOWER - DAY
+
+187     UP BELLTOWER
+
+188     EXT.  BELLTOWER TOP - DAY
+
+EMMA
+
+A long way down.
+
+STEED
+
+Careful. You might fall.
+
+EMMA
+
+I could save you the trouble.
+
+STEED
+
+No trouble.
+
+EMMA
+
+Because you always obey orders ...
+
+STEED
+
+Always.
+
+(pause)
+
+Except ...
+
+EMMA
+
+Yes ... ?
+
+STEED
+
+... when I don't. It comes down to one
+
+thing, Mrs. Peel. Trust.
+
+EMMA
+
+And do you trust me?
+
+STEED
+
+I could be convinced, if ... I knew who
+
+poisoned me in the maze. That kiss ...
+
+EMMA
+
+It wasn't me; you have my word.
+
+STEED
+
+I need proof.
+
+STEED
+
+It was longer. On the lips.
+
+STEED
+
+Much longer.  Approximately ...
+
+fifteen seconds.
+
+EMMA
+
+... Ready?
+
+EMMA
+
+... Four ... seven ... ni-...
+
+EMMA
+
+(aroused)
+
+Mmm ... what are you doing?
+
+STEED
+
+Keeping a stiff upper lip?
+
+EMMA
+
+Is that all?
+
+EMMA
+
+So I'm in the clear?
+
+EMMA
+
+But you did suspect me.
+
+STEED
+
+Not for a moment.
+
+EMMA
+
+You're playing games.
+
+STEED
+
+Aren't we all, Mrs. Peel?
+
+EMMA
+
+I thought you played by the rules.
+
+STEED
+
+I thought you didn't.
+
+EMMA
+
+I'm playing to win.
+
+STEED
+
+Winning isn't everything.
+
+EMMA
+
+Please don't tell me it's how you
+
+play the game.
+
+STEED
+
+(smiles; stands
+
+aside)
+
+After you -- Mrs. Peel ...
+
+EMMA
+
+No, after you.
+
+STEED
+
+(back to square
+
+one)
+
+You don't trust me?
+
+EMMA
+
+As far as you trust me.
+
+EMMA
+
+When it happens, Steed, you'll be
+
+the first to know ...
+
+189     EXT.  CHURCH TOWER - DAY
+
+EMMA
+
+Who could that be?
+
+STEED
+
+No -- don't answer it ...
+
+STEED
+
+That's it. The phones trigger
+
+the explosions --
+
+STEED
+
+Don't -- don't answer it -- !
+
+190     CLOSEUP - PHONE
+
+191     INSIDE PHONE BOX
+
+192     OUTSIDE
+
+STEED
+
+Get down -- get down -- it's
+
+going to explode -- !
+
+193     INSIDE PHONE BOX
+
+194     FROM PHONE BOX
+
+CHOIRBOY
+
+It's your mother.
+
+STEED
+
+Mother? How did you find me?
+
+STEED
+
+I told Mother I took care of you.
+
+EMMA
+
+You lied.
+
+STEED
+
+I equivocated. But you're not
+
+their big worry at present. It's
+
+Dr. Darling:  he's disappeared ...
+
+195     INT.  HALLUCINOGEN HALL - DAY
+
+196     DOWN LONG HALL
+
+DR. DARLING
+
+We are in the final phase. I shall require
+
+you to be especially obedient. There
+
+must be no failures.
+
+197     CLOSEUP - IN HIS HANDS - SNOWSHAKER
+
+198     IN MIRROR
+
+199     EXT.  COUNTRYSIDE - DAY
+
+200     INT.  JAG - DAY
+
+STEED
+
+Drat. Someone wants to implicate
+
+you in this affair, Mrs. Peel.
+
+Any idea who?
+
+EMMA
+
+No idea who. No idea why ...
+
+STEED
+
+(thinks)
+
+Teddy bears, cuckoo clocks, toys
+
+All children's things ...
+
+EMMA
+
+... Or grown-ups, who still like
+
+to be children.
+
+STEED
+
+Quite. Any childhood friends?
+
+Enemies?
+
+EMMA
+
+Not to speak of. Peter and I
+
+were both loners. There was
+
+nobody.
+
+STEED
+
+Very well. I have a friend who
+
+might be of assistance. He's at
+
+the Ministry. We'd better be
+
+careful.
+
+EMMA
+
+I'm a wanted woman, I know ...
+
+201     INT.  MINISTRY CORRIDORS - DAY
+
+STEED
+
+His name's Jones. 'Invisible' Jones.
+
+EMMA
+
+Why's he called 'Invisible'?
+
+STEED
+
+You'll find out.
+
+EMMA
+
+Aren't you coming?
+
+STEED
+
+I'll catch you up. Don't worry;
+
+he's expecting you.
+
+202     INT.  MINISTRY OFFICE - DAY
+
+INVISIBLE JONES (V.O.)
+
+Tell Miss Proudfoot, no calls.
+
+(beat)
+
+Colonel Jones at your service,
+
+Mrs. Peel. Just a moment --
+
+INVISIBLE JONES (V.O.)
+
+Talk to the pipe, Mrs. Peel.
+
+That usually helps. Don't worry
+
+about me being invisible. Other
+
+than that I'm perfectly normal.
+
+EMMA
+
+I see.
+
+INVISIBLE JONES (V.O.)
+
+Or rather, you don't. Learnt the
+
+tricks in camouflage. Till this
+
+accident made a prang of things.
+
+How can I help you, Mrs. Peel?
+
+203     INT.  MINISTRY - ANOTHER OFFICE
+
+STEED
+
+I say, Trubshaw, Steed here ...
+
+Barometer's falling fast. Mrs.
+
+Peel and I find ourselves in
+
+need of foul weather gear.
+
+(beat)
+
+Yes, I'd say gentlemen's snuff
+
+for starters. And then --
+
+204     INT.  INVISIBLE JONES' OFFICE
+
+INVISIBLE JONES (V.O.)
+
+Ah, here we are. Steed asked me
+
+to play a hunch:  Valentine Peel.
+
+EMMA
+
+Peter's brother?  But --
+
+INVISIBLE JONES (V.O.)
+
+Half-brother to be precise.
+
+INVISIBLE JONES (V.O.)
+
+Now let's see ... Eton, Cambridge ...
+
+research into robotics and plastics.
+
+Overtaken by Peter's work on the
+
+physics of climate change ...
+
+EMMA
+
+I know all this.
+
+INVISIBLE JONES (V.O.)
+
+Do you also know that during your
+
+final experiment, your halfbrother-
+
+in-law was under surveillance?
+
+EMMA
+
+Surveillance? By whom?
+
+INVISIBLE JONES (V.O.)
+
+Father. She gave him an 'all clear'
+
+after a security test by Dr. Darling.
+
+EMMA
+
+Who's now vanished.
+
+INVISIBLE JONES (V.O.)
+
+Makes two of us.
+
+EMMA
+
+Are you suggesting that Dr. Darling
+
+and Valentine were somehow in this
+
+together? But that's absurd.
+
+STEED
+
+We must hurry, Mrs. Peel ...
+
+EMMA
+
+Hurry?  What for?  I'm just
+
+now --
+
+STEED
+
+You didn't tell her?
+
+INVISIBLE JONES (V.O.)
+
+(testy)
+
+I was getting to it.
+
+EMMA
+
+Getting to what?
+
+INVISIBLE JONES (V.O.)
+
+The World Council of Ministers meets
+
+tomorrow to convene the new global
+
+defense initiative --
+
+EMMA
+
+I fail to see --
+
+STEED
+
+There's a reception this evening. Colonel
+
+Jones thinks it advisable we attend.
+
+EMMA
+
+Have we been invited?
+
+INVISIBLE JONES (V.O.)
+
+(poker-voiced)
+
+Under the circumstances Mother didn't
+
+see fit, but I think I can get you in ...
+
+EMMA
+
+(surveys her male
+
+outfit)
+
+Well, I can't possibly go like this.
+
+STEED
+
+I had a feeling. That's why we're
+
+in a hurry ...
+
+STEED
+
+May I have the honor, Mrs. Peel?
+
+EMMA
+
+You may, Mr. Steed.
+
+205     EXT.  LONDON STREETS - SEVERAL ANGLES - NIGHT
+
+206     INT.  MOTHER'S 22 BUS (AKA INSIDE MOBILE HQ) - NIGHT
+
+MOTHER
+
+Inside that hall are some of the
+
+Most powerful figures in the
+
+world. Tight security. Our
+
+only option.
+
+FATHER
+
+I'll see to it personally.
+
+207     EXT.  PALACE (WESTMINSTER) - NIGHT
+
+208     INT.  PALACE (WESTMINSTER) - NIGHT
+
+STEED
+
+What's that you're wearing?
+
+EMMA
+
+It's called Black Leather.
+
+STEED
+
+Intoxicating. Here, have one of
+
+these.
+
+EMMA
+
+What is it?
+
+STEED
+
+Limpet bomb. Small, very
+
+compact. From Trubshaw's.
+
+EMMA
+
+(hocks it on
+
+belt)
+
+When all this is over, we simply
+
+must get you out of that suit.
+
+STEED
+
+You first.
+
+EMMA
+
+Shall we?
+
+MINISTER (V.O.)
+
+... In the uncertain climate that threatens
+
+this global initiative, no magic umbrella
+
+can shield us.
+
+MINISTER (V.O.)
+
+Only our own vigilance. Security and
+
+stability are our watchwords.
+
+EMMA
+
+Trubshaw again? What now?
+
+STEED
+
+Snuff.
+
+(off Emma's lock)
+
+I must insist you try some.
+
+209     INT.  PALACE HALLWAY - NIGHT
+
+210     MARBLE HALLWAY
+
+STEED
+
+They're playing your song, Mrs.
+
+Peel.
+
+EMMA
+
+(annoyed)
+
+'The Merry Widow?' I might have
+
+known. Where's the reception?
+
+211     EXT.  LONDON STREETS - NIGHT
+
+212     SEVERAL ANGLES
+
+213     INT.  PALACE - NIGHT
+
+STEED
+
+Oh, hello ...
+
+FATHER
+
+We want Mrs. Peel.
+
+STEED
+
+Dead, I'm afraid.
+
+FATHER (O.S.)
+
+You disobeyed an order, Steed.
+
+Mrs. Peel is dangerous; she cannot
+
+be trusted.
+
+STEED (O.S.)
+
+I think she can.
+
+(beat)
+
+Can you?
+
+FATHER
+
+I shall summon security.
+
+STEED
+
+Bad news. Father's looking for you.
+
+Where are those bloody ministers?
+
+EMMA
+
+Have a look at this.
+
+STEED
+
+It's almost May, for heaven sake.
+
+214     EXT.  LONDON STREETS - NIGHT
+
+215     INT.  PALACE - NIGHT
+
+216     STEED'S POV - FROM WINDOWS
+
+217     INT.  PALACE ANTEROOM - NIGHT
+
+218     CENTER OF HALL
+
+EMMA
+
+Gentlemen, ladies. Forgive the breach
+
+of protocol. An emergency --
+
+219     SEVERAL ANGLES
+
+STEED
+
+Quick --it'll protect you --
+
+220     EXT.  PALACE - NIGHT
+
+221     INT.  MOTHER'S HQ - CONTINUOUS ACTION
+
+222     INT.  PALACE HALLWAY - NIGHT
+
+STEED
+
+After him, Mrs. Peel!
+
+STEED
+
+Go -- !
+
+223     EXT.  ELEVATOR (UPPER FLOORS) - CONTINUOUS ACTION
+
+224     INSIDE ELEVATOR
+
+225     EXT.  ELEVATOR (2ND FLOOR) - CONTINUOUS ACTION
+
+226     INT.  ELEVATOR - CONTINUOUS ACTION
+
+227     ON STAIRS - MEANWHILE
+
+228     INT. ELEVATOR - CONTINUOUS ACTION
+
+229     EXT.  ELEVATOR (3RD FLOOR) - CONTINUOUS ACTION
+
+230     INT.  ELEVATORS - CONTINUOS ACTION
+
+231     EXT.  PALACE MAIN FLOOR - CONTINUOUS ACTION
+
+232     INT.  ELEVATOR - CONTINUOUS ACTION
+
+233     EXT.  ELEVATOR (4TH FLOOR) - CONTINUOUS ACTION
+
+234     ELEVATOR (5TH FLOOR) - CONTINUOUS ACTION
+
+235     BUTLER'S POV
+
+236     BACK TO SCENE
+
+237     INT.  ELEVATOR - CONTINUOUS ACTION
+
+238     EXT.  ELEVATOR (67H FLOOR) - CONTINUOUS ACTION
+
+239     INT.  ELEVATOR SHAFT - ABOVE AND BELOW - CONTINUOUS ACTION
+
+240     INT.  PALACE STAIRS - CONTINUOUS ACTION
+
+241     INT.  PALACE ATTIC - NIGHT
+
+242     INT.  NARROW STAIRCASE
+
+243     EXT.  ROOFTOP - HELIPAD - NIGHT
+
+244     FROM INSIDE CHOPPER
+
+MAN
+
+Goodbye, Mrs. Peel!
+
+245     EXT.  ROOFTOP
+
+246     FROM INSIDE CHOPPER
+
+247     CLOSEUP - EMMA
+
+248     EMMA'S POV
+
+249     INT.  CHOPPER - NIGHT
+
+EMMA
+
+(shouts, re:  the
+
+gas mask)
+
+Anyone ever tell you you look
+
+like a housefly?
+
+EMMA
+
+Anyone else need a lift?
+
+MAN
+
+(to Pilot; intercom)
+
+Can't you throw her off?
+
+VOICE (V.O.)
+
+(intercom)
+
+Where'd she go?
+
+250     EXT.  CHOPPER TOP - CONTINUOUS ACTION - NIGHT
+
+CO-PILOT
+
+Happy landings, Mrs. Peel.
+
+251     EXT.  WIDE ANGLE - NIGHT
+
+252     THEIR POV
+
+253     CLOSEUP - EMMA
+
+254     BACK TO SCENE
+
+255     IN NIGHT AIR
+
+256     INT.  CHOPPER - CONTINUOUS ACTION - NIGHT
+
+257     EXT.  CHOPPER - CONTINUOUS ACTION - NIGHT
+
+258     SEVERAL ANGLES
+
+259     EXT.  WIDE ANGLE OVER THAMES - CONTINUOUS ACTION - NIGHT
+
+260     CLOSEUP SHOT
+
+261     HER POV
+
+262     INT.  CHOPPER - CONTINUOUS ACTION - NIGHT
+
+263     WIDE ANGLE - TOWER BRIDGE - CONTINUOUS ACTION - NIGHT
+
+264     EXT.  TOP OF TOWER BRIDGE WALKWAY - CONTINUOUS ACTION - NIGHT
+
+265     ANOTHER CHOPPER
+
+266     CLOSEUP - ON HIS FOOT
+
+267     BACK TO SCENE
+
+268     CLOSEUP - SHOE
+
+STEED (V.O.)
+
+I thought it was Cinderella
+
+who lost her slipper ...
+
+269     INT.  TRUBSHAW'S - DAWN
+
+EMMA
+
+This time the shoe's on the other
+
+foot. You said a hand-made shoe
+
+was as good as a photo-fit or
+
+D.N.A.? Well, all we have to do is
+
+find the shoe that fits ...
+
+TRUBSHAW
+
+It should be easy. A Trubshaw
+
+client has his shoes delivered
+
+personally. The Ministry should
+
+be able to confirm our delivery.
+
+STEED
+
+I'll be back ...
+
+EMMA
+
+Where are you going?
+
+STEED
+
+Laying in supplies, Mrs. Peel weather
+
+may get very nasty and I've no umbrella ...
+
+EMMA
+
+You needn't bother. I can't drag you
+
+further into this. After all, I am still
+
+the chief suspect.
+
+STEED
+
+No bother. Mother and Father think
+
+I've joined you. I might as well.
+
+EMMA
+
+But --
+
+STEED
+
+(comes back)
+
+Oh, and by the way, I think it's about
+
+time you got rid of that chip on your
+
+shoulder.
+
+EMMA
+
+If you'd been through what I have,
+
+you wouldn't --
+
+STEED
+
+A microtag. One of Mother's little
+
+toys. There you are. Free at last.
+
+270     INT.  TRUBSHAW'S BASEMENT - CONTINUOUS ACTION
+
+271     UPSTAIRS - HOURS LATER
+
+EMMA
+
+Prince Charming, I presume.
+
+Your name is ...
+
+272     CLOSE ON WORN PAPER LABEL
+
+EMMA
+
+Oh my God ...
+
+273     INT.  TRUBSHAW'S - DOWNSTAIRS - CONTINUOUS ACTION
+
+274     INT.  TRUBSHAW'S - UPSTAIRS - DAY
+
+STEED
+
+Where's Mrs. Peel?
+
+TRUBSHAW
+
+She just left, sir. In a hurry.
+
+STEED
+
+What?
+
+TRUBSHAW
+
+She said you'd understand.
+
+275     ON STEED
+
+VOICE (V.O.)
+
+Ah, here we are ...
+
+276     CLOSEUP - PIP PUFFING IN MID-AIR
+
+277     INT.  MINISTRY ARCHIVES - DAY
+
+INVISIBLE JONES (V.O.)
+
+'X' marks the spot. The shoes were
+
+delivered to ... an island in Hyde Park.
+
+Surrounded by the Serpentine. On the
+
+site of a former Ministry installation...
+
+EMMA
+
+... and now?
+
+INVISIBLE JONES (V.O.)
+
+Privately owned by ...
+
+EMMA
+
+Let me guess:  Wonderland Weather.
+
+INVISIBLE JONES (V.O.)
+
+Very good, Mrs. Peel ...
+
+EMMA
+
+I shall need a small plane.
+
+INVISIBLE JONES (V.O.)
+
+You're not venturing alone, surely.
+
+EMMA
+
+I'm going to find out who killed
+
+my husband. Will you take these
+
+documents to Steed?
+
+INVISIBLE JONES (V.O.)
+
+Of course.
+
+278     ON EMMA
+
+EMMA
+
+Tell him I said ... goodbye.
+
+279     INT.  SECRET SERVICE HQ - DAY
+
+BRENDA
+
+Steed for you.
+
+MOTHER
+
+Where's Mrs. Peel?
+
+there.
+
+STEED (V.O.)
+
+(filtered)
+
+I was hoping you could tell me.
+
+MOTHER
+
+You're getting yourself into terrible
+
+trouble, my son. Weather's turning
+
+very nasty -- and so am I.
+
+STEED (V.O.)
+
+(filtered)
+
+I'm going to follow up on a hunch of
+
+my own. If I'm right, Mrs. Peel is
+
+innocent and you have a mole.
+
+MOTHER
+
+(grabs mirror;
+
+searches his face)
+
+Where?
+
+STEED (V.O.)
+
+(filtered)
+
+In your operation.
+
+MOTHER
+
+I'm warning you for the last time,
+
+Steed: whoever's behind all this,
+
+looks like Mrs. Peel, walks like
+
+Mrs. Peel and kills like Mrs. Peel.
+
+280     CLOSE ON MOTHER
+
+MOTHER
+
+Steed??
+
+(to Father)
+
+Find Mrs. Peel.
+
+281     EXT.  SKY - DAY
+
+282     EXT.  ISLAND (HYDE PARK) - DAY
+
+283     HER POV
+
+284     INT.  HYDE PARK UNDERGROUND HQ
+
+285     LONG DARK CORRIDOR
+
+286     INT.  TOTALLY DARK CHAMBER
+
+VOICE (V.O.)
+
+Congratulations, Mrs. Peel. You have
+
+been a worthy opponent. You have
+
+tracked us down. You are within an
+
+ace of winning.
+
+EMMA
+
+This isn't a game.
+
+VOICE (V.O.)
+
+Quite right, but we still make the rules.
+
+EMMA
+
+Rules are made to be broken.
+
+VOICE (V.O.)
+
+People, too.
+
+EMMA
+
+Then who wins?
+
+VOICE
+
+You and I. Together. But first you
+
+must confront your greatest enemy.
+
+Who could that be, Mrs. Peel?
+
+The answer is obvious ...
+
+VOICE (V.O.)
+
+Yourself.
+
+287     EMMA'S POV
+
+288     EXT.  COUNTRY ROADS - DAY
+
+289     INT.  CAR
+
+DISSOLVE TO:
+
+290     INT.  UNDERGROUND H.Q.
+
+FATHER
+
+(filtered)
+
+Emma in Wonderland. Welcome,
+
+Mrs. Peel.
+
+(filtered)
+
+We've been expecting you. We hope
+
+you'll enjoy your stay with us.
+
+Decontamination is almost complete.
+
+EMMA
+
+Decontamination -- ?
+
+FATHER
+
+And you've a new wardrobe. He
+
+does want you to look attractive.
+
+(beat )
+
+He tells me you're very beautiful.
+
+FATHER
+
+Relax, Mrs. Peel. We're hundreds
+
+of feet below ground. The Ministry
+
+made it impregnable. No one can
+
+save you.
+
+291     EXT.  SPIRES OF ETON COLLEGE - EVENING
+
+292     INT.  UNDERGROUND HQ - DINING ROOM
+
+DR. DARLING
+
+Emma, my dear. How lovely you
+
+look.
+
+EMMA
+
+Would that I could say the Same.
+
+DR. DARLING
+
+Ah, but you haven't see the real
+
+me. Watch closely ...
+
+EMMA
+
+Peter ...
+
+PETER
+
+Darling Emma --
+
+EMMA
+
+It was you ... all the time?
+
+PETER
+
+Not really. Not quite. I'm
+
+afraid you still don't see ...
+
+TEACHER (V.O.)
+
+Valentine Peel ...
+
+293     EXT.  ETON COLLEGE - EVENING
+
+OLD TEACHER (V.O.)
+
+Yes, I remember him quite well ...
+
+OLD TEACHER
+
+This is where he used to spend his
+
+days. We have an old photograph
+
+somewhere ...
+
+294     CLOSEUP - PHOTO
+
+295     BACK TO SCENE
+
+TEACHER
+
+Absolute wizard with makeup. His
+
+favorite roll from Shakespeare.
+
+Prospero ...
+
+STEED
+
+'The Prospero Project...'
+
+TEACHER
+
+... From The Tempest. A banished
+
+duke, ousted by his brother,
+
+marooned on a magic island. Who
+
+controlled the weather.
+
+296     CLOSEUP - STEED
+
+STEED
+
+'O Brave New World that hath
+
+such people in it.'
+
+297     BACK TO DINNER TABLE
+
+EMMA
+
+You.
+
+VALENTINE
+
+Darling Emma -- yes, we:  the true
+
+genius behind the Prospero Project ...
+
+EMMA
+
+But you died -- in the explosion ...
+
+298     FLASHBACK - CLOSE ON HAND IN WHITE GLOVE
+
+VALENTINE (V.O.)
+
+Oh, no. I arranged the explosion.
+
+299     BACK TO PRESENT
+
+VALENTINE
+
+A slight miscalculation -- my face
+
+was burned beyond recognition.
+
+Fortunately my research into plastics
+
+came in handy ...
+
+EMMA
+
+(stunned)
+
+Dr. Darling, Peter ... all you ...
+
+VALENTINE
+
+An unholy trinity ...
+
+EMMA
+
+(stands)
+
+You killed my husband.
+
+VALENTINE
+
+For starters. Of course I had to kill
+
+the Teddy Bears, as well ...
+
+EMMA
+
+Too many cooks --
+
+VALENTINE
+
+Spoil the majority shareholders. In
+
+Wonderland Weather. I planned
+
+everything, even the Ministry
+
+recruiting you ...
+
+EMMA
+
+But I found you. All the clues
+
+led me here ...
+
+VALENTINE
+
+Of course. I planned that, too.
+
+EMMA
+
+But -- why?
+
+VALENTINE
+
+You disappoint me, Emma.  Can't
+
+you guess?
+
+(moves toward her)
+
+For you. It was all for you ...
+
+EMMA
+
+(cold)
+
+'Our revels now are ended.'
+
+VALENTINE
+
+Oh, no, Emma. They've only
+
+just begun ...
+
+300     INT.  INVISIBLE JONES' OFFICE - NIGHT
+
+INVISIBLE JONES (V.O.)
+
+The shoes were delivered to an island
+
+in the Serpentine - former Ministry
+
+installation ... she said to tell you
+
+goodbye. What?
+
+301     CLOSEUP - STEED IN RED PHONEBOX (SOMEWHERE) - NIGHT
+
+STEED
+
+I said it's not goodbye yet.
+
+Listen, I'm going to need some
+
+help. In a hurry ...
+
+302     INT.  HYDE PARK UNDERGROUND - DINING ROOM
+
+VALENTINE
+
+(indicates supper)
+
+Think of this as your second
+
+wedding feast ...
+
+EMMA
+
+I'm already married ...
+
+VALENTINE
+
+Come, come, you're a widow -- a
+
+most attractive widow. Now I think
+
+of it, we'll need a bridesmaid. Here.
+
+VALENTINE
+
+My latest model. A compound of
+
+plastics and sensor chips. A big
+
+improvement on the old X404s.
+
+The poor thing is quite fond of me.
+
+Emma, say hello to Emma.
+
+VALENTINE
+
+You know, I believe she's actually
+
+jealous.
+
+EMMA
+
+Valentine, listen to me ...
+
+VALENTINE
+
+Right, bridesmaid. Now what
+
+have I left out? Oh, yes, I know:
+
+the ring.
+
+EMMA
+
+(covers her hand)
+
+Ring?
+
+VALENTINE
+
+How silly of me -- let me make
+
+you comfortable first ...
+
+DISSOLVE TO:
+
+303     INT.  ISLAND (HYDE PARK) - NIGHT
+
+304     RED PHONEBOX
+
+305     SARCOPHAGUS
+
+306     INT.  VALENTINE'S HIGH-TECH TORTURE CHAMBER - CONTINUOUS
+
+VALENTINE
+
+That's better. I say, isn't this
+
+where you came in? It's
+
+impenetrable, by the way ...
+
+EMMA
+
+You're mad.
+
+VALENTINE
+
+Entirely. On the other hand
+
+(he advances towards
+
+her, smiling)
+
+Mad people get things done. Let
+
+me show you --
+
+307     INT.  UNDERGROUND H.Q. - CONTINUOUS ACTION
+
+FATHER
+
+Steed
+
+STEED
+
+How did you guess?
+
+FATHER
+
+You reek of Mrs. Peel's Black
+
+Leather ...
+
+STEED
+
+It was you who gave Valentine
+
+Peel his security clearance ...
+
+you're the mole who betrayed
+
+the Ministry.
+
+FATHER
+
+Mother betrayed me. She was
+
+going to replace me with a younger
+
+Father.  Errand boy that's all I was.
+
+'Find Steed...'
+
+STEED
+
+Well, you found me. Have a sniff of
+
+this, why don't you? Careful, the
+
+scent can be overpowering ...
+
+308     INT.  DUCTS - CONTINUOUS ACTION
+
+309     INT.  TORTURE CHAMBER
+
+VALENTINE
+
+People expect weather to be free.
+
+They're used to it. I call that a
+
+denial of freedom. No freedom of
+
+choice. An abuse of human rights.
+
+They buy water, electricity, gas.
+
+Why shouldn't they be able to buy
+
+their own weather if they want to?
+
+If they have a little incentive ...
+
+EMMA
+
+Such as?
+
+VALENTINE
+
+Destruction of their local weather
+
+systems. I can zap a thousand
+
+Chernobyls into the air.
+
+EMMA
+
+The result would be ...
+
+VALENTINE
+
+Chaos. Transport paralysis. Crop
+
+failure.  Economic disaster.
+
+Frostbite or sunburn ... on a
+
+massive scale.
+
+You've seen a few samples...
+
+EMMA
+
+Then what's stopping you?
+
+VALENTINE
+
+One very small thing. A diamond
+
+'cyclone' chip. A thousand times
+
+more information on a fraction of
+
+the size. If I possess that, my
+
+powers would be unlimited. My
+
+dear half-brother was developing
+
+it. But he suspected sabotage.
+
+He gave the chip to ... you,
+
+'Mrs.' Peel. I want you. But
+
+also your ring.
+
+310     CLOSEUP - HER RING
+
+A diamond.  In the light, a patterned imprint.  ZOOM IN -- a complex fractal equation of circuits.
+
+311     BACK TO SCENE
+
+VALENTINE
+
+The missing piece of the jigsaw.
+
+I tried to get you to give it to me
+
+as Peter; I tried to steal it from
+
+you as Dr. Darling. As myself I'll
+
+be a bit less subtle.
+
+(he slips it off her
+
+finger; holds it up)
+
+With this ring my plan will be
+
+complete.
+
+EMMA
+
+How Wagnerian ... Do you mean
+
+to say you've waited all these
+
+years because you couldn't create
+
+a chip on your own? That would
+
+have amused Peter.
+
+VALENTINE
+
+Speaking of Peter, there's more good
+
+news: You won't even have to change
+
+your last name. You'll always be Mrs. Peel.
+
+EMMA
+
+What are my choices?
+
+VALENTINE
+
+Choices?
+
+EMMA
+
+I'll never marry you.
+
+VALENTINE
+
+One out of two isn't bad. I'll keep you
+
+alive, darling Emma. In a year or five,
+
+you may change your mind. If you're
+
+still in it.
+
+VALENTINE
+
+This little toy gave me back my face.
+
+It can replace yours. What do you think?
+
+Medusa? Madame Defarge? Maggie
+
+Thatcher?
+
+FATHER (V.O.)
+
+Dr. Darling, this is Father. We
+
+have an intruder. I repeat --
+
+VALENTINE
+
+Ah. That will be Steed. He followed
+
+you. Please excuse me. I have work
+
+to do. My most spectacular
+
+performance. A ballet of clouds. It
+
+was made for you. I want to give you
+
+a heart, Emma. I want all of London
+
+to see it. And now with this ...
+
+(flourishes ring)
+
+They will.
+
+(leans close)
+
+And for an encore: the biggest cyclone
+
+in history will wipe the City from the
+
+face of the earth.
+
+(winks)
+
+Shape of things to come, my darling.
+
+STEED
+
+Blast. What to do? Mrs. Peel!
+
+312     EXT.  SKY OVER LONDON - NIGHT
+
+313     INSIDE CLOUDS
+
+314     INT.  DUCTS - CONTINUOUS ACTION
+
+STEED
+
+The things I do for England ...
+
+EMMA
+
+You must let me go ...
+
+EMMA
+
+Don't you understand? If he has
+
+me, he'll have no use for you ...
+
+he'll destroy you ...
+
+EMMA
+
+No...
+
+315     ANOTHER PART OF UNDERGROUND H.Q.
+
+STEED
+
+Oh, dear.
+
+316     CLOSEUP - BOWLER (IN FLIGHT)
+
+317     OTHER GUARDS
+
+STEED
+
+Someone's going to pay for this.
+
+318     CLOSEUP - VALENTINE
+
+319     INT.  CONTROL ROOM - NIGHT
+
+VALENTINE
+
+Start the countdown. Action
+
+stations. Five minutes ...
+
+FATHER
+
+Congratulations. The clouds are
+
+on course ...
+
+VALENTINE
+
+To explode. London will be ashes.
+
+FATHER
+
+Not yet! They haven't heard our
+
+terms ... !
+
+VALENTINE
+
+Are you insane? Stop the program
+
+and you activate the auto-destruct!
+
+FATHER
+
+But all those people -- !
+
+VALENTINE
+
+My cloud ballet! My cyclone!
+
+320     EXT.  PARLIAMENT SQUARE - NIGHT
+
+321     THROUGH CITY STREETS
+
+322     CLOSEUP - DIGITAL READOUTS
+
+323     INT.  MOTHER'S UNDERWATER HQ - CONTINUOUS ACTION
+
+MOTHER
+
+Dense cloud formation moving south-
+
+west. On course for the center of the
+
+city. A fog floating in from the river.
+
+The prediction is ... unstable chemical
+
+reaction. Enforce the curfew ...
+
+Emergency stand by ... !
+
+324     EXT.  SKY OVER BUCKINGHAM PALACE - NIGHT
+
+325     OVER CITY - SEVERAL ANGLES
+
+326     FROM RIVER
+
+327     EXT.  LONDON STREETS - SEVERAL ANGLES - NIGHT
+
+328     CLOSEUP - DIGITAL NUMBERS
+
+329     INT.  HI-TECH TORTURE CHAMBER - DAY
+
+VALENTINE
+
+My dear.
+
+(pulls the gag:
+
+kisses her)
+
+I wouldn't want you to miss the
+
+grand finale ...
+
+VALENTINE
+
+Find her. Kill her ...
+
+330     INT.  UNDERGROUND HYDE PARK - HQ CATWALKS - CONTINUOUS
+
+331     INT.  UNDERGROUND HQ - STEED - CONTINUOUS ACTION
+
+332     INT.  UNDERGROUND CONTROL ROOM - CONTINUOUS ACTION
+
+water.
+
+333     FLOOR-LEVEL HATCH
+
+VALENTINE
+
+John Steed.
+
+STEED
+
+Valentine Peel. I see you've gone
+
+back to using your original face.
+
+VALENTINE
+
+The last one you'll ever see.
+
+STEED
+
+Perish the thought.
+
+VALENTINE
+
+Did they tell you at Eton that I
+
+was fencing champion, too?
+
+STEED
+
+They said you were a very naughty
+
+boy.
+
+334     SEVERAL ANGLES
+
+VALENTINE
+
+You're better than I expected.
+
+STEED
+
+I was at Harrow ...
+
+VALENTINE
+
+But did they teach you this?
+
+STEED
+
+Bang-bang ... you're dead.
+
+VALENTINE
+
+You wish.
+
+335     CLOSEUP - FLASH OF LIGHT
+
+336     VALENTINE
+
+STEED
+
+One shot -- for emergencies.
+
+VALENTINE
+
+(clutches wound)
+
+That's not playing by the rules.
+
+STEED
+
+(echoes Emma!)
+
+Rules are made to be broken.
+
+VALENTINE
+
+(pulls his own gun)
+
+If you say so.
+
+STEED
+
+I do.
+
+VALENTINE
+
+You said ... one shot.
+
+STEED
+
+Did I? My mistake.
+
+VALENTINE
+
+I wouldn't do that, if I were you.
+
+STEED
+
+Mrs. Peel -- !
+
+VALENTINE
+
+Bullet-proof waistcoats -- just the
+
+thing. I get mine from Trubshaw's.
+
+We'll be off now, won't we, darling?
+
+(to Steed)
+
+We wouldn't want to miss the
+
+fireworks. Figure it out if you can,
+
+Steed ...
+
+337     DOWN HATCH
+
+338     ON STEED
+
+339     EXT.  LONDON - CONTINUOUS ACTION - NIGHT
+
+340     NUMBERS
+
+341     INT.  CATWALKS - CONTINUOUS ACTION
+
+342     EXT.  LONDON - CONTINUOUS ACTION - NIGHT
+
+343     CLOSEUP - STEED'S HANDS
+
+344     INT.  CONTROL ROOM - CONTINUOUS ACTION
+
+345     EXT.  LONDON - CONTINUOUS ACTION - NIGHT
+
+346     SEVERAL ANGLES - DYING STORM
+
+347     CLOSEUP - RELIEVED FACES
+
+348     INT.  CONTROL ROOM - ON SCREENS - CONTINUOUS ACTION
+
+STEED
+
+You must be joking ...
+
+349     EXT.  CATWALKS - CONTINUOUS ACTION
+
+VALENTINE
+
+Fool ...
+
+STEED
+
+That will do.
+
+VALENTINE
+
+Aren't you forgetting about
+
+something?
+
+STEED
+
+You are, and it's behind you.
+
+VALENTINE
+
+Come, come. You don't really
+
+expect me to fall for --
+
+VALENTINE
+
+Let go, you ... idiot ...
+
+STEED
+
+I think she really likes you ...
+
+Where's Mrs. Peel?
+
+VALENTINE
+
+Ugh ...
+
+350     EMMA
+
+STEED
+
+Emma!
+
+STEED
+
+Emma ...
+
+351     CLOSEUP - RING
+
+352     BACK TO SCENE
+
+EMMA
+
+Steed?
+
+STEED
+
+Mrs. Peel?
+
+EMMA
+
+What kept you?
+
+STEED
+
+The plot.
+
+(realizing)
+
+Hello, we must be going ...
+
+353     CLOSEUP - AUTO-DESTRUCT NUMBERS
+
+354     SEVERAL ANGLES
+
+355     MORE NUMBERS
+
+356     INT.  TORTURE CHAMBER - CONTINUOUS ACTION
+
+EMMA
+
+Quick!
+
+357     SEVERAL ANGLES
+
+358     EXT.  ALBERT BRIDGE - NIGHT
+
+Beneath the clear moonlight, all bulbs on -- like Xmas.
+
+359     BELOW
+
+STEED
+
+'The owl and the pussycat went
+
+to sea -'
+
+EMMA
+
+'... in a beautiful pea green boat...'
+
+STEED
+
+A fine night, Mrs. Peel ...
+
+EMMA
+
+Still a bit chilly ...
+
+STEED
+
+English weather. You know, after
+
+all we've been through, I should
+
+say we deserve a long holiday ...
+
+EMMA
+
+Have you any place in mind?
+
+STEED
+
+As a matter of fact I have ...
+
+360     EXT.  SIBERIAN ICE FIELDS - DAY				360
+
+361     SAND
+
+362     AHEAD OF HIM
+
+363     TWO DIVAN-STYLE DECK CHAIRS
+
+EMMA
+
+I don't recall Siberia being this
+
+warm, Steed.
+
+STEED
+
+It's the latest thing, Mrs. Peel.
+
+EMMA
+
+Our little paradise -- just made
+
+for two?
+
+STEED
+
+(looks; frowns)
+
+Not quite.
+
+STEED
+
+Our chaperon.
+
+EMMA
+
+Pity your mother came, too ...
+
+STEED
+
+Still a little warm, Trubshaw.
+
+Is this the '28? A little more
+
+ice, I think ...
+
+MOTHER
+
+About your next assignment, Mrs.
+
+Peel ...
+
+EMMA
+
+Next assignment?
+
+EMMA (V.O.)
+
+Ah ... sun tan lotion. Any shops
+
+nearby?
+
+STEED (V.O.)
+
+Must be. Trubshaw's busy. I'll
+
+send Mother ...
+
+MOTHER (V.O.)
+
+Ahem. As I was saying, perhaps
+
+another macaroon ...
+
+EMMA (V.O.)
+
+Thank you, Steed.
+
+STEED (V.O.)
+
+Thank you, Mrs. Peel.
+
+FADE OUT.
+
+THE END
+

@@ -1,0 +1,7516 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Star Trek - The Motion Picture
+
+Star Trek: The Motion Picture
+
+Screenplay by:
+
+GENE RODDENBERRY &  HAROLD LIVINGSTONE
+
+Story by:
+
+ALAN DEAN FOSTER  & GENE RODDENBERRY
+
+SHOOTING SCRIPT
+
+July 19, 1978
+
+1   EXT SPACE (S)                                                1
+
+2   EXT. AREA OF LUMINESCENCE (S)                                2
+
+3   KLINGON HEAVY CRUISER (S)                                    3
+
+4   INT. KLINGON CRUISER BRIDGE (O)                              4
+
+KLINGON CAPTAIN
+
+(Give me tactical.)
+
+5   CLOSE - MAIN VIEWER (O)                                      5
+
+6   EXT. SPACE - THE KLINGON PATROL AND THE HAZE (S)             6
+
+7   INT. THE KLINGON BRIDGE - CAPTAIN AND EXEC (O)               7
+
+KLINGON CAPTAIN
+
+(In Klingonese)
+
+Visual.
+
+8   CLOSE - VIEW SCREEN - LUMINESCENT HAZE (O)                   8
+
+9   INT. BRIDGE - KLINGON COMMAND CRUISER                        9
+
+KLINGON CAPTAIN
+
+(In Klingonese)
+
+Tactical again. Stand by on
+
+torpedoes.
+
+10   EAT SPACE - LEAD KLINGON VESSEL (TORPEDO HATCH) (S)         10
+
+11   VERY WIDE ANGLE - THE THREE SHIPS (S)                       11
+
+12   INT. KLINGON BRIDGE - TACTICAL GRID - CAPTAIN AND           12
+
+13   EXT. SPACE - ANGLE ON KLINGON VESSEL - TORPEDO HATCH (S)    13
+
+14   ANGLE ON KLINGON VESSEL (S)                                 14
+
+15   INT. KLINGON BRIDGE - TACTICAL GRID (O)                     15
+
+16   INT. KLINGON BRIDGE - CAPTAIN AND EXEC                      16
+
+17   EXT SPACE - THE CLOUD - THREE KLINGON SHIPS (S)             17
+
+18   INT. KLINGON BRIDGE (O)                                     18
+
+KLINGON CAPTAIN
+
+(quickly; Klingonese)
+
+Full force fields; evasive
+
+maneuvers.
+
+19   EAT SPACE - THE CLOUD - THE KLINGON PATROLS (S)             19
+
+20   ANGLE ON REMAINING KLINGON CRUISERS (S)                     20
+
+21   INT. KLINGON BRIDGE                                         21
+
+KLINGON CAPTAIN
+
+(In Klingonese)
+
+... severely damaged. Returning
+
+fire...
+
+22   EXT. SPACE - STARFLEET MONITOR STATION EPSILON 9 (S)        22
+
+23   INT. EPSILON 9 - MONITOR ROOM - A VIEWER (O)                23
+
+KLINGON CAPTAIN
+
+(In Klingonese)
+
+Imperial Klingon Cruiser Amar...
+
+severely damaged by unfamiliar
+
+weaponry... intruder unidentified..
+
+24   WIDER ANGLE - EPSILON 9 STARFLEET PERSONNEL AND VIEWER (O)  24
+
+LIEUTENANT
+
+Our sensor drone is intercepting
+
+this on Quad L-14.
+
+KLINGON CAPTAIN (V.O.)
+
+... believe luminescent cloud
+
+to be enormous power field
+
+surrounding alien vessel...
+
+size and description unknown..
+
+our sensor scans unable to
+
+penetrate. Imperial Klingon
+
+Cruiser Amar... continuing
+
+to attack.
+
+BRANCH
+
+That's within Klingon boundaries.
+
+Who are they fighting?
+
+LIEUTENANT
+
+Unknown, sir.
+
+TECHNICIAN
+
+I have an exterior visual!
+
+25   CLOSE ON VIEWER (O)                                         25
+
+26   WIDER ANGLE - PERSONNEL AND VIEWER (O)                      26
+
+LIEUTENANT
+
+We've plotted a course on that
+
+cloud, Commander: it will pass
+
+into Federation Space fairly
+
+close to us.
+
+BRANCH
+
+Heading?
+
+27   CLOSE ON THE MAIN MONITOR STATION (O)                       27
+
+LIEUTENANT'S VOICE
+
+Sir, it's on a precise heading
+
+for Earth.
+
+28   EXT. SURFACE OF PLANET VULCAN - DAY (M)                     28
+
+29   EXT. VULCAN LEDGE - SPOCK ( M & F.P.)                       29
+
+FEMALE MASTER'S VOICE
+
+Spock, son of Sarek of Vulcan...
+
+and of Amanda of Earth...
+
+diligently you have labored for
+
+purification of mind...
+
+30   REVERSE ANGLE - SPOCK, VULCAN MASTERS AND RUINS             30
+
+MALE MASTER
+
+(chidingly)
+
+Spock . . . !
+
+FEMALE MASTER
+
+Here are these sands, our fore-
+
+bearers cast out their animal
+
+passions. Here our race was
+
+saved by the first attainment of
+
+Kolinahr.
+
+MALE MASTER
+
+Kolinahr: the final shedding of
+
+all emotion.
+
+FEMALE MASTER
+
+You have labored long, Spock.
+
+Now receive from us this symbol
+
+of total logic.
+
+FEMALE MASTER
+
+(gestures Spock forward)
+
+Come, give me your thoughts.
+
+FEMALE MASTER
+
+(continuing)
+
+Our minds, Spock... One and
+
+together....
+
+FEMALE MASTER
+
+(continuing; sadly)
+
+This consciousness which calls --
+
+it stirs your human half, Spock?
+
+You have not achieved Kolinahr --
+
+Your human emotions are not fully
+
+extinguished.
+
+(turns to the other Masters)
+
+He will not achieve his goal with
+
+us. His answer lies elsewhere.
+
+31   MED. ANGLE ON SPOCK (M. & F.P.)                             31
+
+SHOCK CUT TO :
+
+32   EXT. EARTH - AN AIR TRAM - DAY (S)                          32
+
+33   EXT. SAN FRANCISCO - HILLTOP AIR TRAM STATION -             33
+
+34   EXT. TRAM STATION - CLOSE ON TRAM DOORS - DAY               34
+
+35   KIRK                                                        35
+
+36   INT. AIR TRAM STATION - DAY         `                       36
+
+37   SONAK                                                       37
+
+KIRK
+
+Commander Sonak... !
+
+KIRK
+
+(continuing)
+
+You've received your appointment
+
+as Enterprise Science Officer?
+
+SONAK
+
+(nods)
+
+Based, I am told, on your
+
+recommendation, Admiral. Thank
+
+you.
+
+KIRK
+
+Why aren't you on board?
+
+SONAK
+
+Captain Decker requested I complete
+
+final Science briefing here before...
+
+KIRK
+
+(interrupting)
+
+Here at Starfleet...? The
+
+Enterprise is in final preparation
+
+to leave dock...
+
+SONAK
+
+Which will require twenty more
+
+hours at minimum, Admiral...
+
+KIRK
+
+Twelve! I'm on my way to a meeting
+
+with Admiral Nogura which will not
+
+last more than three minutes.
+
+Report to me on the Enterprise in
+
+one hour.
+
+SONAK
+
+To you, sir?
+
+KIRK
+
+I intend to be there following
+
+that meeting. Report to me. One
+
+hour!
+
+38   EXT. EARTH ORBIT (S)                                        38
+
+39   CLOSER ANGLE - ORBITAL OFFICE CLUSTER (S)                   39
+
+40   INT. INNER OFFICE (O)                                       40
+
+40A   KIRK AND SCOTT                                             40A
+
+SCOTT
+
+Admiral, I've been hoping to see
+
+you. Maybe you can get through
+
+to those thick heads in Starfleet
+
+that...
+
+KIRK
+
+Why aren't the Enterprise
+
+transporters in operation, Mister
+
+Scott?
+
+SCOTT
+
+We're hoping it's only a temporary
+
+problem, Admiral...
+
+KIRK
+
+See that it is.
+
+(moving toward pod)
+
+Take me over, please.
+
+SCOTT
+
+(carefully)
+
+Admiral, the Enterprise has just
+
+finished eighteen months redesign-
+
+ing and refitting. She needs
+
+testing, a shakedown...
+
+KIRK
+
+Mr. Scott, there's an alien object
+
+with unbelievable destructive
+
+power less than three days away
+
+from this planet...
+
+KIRK
+
+(continuing)
+
+... the only Starship in
+
+interception range is the
+
+Enterprise! Ready, or not, she
+
+launches in twelve hours!
+
+40C   EXT. POD                                                   40C
+
+41   EXT. EARTH ORBIT - ANGLES ON TRAVEL POD (S)                 41
+
+-                                                                -
+
+43                                                               43
+
+as it moves way from the office complex. We can
+
+44   INT. TRAVEL POD - KIRK AND SCOTT                            44
+
+SCOTT
+
+The crew hasn't had near enough
+
+transition time with all the new
+
+equipment. And the engines,
+
+Admiral: they've yet to be even
+
+tested at warp power. Add to
+
+that, an untried Captain...
+
+KIRK
+
+(hint of smile)
+
+Two and a half years as Chief of
+
+Starfleet Operations may have
+
+made me a little stale, Mr. Scott
+
+-- but I wouldn't exactly consider
+
+myself 'untried.'
+
+KIRK
+
+(continuing)
+
+They gave her back to me, Scotty.
+
+SCOTT
+
+"Gave' her back, sir...? I doubt
+
+it was that easy...
+
+(returns smile)
+
+But any man who could manage such
+
+a feat, I wouldna dare disappoint.
+
+She'll launch on time, sir...
+
+(with confidence)
+
+And she'll be ready.
+
+45   EXT. OUTSIDE THE POD WINDOW - KIRK'S POV (O)                45
+
+46   INT. TRAVEL POD                                             46
+
+47   PAST THEM TO THE POD WINDOW (O)                             47
+
+48   EXT. EARTH ORBIT - OTHER ANGLES FROM THE POD (O)            48
+
+-                                                                -
+
+50                                                               50
+
+51   INT. POD - VERY CLOSE ON KIRK AT WINDOW                     51
+
+52   WHAT THEY SEE - THE ENTERPRISE (S)                          52
+
+53   EXT. THE ENTERPRISE - AND THE POD (TINY IN THIS SHOT)       53
+
+-                                                                -
+
+56   AS IT CIRCLES - THE ANTI-LIKE FIGURES OF WORKERS (S)        56
+
+57   INT. POD - AT THE AIRLOCK                                   57
+
+58   INT. ENTERPRISE CARGO DECK (M)                              58
+
+59   INT. CARGO DECK - BALCONY AND CATWALK                       59
+
+KIRK AND SCOTT
+
+Permission to come aboard, sir...?
+
+ENSIGN
+
+Granted, sir. Welcome aboard,
+
+Admiral... Commander Scott,
+
+you're needed in Engineering
+
+immediately.
+
+SCOTT
+
+(to Kirk)
+
+Sir, you'll excuse me...?
+
+60   ANGLE DOWN PAST KIRK TO FLOOR (M)                           60
+
+61   CLOSE ON KIRK AND ENSIGN                                    61
+
+ENSIGN
+
+(nervous)
+
+Sir, if you'll follow me, I'll...
+
+KIRK
+
+I think I can find my way,
+
+Ensign.
+
+62   EXT. ELEVATOR AND CATWALK                                   62
+
+63   INT. ELEVATOR                                               63
+
+KIRK
+
+Bridge!
+
+64   INT. BRIDGE                                                 64
+
+65   ANGLE ON THE ELEVATOR DOORS                                 65
+
+66   ACROSS UHURA TO KIRK                                        66
+
+UHURA
+
+Captain... Starfleet just
+
+signaled your transfer-of-
+
+command orders!
+
+67   ANOTHER ANGLE - VARIOUS REACTION                            67
+
+KIRK
+
+I appreciate the welcome; I wish
+
+the circumstances were less
+
+critical.
+
+(to Uhura)
+
+Epsilon Nine is monitoring the
+
+intruder; keep a channel open to
+
+them.
+
+(glances around)
+
+Where is Captain Decker?
+
+SULU
+
+He's in Engineering, sir...
+
+(uncomfortable,
+
+indicates Captain's
+
+chair)
+
+He doesn't know.
+
+KIRK
+
+Mr Chekov, assemble the crew on
+
+the Rec Deck at 0400 hours. I
+
+want to show them what we're
+
+facing.
+
+SULU
+
+I wouldn't have wanted to have
+
+been standing in his way. He
+
+wanted her back; he got her!
+
+ALIEN ENSIGN
+
+(perturbed)
+
+And Captain Decker? He's been
+
+with the ship every minute of
+
+her refitting...
+
+UHURA
+
+(brittle)
+
+Ensign -- our chances of coming
+
+back from this mission in one
+
+piece may have just doubled...!
+
+68   OMITTED                                                     68
+
+-                                                               -
+
+69                                                               69
+
+70   INT. ENGINEERING SECTION                                    70
+
+71   THE INTERMIX CHAMBER                                        71
+
+DECKER
+
+(quietly elated)
+
+I thought so! See... the trans-
+
+porter sensor was not activated...
+
+SCOTT
+
+(impressed)
+
+Aye, you were dead right about
+
+that...
+
+(to Technician)
+
+Clearly, put a back-up sensor into
+
+the unit.
+
+72   ACROSS THEM TO KIRK                                         72
+
+DECKER
+
+Admiral Kirk...
+
+(shakes Kirk's hand)
+
+We're getting a top brass send
+
+off...?
+
+(self assured grin)
+
+She'll launch on schedule if we
+
+have to tow her out with our bare
+
+hands. Right, Scotty?
+
+SCOTTY
+
+(lamely)
+
+Aye, sir, that we will...
+
+KIRK
+
+(to Decker)
+
+Will, let's go over here and
+
+talk.
+
+DECKER
+
+Let me now when the back-up is
+
+in place.
+
+73   ACROSS SCOTT TO KIRK AND DECKER                             73
+
+74   A CORNER OF THE INTERMIX CHAMBER                            74
+
+DECKER
+
+All due respect, sir, I hope
+
+this isn't a Starfleet pep talk;
+
+I'm just too busy.
+
+KIRK
+
+I'm taking over the Center seat.
+
+I'm sorry, Will.
+
+DECKER
+
+You are what...?
+
+KIRK
+
+I'm replacing you as Captain of
+
+the Enterprise.
+
+KIRK
+
+(continuing)
+
+You'll stay aboard as Executive
+
+Officer... a temporary grade
+
+reduction to Commander.
+
+DECKER
+
+(finding his voice)
+
+-- You, personally, are assuming
+
+command?
+
+KIRK
+
+Yes.
+
+DECKER
+
+May I ask Why?
+
+KIRK
+
+(nods)
+
+My experience -- five years out
+
+there dealing with unknowns like
+
+this -- my familiarity with the
+
+Enterprise, this crew...
+
+DECKER
+
+Admiral, this is an almost totally
+
+new enterprise. You don't know
+
+her a tenth as well as I do.
+
+75   ANOTHER ANGLE - TO SHOW SCOTT IN B.G. (ACROSS THE           75
+
+KIRK
+
+That's why you're staying aboard.
+
+I'm sorry, Will.
+
+DECKER
+
+No, Admiral. I don't think you are;
+
+not one damned bit. I remember
+
+when you recommended me for this
+
+command. You told me how envious
+
+you were, and if only you could
+
+find a way to get a starship
+
+command again. Well, sir, it looks
+
+like you found a way.
+
+KIRK
+
+Report to the bridge, Commander.
+
+Immediately.
+
+TECHNICIAN (CLEARY)
+
+Transporter room, come in!
+
+Urgent!
+
+(to Scott)
+
+Redline on the transporters,
+
+Mister Scott!
+
+SCOTT
+
+Transporter room, do not engage!
+
+Do not....
+
+TECHNICIAN (CLEARY)
+
+(reacting to the reading;
+
+interruption)
+
+Too late; they're beaming now!
+
+76   INT. TRANSPORTER ROOM - INCLUDING TRANSPORTER CHAMBER       76
+
+RAND
+
+(into intercom)
+
+Starfleet, override us!
+
+OVERRIDE...! Yank them back!
+
+STARFLEET VOICE
+
+Unable to retrieve their pattern,
+
+Enterprise....!
+
+SCOTT
+
+We're losing the pattern...!
+
+KIRK
+
+(into intercom)
+
+Starfleet, boost your matter gain;
+
+we need more signal!
+
+RAND
+
+Oh, no! They're forming!
+
+77   CLOSER ON THE TRANSPORTER CHAMBER (O)                       77
+
+KIRK
+
+Oh, my God...!
+
+78   KIRK, SCOTT AND RAND                                        78
+
+KIRK
+
+(into intercom)
+
+Starfleet, do you have them?
+
+STARFLEET VOICE
+
+(shaken)
+
+Enterprise... what we got back
+
+didn't live long. Fortunately.
+
+KIRK
+
+Starfleet... Kirk. Please...
+
+express my condolences to their
+
+families. Commander Sonak's
+
+can be reached through the Vulcan
+
+Embassy.
+
+(see Rand's stricken
+
+expression)
+
+There was nothing you could have
+
+done, Rand. It wasn't your fault.
+
+79   INT. CORRIDOR - TRAVELING WITH KIRK                         79
+
+KIRK
+
+Turboshaft eight...?
+
+YEOMAN
+
+Back that way, sir.
+
+80   DECKER                                                      80
+
+KIRK
+
+We'll have to replace Commander
+
+Sonak. I'd still like a Vulcan
+
+there, if possible...
+
+DECKER
+
+None available, Captain. There's
+
+no one in fact, who's fully rated
+
+on this design.
+
+KIRK
+
+You are, Mister Decker. I'm
+
+afraid you'll have to double as
+
+Science Officer.
+
+And Kirk moves on, Decker stands gazing reflectively
+
+after him.
+
+81    OMITTED                                                    81
+
+-                                                                -
+
+84                                                               84
+
+85    CLOSE - FULL SHOT OF THE KLINGON SHIP BEING DESTROYED      85
+
+86   THE LUMINESCENT CLOUD (AS SEEN ON A VIEWER) (O)             86
+
+87   INT. RECREATION DECK (M)                                    87
+
+88   ANOTHER ANGLE OF THE RED DECK - HIGHER LEVEL                88
+
+KIRK
+
+That's all we know about it;
+
+except that it's now 2.2 days
+
+from Earth. Enterprise is the
+
+only Federation starship that
+
+stands in its way.
+
+89   ANOTHER ANGLE - CREW REACTIONS                              89
+
+KIRK (O.S.)
+
+We assume there is a vessel of
+
+some type at the heart of the
+
+cloud. Our orders are to intercept,
+
+investigate; and take whatever action
+
+is necessary... and possible.
+
+(beat)
+
+...We can only hope that the
+
+life form aboard that vessel
+
+reasons as we do.
+
+90   ANGLE ON UHURA                                              90
+
+BRIDGE VOICE
+
+(from intercom)
+
+Bridge to Captain. Priority
+
+signal from Epsilon Nine --
+
+KIRK
+
+Put it on the viewer here...!
+
+91   ON THE REC DECK VIEWER (O)                                  91
+
+BRANCH
+
+(from the viewer;
+
+checking console
+
+readings)
+
+Enterprise... the Cloud is
+
+definitely a powerfield of some
+
+kind... Measures... My God!
+
+Over 82 A.U.'s in diameter...
+
+Must be something incredible
+
+inside there generating it.
+
+(looks up from
+
+console)
+
+We're transmitting linguacode
+
+friendship messages on all
+
+frequencies. No response.
+
+TECHNICIAN
+
+I have a null reading at the
+
+center of the 'cloud,' sir.
+
+LIEUTENANT
+
+Definitely something inside..
+
+there but all scans are being
+
+reflected back.
+
+(studies readings)
+
+Receiving an odd pattern now..
+
+(toward Branch)
+
+They seem to be reacting to
+
+our scans, sir.
+
+BRANCH
+
+(inspecting another
+
+console)
+
+Some kind of energy surge...
+
+(looking up)
+
+Enterprise... they could be
+
+mistaking our scans as a
+
+hostile act...
+
+(reacts at readings)
+
+Deflectors, emergency full!
+
+BRANCH
+
+(continuing)
+
+We are under attack...!
+
+KIRK
+
+(to Uhura)
+
+External view...!
+
+92   ON THE VIEWER - EXT. THE DESTRUCTION OF EPSILON 9 (O)       92
+
+KIRK (O.S.)
+
+Viewer off.
+
+93   ANOTHER ANGLE - KIRK                                        93
+
+KIRK
+
+Pre-launch countdown will
+
+commence in forty minutes.
+
+94   ANOTHER ANGLE - CREW                                        94
+
+95   EXT. THE ENTERPRISE IN DRYDOCK (S)                          95
+
+96   CLOSER - ON ENTERPRISE (S)                                  96
+
+97   INT. BRIDGE                                                 97
+
+UHURA
+
+Transporters Room and Chief
+
+Engineer Scott report trans-
+
+porter system fully repaired
+
+and now functioning normally,
+
+sir.
+
+SULU
+
+Dock signals clear, Captain.
+
+KIRK
+
+Rely we are holding position
+
+awaiting final crew replacements.
+
+UHURA
+
+Captain, Transporter Personnel
+
+reports the Navigator...
+
+(consults console)
+
+... Lieutenant Junior Grade Ilia
+
+(Eye-lee-ah) is already aboard,
+
+and en route to the bridge.
+
+98   ANGLE ON DECKER - AT THE SCIENCE STATION                    98
+
+UHURA
+
+She's a Deltan.
+
+KIRK
+
+(reprovingly)
+
+And there are no finer navigators
+
+in Starfleet, Commander.
+
+98A   ANGLE ON THE ELEVATOR DOORS                                98A
+
+ILIA
+
+Lieutenant Ilia reporting for
+
+duty, sir.
+
+KIRK
+
+(formally; rising)
+
+Welcome aboard, Lieutenant.
+
+99   ACROSS ILIA TO DECKER                                       99
+
+DECKER
+
+Hello, Ilia.
+
+ILIA
+
+(surprised)
+
+Decker....!
+
+DECKER
+
+I was stationed on the Lieutenant's
+
+home planet some years ago...
+
+ILIA
+
+(eyes his rank
+
+stripes)
+
+'Commander' Decker?
+
+KIRK
+
+Our Exec and Science Officer...
+
+DECKER
+
+(bitingly)
+
+Captain Kirk has the utmost
+
+confidence in me.
+
+KIRK
+
+(pointedly)
+
+And in you, too, Lieutenant.
+
+ILIA
+
+My oath of celibacy is on record
+
+Captain. May I assume my duties?
+
+KIRK
+
+By all means.
+
+100   ACROSS KIRK TO UHURA                                       100
+
+UHURA
+
+Captain, Starfleet reports our
+
+last six crew members ready to
+
+beam up...
+
+(puzzled)
+
+... but one of them is refusing
+
+to step into the transporter.
+
+KIRK
+
+(pleased)
+
+Oh? I'll see that he beams up...!
+
+DECKER
+
+Mr. Sulu, take Lieutenant Ilia
+
+in hand.
+
+SULU
+
+(startled)
+
+Sir...?
+
+(then understands)
+
+Yes, of course...
+
+(to Ilia)
+
+Your pre-programming is already
+
+set in, Lieutenant.
+
+ILIA
+
+I'm sworn to celibacy, Mister
+
+Sulu. That makes me as safe
+
+as any human female.
+
+DECKER
+
+I now the Captain meant no person-
+
+al insult.
+
+ILIA
+
+(eyes on console)
+
+I would never take advantage of
+
+a sexually immature species.
+
+(looks at him)
+
+You can assure him that's true,
+
+can't you?
+
+101    INT. TRANSPORTER ROOM                                      101
+
+-                                                                 -
+
+102                                                               102
+
+KIRK
+
+Yeoman, what was the problem
+
+down there?
+
+YEOMAN
+
+(through intercom)
+
+He insisted we go first, sir.
+
+Said something about first seeing
+
+how it scrambled our molecules.
+
+KIRK
+
+Thank you, Yeoman
+
+(hits transmit control)
+
+Starfleet , this is Captain Kirk.
+
+The officer is to be beamed up
+
+immediately!
+
+103   ANGLE ON THE CHAMBER (O)                                   103
+
+KIRK
+
+Well, for a man who swore he'd
+
+never return to Starfleet...
+
+McCOY
+
+(flat, tight)
+
+What happened, Captain, sir, was
+
+that your revered Admiral Nogura
+
+invoked a little known -- and
+
+seldom used -- reserve activation
+
+clause...
+
+(snaps)
+
+... in simpler language, Captain,
+
+sir, they drafted me!
+
+KIRK
+
+(straight-faced)
+
+They didn't...!
+
+McCOY
+
+This was your idea! It was
+
+your idea, wasn't it!
+
+KIRK
+
+Bones, there's a 'thing' out
+
+there --
+
+McCOY
+
+-- Why is any object we don't
+
+understand called a 'thing'?
+
+KIRK
+
+(continues)
+
+-- headed this way. I need you...
+
+McCOY
+
+Were you behind this?
+
+KIRK
+
+(nods)
+
+Bones, I need you badly.
+
+McCOY
+
+Permission to come aboard, sir?
+
+RAND
+
+(elated)
+
+Permission granted, sir!
+
+McCOY
+
+I hear Chapel's an MD now; I
+
+need a top nurse, not a doctor
+
+who'll argue every diagnosis...
+
+And --
+
+McCOY
+
+(continuing)
+
+... they've probably redesigned
+
+sickbay, too. Engineers love to
+
+change things.
+
+104   FULL ON KIRK                                               104
+
+KIRK
+
+All decks, this is the Captain.
+
+Prepare or immediate departure.
+
+105    INT. ENTERPRISE - MONTAGE  DEPARTURE SCENES                105
+
+-                                                                 -
+
+108                                                               108
+
+109   INT. BRIDGE                                                109
+
+UHURA
+
+Dock control reports ready, sir.
+
+SULU
+
+Helm ready, sir.
+
+ILIA
+
+Orbital departure on plot, sir.
+
+UHURA
+
+Yard command signaling clear,
+
+sir.
+
+KIRK
+
+Maneuvering thrusters, Mister
+
+Sulu.
+
+SULU
+
+Maneuvering thrusters, sir.
+
+KIRK
+
+Hold station.
+
+SULU
+
+(working controls)
+
+Thrusters at station-keeping, sir.
+
+110   EXT. EARTH ORBIT - ENTERPRISE AND DRYDOCK (S)              110
+
+111   OMITTED                                                    111
+
+112   INT. BRIDGE                                                112
+
+KIRK
+
+Thrusters ahead, Mister Sulu.
+
+Take us out.
+
+113   EXT. EARTH ORBIT                                           113
+
+114    CLOSER ANGLES - ENTERPRISE (S)                             114
+
+-                                                                 -
+
+117                                                               117
+
+117A   INT. ENGINEERING SECTION                                  117A
+
+SCOTT
+
+Intermix set, Bridge, impulse
+
+power at your discretion.
+
+118   INT. BRIDGE - FAVORING KIRK                                118
+
+KIRK
+
+(after a moment)
+
+Impulse power, Mr Sulu.
+
+Ahead Warp point-five.
+
+119   EXT. THE ENTERPRISE (S)                                    119
+
+KIRK
+
+Departure angle on viewer.
+
+CHEKOV
+
+Departure angle.
+
+KIRK
+
+Viewer ahead.
+
+120   EXT. SPACE - SATURN                                        120
+
+KIRK (V.O.)
+
+Captain's Log, stardate 7412.6.
+
+2.7 hours from launch...
+
+121   INT. BRIDGE - FAVORING THE VIEWER                          121
+
+KIRK (V.O.)
+
+(concerned)
+
+... in order to intercept the
+
+Intruder at the earliest possible
+
+time, we must now risk engaging
+
+Warp drive while still within the
+
+solar system...
+
+122   ANGLE ON DECKER - SCIENCE STATION                          122
+
+DECKER
+
+Captain, assuming we have full
+
+Warp capability, accelerating to
+
+Warp Seven on leaving solar system
+
+will bring us to IP with the
+
+Intruder in twenty point one hours.
+
+122A   INCLUDE ILIA                                              122A
+
+ILIA
+
+Science Officer's computations
+
+confirmed, sir.
+
+123   ANGLE ON THE ELEVATOR DOORS                                123
+
+KIRK
+
+Well, Bones, do the new medical
+
+facilities meet with your
+
+approval?
+
+McCOY
+
+They do not. It's like working
+
+in a damned computer center.
+
+KIRK
+
+(turning to Decker)
+
+Programming ready?
+
+DECKER
+
+Program set for standard Warp
+
+entry, Captain...
+
+DECKER
+
+(continuing)
+
+... but I still recommend
+
+further simulation study.
+
+KIRK
+
+Mister Decker; every minute
+
+brings that object nearer Earth!
+
+(using intercom)
+
+Engineering! Stand by for
+
+Warp Drive.
+
+SCOTT'S INTERCOM VOICE
+
+(worried)
+
+Captain, we need further Warp
+
+simulation on the flow sensors...
+
+KIRK
+
+Engineer, we need Warp speed now!
+
+McCOY
+
+(very gently)
+
+You're pushing Jim. Your people
+
+know their jobs.
+
+124   INT. ENGINEERING                                           124
+
+SCOTT
+
+(into intercom)
+
+Hold one minute, please, Captain --
+
+ASST.
+
+That's it, sir; I can't do any
+
+better.
+
+SCOTT
+
+(grim)
+
+Aye, lad...
+
+(into intercom)
+
+It's borderline on the simulator,
+
+Captain: I canna guarantee that
+
+she'll...
+
+125   INT. BRIDGE                                                125
+
+KIRK
+
+Warp Drive, Mr Scott.
+
+KIRK
+
+(continuing)
+
+Ahead Warp One, Mr Sulu.
+
+SULU
+
+Accelerating to Warp One, sir.
+
+SULU
+
+(continuing)
+
+Warp point seven... point eight
+
+... nine...
+
+126   EXT. SPACE  THE ENTERPRISE - AFT AND AHEAD (S)             126
+
+127   INT. BRIDGE - PAST KIRK TO THE VIEWER (O)                  127
+
+SULU
+
+Warp One, sir.
+
+KIRK
+
+Mr. Decker --
+
+KIRK
+
+(continuing)
+
+Wormhole!... Get us back on
+
+impulse power! Full reverse!
+
+128   EXT. SPACE - THE ENTERPRISE (S)                            128
+
+129   INT. BRIDGE                                                129
+
+SULU
+
+Negative helm control, Captain!
+
+Going reverse on impulse power...!
+
+UHURA
+
+Subspace frequencies are jammed
+
+by Wormhole effect!
+
+COMPUTER VOICE
+
+(terse, flat)
+
+Collision alert...!
+
+Collision alert...!
+
+DECKER
+
+(consulting his viewer)
+
+Negative control from inertial
+
+lag will continue 22 point five
+
+seconds before forward velocity
+
+slows to sub-light speed.
+
+ILIA
+
+Unidentified small object has
+
+been pulled into the wormhole
+
+with us, Captain! Directly
+
+ahead...!
+
+KIRK
+
+Forcefields up full! Put object
+
+on viewer...!
+
+130   ANGLE ON THE MAIN VIEWER (O)                               130
+
+ILIA
+
+Navigational deflectors
+
+inoperative...!
+
+(consulting her
+
+console, alarmed)
+
+Directional control also
+
+inoperative, Captain...!
+
+DECKER
+
+Wormhole distortion has over-
+
+loaded main power systems...!
+
+131   CLOSE ON MAIN VIEWER (O)                                   131
+
+KIRK
+
+(toward Ilia)
+
+Time to impact...?
+
+ILIA
+
+Twelve seconds...!
+
+KIRK
+
+Mr. Chekov, stand by on the
+
+phasers...!
+
+DECKER
+
+(racing to Chekov's
+
+station)
+
+Delay that phaser order! Arm
+
+photon torpedoes...!
+
+133   ANOTHER ANGLE - McCOY NOTICING KIRK                        133
+
+134   ANOTHER ANGLE - THE VIEWER (O)                             134
+
+CHEKOV
+
+Photon torpedoes armed...!
+
+ILIA
+
+Object is an asteroid, reading
+
+mass point seven...
+
+(consulting instruments)
+
+Impact in eight seconds...
+
+seven... six... five...
+
+DECKER
+
+Fire torpedoes...!
+
+CHEKOV
+
+(punching button)
+
+Torpedoes away...!
+
+135   EXT. SPACE - PAST THE ENTERPRISE AND THE ASTEROID (S)      135
+
+136   INT. BRIDGE - INCLUDING MAIN VIEWER (O)                    136
+
+CHEKOV
+
+(relieved)
+
+We're out of it...!
+
+DECKER
+
+We are at warp point eight.
+
+Position report, Navigator..?
+
+SULU
+
+Helm control restored, sir.
+
+ILIA
+
+Computing new interception
+
+course.
+
+UHURA
+
+Communications are normal,
+
+Captain.
+
+CHEKOV
+
+(to Kirk)
+
+Negative damage report, sir.
+
+(to McCoy)
+
+No casualties reported, sir.
+
+McCOY
+
+(tight)
+
+Wrong, Mr. Chekov, there are
+
+casualties. My wits!
+
+(to Kirk, indignant)
+
+As in 'frightened-out-of'...!
+
+DECKER
+
+(into intercom)
+
+Engineer... report status there.
+
+137   INT. ENGINEERING                                           137
+
+SCOTT
+
+In just a second, Exec; we're
+
+picking up the pieces down here.
+
+138   INT. BRIDGE                                                138
+
+KIRK
+
+Warp Drive as soon as possible,
+
+Mr. Scott.
+
+SCOTT'S INTERCOM VOICE
+
+(protesting)
+
+Captain, it was our anti-matter
+
+imbalance that created the
+
+wormhole in the first place. It
+
+will happen again if we don't
+
+correct it.
+
+KIRK
+
+That object out there is less
+
+than two days from Earth, Mister
+
+Scott. We've got to intercept
+
+while it still is out there!
+
+SCOTT'S INTERCOM VOICE
+
+(near annoyed)
+
+Aye, we understand that sir!
+
+We're doing our best.
+
+KIRK
+
+Mr. Decker, I'd like to see you
+
+in my quarters.
+
+(toward helm)
+
+You have the conn, Mr. Sulu.
+
+McCOY
+
+(to Kirk)
+
+Mind if I tag along?
+
+139   ANGLE FAVORING ILIA                                        139
+
+SULU
+
+Maintaining warp point
+
+eight; I show our new heading
+
+as 287 point three Mark 105.
+
+SULU
+
+(continuing; gently
+
+reminding)
+
+Lieutenant Ilia...?
+
+ILIA
+
+(a beat; then
+
+quickly)
+
+Confirmed, Mr. Sulu. Confirmed.
+
+140   INT. KIRK'S QUARTERS                                       140
+
+KIRK
+
+Explanation, Mr. Decker: Why was
+
+my phaser order countermanded?
+
+DECKER
+
+(cool, polite)
+
+Sir, the Enterprise redesign
+
+increases phaser power by
+
+channeling it through the main
+
+engines. When they went into
+
+anti-matter imbalance, the
+
+phasers were automatically cut
+
+off.
+
+KIRK
+
+Then you acted properly, of course.
+
+DECKER
+
+Thank you, sir. I'm sorry I embar-
+
+rassed you.
+
+KIRK
+
+You saved the ship.
+
+DECKER
+
+(coolly)
+
+I'm aware of that, sir.
+
+KIRK
+
+(flaring)
+
+Stop competing with me, Decker!
+
+DECKER
+
+Permission to speak freely, sir?
+
+KIRK
+
+(tight)
+
+Granted.
+
+DECKER
+
+Sir, you haven't logged a single
+
+star hour in two and a half years.
+
+That, plus your unfamiliarity
+
+with the ship's design -- in my
+
+opinion, sir, seriously jeopardizes
+
+our mission.
+
+KIRK
+
+I trust you will... nursemaid me
+
+through these difficulties, Mister?
+
+DECKER
+
+Yes, sir, I'll do that.
+
+KIRK
+
+Then I won't keep you from your
+
+duties any longer, Commander.
+
+(whirling at McCoy)
+
+Yes, Doctor?
+
+McCOY
+
+He may not be wrong, Jim.
+
+141   OMITTED                                                    141
+
+-                                                                -
+
+142                                                              142
+
+143   INT. CORRIDOR                                              143
+
+ILIA
+
+Was he difficult?
+
+DECKER
+
+No more than I expected
+
+(hesitates)
+
+Not as difficult as this. I'm
+
+sorry...
+
+ILIA
+
+That you left? or that you didn't
+
+say 'goodbye'?
+
+DECKER
+
+If I'd seen you again, would you
+
+have been able to say it?
+
+ILIA
+
+(long hesitation;
+
+then shakes head)
+
+No.
+
+144   OMITTED                                                    144
+
+144A   INT. KIRK'S CABIN - KIRK AND McCOY                        144A
+
+KIRK
+
+Get out of here, Bones.
+
+McCOY
+
+(shakes head)
+
+As ship's doctor, I am now
+
+discussing the subject of
+
+command fitness.
+
+KIRK
+
+Make your point, Doctor.
+
+McCOY
+
+The point, Captain, is that it's
+
+you who's competing...
+
+(a beat, as Kirk reacts)
+
+You pulled every string in the
+
+book short of blackmail to get
+
+the Enterprise -- maybe even
+
+that. And when this mission is
+
+over, you have no intention of
+
+giving her back.
+
+KIRK
+
+(tight)
+
+I intend to keep her, is that
+
+what you're saying, Doctor?
+
+McCOY
+
+It's an obsession -- that can
+
+blind you so far more immediate
+
+-- and critical responsibilities.
+
+Your reaction to Decker is an
+
+example.
+
+UHURA'S INTERCOM VOICE
+
+Bridge to Captain.
+
+144B   ANGLE TO INCLUDE CABIN VIEWER                             144B
+
+KIRK
+
+Viewer on.
+
+UHURA FROM VIEWER
+
+Signal from a Federation-registered
+
+long-range shuttle, sir. She
+
+wishes to come alongside, and
+
+lock on.
+
+KIRK
+
+For what purpose?
+
+CHEKOV
+
+It is a courier, Captain. Grade
+
+One priority. Non-belligerency
+
+confirmed.
+
+KIRK
+
+Very well, Mr. Chekov, see to it.
+
+Viewer off.
+
+KIRK
+
+(continuing)
+
+Your... opinion has been noted,
+
+Doctor.
+
+(beat)
+
+Is there anything further?
+
+McCOY
+
+I hope not.
+
+145   OMITTED                                                    145
+
+146   EXT. SPACE - THE SHUTTLE (S)                               146
+
+147   EXT. SPACE - THROUGH WINDOW IN OFFICERS' LOUNGE -          147
+
+148   INT. POD HATCH ENTRY AREA                                  148
+
+SPOCK
+
+Permission to come aboard, sir?
+
+CHEKOV
+
+Granted, sir! Granted!
+
+149   EXT. SPACE - THE SHUTTLE LEAVING                           149
+
+150   INT. BRIDGE                                                150
+
+KIRK
+
+Spock...! Spock,
+
+where
+
+...
+
+how
+
+...?
+
+SPOCK
+
+Commander, if I may...?
+
+150A  AT SCIENCE CONSOLE                                        150A
+
+SPOCK
+
+I have been monitoring your
+
+Starfleet transmissions, Captain,
+
+your engine design difficulties.
+
+SPOCK
+
+(continuing)
+
+I offer my services as Science
+
+Officer.
+
+KIRK
+
+If our Executive Officer has no
+
+objections...?
+
+DECKER
+
+(interrupting)
+
+Of course not. I'm aware of
+
+Mister Spock's qualifications.
+
+KIRK
+
+(grinning openly now;
+
+turns, calls)
+
+Mister Chekov, log Mister Spock's
+
+Starfleet commission reactivated;
+
+list him as Science Officer; both
+
+effective immediately.
+
+151   ANGLE TO INCLUDE ELEVATOR DOORS                             151
+
+McCoy
+
+and
+
+Chapel
+
+appear. Chapel
+
+CHAPEL
+
+Mr. Spock...!!!
+
+McCOY
+
+So help me, I'm actually
+
+pleased to see you.
+
+UHURA
+
+That's how we
+
+all
+
+feel, Mister...
+
+SPOCK
+
+With your permission, I will now
+
+discuss these fuel equations with
+
+the Engineer.
+
+KIRK
+
+Mister Spock,
+
+welcome aboard
+
+!
+
+McCOY
+
+Never look a gift Vulcan in the
+
+ears, Jim.
+
+152   EXT. SPACE - THE ENTERPRISE (S)                            152
+
+KIRK (V.O.)
+
+(buoyant)
+
+Captain's Log. Stardate 7413.4.
+
+Thanks to Mr. Spock's timely
+
+arrival - and assistance...
+
+153   INT. ENGINEERING - SPOCK AND SCOTT                         153
+
+now in regulation uniform and hair trim
+
+, makes
+
+KIRK (V.O.)
+
+(continues)
+
+... we have the engines rebalanced
+
+into full warp capacity. Repair
+
+time less than three hours...
+
+154   INT. BRIDGE - ALL BRIDGE CREW EXCEPT SPOCK                 154
+
+KIRK (V.O.)
+
+(continues)
+
+... which means we will now be
+
+able to intercept Intruder while
+
+still more than a day from Earth.
+
+155   ANGLE INCLUDING MAIN VIEWER (O)                            155
+
+SULU
+
+Warp point eight... point nine...
+
+SULU
+
+(continuing)
+
+Warp one, sir.
+
+SULU
+
+(continuing)
+
+Warp two, sir... warp three...
+
+SCOTT'S INTERCOM VOICE
+
+Engineering to Bridge... New
+
+intermix balance holding steady.
+
+She's not even straining!
+
+156   INT. OFFICER'S LOUNGE (O)                                  156
+
+SPOCK
+
+Reporting as ordered, Captain.
+
+KIRK
+
+Sit down, please.
+
+SPOCK
+
+Sir, I would appreciate Dr. McCoy
+
+absenting himself from this
+
+interview.
+
+KIRK
+
+I want him here.
+
+(indicating)
+
+Sit down!
+
+KIRK
+
+You've reported that you felt
+
+strong thought emotions. A
+
+group of minds from a space
+
+vessel? Could you make out any
+
+plan, anything to do with
+
+Earth?
+
+SPOCK
+
+(still formally)
+
+Negative, Captain. I could sense
+
+only what seemed an almost
+
+omniscient pattern of perfect
+
+logic. I can explain nothing
+
+more; I understand nothing more.
+
+KIRK
+
+Also -- there was nothing in your
+
+report about
+
+why
+
+you're here.
+
+SPOCK
+
+That inquiry invades my personal
+
+life, Captain.
+
+McCOY
+
+Spock, we've already guessed why
+
+you're here...
+
+KIRK
+
+I inquired about you -- learned
+
+you were studying with the
+
+Masters...
+
+McCOY
+
+That flicker of emotion confirms
+
+our guess. You failed.
+
+SPOCK
+
+(facing McCoy for
+
+the first time)
+
+Your deductions do you credit,
+
+Doctor... if your puerile
+
+curiosity does not.
+
+McCOY
+
+(not in amusement)
+
+And now,
+
+anger
+
+, Spock?
+
+SPOCK
+
+(beat; nods)
+
+I still contain fragments of my
+
+human half.
+
+KIRK
+
+And whatever you sensed out here....
+
+SPOCK
+
+... is my only hope of accomplishing
+
+what the Masters could not.
+
+McCOY
+
+If you achieve perfect logic, Spock,
+
+you'll pay a price. It's given
+
+your planet
+
+ten thousand years
+
+of
+
+peace, but no poetry's been written
+
+since then, no music.
+
+KIRK
+
+Let it drop, Bones.
+
+(to Spock)
+
+You are my Science Officer -- I'll
+
+expect an
+
+immediate
+
+report on
+
+anything further you learn or
+
+sense
+
+from here on.
+
+SPOCK
+
+I have accepted service here as
+
+a Starfleet officer... sir.
+
+KIRK
+
+(nods)
+
+I know this has been painful, Spock.
+
+For me too. Thank you.
+
+157   OMITTED                                                    157
+
+-                                                                -
+
+159                                                              159
+
+159A   INT. BRIDGE - CLOSE ON CHEKOV'S HAND                      159A
+
+red alert
+
+. The ALERT SOUNDS; the red lights
+
+CHEKOV'S VOICE
+
+Red alert! Red alert!
+
+160   BRIDGE ANGLE - INCLUDING MAIN VIEWER                       160
+
+KIRK
+
+Full mag on viewer!
+
+KIRK
+
+(continuing)
+
+Linguacode?
+
+UHURA
+
+Continuing friendship messages on
+
+all frequencies, sir.
+
+CHEKOV
+
+All decks and divisions confirm
+
+status red.
+
+SPOCK
+
+(flat, impassive)
+
+We are being scanned, Captain.
+
+161   ANOTHER ANGLE - ACROSS KIRK (AND DECKER) TO SPOCK          161
+
+KIRK
+
+Do
+
+not
+
+return scan, Mr. Spock!
+
+It may be misinterpreted as
+
+hostility!
+
+SPOCK
+
+Intruder scans emanate from
+
+the exact cloud center.
+
+Energy of a type entirely un-
+
+known to me.
+
+UHURA
+
+(after a moment)
+
+No response to friendship
+
+messages, Captain.
+
+CHEKOV
+
+Should I go to battle stations,
+
+sir.
+
+KIRK
+
+Negative, We'll take no prov-
+
+ocative action.
+
+DECKER
+
+Recommend defensive posture,
+
+Captain: Screens and shields.
+
+KIRK
+
+No...
+
+(pause)
+
+... that could also be misinter-
+
+preted as hostile, Mr. Decker.
+
+(to Spock)
+
+Cloud composition, Mr. Spock?
+
+SPOCK
+
+Twelve power energy field --
+
+SULU
+
+(in disbelief)
+
+--
+
+twelve
+
+power?!
+
+DECKER
+
+(urgently)
+
+Captain, we've seen what their
+
+weapons can do. Shouldn't we
+
+take every possible precaution -- ?
+
+KIRK
+
+Mr Decker....
+
+SPOCK
+
+(interrupting)
+
+Captain, I suspect there's an
+
+object at the heart of that cloud.
+
+KIRK
+
+(cool)
+
+Mr. Decker, I will not provoke
+
+an attack, If that order isn't
+
+clear to you...
+
+DECKER
+
+(interrupting in mid
+
+sentence)
+
+Captain, as your Exec, it's my
+
+duty
+
+to point out alternatives.
+
+ILIA
+
+Five minutes to Cloud boundary!
+
+KIRK
+
+(a look)
+
+I stand corrected Mr. Decker.
+
+(toward Ilia)
+
+Navigator, lay in a conic section
+
+flight path into the cloud center;
+
+bring us parallel to whatever
+
+we find in there...
+
+162   FAVORING THE VIEWER (O)                                   162
+
+162A   ANOTHER ANGLE - SPOCK, DECKER AND KIRK                    162A
+
+DECKER
+
+That measures
+
+twelve
+
+power?
+
+Ten thousands of starships couldn't
+
+generate that much...
+
+SPOCK
+
+They have... they
+
+have
+
+been
+
+communicating with us. I sense
+
+...
+
+puzzlement
+
+. Why have we
+
+not replied?
+
+KIRK
+
+Communicated with us
+
+how
+
+?
+
+DECKER
+
+Signal medical alert, Mister
+
+Chekov!
+
+COMPUTER VOICE
+
+Incoming fire. Ahead. Zero,
+
+... mark, zero.
+
+Incoming fire. Ahead. Zero,
+
+mark, zero.
+
+163   FULL ON THE MAIN VIEWER (O)                                163
+
+KIRK (O.S.)
+
+Forcefields
+
+now
+
+...! Deflectors
+
+up full!
+
+SULU (O.S.)
+
+Commencing evasive
+
+maneuvers... !
+
+tilt
+
+.
+
+164   REVERSE ANGLE                                              164
+
+CHEKOV
+
+Forcefields and deflectors up
+
+full, Captain.
+
+165   EXT. SPACE - ENTERPRISE (S)                                165
+
+WHIPLASH FOLLOWS
+
+.
+
+166   INT. BRIDGE AND VIEWER (O)                                 166
+
+go out
+
+.
+
+167   FAVORING CHEKOV'S STATION (O)                              167
+
+engulfs Chekov's
+
+arm
+
+. Automatic fire control nozzles SPURT FOAM over
+
+168   OMITTED                                                    168
+
+169   EXT. SPACE - THE ENTERPRISE UNDER ATTACK (S)               169
+
+enveloping the
+
+entire vessel
+
+, outlining it starkly. (And outlining,
+
+170   INT. BRIDGE - FAVORING THE VIEWER (O)                      170
+
+171   OMITTED                                                    171
+
+172   INT. ENGINEERING                                           172
+
+SCOTT
+
+Bypass...! Alternate
+
+Integrators!
+
+173   INT. BRIDGE AND VIEWER (O)                                 173
+
+go on
+
+again.
+
+SULU
+
+The new screens held...!
+
+SCOTT'S INTERCOM VOICE
+
+Engineering to bridge; we cannot
+
+hold full power on forcefields;
+
+deflector power is down
+
+seventy
+
+percent
+
+!
+
+173A   CHEKOV'S STATION                                          173A
+
+ILIA
+
+No, I can stop his pain.
+
+174   CLOSE ON VIEWER (O)                                        174
+
+very close
+
+-- the closest we have seen it yet, and
+
+175   EMPHASIZING SPOCK                                          175
+
+SPOCK
+
+Captain, the Intruder
+
+has
+
+been
+
+attempting to communicate! Now
+
+placing their transmission on
+
+the speaker...
+
+BEEP
+
+.
+
+SPOCK
+
+(continuing)
+
+... frequency more than one
+
+million megahertz at such high
+
+speed their entire message lasts
+
+only a millisecond.
+
+175A   ANOTHER ANGLE                                             175A
+
+plasti-
+
+skin
+
+sprayed on his hand has completley covered the
+
+176   CLOSER ON SPOCK'S STATION                                  176
+
+SPOCK
+
+I suspect our messages were too
+
+slow for them to be noticed.
+
+(touches a control)
+
+Programming computer to send
+
+linguacode at their rate.
+
+177   EXT. SPACE - THE ENTERPRISE AND THE CLOUD (S)              177
+
+178   INT. BRIDGE - INCLUDING VIEWER                             178
+
+SULU
+
+Here it comes...!
+
+COMPUTER VOICE
+
+Incoming fire. Ahead, zero, mark,
+
+zero, point two. Incoming fire.
+
+Ahead, zero, zero, mark, zero...
+
+KIRK
+
+(into intercom)
+
+Engineering... what's happening
+
+to our forcefields?!
+
+179   INT. ENGINEERING                                           179
+
+SCOTT
+
+Systems are overloading, Captain!
+
+Our shields cannot handle another
+
+attack!
+
+180   OMITTED                                                    180
+
+181   EXT. SPACE - THE ENTERPRISE AND THE CLOUD (O)              181
+
+182   INT. BRIDGE                                                182
+
+KIRK
+
+(desperately)
+
+Mr. Spock?
+
+ILIA
+
+Impact in fifteen seconds...
+
+KIRK
+
+Transmit, Mr. Spock! Now!
+
+ILIA
+
+Ten seconds....
+
+183   CLOSER ON SPOCK'S STATION                                  183
+
+DECKER
+
+Transmitting...!
+
+ILIA'S VOICE
+
+... five seconds.
+
+184   ANGLE ON MAIN VIEWER (O)                                   184
+
+185   REACTIONS                                                  185
+
+SPOCK
+
+It appears that our message has
+
+been understood, Captain.
+
+KIRK
+
+(to Uhura)
+
+Any reply from them?
+
+UHURA
+
+Negative, no reply, sir.
+
+KIRK
+
+(returning to Spock)
+
+Spock, have you sensed anything
+
+else?
+
+SPOCK
+
+The 'puzzlement' I sensed was
+
+fleeting... minor...
+
+(ponders, then)
+
+... as if carrying a sense of
+
+our insignificance, Captain.
+
+KIRK
+
+Our... 'insignificance'?
+
+SPOCK
+
+We are obviously confronted by
+
+a highly advanced mentality...
+
+yet they cannot understand who
+
+we are, or what we want.
+
+KIRK
+
+But they understood our messages;
+
+they broke off the attack.
+
+DECKER
+
+They may have attacked only as
+
+a warning to us, Captain. To
+
+keep away.
+
+SPOCK
+
+That would presuppose a feeling,
+
+Commander... compassion. I sensed
+
+no
+
+emotion, only...
+
+(reverentially)
+
+... pure logic.
+
+KIRK
+
+Tactical plot on viewer.
+
+185XC   ANGLE INCLUDING MAIN VIEWER (O)                          185XC
+
+185XD   REVERSE ANGLE                                             85XD
+
+ILIA
+
+Thirty seconds to Cloud
+
+boundary...
+
+KIRK
+
+Opinion, Mister. Spock?
+
+SPOCK
+
+Recommend we proceede, Captain.
+
+KIRK
+
+Mr. Decker... ?
+
+DECKER
+
+I advise caution, Captain; we
+
+can't withstand another attack.
+
+KIRK
+
+That thing is twenty hours from
+
+Earth. We know nothing about it yet.
+
+DECKER
+
+That's precisely the point,
+
+Captain. We don't know
+
+it will do. Moving into the
+
+cloud -- at this time, is
+
+an unwarranted gamble.
+
+KIRK
+
+How do you define
+
+unwarranted
+
+,
+
+mister
+
+?!
+
+DECKER
+
+You asked my opinion, sir.
+
+ILIA
+
+Fifteen seconds to Cloud Boundary.
+
+KIRK
+
+Viewer, standard ahead.
+
+185XE   ANGLE TO INCLUDE VIEWER (O)                              185XE
+
+186   OMITTED                                                    186
+
+187   Kirk sits contemplating his next move. Once again, the     187
+
+KIRK
+
+(to Helm)
+
+Mr. Sulu, steady as she goes.
+
+SULU
+
+Aye, sir.
+
+188   EXT. SPACE - ENTERPRISE                                    188
+
+189   INT. BRIDGE - REACTIONS AT WHAT THEY ARE SEEING            189
+
+189A   EXT. SPACE - ENTERPRISE AND V'GER                         189A
+
+190   INT. BRIDGE - INCLUDING THE VIEWER (O)                     190
+
+KIRK
+
+(staring at viewer,
+
+frustrated, awed)
+
+No vessel could generate a
+
+powerfield of this magnitude...
+
+SPOCK
+
+Instruments fluctuating, Captain.
+
+Patterns unrecognizable.
+
+SULU'S VOICE
+
+Captain....!
+
+191   ANGLE ON SULU                                              191
+
+192   OTHER REACTIONS                                            192
+
+193   WHAT THEY SEE ON MAIN VIEWER (O)                           193
+
+Rapidly growing in size -- already frighteningly huge.
+
+Totally alien in look
+
+. Its enormous bulk is irrides-
+
+194   VARIOUS ANGLES ON THE BRIDGE CREW AND THE VIEWER           194
+
+-                                                                -
+
+197                                                              197
+
+DECKER
+
+Incredible dimensions
+
+, Sir!
+
+... I make it as
+
+seventy-eight
+
+kilometers in length
+
+...
+
+198   ANGLE ON THE BRIDGE ELEVATOR DOORS                         198
+
+UHURA
+
+It could hold a crew of
+
+tens
+
+of thousands
+
+...!
+
+McCOY
+
+Or just one thousand, ten
+
+miles tall.
+
+KIRK
+
+Evaluation, Mister Spock?
+
+199   ACROSS KIRK TO SPOCK                                       199
+
+Mr. Spock
+
+...!" Spock looks absently at Kirk an
+
+SPOCK
+
+(awed; compelled)
+
+That vessel is generating a
+
+forcefield measurably greater
+
+than the radiation of the Earth's
+
+sun.
+
+KIRK
+
+(turns to Uhura)
+
+Transmit image of the Alien to
+
+Starfleet; advise we are attempting
+
+further communication.
+
+UHURA
+
+(interrupting)
+
+Unable to make contact with
+
+Starfleet. Our transmissions
+
+out of the Cloud are being
+
+reflected back.
+
+ILIA
+
+Distance to object now seventy-
+
+thousand kilometers...
+
+SULU
+
+(turning; concerned)
+
+We're closing in on it rapidly,
+
+Captain.
+
+200   OMITTED                                                    200
+
+-                                                                -
+
+203                                                              203
+
+204   EXT. SPACE - ENTERPRISE AND ALIEN                          204
+
+the incredible size of the Alien is nowhere near being
+
+realized yet
+
+.
+
+204A   INT. BRIDGE - INCLUDING VIEWER                            204A
+
+KIRK
+
+Reduce magnification. Factor
+
+4, Mr. Sulu.
+
+SULU
+
+(uneasy)
+
+We're already two settings
+
+below that, sir.
+
+KIRK
+
+(reacts, then)
+
+Adjust parallel course, Navigator.
+
+Bring us in to one hundred
+
+kilometers distance.
+
+205   EXT. SPACE - CAMERA TRAVELING WITH ENTERPRISE              205
+
+205A   ANGLE ON INTRUDER                                         205A
+
+206   INT. BRIDGE - VIEWER (O)                                   206
+
+SULU
+
+One hundred kilometers...
+
+KIRK
+
+Hold relative position here...
+
+COMPUTER'S VOICE
+
+Intruder alert...!  Intruder
+
+alert!
+
+207   OMITTED                                                    207
+
+208   THE PLASMA ENERGY PROBE (O)                                208
+
+209   CREW REACTIONS -- ELEVATORS IN B.G. (O)                    209
+
+CHEKOV
+
+No weapons...!
+
+210   CLOSER - THE SECURITY MEN (O)                              210
+
+210A   FULL SHOT - BRIDGE                                        210A
+
+CHEKOV
+
+Security... do not send further
+
+teams!
+
+into
+
+the console
+
+very
+
+carefully extracting
+
+CHEKOV
+
+(shaken)
+
+No intruder readings on other
+
+decks, Captain...
+
+(to Spock)
+
+Can that be one of their crew?
+
+SPOCK
+
+(quiet)
+
+A probe from their vessel...
+
+(to Kirk)
+
+A plasma-energy combination...
+
+DECKER
+
+Don't interfere with it...!
+
+CHEKOV
+
+Absolutely, I will
+
+not
+
+interfere!
+
+210B   ANGLE INCLUDING SPOCK'S CONSOLE (O)                       210B
+
+KIRK
+
+No one
+
+interfere...! It doesn't
+
+seem interested in us -- only
+
+the ship...!
+
+suddenly all the
+
+energy tendrils withdraw from all consoles and a
+
+larger, more powerful-looking tendril lashes out
+
+,
+
+snaking into the science console complex
+
+.
+
+210C   CLOSER ON SCIENCE CONSOLE                                 210C
+
+the computer obviously in unauthorized commu-
+
+nication with the probe
+
+!
+
+KIRK
+
+Computer off
+
+!
+
+DECKER
+
+It's taken control of the
+
+computer...!
+
+KIRK
+
+It's running our records!
+
+Starfleet strength, Earth
+
+defenses...
+
+splits open
+
+! As the bridge lights dim even more, and
+
+DECKER
+
+We could have cut it off at the
+
+main computer...
+
+SPOCK
+
+This served the purpose.
+
+210D   ANOTHER ANGLE (O)                                         210D
+
+ILIA
+
+Mr. Spock, don't move...!
+
+Ilia
+
+...!"
+
+211   OMITTED                                                    211
+
+-                                                                -
+
+219                                                              219
+
+220   CLOSER ON ILIA (O)                                         220
+
+single tendril extended
+
+toward her
+
+, somehow freezing her into immobility -
+
+but Ilia has vanished
+
+-- her
+
+221   OMITTED                                                    221
+
+222   ACROSS THE NAVIGATOR'S STATION TO KIRK AND DECKER          222
+
+DECKER
+
+(to Kirk, quiet
+
+fury)
+
+This is how I define unwarranted!
+
+223   OMITTED                                                    223
+
+-                                                                -
+
+232                                                              232
+
+233   The ALARM still sounding as from the giant alien ves-      233
+
+DECKER
+
+(voice amplified)
+
+The ship is under attack...!
+
+Man all defensive stations...!
+
+KIRK
+
+Forcefields, full remaining
+
+strength...! Total reserve!
+
+234   FAVOR THE VIEWER (O)                                       234
+
+pulled along the length
+
+of the big ship,
+
+SPOCK
+
+Captain, we have been seized
+
+by a tractor beam...!
+
+KIRK
+
+(to Decker)
+
+Get someone up here to take
+
+the Navigator's station...!
+
+(into intercom)
+
+Engineering... full emergency
+
+power!
+
+DECKER
+
+(into intercom)
+
+Chief Difalco to the bridge;
+
+on the double!
+
+234A   ENGINEERING                                               234A
+
+SCOTT
+
+Going to full emergency...
+
+(studying readings)
+
+But Captain, if we don't break
+
+free in fifteen seconds, she'll
+
+burn up...
+
+234B   INT. BRIDGE - FAVORING SPOCK                              234B
+
+SPOCK
+
+We cannot break free, Captain.
+
+(indicates monitors)
+
+We do not have a fraction of
+
+the power necessary.
+
+KIRK
+
+(into intercom)
+
+Delay that order, Scotty...!
+
+Disengage all main drive systems!
+
+235   EXT. THE ENTERPRISE BEING PULLED TOWARD V'GER (S)           235
+
+SEE still more
+
+intricate details
+
+of the incredible Alien design.
+
+236   INT. BRIDGE - INCLUDING VIEWER (O)                         236
+
+Assume Navigator's station, Chief
+
+...!" Difalco,
+
+237   OMITTED                                                    237
+
+-                                                                -
+
+238                                                              238
+
+239   EXT. ENTERPRISE AND V'GER (S)                              239
+
+opening
+
+menacingly. And it is frighteningly
+
+pulling the Enterprise
+
+to the opening
+
+.
+
+240   INT. BRIDGE - INCLUDING VIEWER (O)                         240
+
+DECKER
+
+Captain, suggest a maximum phaser
+
+strike directly at the beam might
+
+weaken it just enough for us to
+
+break free --
+
+SPOCK
+
+Break free to
+
+where
+
+, Commander...?
+
+(to Kirk)
+
+Any show of resistance would not
+
+only be futile, Catain...
+
+240XA   ACROSS SPOCK TO KIRK (DECKER AND McCOY IN B.G.)          240XA
+
+DECKER
+
+(troubled; suspicious)
+
+We don't
+
+know
+
+that, Mr. Spock.
+
+Why are you opposed to trying?
+
+Before Spock can reply:
+
+UHURA
+
+They're pulling us
+
+inside
+
+...!
+
+McCOY
+
+(to Chekov)
+
+Medical observers to all decks!
+
+240A   PAST KIRK TO VIEWER (O)                                   240A
+
+no longer visible
+
+--
+
+inside
+
+.
+
+241   OMITTED                                                    241
+
+-                                                                -
+
+243                                                              243
+
+244   EXT. ENTERPRISE AND V'GER - AT THE "IRIS" (S)              244
+
+past
+
+the opening --
+
+into
+
+walls
+
+, which are
+
+miles away in the
+
+distance
+
+. And here and there in the chamber gigantic
+
+245   INT. BRIDGE - INCLUDING VIEWER (O)                         245
+
+DECKER
+
+(to Spock)
+
+Why bring us inside? Not to
+
+destroy us; they could have
+
+done that outside.
+
+KIRK
+
+They could have many ways of
+
+destroying things, Mr. Decker.
+
+SPOCK
+
+(peering at Viewer)
+
+Something about us puzzles them...
+
+perhaps even concerns them.
+
+245A   ANGLE ON UHURA                                            245A
+
+UHURA
+
+Captain, photic-sonar readings
+
+indicate the aperture is closing;
+
+we're trapped, sir...!
+
+246   EXT. THE ENTERPRISE ENTERING V'GER (S)                     246
+
+inside
+
+, the "iris" is closing
+
+247   INT. BRIDGE - FAVORING THE VIEWER (O)                      247
+
+SULU
+
+Reverse angle on the viewer,
+
+Captain.
+
+248   REACTIONS                                                  248
+
+248A   FAVORING KIRK                                             248A
+
+SPOCK
+
+The tractor beam has released
+
+us, Captain.
+
+DIFALCO
+
+Confirmed: Vessel is floating
+
+free. No forward momentum.
+
+KIRK
+
+Viewer ahead.
+
+SULU
+
+Viewer ahead, sir.
+
+248B   INSERT - MAIN VIEWER                                      248B
+
+248C   BACK TO SHOT                                              248C
+
+KIRK
+
+Maneuvering thrusters, Mr.
+
+Sulu; ahead one third.
+
+(to Spock)
+
+Full sensor scan, Mr. Spock;
+
+they can't expect us
+
+not
+
+to look them over now!
+
+SULU
+
+(manipulating controls)
+
+Thrusters ahead, one third.
+
+SPOCK
+
+(manipulating
+
+controls)
+
+Commencing sensor scans.
+
+249   INT. V'GER ENTRANCE CHAMBER - ENTERPRISE (S)               249
+
+250   INT. BRIDGE - INCLUDING MAIN VIEWER (O)                    250
+
+miles
+
+away. Strange semi--solid LIGHT
+
+another chamber
+
+.
+
+SULU
+
+(of Viewer)
+
+Something ahead, sir; looks
+
+like another area...
+
+(reacts)
+
+It's closing up...!
+
+KIRK
+
+Hold station...!
+
+SULU
+
+(manipulating
+
+controls)
+
+Thrusters at station keeping...
+
+251   ANGLE EMPHASIZING SPOCK                                    251
+
+SPOCK
+
+Captain...
+
+SPOCK
+
+(continuing)
+
+All
+
+scans are being reflected
+
+back, Captain. Our sensors are
+
+useless.
+
+251A   ACROSS THEM TO THE MAIN VIEWER                            251A
+
+KIRK
+
+Have you been able to analyze
+
+any
+
+of this...?
+
+SPOCK
+
+(voice increasingly
+
+reverential)
+
+I believe the light flares to be
+
+energy fields -- undoubtedly part
+
+of the vessel's inner mechanism.
+
+A technology so incredibly
+
+sophisticated that I cannot --
+
+COMPUTER VOICE
+
+(overlapping)
+
+Intruder Alert! Intruder
+
+Alert..!
+
+(continues)
+
+252   OMITTED                                                    252
+
+-                                                                -
+
+253                                                              253
+
+254   ANGLE ON CHEKOV                                            254
+
+CHEKOV
+
+Deck four, Captain; Officers'
+
+Quarters...!
+
+KIRK
+
+(to Chekov)
+
+Have a security team meet me at
+
+Deck Four main elevator!
+
+KIRK
+
+(continuing)
+
+Take the conn, Mr. Decker:
+
+Hold present position...
+
+(gesturing Spock
+
+to join him)
+
+Spock...
+
+254A   INT. ILIA'S CABIN - THE SONIC SHOWER                      254A
+
+255   INT. ILIA'S CABIN - KIRK                                   255
+
+slides
+
+the door open
+
+.
+
+255A   "ILIA"                                                    255A
+
+sonic mist
+
+, naked but for a small
+
+multi-colored button embedded in her throat
+
+. As she
+
+"ILIA"
+
+I have been programmed by V'ger
+
+to observe and record normal
+
+functioning of the carbon-based
+
+units infesting USS ENTERPRISE.
+
+256   ACROSS KIRK AND THE OTHERS TO THE SHOWER STALL             256
+
+KIRK
+
+Who is...'V'ger'...?
+
+"ILIA"
+
+V'ger is that which programmed me.
+
+KIRK
+
+Is V'ger the Captain of the alien
+
+vessel?
+
+256A   ANGLE ON THE DOOR - McCOY                                 256A
+
+McCOY
+
+Jim, what's --
+
+"ILIA"
+
+V'ger is that which seeks the
+
+Creator.
+
+McCOY
+
+(of "Ilia")
+
+Jim, this is a mechanism...!
+
+KIRK
+
+Where is Lt. Ilia?
+
+"ILIA"
+
+That unit no longer functions.
+
+I have been given its form to
+
+more readily communicate with
+
+the carbon-based units infesting
+
+Enterprise.
+
+SECURITY GUARD
+
+"Carbon-based units"...?
+
+McCOY
+
+(drily)
+
+Humans, Ensign Lang:
+
+us
+
+.
+
+(continues tricorder
+
+exam, increasingly
+
+impressed)
+
+KIRK
+
+(to "Ilia")
+
+Why does V'ger travel to
+
+the third planet of the
+
+solar system directly
+
+ahead?
+
+"ILIA"
+
+V'ger travels to the third
+
+planet to find the Creator.
+
+KIRK
+
+Find the Creator?
+
+What
+
+Creator?
+
+Whose
+
+...!?
+
+(to "Ilia")
+
+What does V'ger want of the
+
+'Creator'... ?
+
+"ILIA"
+
+To join with him.
+
+256B   FAVORING SPOCK                                            256B
+
+SPOCK
+
+Join with the Creator... ? How?
+
+"ILIA"
+
+V'ger and the Creator will become
+
+One.
+
+SPOCK
+
+Who is the Creator?
+
+McCOY
+
+(worried)
+
+Mr. Spock, be careful.
+
+"ILIA"
+
+The Creator is that which created
+
+V'ger.
+
+KIRK
+
+Who is V'ger?
+
+"ILIA"
+
+V'ger is that which seeks the
+
+Creator.
+
+"ILIA"
+
+(continuing; pleasant,
+
+bland)
+
+I am ready to commence my
+
+observations.
+
+SPOCK
+
+(fast; to McCoy)
+
+Doctor, a thorough examination
+
+of this probe might provide some
+
+insight into those who manufactured
+
+it, and how to deal with them.
+
+McCOY
+
+Let's get her to sickbay.
+
+"ILIA"
+
+I am programmed to observe and
+
+record normal functioning
+
+procedures of the carbon-based
+
+units.
+
+256B   Kirk glances at McCoy, who is totally bemused, but then   256B
+
+KIRK
+
+The examination is a normal
+
+function.
+
+"ILIA"
+
+(a beat)
+
+You may proceede.
+
+McCOY
+
+(carefully)
+
+Thank you.
+
+257   CLOSE SHOT OF EXAMINING ROOM VIEWER (O)                    257
+
+McCOY
+
+(from the start;
+
+indicating)
+
+... micro-miniature hydraulics,
+
+sensors, molecule-sized multi-
+
+processor chips... and look at
+
+this
+
+...
+
+Decker enters
+
+, grimly observes the proceed-
+
+CHAPEL
+
+(impressed)
+
+An osmotic micro-pump... here
+
+and here. Even the smallest
+
+body functions are exactly
+
+duplicated.
+
+(traces with finger
+
+on screen)
+
+And every exocrine system is
+
+here, too --
+
+Decker
+
+. Slightly disconcerted, Chapel continues:
+
+CHAPEL
+
+(continuing)
+
+-- even eye moisture.
+
+"ILIA"
+
+(peering at Decker)
+
+Deck -- er.
+
+257A   FAVORING SPOCK                                            257A
+
+SPOCK
+
+(to "Ilia")
+
+Interesting. Not 'Decker-unit'?
+
+258   ANOTHER ANGLE                                              258
+
+259   INT. McCOY'S OFFICE                                        259
+
+electronic lock
+
+to
+
+SPOCK
+
+Captain... this probe may be a key
+
+a key to the Aliens.
+
+DECKER
+
+It's a programmed
+
+mechanism
+
+,
+
+Mr. Spock...
+
+SPOCK
+
+We have just seen that its body
+
+duplicates our navigator in
+
+precise
+
+detail. Suppose that
+
+beneath its programming, the
+
+real Ilia's memory patterns are
+
+duplicated with equal precision.
+
+KIRK
+
+They had a pattern to follow...
+
+SPOCK
+
+(nods)
+
+... they may have followed it
+
+too
+
+precisely.
+
+KIRK
+
+(comprehending)
+
+Ilia's memory, her feelings of
+
+loyalty, friendship, obedience...
+
+might all be there.
+
+259A   ANGLE ON DECKER                                           259A
+
+SPOCK
+
+Exactly.
+
+(to Decker)
+
+And you did have a 'relationship'
+
+with Lieutenant Ilia, Commander.
+
+DECKER
+
+That probe in there -- in a
+
+different form now -- is the
+
+same thing that
+
+killed
+
+Ilia!
+
+KIRK
+
+Commander, we're locked in an
+
+alien vessel, six hours from
+
+Earth orbit, our only contact
+
+with our captors is the probe.
+
+If we can control it, persuade
+
+it, use it in some way...
+
+260   MEDICAL OFFICE DOOR                                        260
+
+single
+
+hand slicing the steel door like paper
+
+. It is the
+
+"ILIA"
+
+I have recorded enough here.
+
+(motions to Kirk)
+
+You will now assist me further.
+
+KIRK
+
+(indicating Decker)
+
+The Decker-unit can assist you
+
+with much greater efficiency...
+
+KIRK
+
+(continuing)
+
+Carry on with your assignment,
+
+Mr. Decker.
+
+260A   ANOTHER ANGLE - ACROSS DECKER TO THE SMASHED DOOR         260A
+
+DECKER
+
+Aye, sir.
+
+260B   EMPHASIZING SPOCK                                         260B
+
+KIRK
+
+Spock? Concerned about his
+
+chances?
+
+SPOCK
+
+I am uneasy with that being
+
+our only hope of more information.
+
+261    INT. V'GER - THE ENTERPRISE                                261
+
+KIRK (V.O.)
+
+Captain's Log. Stardate 7414.1.
+
+Our best estimates place us some
+
+four hours from Earth. No
+
+significant Ilia memory patterns
+
+within the alien probe. This
+
+remains our only means of contact
+
+with our captor.
+
+262   INT. ENTERPRISE AIRLOCK AREA                               262
+
+263   SPOCK                                                      263
+
+Vulcan nerve pinch
+
+. The Tech slumps over
+
+264   INT KIRK'S CABIN - VIEWER MONITOR                          264
+
+Rec Deck
+
+. PULL BACK FURTHER TO SHOW
+
+McCoy
+
+. They
+
+DECKER
+
+(of pictures)
+
+All these vessels were called
+
+"Enterprise".
+
+UHURA'S INTERCOM VOICE
+
+(controlled excitement)
+
+Bridge to Captain...
+
+265   OMITTED                                                    265
+
+266   INT. BRIDGE - UHURA'S STATION (SCIENCE STATION IN          266
+
+KIRK'S INTERCOM VOICE
+
+Kirk here.
+
+Spock is conspicuously absent
+
+.)
+
+UHURA
+
+A faint signal from Starfleet,
+
+sir. They have the intruder on
+
+their monitors...
+
+(struggling to
+
+hear)
+
+They show us... three hours...
+
+twenty-four minutes from Earth!
+
+KIRK'S VOICE
+
+(thru intercom)
+
+Thank you.
+
+267   INT. RECREATION DECK                                       267
+
+DECKER
+
+The carbon units use this area
+
+for recreation...
+
+(carefully)
+
+What type of recreation does the
+
+crew aboard your vessel enjoy...?
+
+268   CLOSER TWO SHOT (PICTURES O.S.)                            268
+
+"ILIA"
+
+The words 'recreation' and 'enjoy'
+
+have no meaning to my programming.
+
+game area
+
+(elec-
+
+switches it on
+
+-- presses button to activate its
+
+DECKER
+
+Ilia 'enjoyed' this game... she
+
+nearly always won --
+
+269   INT. KIRK'S CABIN - GROUP WATCHING THE MONITOR             269
+
+McCOY
+
+(approving)
+
+Good! He's using audial-visual
+
+association.
+
+"ILIA"
+
+This device serves no purpose.
+
+KIRK
+
+Damn...!
+
+McCOY
+
+(nods grimly)
+
+She needs something else:
+
+something much more personal to
+
+stimulate memory patterns. Something
+
+with a more emotional tie.
+
+270   INT. REC DECK  FULL ON DECKER AND "ILIA"                   270
+
+DECKER
+
+The crews of the previous
+
+Enterprises were also carbon units.
+
+In what way is the life form in
+
+your vessel different?
+
+"ILIA"
+
+Carbon units are not true life
+
+forms... Do those images repre-
+
+sent how Enterprise has evolved
+
+into its present form?
+
+DECKER
+
+(hoping he's struck
+
+a responsive chord)
+
+Yes.
+
+"ILIA"
+
+Carbon units have clearly retarded
+
+Enterprise's proper evolvement.
+
+DECKER
+
+(controlling surprise)
+
+What is Enterprise's proper
+
+evolvement?
+
+"ILIA"
+
+Enterprise should not require
+
+the presence of carbon units.
+
+DECKER
+
+(carefully)
+
+Enterprise would be unable to
+
+function
+
+without
+
+carbon units.
+
+"ILIA"
+
+More data concerning this functioning
+
+is necessary before carbon units can
+
+be patterned for data storage.
+
+271   ACROSS "ILIA" TO DECKER                                    271
+
+DECKER
+
+What does that mean?
+
+"ILIA"
+
+(stopping; almost
+
+pleasantly)
+
+When my examination is complete,
+
+the carbon units will be reduced
+
+to data patterns.
+
+DECKER
+
+Within you are memory patterns of
+
+a carbon unit. If I can help you
+
+revive these patterns; you could
+
+understand our functions better.
+
+"ILIA"
+
+That is logical. You may procede.
+
+272   ON DECKER                                                  272
+
+273   INT. V'GER - ANGLE UP TOWARD ENTERPRISE (M)                273
+
+274   CLOSER ON THE SPACESUITED FIGURE (M)                       274
+
+SPOCK
+
+Computer, commence recording.
+
+Captain Kirk -- this message
+
+will detail my attempt to
+
+contact the aliens...
+
+275   INT. BRIDGE                                                275
+
+UHURA
+
+Starfleet signals, sir, growing
+
+in strength...
+
+(listening intently)
+
+They -- have Intruder on their
+
+monitors -- it's decelerating --
+
+powerfield cloud beginning to
+
+dissipate...
+
+SULU
+
+Confirm, Captain. Lunar beacons
+
+indicate Intruder on a course
+
+into Earth orbit...
+
+CHEKOV
+
+(interrupting)
+
+Sir! Airlock four has been opened;
+
+a thruster suit is reported missing!
+
+KIRK
+
+(reacts knowingly)
+
+Spock...!
+
+(to navigator)
+
+Get a fix on his position!
+
+276   INT. V'GER - MED. ON SPOCK                                 276
+
+277   ANOTHER ANGLE - SPOCK                                      277
+
+278   INT. AIRLOCK AREA                                          278
+
+KIRK
+
+(from the start)
+
+... I don't want him stopped, Bones;
+
+I want him to lead me to whatever's
+
+out there...!
+
+McCOY
+
+And if that 'whatever' has taken
+
+over his mind....?
+
+KIRK
+
+Then he'll have still led me to
+
+it, won't he?
+
+279   INT. V'GER - ANGLE UP TOWARD ENTERPRISE                    279
+
+280   CLOSER ON KIRK                                             280
+
+SULU'S VOICE
+
+Bridge, Captain. We make Spock
+
+as 26 Mark 345 degrees off ship's
+
+axis.
+
+281   KIRK'S POV                                                 281
+
+282   ANGLE ON KIRK                                              282
+
+KIRK
+
+I have him in sight.
+
+283   INT. ILIA'S QUARTERS                                       283
+
+Chapel
+
+already inside,
+
+CHAPEL
+
+I remember Lt. Ilia once mentioning
+
+that she wore this...
+
+DECKER
+
+(reacting; tight)
+
+... when we met.
+
+very
+
+painful to Decker. Meanwhile,
+
+Deltan headband
+
+to "Ilia".
+
+CHAPEL
+
+(gently)
+
+Put it on.
+
+284   ANGLE ON "ILIA"                                            284
+
+CHAPEL
+
+(helpfully)
+
+Ilia...
+
+DECKER
+
+(quiet; urging)
+
+On Delta... remember...?
+
+"ILIA"
+
+(haltingly)
+
+Dr. Chapel...
+
+285   ACROSS CHAPEL TO DECKER                                    285
+
+"ILIA"
+
+(to Decker)
+
+"Will..."
+
+McCOY
+
+(gently reminding)
+
+Commander... this is a mechanism...
+
+DECKER
+
+(gently; but urgingly)
+
+Ilia, help us make direct contact
+
+with V'ger...
+
+"ILIA
+
+I... cannot.
+
+DECKER
+
+Then tell us who V'ger is; where
+
+he's from... W need your help.
+
+"ILIA"
+
+Why have two carbon units entered
+
+V'ger...?
+
+DECKER
+
+They want to make contact with
+
+V'ger...
+
+(trying to revive
+
+"Ilia's" memory again;
+
+touches her hand)
+
+Ilia...
+
+DECKER
+
+(continuing;
+
+distressed,
+
+to "Ilia")
+
+Does V'ger object to the presence
+
+of the two carbon units?
+
+"ILIA"
+
+The carbon units are of no
+
+consequence; V'ger will determine
+
+their purpose.
+
+McCOY
+
+Their purpose is to survive.
+
+"ILIA"
+
+That is also V'ger's purpose.
+
+DECKER
+
+You said V'ger's purpose was to
+
+find and join with the Creator.
+
+"ILIA"
+
+That is how V'ger will survive.
+
+286   ON DECKER                                                  286
+
+"ILIA"
+
+I wish to continue my observations.
+
+287   INT. V'GER - KIRK MANEUVERING WITHIN THE CHAMBER           287
+
+288   CLOSER ON KIRK                                             288
+
+289   KIRK'S POV (O)                                             289
+
+290   ON KIRK                                                    290
+
+291   WIDER ANGLE - KIRK AND THE BLOB FORMATION (O)              291
+
+randomly
+
+, and are not deliberate ob-
+
+292   MED. SHOT - KIRK (O)                                       292
+
+KIRK
+
+Bridge...!
+
+293   INT. BRIDGE - EMPHASIZING HELM                             293
+
+KIRK'S VOICE
+
+... stand by, I may be in trouble...
+
+294   ANGLE TO MAIN VIEWER (M)                                   294
+
+But we can SEE that Kirk's spacesuit is now about half
+
+covered with them
+
+!
+
+294A   REVERSE ANGLE                                             294A
+
+SULU
+
+Your phaser, Captain...!
+
+Use your phaser...!
+
+KIRK'S VOICE
+
+(transmitter, weak)
+
+Can't... reach... phas --
+
+(transmission breaks
+
+off in heavy
+
+STATIC
+
+)
+
+CHEKOV
+
+Airlocks two and four --
+
+prepare to launch rescue
+
+teams!
+
+(glancing at viewer)
+
+Chief Lang! Get them out
+
+there! Fast!
+
+SULU
+
+Mr. Spock, the Captain is in
+
+trouble, directly behind you --
+
+three hundred meters!
+
+(beat)
+
+Mr. Spock!
+
+295   INT. V'GER - SPOCK                                         295
+
+KIRK'S VOICE
+
+(weak; STATIC)
+
+... Spock...! ... need help...!
+
+... trapped...!
+
+KIRK'S VOICE
+
+(continuing; weakening;
+
+STATIC)
+
+... pressure on me...! ... can't
+
+move...! Spock...!
+
+296   ON SPOCK - CLOSE                                           296
+
+297   WIDER ANGLE - SPOCK                                        297
+
+298   INT. BRIDGE - VIEWER (M)                                   298
+
+no longer moving
+
+. But in the
+
+Spock
+
+!
+
+299   INT. V'GER - KIRK AND SPOCK                                299
+
+300   ANGLE ON SPOCK AND KIRK'S ENCASED SPACESUIT (O) (S)        300
+
+301   INT. V'GER - SPOCK AND KIRK                                301
+
+KIRK
+
+Bridge, cancel rescue teams.
+
+(hard)
+
+Spock, what in the hell are you
+
+doing out here!
+
+SPOCK
+
+I am seeking answers, Captain.
+
+KIRK
+
+(with insight)
+
+Answers to what, Spock? Our
+
+dilemma -- or your
+
+personal
+
+one?
+
+302   ANOTHER ANGLE - INCLUDING INNER WALL (O)                   302
+
+SPOCK
+
+(pointing)
+
+Captain, I believe there we will
+
+find an indication of whoever --
+
+or whatever -- is aboard this
+
+vessel...
+
+303   INT. V'GER - AT INNER WALL                                 303
+
+304   CLOSER ON KIRK AND SPOCK                                   304
+
+305   LONG ANGLE TO INCLUDE SENSOR SWARM (O)                     305
+
+306   KIRK AND SPOCK - ANOTHER "SWARM" APPROACHING (O)           306
+
+307   CLOSE ON KIRK AND SPOCK (AGAINST "TUBE" WALL)              307
+
+308   KIRK AND SPOCK'S POV (O)                                   308
+
+we SEE that an opening ap-
+
+pears in the wall, admits the sensor swarm, then closes
+
+immediately
+
+.
+
+309   BACK TO SHOT                                               309
+
+310   INT. V'GER - KIRK AND SPOCK (O)                            310
+
+311   INT. "MEMORY CAVE" - SPOCK AND KIRK                        311
+
+311A   WHAT THEY SEE (M)                                         311A
+
+311B   KIRK AND SPOCK                                            311B
+
+311C   AT MEMORY CRYSTAL                                         311C
+
+SPOCK
+
+It would appear that the atomic
+
+arrays of these crystals store
+
+information. A remarkably
+
+efficient system.
+
+KIRK
+
+(indicates)
+
+And these 'sensor-swarms' collect
+
+that data, carry it here.
+
+SPOCK
+
+(nods; indicates)
+
+New crystals: they must contain
+
+the most recent data obtained --
+
+shinier
+
+, more
+
+pulsating
+
+than the others): ANOTHER
+
+RAPID
+
+Klingon
+
+s,
+
+Klingon vessel
+
+s (the
+
+Starfleet
+
+personnel
+
+-- and the
+
+Epsilon 9 statio
+
+n. Also, a
+
+pattern
+
+Security Guard
+
+killed by the probe. And Ilia.
+
+KIRK
+
+Klingons... our Epsilon 9 station
+
+... and Ilia!! They seem to be
+
+more than just images...
+
+SPOCK
+
+(agreeing)
+
+Exact patterns. The energy bolt
+
+that hit them wasn't simply a
+
+weapon -- it dematerialized them,
+
+stored them. But why?
+
+312   ACROSS THEM TO ANOTHER SECTION OF THE WALL                 312
+
+appearing through the wall
+
+.
+
+KIRK
+
+If this is their ship's data
+
+banks, where is the crew? Or
+
+is their entire ship automated?
+
+SPOCK
+
+Captain, I do not believe there
+
+is
+
+a crew -- or that this is a
+
+vessel as such.
+
+SPOCK
+
+(continuing)
+
+I am almost certain now that all
+
+of this
+
+i
+
+s V'ger -- I believe
+
+that we are inside a life form,
+
+a
+
+living machine
+
+.
+
+SPOCK
+
+I
+
+mus
+
+t attempt mindmeld with it,
+
+Captain.
+
+KIRK
+
+(warningly)
+
+Spock...
+
+313   ANGLE AT MEDIATOR BALL                                     313
+
+removes
+
+one gauntlet
+
+, baring his hand. Stretching the bare
+
+KIRK
+
+Spock, if you're right, its mind
+
+may be
+
+enormous
+
+...
+
+forces
+
+his
+
+314   KIRK                                                       314
+
+315   CLOSER ON SPOCK                                            315
+
+touches the
+
+surface
+
+-- and it FLARES WITH STRANGE ENERGY at the
+
+316   CLOSE ON SPOCK'S FACE                                      316
+
+317   CAMERA ZOOM - THROUGH SPOCK'S EYES                         317
+
+318   INT. DISPENSARY - SPOCK'S EYES                             318
+
+CHAPEL
+
+Now scanning pons area at spinal
+
+nerve fiber connection...
+
+319   ANGLE ON McCOY AND KIRK                                    319
+
+McCOY
+
+Indications of some neurological
+
+trauma--the power pouring through
+
+that mind-meld must have been
+
+staggering...
+
+LAUGH
+
+! An abrupt,
+
+320   ACROSS THEM TO SICKBAY                                     320
+
+SPOCK
+
+(quiet)
+
+Jim...
+
+SPOCK
+
+(continuing)
+
+This
+
+simple
+
+feeling...
+
+(looks at Kirk)
+
+... is so far beyond V'ger's
+
+comprehension.
+
+321   ANOTHER ANGLE                                              321
+
+KIRK
+
+(gently)
+
+Were you right? Spock? V'ger
+
+is a living machine...?
+
+SPOCK
+
+(nodding)
+
+A life form of its own; a
+
+conscious, living entity.
+
+CHAPEL
+
+(reacting)
+
+A
+
+living machine
+
+...?!
+
+McCOY
+
+(to Chapel)
+
+We're
+
+living machines, too: protein
+
+mechanisms.
+
+KIRK
+
+And it considers the Enterprise a
+
+living machine: that's why the
+
+probe refers to our ship as an
+
+entity.
+
+CHAPEL
+
+If it thinks our ship is alive
+
+what does it think
+
+we
+
+are?
+
+McCOY
+
+(dryly)
+
+An 'infestation' -- bacteria...
+
+microbes.
+
+322   ANOTHER ANGLE                                              322
+
+SPOCK
+
+I saw V'ger's planet: a planet
+
+populated by living machines.
+
+Unbelievable technology.
+
+(pained)
+
+V'ger has knowledge that spans this
+
+universe.
+
+And... in all this order... all
+
+this magnificence, V'ger feels
+
+no awe...no delight... no beauty...
+
+(a beat; exhausted)
+
+I should have known...
+
+KIRK
+
+Know what, Spock? What?
+
+"Let him rest, Jim..."
+
+KIRK
+
+(continuing)
+
+What should you have known?
+
+SPOCK
+
+(weak)
+
+No meaning... No hope...
+
+(summoning strength)
+
+And, Jim, no answers...!
+
+Jim, it's looking for
+
+answers
+
+itself
+
+!
+
+KIRK
+
+What answers?
+
+SPOCK
+
+'Is this all I am? Is there not
+
+more?'
+
+UHURA'S VOICE
+
+A faint signal from Starfleet,
+
+sir! Intruder Cloud has been
+
+located on their outer monitors
+
+for past twenty-seven minutes...
+
+dissipating rapidly as it approaches.
+
+Sulu's
+
+voice:
+
+SULU'S VOICE
+
+Starfleet reports forward velocity
+
+has slowed to sub-warp speed! We
+
+are three minutes from Earth's
+
+orbit!-
+
+KIRK
+
+(into intercom)
+
+I'll be right there...
+
+(to Chapel; crisp)
+
+I need Spock on the bridge.
+
+323   ANOTHER ANGLE                                              323
+
+"Dalaphaline, twenty cc's..."
+
+As the Tech quickly sets
+
+KIRK
+
+A machine planet...? Sending a
+
+machine to Earth looking for its
+
+Creator
+
+...?
+
+McCOY
+
+God.
+
+KIRK
+
+'To find the Creator,' the probe
+
+said. Find
+
+God
+
+...?
+
+McCOY
+
+Isn't that what we're all trying
+
+to do...?
+
+(dryly)
+
+All us machines...?
+
+KIRK
+
+Mr. Chekov, Commander Decker's
+
+present location?
+
+CHEKOV'S VOICE
+
+He... they... are in Engineering,
+
+sir.
+
+KIRK
+
+(into intercom)
+
+I want to make a ship's announcement.
+
+But it's to be heard only in
+
+Engineering.
+
+UHURA'S VOICE
+
+Ready, Captain.
+
+KIRK
+
+(voice amplified)
+
+This is the Captain speaking. It
+
+appears that the alien ship
+
+...
+
+V'ger... is NOT a manned vessel
+
+...
+
+324   ENGINEERING                                                324
+
+KIRK'S VOICE
+
+(amplified)
+
+It is a living entity...! A machine
+
+life form. We are attempting to
+
+ascertain its intentions. All
+
+personnel will maintain yellow alert
+
+status
+
+!
+
+325   CLOSER ON DECKER AND "ILIA"                                325
+
+DECKER
+
+A machine...! Then it had to be
+
+programmed. By
+
+whom
+
+...?
+
+"ILIA"
+
+By the Creator.
+
+DECKER
+
+(probing)
+
+To join, and become One with the
+
+Creator?
+
+"ILIA"
+
+To learn all that is learnable;
+
+to deliver all collected data to
+
+the Creator on the third planet.
+
+That is the programming.
+
+326   INCLUDE SCOTT                                              326
+
+SCOTT
+
+Well, sir, now what about all that?
+
+A living entity, the Captain says...
+
+entity... A living thing...!
+
+DECKER
+
+Thank you, Scotty...
+
+SCOTT
+
+(dourly)
+
+Your welcome, sir.
+
+"ILIA"
+
+There is no logical reason for
+
+carbon units to control Enterprise's
+
+power systems.
+
+SCOTT
+
+(to "Ilia")
+
+Lassie, if I were functioning
+
+'logically,' right now I'd be
+
+showing you the inside of our
+
+scrap metal compactor!
+
+327   INT. BRIDGE                                                327
+
+UHURA
+
+We're now locked into Starfleet's
+
+transceivers; Admiral Nogura has
+
+received your reports, sir.
+
+328   ANGLE INCLUDING VIEWER (O)                                 328
+
+an IMAGE of V'ger looming omi-
+
+nously in orbit over Earth
+
+.
+
+UHURA
+
+The visual is a lunar monitor
+
+relay, sir.
+
+UHURA
+
+(continuing)
+
+Heavy interference, sir -- it's
+
+coming from here, inside the
+
+intruder itself...
+
+SPOCK
+
+Puzzling! The interference
+
+appears to be a rather simple
+
+carrier wave code signal...
+
+UHURA
+
+On an old style
+
+radio
+
+frequency,
+
+sir...
+
+329   PAST KIRK TO THE ELEVATOR                                  329
+
+"ILIA"
+
+(to Decker;
+
+interrupting)
+
+As I stated, V'ger calls to the
+
+Creator.
+
+DECKER
+
+(nods; turns to Kirk)
+
+V'ger is announcing that it has
+
+arrived, sir -- that it's ready
+
+to deliver the information it
+
+was programmed to collect...
+
+"ILIA"
+
+'To learn all that is learnable.'
+
+DECKER
+
+(to Kirk)
+
+It expects a return signal now,
+
+ordering it to transmit that
+
+information to the Creator.
+
+UHURA
+
+(whirling)
+
+Sir! V'ger's signals have
+
+stopped...
+
+"ILIA"
+
+(as if frightened)
+
+Decker... The Creator has not
+
+responded.
+
+UHURA
+
+Picking up Starfleet again; a
+
+lunar monitor relay...
+
+330   ANGLE INCLUDING VIEWER (O)                                 330
+
+much more deadly
+
+. A second
+
+McCOY
+
+My God! They're the same kind
+
+of things that destroyed the
+
+Klingons, Epsilon Nine...
+
+SPOCK
+
+(interrupting; from
+
+science console)
+
+These read as identical composition...
+
+(turns to Kirk)
+
+... however, Captain, they measure
+
+several hundred times more
+
+powerful!
+
+KIRK
+
+High mag, Mr. Sulu!
+
+SULU
+
+The third one is moving off too --
+
+a fourth one is forming...
+
+UHURA
+
+(overlapping)
+
+Urgent
+
+signal from Starfleet,
+
+Captain!
+
+(turns, shaken)
+
+All
+
+Earth defense systems have
+
+gone dead.
+
+UHURA
+
+(continuing)
+
+Sir, Starfleet computes their
+
+trajectories as moving toward
+
+equidistant positions over Earth.
+
+331   ANOTHER ANGLE - KIRK AND SPOCK                             331
+
+SPOCK
+
+From four equidistant positions,
+
+Captain, a detonation would blanket
+
+the entire surface of the planet.
+
+DIFALCO
+
+I plot them as reaching equidistant
+
+positions in... twenty-nine
+
+minutes, sir... mark!
+
+332   ACROSS KIRK TO DECKER AND "ILIA"                           332
+
+KIRK
+
+Why
+
+...?!
+
+"ILIA"
+
+The carbon-units infection will
+
+now be removed from the Creator's
+
+planet.
+
+KIRK
+
+Why
+
+?!
+
+"ILIA"
+
+The Creator has not answered.
+
+KIRK
+
+The carbon-units are not
+
+responsible for that.
+
+"ILIA"
+
+You infest and control Enterprise.
+
+V'ger believes carbon-units interfere
+
+with the Creator in the same manner.
+
+SPOCK
+
+(to Kirk)
+
+Then V'ger believes the Creator to
+
+be a
+
+machine
+
+too.
+
+DECKER
+
+(nods)
+
+It seems we
+
+all
+
+imagine God in our
+
+own image.
+
+333   ANGLE ON MAIN VIEWER - INCLUDING CHEKOV (O)                333
+
+fourth
+
+object is
+
+334   ANGLE EMPHASIZING KIRK                                     334
+
+McCOY
+
+'... similar life forms...?'
+
+Jim, V'ger's saying the Creator
+
+is a
+
+machine
+
+...!
+
+DECKER
+
+(grimly amused)
+
+Of course: we all create God
+
+in our own image.
+
+KIRK
+
+V'ger! If we are lesser beings,
+
+we are still, like you, living.
+
+And because we are alive, we --
+
+like you -- wish to survive.
+
+You must not destroy --
+
+335   ACROSS KIRK TO SPOCK                                       335
+
+SPOCK
+
+(quiet, terse)
+
+Captain...
+
+(reaches Kirk)
+
+Treat V'ger as you would... a
+
+child
+
+.
+
+336    FAVORING KIRK                                             336
+
+startled at this, not sure he's heard correctly.
+
+KIRK
+
+Child...!?
+
+SPOCK
+
+Yes, Captain, a child: evolving
+
+into adulthood -- learning, searching
+
+-- instinctively needing.
+
+DECKER
+
+(intrigued)
+
+Needing
+
+what
+
+...?
+
+McCOY
+
+Spock, this 'child' is about
+
+to eliminate all life on Earth;
+
+how do we teach it that that's
+
+'wrong'? With a
+
+spanking
+
+...!?
+
+SPOCK
+
+It doesn't know what it needs,
+
+Comm          ander...
+
+(to Kirk)
+
+It does not know.
+
+KIRK
+
+(abruptly to
+
+"Ilia")
+
+The carbon--units-know-why-the
+
+Creator-has-not-responded.
+
+McCOY
+
+(shocked)
+
+Jim...!
+
+DECKER
+
+(to "Ilia,"
+
+urgingly)
+
+Ilia... we can
+
+help
+
+V'ger
+
+find what it needs --
+
+"ILIA"
+
+(to Kirk, hard)
+
+Disclose the information.
+
+KIRK
+
+(cool, calm)
+
+Not until V'ger withdraws the
+
+devices orbiting the third planet.
+
+"ILIA"
+
+KIRK UNIT! DISCLOSE THE
+
+INFORMATION!
+
+KIRK
+
+(to "Ilia," almost
+
+pleasant)
+
+No.
+
+(then to crew
+
+commandingly)
+
+Secure all stations. Clear
+
+the bridge.
+
+DECKER
+
+(amplified)
+
+Bridge to all decks,secure
+
+your stations.
+
+McCOY
+
+Your child is having a
+
+tantrum, Spock.
+
+SULU
+
+Clear the bridge, Captain...?
+
+KIRK
+
+That was the order, Mr. Sulu:
+
+Clear the bridge.
+
+337   INT. INSIDE V'GER - THE ENTERPRISE                         337
+
+338   INT. BRIDGE                                                338
+
+DAMAGE TECH.
+
+(leaving bridge;
+
+to Captain)
+
+Severe stress on engine pylons,
+
+sir.
+
+"ILIA"
+
+(to Kirk; flat)
+
+V'ger requires the information.
+
+KIRK
+
+Bridge secure all stations!
+
+Move out!
+
+McCOY
+
+Jim, what the hell kind of
+
+strategy is
+
+this
+
+...?
+
+DECKER
+
+All ship's functions going to
+
+automatic, Captain.
+
+339   ANGLE ON KIRK                                              339
+
+KIRK
+
+If V'ger destroys the Enterprise,
+
+the information V'ger requires
+
+will also be destroyed.
+
+339A   INCLUDING VIEWER                                          339A
+
+"ILIA"
+
+It is illogical to withhold
+
+required information.
+
+dims
+
+, and now Kirk looks at
+
+"ILIA"
+
+(almost polite)
+
+Kirk-unit,
+
+why
+
+do you not
+
+disclose information?
+
+KIRK
+
+Because V'ger is going to
+
+destroy all the carbon units
+
+on the third planet.
+
+"ILIA"
+
+They have repressed the Creator.
+
+KIRK
+
+The information will not be
+
+disclosed.
+
+"ILIA"
+
+(almost a plea)
+
+V'ger
+
+needs
+
+the information.
+
+340   AT THE ELEVATORS                                           340
+
+KIRK
+
+Then V'ger must withdraw its
+
+orbiting devices.
+
+"ILIA"
+
+V'ger will comply if the carbon
+
+units disclose the information.
+
+341   ANGLE ON McCOY                                             341
+
+McCOY
+
+It learns fast, doesn't it...?
+
+342   ACROSS McCOY TO KIRK AND SPOCK                             342
+
+SPOCK
+
+Captain, the vessel -- V'ger --
+
+obviously operates from a
+
+central brain complex...
+
+KIRK
+
+(to Spock)
+
+The orbiting devices would be
+
+controlled from the point,
+
+then...?
+
+SPOCK
+
+Precisely.
+
+KIRK
+
+The carbon units' information
+
+cannot be disclosed to V'ger's
+
+probe... only to V'ger directly.
+
+343   ANOTHER ANGLE - REACTIONS                                  343
+
+McCOY
+
+(indicating
+
+viewer)
+
+Jim...!
+
+344   PAST THEM TO VIEWER                                        344
+
+DECKER
+
+Forward motion, Captain...!
+
+SPOCK
+
+A tractor beam...
+
+DECKER
+
+Captain, what's the next move?
+
+KIRK
+
+The question is, Mr. Decker,
+
+is
+
+there a next move...
+
+345   INT. V'GER - THE ENTERPRISE                                345
+
+346   INT. BRIDGE                                                346
+
+KIRK
+
+Resume duty stations, Mr. Decker.
+
+DECKER
+
+(into intercom,
+
+voice amplified)
+
+All personnel resume stations...!
+
+KIRK
+
+Well, Mr. Decker, it seems my
+
+bluff is being called.
+
+DECKER
+
+I'm afraid our hand is pretty
+
+weak, Captain.
+
+(slight smile)
+
+But it's the only game in town.
+
+KIRK
+
+Mr. Chekov, when do those devices
+
+activate?
+
+CHEKOV
+
+They reach final position in...
+
+Twenty-seven minutes -- mark.
+
+KIRK
+
+(a beat; then into
+
+intercom)
+
+Engineering...
+
+347   INT. ENGINEERING - SCOTT                                   347
+
+SCOTT
+
+Scott, here, sir.
+
+348   INT. BRIDGE - KIRK WITH AN ANGLE ON SPOCK                  348
+
+KIRK
+
+(into intercom,
+
+eyes on "Ilia")
+
+Mr. Scott, be prepared to execute
+
+Starfleet order two zero zero
+
+five.
+
+349   INT. ENGINEERING                                           349
+
+SCOTT
+
+(with a glance at
+
+Ross, into intercom)
+
+When, Captain?
+
+KIRK'S INTERCOM VOICE
+
+On my command.
+
+SCOTT
+
+(somberly, into
+
+intercom)
+
+Aye, sir.
+
+ROSS
+
+Why has the Captain ordered self-
+
+destruct, sir?
+
+SCOTT
+
+(a beat; gently)
+
+I would say, lass, because he
+
+thinks -- he hopes -- that when
+
+we go up... we'll take V'ger
+
+with us.
+
+ROSS
+
+Will we?
+
+SCOTT
+
+(with grim
+
+satisfaction)
+
+When that much matter and anti-
+
+matter are brought together?
+
+Oh, yes; we will, indeed.
+
+350   EXT. ENTERPRISE - INT. V'GER                               350
+
+350A   INT BRIDGE - INCLUDING THE VIEWER                         350A
+
+CHEKOV
+
+Twenty-five minutes to device
+
+activation, sir.
+
+ALT
+
+. (Twenty-two)
+
+ALT
+
+. (Eighteen)
+
+UHURA
+
+Starfleet has been apprised of
+
+our situation, Captain.
+
+SULU
+
+Tractor beam remains constant...
+
+DIFALCO
+
+We are seventeen kilometers inside
+
+the vessel...
+
+351   ANGLE ON SPOCK                                             351
+
+352   WIDER ANGLE (INCLUDE KIRK, McCOY, AND DECKER)              352
+
+KIRK
+
+Spock... Spock...
+
+353   SPOCK'S STATION - KIRK AND SPOCK (McCOY IN B.G.)           353
+
+KIRK
+
+(starts)
+
+Mr. Spock -- I think...
+
+tear
+
+! Welling fom the eye, rolling down his cheek.
+
+KIRK
+
+(quiet, feeling)
+
+Not for us?
+
+SPOCK
+
+No, Captain, not for us... for V'ger.
+
+SPOCK
+
+(continuing)
+
+I weep for V'ger, as I would for
+
+a brother -- far more knowledgeable
+
+than I -- and yet one step behind.
+
+354   ANGLE ON McCOY AND DECKER                                  354
+
+SPOCK
+
+As I was -- when I came aboard...
+
+so is V'ger now: empty, incomplete.
+
+Searching. Logic and knowledge are
+
+not enough.
+
+McCOY
+
+(with empathy)
+
+Spock, are you saying that you
+
+found, what you needed -- but V'ger
+
+hasn't?
+
+SPOCK
+
+Has not, Doctor -- and now, because
+
+of what we are planning... will not...
+
+KIRK
+
+(almost hard)
+
+There is no alternative.
+
+DECKER
+
+(gently pressing)
+
+Mr. Spock, what would V'ger need
+
+to fulfill itself?
+
+SPOCK
+
+V'ger has begun to understand the
+
+true limits of our universe,
+
+thereby realizing the existence
+
+of other dimensions. To fulfill
+
+itself it must evolve to a
+
+higher dimension; V'ger believes
+
+this can be achieved only by
+
+joining with the Creator.
+
+SPOCK (ALTERNATIVE)
+
+Each of us, at some time in our
+
+life, turns to someone, a father,
+
+a brother, a God and asks 'Why
+
+am I here?' 'What was I meant
+
+to be?' V'ger hopes to touch its
+
+Creator to find its answers.
+
+355   ACROSS KIRK TO DECKER                                      355
+
+KIRK
+
+(understanding)
+
+'Is this all that I am? Is there
+
+nothing more?
+
+DIFALCO
+
+Captain...!
+
+chamber
+
+. But the violent and color energy effects of
+
+SPOCK
+
+(flat)
+
+Captain, I believe that is our
+
+destination.
+
+356   EXT. ENTERRISE - INT. V'GER - NEAR THE "ISLAND"            356
+
+357   INT. BRIDGE - INCLUDING VIEWER                             357
+
+slowing
+
+. Kirk just resuming his command chair, as:
+
+SULU
+
+Forward motion slowing, Captain...!
+
+KIRK
+
+(into intercom)
+
+Engineering... Status, Mr. Scott?
+
+SCOTT'S INTERCOM VOICE
+
+(somber)
+
+We're ready, sir.
+
+KIRK
+
+(into intercom)
+
+Thank you, Scotty. Stand by.
+
+358   ACROSS KIRK TO McCOY                                       358
+
+359   EXT. ENTERPRISE (INT. V'GER)                               359
+
+360   INT. BRIDGE - INCLUDING VIEWER                             360
+
+CHEKOV
+
+Tractor beam strength lessening,
+
+Captain.
+
+KIRK
+
+(into intercom)
+
+Mr. Scott... on my next signal.
+
+SPOCK
+
+(fast)
+
+Captain, the orbital device will     (
+
+ALT
+
+.)
+
+not be triggered for twenty-two      (nineteen...)
+
+minutes...                           (fifteen...)
+
+KIRK
+
+The point...
+
+(Your)
+
+SPOCK
+
+(eying "Ilia";
+
+carefully)
+
+The point is, Captain,
+
+twenty-two
+
+(
+
+ALT
+
+.
+
+should
+
+minutes
+
+. We could have that much      loop "19" &
+
+more time...                                 "15")
+
+KIRK
+
+(shakes head, no)
+
+(
+
+ALT
+
+: "19",)    (Mr. Spock), if we do not provide
+
+(     "15  )    V'ger with certain information, we
+
+won't have twenty-two
+
+seconds
+
+; the
+
+plan must be implemented upon arrival.
+
+DECKER
+
+Captain, we can't be sure that our...
+
+move... will actually save Earth.
+
+KIRK
+
+No!
+
+stopped
+
+. At the same time:
+
+SULU
+
+Forward motion stopped, Captain.
+
+CHEKOV
+
+Tractor beam is released.
+
+361   INT. INSIDE V'GER - THE ENTERPRISE AT THE "ISLAND"         361
+
+362   INT. BRIDGE  "ILIA"                                        362
+
+"ILIA"
+
+(indicating viewer)
+
+V'ger...
+
+363   INCLUDING THE VIEWER  KIRK AND THE OTHERS                  363
+
+KIRK
+
+(into intercom:
+
+with finality)
+
+Mr. Scott...
+
+364   ANGLE ON CHEKOV                                            364
+
+CHEKOV
+
+Captain... I read an oxygen and
+
+gravity envelope forming outside
+
+the Enterprise...!
+
+UHURA
+
+Sir, I have located the source
+
+of V'ger's radio signal: (it's)
+
+directly ahead.
+
+SPOCK
+
+That transmitter is a vital link
+
+between V'ger and the Creator.
+
+(its)
+
+DECKER
+
+(urging)
+
+(
+
+ALT
+
+. "18",)   We have twenty-one minutes. Captain,
+
+(.... "14" )   we can still save V'ger... and ourselves.
+
+"ILIA"
+
+The carbon units will now provide
+
+V'ger the required information.
+
+365   FAVORING KIRK                                              365
+
+KIRK
+
+(into intercom)
+
+Mr. Scott... we're holding off;
+
+there may be a chance...
+
+(rises, gestures
+
+Spock and McCoy)
+
+Spock, Bones...
+
+366   PAST DECKER TO KIRK                                        366
+
+KIRK
+
+Mr. Decker... I will contact you
+
+every five minutes. Otherwise...
+
+inform Mr. Scott immediately.
+
+DECKER
+
+(calls after him)
+
+Captain... I'd like to go along...
+
+KIRK
+
+Mr. Sulu, you have the conn...
+
+KIRK
+
+V'ger plans to literally
+
+meld
+
+to reduce both itself and the
+
+Creator to patterns...
+
+SPOCK
+
+... and then to reassemble itself
+
+combined
+
+with the Creator. The
+
+most certain way of obtaining
+
+all the Creator's answers.
+
+KIRK
+
+(to "Ilia")
+
+Our data is being prepared.
+
+"ILIA"
+
+Answer
+
+!
+
+KIRK
+
+We will answer and present
+
+proof
+
+of our answer when it is ready!
+
+KIRK
+
+(continuing)
+
+V'ger
+
+, we will bring the Creator
+
+to you!
+
+Here
+
+!
+
+367   ANGLE EMPHASIZING "ILIA" AND DECKER                        367
+
+DECKER
+
+We need only a few more minutes.
+
+Believe
+
+me...
+
+368   EMPHASIZING DECKER                                         368
+
+DECKER
+
+Ilia, believe me... the Creator
+
+will appear!
+
+369   EMPHASIZING "ILIA"                                         369
+
+UHURA'S INTERCOM VOICE
+
+Enterprise to Captain...
+
+370   INT. BRIDGE                                                370
+
+UHURA
+
+Problem, Captain: the response
+
+signal is not in our records.
+
+Voyager Six was sent out by Earth's
+
+"United States Subdivision.' The
+
+code was probably...
+
+371   INT. VOYAGER SIX SITE                                      371
+
+UHURA'S INTERCOM VOICE
+
+... kept secret to keep Voyager's
+
+data from rival subdivisions.
+
+McCOY
+
+That's preposterous! They
+
+wouldn't have kept
+
+scientific
+
+data from one another.
+
+CHEKOV'S INTERCOM VOICE
+
+We are now checking with Starfleet
+
+Archives, Captain. Stand by.
+
+372   ANGLE ON DECKER AND "ILIA"                                 372
+
+DECKER
+
+And when V'ger melds? What will
+
+happen to you?
+
+"ILIA"
+
+It will... take me from
+
+you
+
+...
+
+373   KIRK, SPOCK AND McCOY                                      373
+
+McCOY
+
+And when it realizes what the
+
+Creator is...?
+
+KIRK
+
+There's no way to know. V'ger
+
+expected it to be a machine --
+
+some single entity.
+
+(indicates entire
+
+site)
+
+All of us here may be reduced
+
+into patterns...
+
+SPOCK
+
+That seems to be what it has
+
+planned -- to have the Creator
+
+physically present here.
+
+McCOY
+
+(small smile)
+
+The God it captures is going to
+
+be a hell of a disappointment.
+
+374   DECKER AND "ILIA"                                          374
+
+375   KIRK, SPOCK AND McCOY                                      375
+
+KIRK
+
+Commander...
+
+KIRK
+
+(continuing;
+
+into communicator)
+
+Kirk here.
+
+UHURA'S INTERCOM VOICE
+
+We now have the response code,
+
+sir.
+
+KIRK
+
+Stand by. Transmit it on my
+
+orders.
+
+KIRK
+
+(continuing)
+
+Enterprise...
+
+transmit
+
+.
+
+376   DECKER AND "ILIA"                                          376
+
+DECKER
+
+Recording...
+
+377   KIRK, SPOCK AND McCOY                                      377
+
+KIRK
+
+Enterprise, are you transmitting?
+
+UHURA'S INTERCOM VOICE
+
+Affirmative, Captain. For some
+
+time now.
+
+KIRK
+
+Confirm code and transmitting
+
+frequency.
+
+CHEKOV'S INTERCOM VOICE
+
+Both signal and frequency
+
+confirmed, sir.
+
+DECKER
+
+(calling)
+
+Captain Kirk!
+
+378   VARIOUS ANGLES                                             378
+
+DECKER
+
+(continuing)
+
+The fault is here, sir, not in
+
+the transmission.
+
+(indicating into
+
+hatch)
+
+The antenna leads have been
+
+disconnected. V'ger never
+
+intended to accept a transmitted
+
+signal.
+
+KIRK
+
+Capture God! In order to
+
+retrieve V'ger's data, the
+
+Creator has to physically come
+
+here!...
+
+DECKER
+
+And plug the signal directly into
+
+the circuitry at this...
+
+(indicates into
+
+access)
+
+... point here, Captain. It
+
+should pick up even a tricorder
+
+playback.
+
+KIRK
+
+(lifting communicator)
+
+Enterprise, I want that signal
+
+again. Transmit!
+
+379   ACTION ANGLE                                               379
+
+380   AT KIRK                                                    380
+
+SPOCK
+
+Jim... he
+
+wants
+
+it.
+
+DECKER
+
+You got the Enterprise, it's
+
+what
+
+you
+
+wanted. This is what
+
+I want.
+
+(smiles)
+
+But, Jim...
+
+(now very seriously)
+
+...
+
+I'm
+
+the right choice for this
+
+mission.
+
+381   VARIOUS EFFECTS SHOTS - DECKER BEING FUSED - V'GER         381
+
+transparent
+
+. And the SPIRALING now expanding in all
+
+dissolve
+
+,
+
+382   EXT. EARTH ORBIT - AN ENERGY BOLT (S)                      382
+
+383   EXT. V'GER - FULL SHOT                                     383
+
+384   INT. BRIDGE - INCLUDING THE VIEWER (O)                     384
+
+McCOY
+
+Well, it certainly has been...
+
+interesting.
+
+KIRK
+
+Spock, we
+
+were
+
+its answer!
+
+SPOCK
+
+(nods)
+
+Yes, Captain. It needed our
+
+mortality, the fear of it, our
+
+struggle against it, our fears,
+
+our dreams...
+
+KIRK
+
+... and the 'foolish' emotions
+
+which drive us?
+
+SPOCK
+
+(looks at Kirk; then)
+
+I prefer your poet Dante's phrase
+
+-- 'the divine restlessness of
+
+the human spirit.'
+
+McCOY
+
+Spock... you're quoting poetry?
+
+UHURA
+
+Starfleet signal, Captain!
+
+Return to orbital dockyard for
+
+inspection.
+
+KIRK
+
+Ignore that signal.
+
+(to Scott)
+
+Shall we give the Enterprise a
+
+proper shakedown, Mr. Scott?
+
+SCOTT
+
+(suddenly beaming)
+
+I'd say it's time for that, I
+
+would, sir.
+
+(toward Spock)
+
+We can have you back on Vulcan
+
+in four days, Mr. Spock.
+
+SPOCK
+
+(coolly)
+
+I have no business on Vulcan,
+
+Engineer.
+
+KIRK
+
+Ahead Warp One, Mr. Sulu.
+
+DIFALCO
+
+Heading, sir?
+
+KIRK
+
+(taking center seat;
+
+indicates generally)
+
+Out there.  Thataway.
+
+SPOCK
+
+(nods gravely)
+
+A most logical choice, Captain.
+
+385   EXT. SPACE - ENTERPRISE (S)                                385
+
+THE END
+

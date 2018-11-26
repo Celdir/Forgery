@@ -1,0 +1,2614 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+BarryLyndon
+
+FADE IN:
+
+EXT.  PARK - DAY
+
+Brief shot of duel.
+
+EXT.  GARDEN - DAY
+
+Mrs. James, talking with a suitor; Roderick, at a
+
+distance.
+
+EXT.  STREET - DAY
+
+Mother and son walking together.
+
+EXT.  CHURCH - DAY
+
+Mother and son entering church.
+
+EXT.  FIELD - DAY
+
+A picnic.  The Dugan family.  Roderick.
+
+EXT.  DUGAN MANOR HOUSE - DAY
+
+A sprawling run-down Irish manor house with large garden,
+
+stables, barn and farm.
+
+Idealized images of Dorothy.
+
+Dorothy talking with the exciseman.
+
+Dorothy talking to the steward.
+
+Dorothy sitting under a tree with the curate, reading a
+
+book.
+
+Dorothy talking to the apothecary's lad.
+
+Roderick, fighting with apothecary's lad.
+
+EXT.  FIELD - DAY
+
+Dorothy, like a greyhound released from days of
+
+confinement, and given the freedom of the fields at last,
+
+runs at top-speed, left and right, back and forth,
+
+returning every moment to Roderick.
+
+She runs and runs until she is out of breath, and then
+
+laughs at the astonishment which keeps Roderick motionless
+
+and staring at her.
+
+After catching her breath, and wiping her forehead, she
+
+challenges Roderick to a race.
+
+They line up together and start on a count of three.
+
+Dorothy uses all her strength, but Roderick holds back,
+
+and Dorothy touches the gate five or six paces ahead of
+
+him.
+
+Dorothy catches her breath, thinking of the penalty.  Then
+
+she goes behind the trees and, a few second later, comes
+
+out and says:
+
+They sit down on the grass.  Roderick searches her
+
+pockets, the fold of her short bodice and her skirt, then
+
+her shoes; then he turns up her skirt, slowly and
+
+circumspectly, as high as her garters, which she wears
+
+upon the knee.  He unfastens them and finds nothing; he
+
+draws down her skirt and gropes under her armpits.  The
+
+tickling makes her laugh.
+
+Roderick has to unlace her bodice and touch her pretty
+
+breasts, over which his hand must pass to reach it.
+
+EXT.  FIELD - DAY
+
+Military review.  One hundred English troops, a few
+
+mounted officers, a small military band, fifty local
+
+people.
+
+The Dugan family, Roderick and his mother, Captains Best
+
+and Grogan.
+
+Roderick admires the troops in their splendid uniforms.
+
+INT.  BALLROOM AT FENCIBLES - NIGHT
+
+Dorothy and Roderick entering.
+
+Several cuts depicting the evening.
+
+Dorothy ignores Roderick; dances, chats, laughs, drinks
+
+punch, and finally, strolls outside with Captain Best.
+
+Roderick makes a half-hearted try at dancing with Miss
+
+Clancy.
+
+EXT.  FENCIBLES BALLROOM - DAWN
+
+The guests leaving and saying their goodbyes.
+
+EXT.  ROAD - DAWN
+
+Dorothy and Roderick on horseback together.
+
+To this sympathetic remark, from the pillion, the saddle
+
+made no reply.
+
+To this, the saddle only replies by grinding his teeth,
+
+and giving a lash to Daisy.
+
+The pillion had by this got her arm around the saddle's
+
+waist, and gave it the gentlest squeeze in the world.
+
+Roderick falls silent.
+
+EXT.  SMALL BRIDGE OVER A STREAM - DAWN
+
+They come to an old, high bridge, over a stream,
+
+sufficiently deep and rocky.
+
+She never finished the word for, maddened by the continual
+
+recurrence of that odious monosyllable, Roderick shouts:
+
+And, giving Daisy the spur, springs with Dorothy over the
+
+parapet, into the deeper water below.
+
+The horse's head sinks under, the girl screams as she
+
+sinks, and screams as she rises.
+
+Roderick lands her, half-fainting, on the shore.
+
+INT.  MOTHER'S HOUSE - BEDROOM - DAY
+
+Various cuts showing illness and convalescence.
+
+Roderick feverish:  the doctor taking his pulse.
+
+Mother brings a tray of food.
+
+Dorothy visiting him.
+
+EXT.  DUGAN MANOR HOUSE - DAY
+
+The air is fresh and bright, and the birds sing loud
+
+amidst the green trees.  Roderick is elated, and springs
+
+down the road, as brisk as a young fawn.
+
+He encounters an orderly whistling "Roast Beef of Old
+
+England," as he cleans down a cavalry horse.
+
+Roderick see Captain Best and Dorothy pacing the path
+
+together.  Her arm is under his, and he is fondling and
+
+squeezing her little hand which lies closely nestling
+
+against his arm.
+
+Some distance beyond them is Captain Grogan, who is paying
+
+court to Dorothy's sister, Mysie.
+
+Raising her hand to his lips.
+
+Roderick rushes into view, drawing his little sword.
+
+Roderick leaps at Captain Best, and collars him, while
+
+Dorothy makes the air echo with her screams.
+
+Captain Grogan and Mysie hasten up.
+
+Though Roderick is a full growth of six feet, he is small
+
+by the side of the enormous English captain.
+
+Best turns very red at the attack upon him, and slips back
+
+clutching at his sword.
+
+Dorothy, in an agony of terror, flings herself round him,
+
+screaming:
+
+So saying, he stoops down and picks up the bunch of
+
+ribbons, which Roderick had flung at Dorothy's feet, and
+
+handing it to her, says in a sarcastic tone:
+
+Best takes off his hat with much ceremony, and makes a low
+
+bow, and is just walking off, when Michael, Roderick's
+
+cousin, comes up, whose ear has likewise been caught by
+
+the scream.
+
+Best exits.
+
+Michael runs after Best.
+
+Dorothy, giving him an indignant look, jumps up and walks
+
+towards the house.
+
+He looks hard at Roderick for a second to two, then he
+
+walks away, humming a tune, looking back at Roderick as he
+
+goes through the old gate out of the garden.
+
+When Grogan is gone, Roderick is quite alone, and he
+
+flings himself down on the bench where Dorothy had made
+
+believe to faint, and had left her handkerchief and the
+
+ribbons and, taking them up, hides his face in them, and
+
+bursts into a passion of tears.
+
+EXT.  DUGAN MANOR HOUSE - DAY
+
+As Roderick passes the courtyard, he sees the Captain's
+
+saddle still hanging up at the stable-door, and his odious
+
+red-coated brute of a servant, swaggering with the
+
+scullion-girls and kitchen people.
+
+INT.  DUGAN MANOR HOUSE - DINING ROOM - DAY
+
+Roderick enters and takes his place at the bottom of the
+
+big table; the butler speedily brings him a cover.
+
+It is evident that his uncle doesn't know of what
+
+happened, but Michael, who is at dinner too, and Harry,
+
+and almost all the girls, look exceedingly black and the
+
+captain foolish; and Miss Dorothy, who is again by his
+
+side, ready to cry.  Captain Grogan sits smiling, and
+
+Roderick looks on as cold as stone.
+
+His uncle is in high good-humor.
+
+Roderick flings a glass of claret into his face.  The next
+
+moment, he is under the table, tripped up by Harry, who
+
+hits him a violent cuff on the head; as he goes down, he
+
+hardly has time to hear the general screaming and
+
+scurrying that is taking place above him, being so fully
+
+occupied with kicks, and thumps and curses, with which
+
+Harry is belaboring him.
+
+When Roderick gets up from under the table, the ladies are
+
+all gone; but he has the satisfaction of seeing the
+
+captain's nose is bleeding, as his is -- Best is cut
+
+across the bridge, and his beauty spoiled forever.
+
+On which, the captain falls to washing his nose in water,
+
+and answering never a word.
+
+His uncle bursts out laughing, and in this laugh, Captain
+
+Grogan joins.
+
+And here, Harry whispers something in the Captain's ear.
+
+EXT.  ROAD - LATE DAY
+
+Grogan walks with Roderick.
+
+They embrace.
+
+EXT.  HOUSE - LATE DAY
+
+Mother greeting Roderick and Captain Grogan.
+
+His mother looks a little anxious and flushed and, every
+
+now and then, gazes very hard into the Captain's face.
+
+INT.  MOTHER'S HOUSE - RODERICK'S BEDROOM - DAY
+
+Roderick waking up.
+
+Roderick at table with paper and ink.
+
+See him write:  "Dearest Mother."
+
+INT.  MOTHER'S HOUSE - KITCHEN - DAY
+
+Roderick eats his breakfast with a good appetite; but in
+
+helping himself to salt, spills it, on which his mother
+
+starts up with a scream.
+
+And then, her heart being too full, she leaves the room.
+
+There is an elegant, silver-mounted sword that hangs on
+
+the mantelpiece under the picture of Roderick's late
+
+father.
+
+A pair of pistols hang on each side of the picture.
+
+Roderick takes down the sword and pistols, which are
+
+bright and well-oiled, and collects flints, balls and
+
+gunpowder.
+
+EXT.  MOTHER'S HOUSE - DAY
+
+Captain Grogan and Orderly arrive.
+
+Roderick and Grogan, and the Orderly ride off.
+
+EXT.  COUNTRY ROAD - DAY
+
+They ride their horses at a leisurely pace.
+
+EXT.  FOREST CLEARING - DAY
+
+Harry, Michael and the Captain are already there.  Best,
+
+flaming in red regimentals, a big a monster as ever led a
+
+grenadier company.  The party are laughing together.
+
+They alight from their horses, and join and salute the
+
+other gentlemen.
+
+Harry comes up to shake Roderick by the hand, while
+
+Captain Best takes off his hat, and turns extremely red.
+
+Grogan takes him aside.
+
+Michael, who has not spoken a word, Harry, and the Captain
+
+retire to one side, and Harry gives the signal.
+
+It is slowly given, and Roderick has the leisure to cover
+
+his man well.
+
+Captain Best changes color and trembles as the numbers are
+
+given.
+
+At "three" both pistols go off.  Best gives a most
+
+horrible groan, staggers backwards and falls.
+
+Running towards him, Harry lifts him up -- Michael takes
+
+his head.
+
+Laying open his coat, blood is seen gurgling from under
+
+his gorget.
+
+The unfortunate man does not answer, but when the support
+
+of Harry's arm is withdrawn from his back, groans once
+
+more and falls backwards.
+
+He gives the huge prostrate body a scornful kick with his
+
+foot.
+
+Roderick takes the ribbons she gave him out of his
+
+waistcoat, and the letter, and flings them down on the
+
+body of Captain Best.
+
+They mount up and gallop off.
+
+EXT.  MOTHER'S HOUSE - DAY
+
+Upon seeing Roderick and Harry ride up, his mother, who
+
+has been waiting outside, rushes to her son with wild
+
+screams of joy.  He dismounts, and she kisses and embraces
+
+him.
+
+INT.  MOTHER'S HOUSE - PARLOR - DAY
+
+Still much excitement and hustle and bustle.
+
+INT.  RODERICK'S BEDROOM - DAY
+
+His mother is rushing about and packing a valise.  Harry
+
+sits on the bed.
+
+INT.  MOTHER'S BEDROOM - DAY
+
+His mother takes out a stocking from her escritoire, and
+
+gives Roderick twenty golden guineas.
+
+EXT.  MOTHER'S HOUSE - DAY
+
+Roderick's departure.
+
+Roderick waves.  His mother cries.
+
+EXT.  HIGH ROAD TO DUBLIN - DAY
+
+Roderick happily riding down the road.
+
+Farm girls in the fields flirting with him.
+
+EXT.  ROAD TO DUBLIN - DAY
+
+A well-armed gentleman dressed in green, and a gold cord,
+
+with a patch on his eye, and riding a powerful mare, puts
+
+his horse alongside.
+
+At this, a pock-marked man coming up, the well-armed
+
+gentleman spurs into his bay mare, and leaves Roderick.
+
+EXT.  ROAD TO DUBLIN - DAY
+
+A footman howls, at the top of his voice.
+
+But the country fellows only laugh at his distress, and
+
+make all sorts of jokes at the adventure which had just
+
+befallen.
+
+Roderick rides up amongst them, and seeing the lady in the
+
+carriage, very pale and frightened, gives a slash of his
+
+whip, and bids the red-shanked ruffians keep off.
+
+Pulling off his hat, and bringing his mare up in a prance
+
+to the chair-window.
+
+He shuffles a few steps away and frowns in the direction
+
+that the Captain has vanished.
+
+EXT.  ROADSIDE INN - DAY
+
+They stop at the inn.
+
+He gives her two gold pieces.
+
+INT.  INN - DAY
+
+Roderick and Mrs. O'Reilly finishing their meal.
+
+We will hear dialogue underneath Roderick's voice over.
+
+Paying the bill.
+
+EXT.  DUBLIN - STREET - NIGHT
+
+They ride by.
+
+EXT.  O'REILLY HOUSE - DUBLIN - NIGHT
+
+INT.  O'REILLY HOUSE - DINING ROOM - NIGHT
+
+Captain O'Reilly, a stout red-faced man, without a
+
+periwig, and in a rather tattered nightgown and cap.
+
+Roderick and Mrs. O'Reilly.
+
+There are relics of some mutton-chops and onions on a
+
+cracked dish before them.
+
+Captain O'Reilly searches his pockets for some money to
+
+give to Betty.
+
+She takes out one of the golden guineas Roderick gave to
+
+her.
+
+INT.  DINNING ROOM - LATER
+
+They are eating.
+
+INT.  O'REILLY HOUSE - BEDROOM - NIGHT
+
+The couple wishing Roderick goodnight.
+
+Broken door.
+
+Dress lying over bed.
+
+Cracked mirror.
+
+Drawers, full of junk.
+
+INT.  BEDROOM - O'REILLY HOUSE - NIGHT
+
+In the middle of the night, Mrs. O'Reilly comes to
+
+Roderick's room on a flimsy pretext, and in the course of
+
+events, he has his first woman.
+
+INT.  COACH - DAY
+
+Roderick, Captain and Mrs. O'Reilly.
+
+EXT.  PROMENADE - PHOENIX PARK - DAY
+
+Roderick, Captain and Mrs. O'Reilly, their friends.
+
+Various cuts.
+
+INT.  O'REILLY HOUSE - NIGHT
+
+An evening of gambling.
+
+Various cuts of the characters present.
+
+Roderick loses two hundred guineas to Captain O'Reilly in
+
+a single hand.
+
+We see Captain O'Reilly cheat, but Roderick does not.
+
+He pays him the 18 gold guineas, remaining from the sum
+
+his mother gave him.
+
+EXT.  STREET - OUTSIDE O'REILLY HOUSE - DAWN
+
+Roderick exits to the street.  The sound of the gambling
+
+can still be heard in the street.  He is soon joined by
+
+Councillor Mulligan.
+
+Roderick does not reply, and walks slowly away from him
+
+down the street.
+
+INT.  O'REILLY HOUSE - RODERICK'S BEDROOM - EARLY MORNING
+
+Roderick enters.
+
+Valise open, wardrobe lying on the ground, and Roderick's
+
+keys in the possession of O'Reilly and his wife.
+
+He holds up the name, Roderick James, printed on the
+
+linen.
+
+Captain O'Reilly gathers up the linen clothes, silver
+
+toilet articles, and the rest of Roderick's gear.
+
+So saying, Roderick draws his sword like lightning, and
+
+giving a "ha, ha!" and a stamp with his foot, lunges it
+
+within an inch of O'Reilly's heart, who starts back and
+
+turns deadly pale, while his wife, with a scream, flings
+
+herself between them.
+
+O'Reilly exits.  His wife sits down on the bed and begins
+
+to cry.
+
+EXT.  DUBLIN STREET - DAY
+
+Roderick riding down the street, with his valise.
+
+INT.  ALE HOUSE - DAY
+
+Roderick approaches a Captain and a Sergeant, who quickly
+
+make him welcome.
+
+EXT.  BRITISH WARSHIP AT SEA - DAY
+
+Roderick sits very disconsolately over a platter of rancid
+
+bacon and moldy biscuit, which is served to him at mess.
+
+When it comes to his turn to be helped to drink, he is
+
+served, like the rest, with dirty tin noggin, containing
+
+somewhat more than half a pint of rum and water.  The
+
+beaker is so greasy and filthy that he cannot help turning
+
+round to the messman and saying:
+
+At which, all the wretches round him burst into a roar of
+
+laughter, the very loudest among them being Mr. Toole, a
+
+red-haired monster of a man.
+
+Roars the monster, who is sitting, or rather squatting, on
+
+the deck opposite him, and as he speaks, he suddenly
+
+seizes Roderick's beaker of grog and empties it in midst
+
+of another burst of applause.
+
+Roderick and Toole fight with cudgels.  Roderick gives him
+
+a thump across his head which lays him lifeless on the
+
+floor.
+
+EXT.  MILITARY DRILL FIELD - CUXHAVEN - DAY
+
+Various cuts.
+
+Roderick learning the soldierly arts, musket drill, manual
+
+of arms, bayonet, marching.
+
+EXT.  MILITARY COURTYARD - CUXHAVEN - DAY
+
+The Cuxhaven troops are drawn up to receive a new
+
+regiment, arrived from England.
+
+Roderick sees, marching at the head of his company, his
+
+old friend, Captain Grogan, who gives him a wink.
+
+INT.  GROGAN'S QUARTERS - DAY
+
+Roderick and Grogan.
+
+Roderick sighs when Grogan says the word "married," on
+
+which Grogan says with a laugh:
+
+EXT.  VARIOUS LOCATIONS - BRITISH ON THE MARCH - DAY
+
+Roderick on the march.
+
+Various cuts featuring Roderick; marching, cooking at open
+
+fires, gambling, resting in a farm yard, officers riding
+
+by; shivering in his blanket.
+
+EXT.  BATTLEFIELD OF MINDEN - BATTLE FRAGMENT - DAY
+
+Roderick and his company.
+
+EXT.  MINDEN - BATTLE FRAGMENTS - DAY
+
+Officers ride by in smoke.  Troops marching to the attack.
+
+Roderick advancing.
+
+Roderick firing his musket.  He bayonets a French colonel,
+
+amidst shouts and curses.
+
+Roderick kills a French ensign with a blows from the butt
+
+of his musket.
+
+Roderick taking money and the box of sugar-plums from the
+
+ensign.
+
+Captain Grogan is shot, cries out, and falls.
+
+A brother captain turns to Lieutenant Lakenham.
+
+Roderick kneels above Grogan.
+
+He gives Roderick a faint squeeze of the hand; and, as the
+
+word is given to advance, Roderick leaves him.
+
+EXT.  VARIOUS ROUGH RURAL LOCATIONS - DAY
+
+Short cuts to voice over.
+
+Roderick and British troops rape, pillage and burn.
+
+EXT.  BATTLEFIELD - WARBURG - BATTLE FRAGMENTS - DAY
+
+Lieutenant Lakenham is shot, falls, and cries for help.
+
+Roderick and another man take him up in a cloak, and carry
+
+him towards the nearby town of Warburg.
+
+EXT.  A FARMHOUSE - GERMAN STREET - WARBURG - DAY
+
+In order to get into the house, Roderick and the other man
+
+are obliged to fire into the locks with their pieces,
+
+which summons brings the inhabitants of the house to the
+
+door; a very pretty and black-eyed, young woman, and her
+
+old, half-blinded father.
+
+They are at first unwilling to accommodate the guest, but
+
+Mr. Lakenham, speaking to them in German, and taking a
+
+couple of guineas out of a very full purse, speedily
+
+convinces the people that they have only to deal with a
+
+person of honor.
+
+INT.  WARBURG FARMHOUSE - BEDROOM - DAY
+
+They carry Lieutenant Lakenham to bed and receive their
+
+five guineas.
+
+In his German jargon, Roderick pays some deserved
+
+compliments to the black-eyed beauty of Warburg, thinking,
+
+with no small envy, how comfortable it would be to be
+
+billeted there.
+
+EXT.  STREET - WARBURG - OUTSIDE THE FARMHOUSE - DAY
+
+He starts back to the regiment, with his comrade, when the
+
+man interrupts his reverie by suggesting they divide the
+
+five guineas.
+
+Roderick gives him one guinea.
+
+The private lifting his musket, hits Roderick a blow with
+
+the butt-end of it, which sends him stunned to the ground,
+
+allowing his comrade to take the other four guineas from
+
+his pocket.
+
+Recovering his senses, Roderick bleeding, with a large
+
+wound in the head, has barely time to stagger back to the
+
+house where he had just left the lieutenant, when he
+
+falls fainting at the door, just as the surgeon exits.
+
+INT.  WARBURG FARMHOUSE - BEDROOM - DAY
+
+Roderick is carried by the surgeon and the black-eyed
+
+girl, into another bed in the room where the Lieutenant
+
+has been laid.
+
+INT.  WARBURG FARMHOUSE - BEDROOM - NIGHT AND DAY
+
+Lischen brings Roderick a refreshing drink; and, as he
+
+takes it, he presses the kind hand that gave it to him;
+
+nor does this token of his gratitude seem unwelcome.
+
+Lischen serving food.
+
+Various cuts, representing different days.
+
+Lakenham behaving as rottenly as Roderick describes:
+
+Roderick making lover to Lischen while Lieutenant Lakenham
+
+sulks in the next bed.
+
+Roderick sitting up in bed.  Lischen has just served him
+
+his supper.
+
+Enter a British officer, an aide who carries a notebook,
+
+and a surgeon.  In a brief scene to be written, we learn
+
+that a sudden movement on the part of the French requires
+
+the British army to follow them.  The town is to be
+
+evacuated, except for some Prussian line-of-communication
+
+troops, whose surgeons are to visit the wounded in the
+
+place; and, when they are well, they are to be drafted to
+
+their regiments.
+
+EXT.  VIEW OUT OF WARBURG FARMHOUSE WINDOW - DAY
+
+Roderick stands by the window, watching English troops and
+
+wagons leaving the town.
+
+INT.  WARBURG FARMHOUSE - BEDROOM - DAY
+
+Roderick walks into Lakenham's room attired in his full
+
+regimentals, and with his hat cocked over his left eye.
+
+With this, Roderick puts his hand under his pillow, at
+
+which Lakenham gives a scream that might have called the
+
+whole garrison about his ears.
+
+Roderick threatens him with a knife at his throat.
+
+Roderick, taking his handkerchief, binds it tight round
+
+his mouth, and, pulling forward the sleeves of his shirt,
+
+ties them in a knot together, and so leaves him, removing
+
+the papers and the purse, and wishing him politely a good
+
+day.
+
+EXT.  WARBURG FARMHOUSE - STREET - DAY
+
+Lischen, waiting outside the house, with a saddled horse,
+
+throws her arms around him, and makes the tenderest adieu.
+
+Roderick mounts his newly-purchased animal, waves his hat
+
+gallantly, and, prances away down the street.
+
+EXT.  ROAD - DAY
+
+Roderick happily riding along a wooded country road,
+
+rounds a blind bend and sees suddenly before him, about
+
+two hundred yards away, a company of Prussian infantry
+
+resting along the sides of the road, together with a dozen
+
+mounted dragoons.
+
+A quick calculation tells him that is is better to proceed
+
+than to turn back, and he rides into their midst,
+
+approaching a group of officers.
+
+He presents himself as Lieutenant Lakenham and asks for
+
+directions to join his regiment.  He is told that he is
+
+riding in the wrong direction, and is shown a map.
+
+During the explanation, Captain Galgenstein approaches
+
+with an open, smiling countenance, introduces himself, and
+
+says he, too, is bound for the same place, and asks if
+
+Roderick will honor him with his company.
+
+To avoid suspicion, Roderick readily accepts the offer,
+
+and the two men mount up, and ride off together.
+
+EXT.  ROAD - GERMANY - DAY
+
+Roderick and Galgenstein riding together.
+
+Dialogue under voice over.
+
+EXT.  DESOLATE GERMAN ROAD - DAY
+
+Roderick and Captain Galgenstein.  Their horses' heads
+
+together, jogging on.
+
+They pass a party of recruits under the armed guard of a
+
+red-coated Hanoverian sergeant.
+
+He exchanges signs of recognition with Captain
+
+Galgenstein.
+
+EXT.  DESOLATE GERMAN INN - LATE AFTERNOON
+
+Roderick and Captain Galgenstein approach a very lonely-
+
+looking place.
+
+Roderick smiles.
+
+They enter by a great gate into a court, walled round, and
+
+at on end of which is the building, a dingy ruinous place.
+
+A couple of covered wagons are in the courtyard; their
+
+horses are littered under a shed hard by.
+
+Lounging about the place are some men, and a pair of
+
+sergeants in the Prussian uniform, who both touch their
+
+hats to the captain.
+
+The inn has something foreboding about it, and the men
+
+shut the great yard-gates as soon as they enter.
+
+The two sergeant take charge of the horses; the captain
+
+orders one of them to take Roderick's valise to his
+
+bedroom.
+
+Roderick promises the sergeant a glass of schnapps for his
+
+pains.
+
+They enter into supper.
+
+INT.  GERMAN INN - LATE AFTERNOON
+
+A dish of fried eggs and bacon is ordered from a hideous
+
+old wench that comes to serve them, in place of the lovely
+
+creature which had been expected; and the captain,
+
+laughing, says:
+
+Taking off his hat, sword-belt, and gloves, with great
+
+ceremony, Galgenstein sits down to eat.  Roderick puts his
+
+weapons securely on the old chest of drawers where the
+
+captain's is laid.
+
+The hideous old woman brings in a pot of very sour wine,
+
+at which, and at her ugliness, Roderick feels a
+
+considerable ill-humor.
+
+This increases Roderick's ill-humor.
+
+Springing at him like a tiger.
+
+But, agile as he is, Galgenstein is equally on his guard.
+
+He takes two pistols out of his pockets, fires one off,
+
+and says, from the other end of the table where he stands
+
+dodging Roderick, as it were.
+
+The door is flung open, and the two sergeants enter, armed
+
+with musket and bayonet to aid their captain.
+
+The game is up.  Roderick flings down a knife with which
+
+he had armed himself, for the old hag, on bringing in the
+
+wine, had removed his sword.
+
+EXT.  A ROAD - DAY
+
+Prussian troops on the march.  Roderick is now one of
+
+them.
+
+Captain Galgenstein rides by.
+
+EXT.  A FIELD - DAY
+
+Prussian punishment gauntlet.
+
+EXT.  VARIOUS RURAL LOCATIONS - DAY
+
+Rape, pillage and burn.
+
+Brief thematic repeat of British army version.
+
+EXT.  BATTLEFIELD - FRAGMENT
+
+Prussians against Austrians, or French, or Saxons.
+
+Roderick fighting.
+
+EXT.  BATTLEFIELD - ACTION - DAY
+
+Roderick saves Captain Galgenstein's life.
+
+EXT.  FIELD - DAY
+
+Roderick is decorated by Colonel Bulow for his heroism in
+
+saving Captain Galgenstein.
+
+Colonel Bulow gives Roderick two Frederic d'or in front of
+
+the regiment.
+
+Captain Galgenstein looks pleased with Roderick's
+
+performance.
+
+BERLIN - 1763
+
+INT.  ANTE-ROOM - CAPTAIN GALGENSTEIN'S OFFICE - DAY
+
+Roderick enters and approaches the Captain's sergeant.
+
+Roderick stands stiffly.  We can make out the sound of
+
+loud talking behind the closed door.
+
+Enter a private huffing and puffing.
+
+Exit the sergeant, muttering.  Roderick, now alone in the
+
+office, walks closer to the door so that he can hear what
+
+is being said.
+
+Roderick hears the sergeant returning and walks back to
+
+the door.
+
+Then the office door opens, Captain Galgenstein looks out,
+
+sees Roderick, smiles and say:
+
+The Minister nods.
+
+The Captain smiles at Roderick.
+
+The Captain rises and begins to pace back and forth.
+
+Roderick nods.
+
+The Minister studies Roderick, coldly.
+
+EXT.  CHEVALIER DE BELLE FAST'S HOUSE - BERLIN - DAY
+
+Roderick, now dressed in civilian clothes, admires a
+
+beautiful carriage, waiting at the door.  Then he enters.
+
+INT.  CHEVALIER DE BELLE FAST'S APARTMENT - DAY
+
+Roderick bows, and hands him a letter from that gentleman,
+
+with which the Captain had taken care to provide him.
+
+As the Chevalier reads the letter, Roderick has the
+
+leisure to examine him.
+
+He is a man of sixty years of age, dressed superbly,
+
+wearing rings, diamonds and laces.
+
+One of his eyes is closed with a black patch, and he wears
+
+a little white and red paint, and a pair of moustachios,
+
+which fall over his lip.
+
+The Chevalier is seated at a table near the window to read
+
+the letter.
+
+The Chevalier puts the letter down, looks at Roderick for
+
+a few seconds, and then smiles.
+
+He notices Roderick begin to tremble and look peculiar.
+
+He goes up to Roderick.
+
+The Chevalier takes Roderick by the shoulder.
+
+Sobbing, Roderick falls into his arms.
+
+EXT.  BERLIN - PARK - DAY
+
+Roderick and the Chevalier walking.
+
+EXT.  BERLIN - STREET - DAY
+
+Roderick and the Chevalier walking.
+
+EXT.  BERLIN - LAKE WANNSEE - DAY
+
+Roderick and the Chevalier walking along the bank.
+
+INT.  CHEVALIER'S ROOMS - BERLIN - DAY
+
+Quick cuts -- Roderick being taught the profession of
+
+cards and the dice-box.
+
+EXT.  GARDEN HOUSE - BERLIN - DAY
+
+Roderick, Minister Galgenstein, and Captain Galgenstein.
+
+Dialogue comes up from under voice over.
+
+INT.  CHEVALIER'S APARTMENTS - NIGHT
+
+The Chevalier is at play against several gentlemen,
+
+including the Prince of Turbingen, while Roderick signals
+
+the cards.
+
+Several cuts of playing and cheating to illustrate voice
+
+over.
+
+The Prince loses a big hand, and, in a fury, throws down
+
+his cards.  He stares at the table, then at the Chevalier.
+
+He exits.
+
+EXT.  GARDEN HOUSE - DAY
+
+Roderick, Captain Galgenstein and Minister Galgenstein.
+
+The Captain and the Minister walk a few steps away and
+
+speak in whispers.
+
+Then they return to Roderick.
+
+INT.  CHEVALIER'S APARTMENTS - DAY
+
+EXT.  GARDEN HOUSE - BERLIN - DAY
+
+Roderick, Captain Galgenstein and Minister Galgenstein.
+
+EXT.  CHEVALIER'S APARTMENTS - DAY
+
+Action as per voice over.
+
+Looking around and not finding his servant to open the
+
+door.
+
+No sooner does the Chevalier enter than the officer jumps
+
+in after him, another mounts the box by the coachman, and
+
+the latter begins to drive.
+
+Both lapse into silence.
+
+EXT.  ROAD - DAY
+
+The coach drives by.  Suddenly -- "boom," the alarm cannon
+
+begins to roar.
+
+INT.  COACH - DAY
+
+Chevalier nods.
+
+EXT.  ROAD - DAY
+
+The coach drives by and action as described.
+
+EXT.  SAXON CUSTOM-HOUSE - DAY
+
+The black and white barriers came in view at last hard by
+
+Bruck, and opposite them the green and yellow of Saxony.
+
+The Saxon custom-house officers came out.
+
+The Prussian officers, grinning, hand the Chevalier the
+
+purse and take their leave of their prisoner with much
+
+respect.
+
+The Chevalier de Belle Fast gives them three frederic a-
+
+piece.
+
+INT.  ROOM - HOTEL DES TROIS COURONNES - DAY
+
+Roderick reading a letter over his breakfast in bed.
+
+INT.  CHEVALIER'S ROOM - DAY
+
+Action as per description in letter.
+
+No answer.
+
+Action as per voice over.
+
+INT.  GERMAN PALACE - BALLROOM - NIGHT
+
+Roderick, the Chevalier and the Duke of Wurttemberg.
+
+The Duke of Wurttemberg chatting with ballet dancers, who
+
+will perform at the party.
+
+Roderick and the Chevalier kissing hands, hobnobbing with
+
+the nobility, and dancing minuets.
+
+EXT.  GERMAN STREET - DAWN
+
+Roderick and the Chevalier in a comfortable coach, on
+
+their way home to bed, pass troops marching out on early
+
+parade.
+
+INT.  COACH - DAWN
+
+Roderick sinks back into the comfortable cushion and
+
+yawns.
+
+INT.  BEDROOM - GERMANY - DAY
+
+Roderick in a tub, being washed by a servant.
+
+INT.  ANOTHER BEDROOM - GERMANY - DAY
+
+His hair being done.
+
+INT.  DINING ROOM - NIGHT
+
+A candle-lit supper.
+
+INSERTS - JEWELRY
+
+Action and cuts as voice over.
+
+INT.  RECEPTION ROOM - GERMANY - DAY
+
+As described.
+
+EXT.  STABLES - GERMANY - DAY
+
+Buying horses.
+
+INT.  DRESSING ROOM - GERMANY - DAY
+
+Roderick being fitted for clothes.
+
+INT.  ORANGERY - DAY
+
+Action as voice over.
+
+INT.  GAMING ROOM - GERMANY - NIGHT
+
+Action as per voice over.
+
+INT.  GAMING ROOM - GERMANY - NIGHT
+
+Roderick dealing a faro bank.
+
+INT.  GAMING ROOM - GERMANY - NIGHT
+
+Action as voice over.
+
+Playing.
+
+Four crowned heads look on at the game, and an imperial
+
+princess, when Roderick turns up the ace of hearts, bursts
+
+into tears.
+
+INT.  MASQUERADE BALL - NIGHT
+
+Roderick and a girl.
+
+INT.  BOUDOIR - NIGHT
+
+Making love to a masked lady.
+
+INT.  COACH - NIGHT
+
+INT.  BOUDOIR - NIGHT
+
+EXT.  GARDEN - NIGHT
+
+INT.  BOUDOIR - NIGHT
+
+Roderick takes from his portfolio a little jacket of very
+
+fine transparent skin, eight inches long and closed at one
+
+end, and which by way of a pouch string at its open end,
+
+has a narrow pink ribbon.
+
+He displays it to her, she looks at it, and laughs.
+
+She puts it on, out of shot.
+
+INT.  ROOM OFF A BALLROOM - NIGHT
+
+Roderick making love to the Countess von Trotha.  Enter
+
+the Count, in the uniform of a Colonel.
+
+Roderick smiles at him.
+
+EXT.  BEAUTIFUL GARDEN - EARLY MORNING
+
+Roderick's sword duel with the Count.
+
+Details to be worked out.
+
+INT.  BILLIARD ROOM - NIGHT
+
+Roderick watches the Chevalier play with a Prussian
+
+officer, Lieutenant Dascher.
+
+Towards the end of the game, Dascher, seeing that he is
+
+losing, makes an unfair stroke, so obvious that the marker
+
+tells him so to his face.
+
+Lieutenant Dascher, for whom the stroke wins the game,
+
+takes the money which is in the stake bag, and puts it in
+
+his pocket, paying no attention to the marker's
+
+adjurations, or to Roderick's.
+
+Roderick, who is without his sword, reaches for a billiard
+
+cue and swings it at Dascher's face.
+
+He wards off the blow with his arm, drawing his sword and
+
+runs at Roderick, who is unarmed.
+
+The marker, a sturdy young man, catches Dascher around the
+
+waist and prevents murder.
+
+EXT.  FIELD - DAY
+
+On the field, there are six people waiting with Dascher,
+
+and his seconds.  Dascher takes 20 louis from his pocket
+
+and hands them to Roderick, saying:
+
+Roderick takes the money and puts it in his purse with the
+
+utmost calm, making no reply to the other's boasting.
+
+He takes his station between two trees, about four paces
+
+apart, and draws a pair of dueling pistols.
+
+No one could have explained his intentions more clearly or
+
+spoken more calmly.
+
+Dascher places himself at the specified distance.
+
+Roderick walks slowly back and forth between the two trees
+
+without looking at him.
+
+Dascher takes aim and fires, missing.
+
+The others think he is mad, and had expected some kind of
+
+discussion between the parties, but not a bit of it.
+
+Dascher takes careful aim and fires a second shot, again
+
+missing Roderick.
+
+Without a word, but in a firm and confident manner,
+
+Roderick fires his first shot into the air.
+
+Dascher looks amazed.  Then, aiming at Dascher with his
+
+second pistol, he hits him in the center of the forehead
+
+and stretches him out dead on the ground.
+
+EXT.  ROAD - DAY
+
+Roderick and Chevalier traveling in their coach.
+
+They meet a four-wheel carriage, drawn by two horses,
+
+carrying a master and a servant.
+
+The driver of the four-wheel carriage wants Roderick's
+
+driver to make way for him.
+
+Roderick's driver protests that if he does, he will upset
+
+his master in the ditch, but the other insists.
+
+Roderick addresses the master, a handsome young man, and
+
+asks him to order his driver to make way for him.
+
+At that, Roderick gets out and holding his drawn-sword
+
+tells the stranger to get out, or to make way for him.
+
+The stranger replies, with a smile, that he has no sword
+
+and that, in any case, he will not fight for such a silly
+
+reason.
+
+He tells Roderick to get back in his chaise, and he makes
+
+way for him.
+
+INT.  GAMING ROOM - NIGHT
+
+Roderick and the Chevalier running a faro bank when an
+
+important lady suffers a huge loss.
+
+EXT.  ROAD - DAWN
+
+Roderick and the Chevalier are sound asleep in their
+
+carriage when they are awakened by a violent jolt, upon
+
+which the carriage overturns in the middle of the road.
+
+The Chevalier is underneath, and screams from the pain in
+
+his right arm, which he thinks is broken.
+
+Their servant forces the door open to help them out,
+
+telling them that the two postilions have fled.
+
+Roderick easily gets out of the carriage through the door,
+
+which is above him, but the Chevalier, unable to move
+
+because of his disabled arm, has to be pulled out.
+
+His piercing shrieks make Roderick laugh, because of the
+
+strange oaths with which he interlards his prayers.
+
+From the carriage, Roderick takes his dueling pistols,
+
+and sword.
+
+Roderick tells his servant to mount and to looking for
+
+armed peasants in the vicinity; money in hand, he leaves.
+
+The Chevalier has lain down on the hard ground, groaning
+
+and in no condition to resist robbers.
+
+Roderick makes his own preparations to sell his fortune
+
+and his life at the highest price.
+
+His carriage is close to the ditch, and he unhitches the
+
+horses, tieing them to the wheels and the pole in a
+
+circle, and stations himself behind them with weapons.
+
+In this predicament, Roderick cannot help laughing at the
+
+poor Chevalier, who is writhing like a dying dolphin on a
+
+seashore, and uttering the most pitiful execrations, when
+
+a mare, whose back was turned to him, take it into her
+
+empty head to empty her bladder on him.  There is nothing
+
+to be done; he has to put up with the whole stinking rain,
+
+and to forgive Roderick's laughter, which he has not the
+
+strength to hold in.
+
+The chill wind and the silence are suddenly broken by an
+
+attack, which is half-hearted and uncertain, by the lady's
+
+lover, and his hesitant band of six cut-throats.
+
+Some falter and run away as soon as Roderick fires his
+
+pistol.
+
+The leader and two heartier followers engage Roderick.
+
+During the fight, they mortally wound the helpless
+
+Chevalier and two of them are killed.
+
+After they flee, Roderick kneels by the Chevalier, who
+
+utters some appropriate last words, then dies.
+
+His servant finally arrives at full gallop, shouting at
+
+the top of his voice, and followed by a band of peasants,
+
+each with his lantern, come to his rescue.  There are ten
+
+or twelve of them, all armed with muskets, and all ready
+
+to obey his orders.
+
+EXT.  SPA - HOTEL - DAY
+
+Roderick's carriage arrives.
+
+INT.  GAMING ROOM - NIGHT
+
+Crowds surround Roderick.
+
+INT.  CASINO - NIGHT
+
+Attractive women alone, while men are at the gaming table.
+
+EXT.  GARDEN IN SPA - DAY
+
+The Countess of Cosgrove walks beside her husband, Sir
+
+William Cosgrove, who is in a wheelchair.  They are
+
+accompanied by their young son, Lord Brookside, and two
+
+servants.
+
+Closer shot of the Countess.
+
+Closer shot of Sir William Cosgrove.
+
+Closer shot of young Lord Brookside, walking behind them
+
+in the care of his governor.
+
+INT.  GAMING ROOM - NIGHT
+
+Shots of Sir William Cosgrove being wheeled in, and at
+
+play with Roderick, and some other gentlemen.
+
+Laughter at the table.
+
+Laughter.
+
+Polite laughter at the table.
+
+There is a reflective silence at the table.
+
+This question causes Sir William to burst out into a
+
+yelling laugh, joined by the rest of the table, and makes
+
+Roderick blush not a little at his gaucherie.
+
+EXT.  ORNAMENTAL GARDEN - SPA - NIGHT
+
+A beautiful scene, lit by the flambeaux, held by a dozen
+
+footmen.  A small orchestra, playing in a Temple of Love,
+
+some dancers, people gambling and lounging along a line of
+
+trees.
+
+Roderick approaches the Countess.
+
+The countess laughs.
+
+She laughs.
+
+Roderick laughs and kisses her.
+
+She laughs.
+
+She laughs.  He kisses her again.  They exit.
+
+EXT.  ROAD - SPA - NIGHT
+
+Coach and four moves slowly along.
+
+INT.  COACH - NIGHT
+
+They kiss.  She gently struggles as he tries to undo her
+
+dress.  He stops.
+
+She silences him with her fingertips.
+
+They kiss ardently.
+
+EXT.  COUNTESS' HOUSE - SPA - DUSK
+
+Action as per voice over.
+
+Sir William makes the most courtly of bows and grins, and
+
+waves his hat in as graceful a manner as his multiplicity
+
+of illness permits, and her ladyship and Roderick reply to
+
+the salutation with the utmost politeness and elegance on
+
+their part.
+
+INT.  RODERICK'S APARTMENT - SPA - NIGHT
+
+Making ardent love.
+
+INT.  GAMING ROOM - NIGHT
+
+Roderick enters and approaches a table at which Sir
+
+William Cosgrove, who is drunk, is at play with several
+
+other jovial fellows.
+
+Sir William Cosgrove greets this line with a yell of
+
+laughter.  His laugh is not jovial or agreeable, but
+
+rather painful and sardonic, and ends in a violent fit of
+
+coughing.
+
+Roderick stares at him coldly.
+
+There is laughter around the table, and Sir William starts
+
+dealing the cards.
+
+Sir Williams keels over dead.
+
+INT.  CHURCH - DAY
+
+The wedding of Roderick and the Countess.  The service is
+
+preformed by Reverend Hunt, her ladyship's chaplain.
+
+EXT.  A GARDEN - LONDON - DAY
+
+The Wedding reception.
+
+Roderick and the Countess are approached by young Lord
+
+Brookside, aged 12.
+
+Brookside walks slowly towards them, and shakes his fist
+
+in Roderick's face.
+
+Roderick laughs, as the Countess unsuccessfully tries to
+
+get the boy to shake hands.
+
+EXT.  ROAD - DAY
+
+Three carriages, each with four horses, proceed along the
+
+picturesque track.
+
+INT.  CARRIAGE - DAY
+
+Roderick and his Lady.
+
+Roderick blows smoke into the Countess' face.  She is
+
+shocked into an apprehensive silence.
+
+INT.  COACH - DAY
+
+Young Lord Brookside with his governor, glowering and
+
+petulant.  A parrot, in a cage, on his lap.
+
+EXT.  ROAD - DAY
+
+As the carriages drive past, there is a band, floral
+
+arches, flags, church bells ringing.  The parson and the
+
+farmers assemble in their best by the roadside, and the
+
+school-children and the laboring people are loud in their
+
+"hurrahs" for her ladyship.
+
+Roderick flings pennies among the cheering tenants, from
+
+two bags of coppers, stored in the carriage for the
+
+occasion.
+
+EXT.  CASTLE HACKTON - DAY
+
+Fifty, or so, servants have turned out to greet their
+
+mistress, and their new master.  The land steward, who is
+
+the senior servant, introduces the others -- the clerk of
+
+the kitchen, clerk of the stables, head gardener, ladies
+
+in waiting, butler, valet, chef, cook.
+
+INT.  STABLES - DAY
+
+Roderick and his beautiful horses.
+
+EXT.  A STREAM - DAY
+
+Roderick and some companions fishing.
+
+EXT.  FIELDS - DAY
+
+Roderick and his friends riding.
+
+EXT.  FIELDS - DAY
+
+Roderick and friends shooting.
+
+INT.  CASTLE HACKTON - DAY
+
+Roderick having his portrait painted by a miniaturist.
+
+INT.  CASTLE HACKTON - COUNTESS' BEDROOM - DAY
+
+EXT.  COSGROVE HOUSE - LONDON - DAY
+
+Two coaches pull up, and the Countess and Roderick exit.
+
+Servants remove their luggage and baby Patrick.
+
+INT.  COSGROVE HOUSE - BEDROOM - NIGHT
+
+The Countess alone and depressed.
+
+INT.  COSGROVE HOUSE - LONDON - DAY
+
+Several cuts of the Countess, caring for the infant,
+
+Patrick.
+
+INT.  THEATER LOBBY - NIGHT
+
+Roderick arriving with a party of friends, escorting a
+
+beautiful woman.
+
+INT.  COSGROVE HOUSE - LONDON - DAY
+
+Countess crying and having an argument with Roderick.
+
+Live dialogue under voice over.
+
+INT.  COSGROVE HOUSE - DRAWING ROOM - LONDON - NIGHT
+
+A drunken Roderick rudely demands his lady to entertain
+
+their guests.  She rushes from the room in tears.
+
+Dialogue starts scene, goes under for voice over, then
+
+ends scene.
+
+EXT.  PARK - DAY
+
+Roderick strolling arm-in-arm with his Countess.
+
+INT.  COSGROVE STUDY - DAY
+
+Roderick and accountant.  Her ladyship is signing various
+
+documents, and orders for payment.
+
+INT.  COSGROVE HOUSE - DAY
+
+Roderick and the Countess fighting about her refusal to
+
+sign some papers.  Live dialogue under voice over.
+
+Roderick picks up baby Patrick.
+
+The Countess rushes to the window to see the child being
+
+put into a carriage.
+
+INT.  COSGROVE HOUSE - DAY
+
+Another quarrel.
+
+INT.  COSGROVE HOUSE - DAY
+
+Roderick throws a knife at young Brookside.  The knife
+
+digs into an expensive antique chest, just missing the
+
+young Brookside's head.
+
+INT.  COSGROVE HOUSE - DAY
+
+The Countess discovers Roderick making love to the child's
+
+nurse.
+
+She screams and shouts something about suicide.
+
+Her son, Brookside, comes running in and consoles her.
+
+INT.  COSGROVE HOUSE - LONDON - RODERICK'S STUDY - DAY
+
+Roderick, bored and distracted, sits before a stack of
+
+bills and papers, with his accountant.
+
+EXT.  CASTLE HACKTON - GARDENS - DAY
+
+Various cuts.
+
+Birthday fete for Patrick who is now five years old.
+
+Gaily colored tents, ponies, a puppet show, expensive
+
+presents.
+
+Brookside and Roderick.
+
+INT.  CASTLE HACKTON - LIBRARY - DAY
+
+Brookside sitting alone reading a book.
+
+INT.  CASTLE HACKTON - DAY
+
+Brookside and the Countess.
+
+Brookside quoting "Hamlet."
+
+The Countess begins to cry and leaves the room.
+
+INT.  CASTLE HACKTON - RODERICK'S STUDY
+
+Roderick caning young Brookside.
+
+INT.  CASTLE HACKTON - DINING ROOM - NIGHT
+
+Many guests around the table.
+
+Brookside begins to fondle and caress Patrick.
+
+INT.  RODERICK'S STUDY - NIGHT
+
+Roderick caning Brookside again.  The boy bears the
+
+punishment without crying.
+
+EXT.  CASTLE HACKTON - DAY
+
+Roderick's reunion with his mother.
+
+Present are the Countess, Patrick, Lord Brookside and
+
+others.
+
+Mrs. James flings herself into her son's arms with a
+
+scream, and with transports of joy, which can only be
+
+comprehended by women who have held, in their arms, an
+
+only child, after a twelve-year absence from him.
+
+INT.  CASTLE HACKTON - DAY
+
+Roderick and mother feeding Patrick.
+
+EXT.  CASTLE HACKTON - GARDEN - DAY
+
+Roderick and mother playing with Patrick in the garden.
+
+INT.  CASTLE HACKTON - DINING ROOM - NIGHT
+
+Mother at dinner with the family, in a strained
+
+atmosphere.
+
+INT.  PATRICK'S BEDROOM - NIGHT
+
+Roderick and his mother talk in whispers near the bed of
+
+the sleeping Patrick.
+
+INT.  RODERICK'S STUDY - CASTLE HACKTON - NIGHT
+
+Roderick and his mother.
+
+INT.  MOTHER'S ROOM - CASTLE HACKTON - NIGHT
+
+Roderick and his mother.
+
+She smooths down Roderick's hair.
+
+EXT.  CASTLE HACKTON - GARDEN - DAY
+
+Roderick and Mother slowly walking and talking.  Young
+
+Patrick, ahead of them sitting in a small cart, pulled by
+
+a lamb.
+
+INT.  LONDON GAMING ROOM - NIGHT
+
+Standing away from the play tables, Roderick chats with
+
+Lord West, a fat giant of a man.
+
+INT.  LONDON CLUB - DAY
+
+Roderick having lunch with Lord West and the Earl of
+
+Crabs.
+
+INT.  DRAWING ROOM - EARL OF CRABS - DAY
+
+Roderick being introduced to three noblemen, including the
+
+Duke of Rutland.
+
+INT.  DRAWING ROOM - NIGHT
+
+Roderick gives a beautiful diamond to a fat princess on
+
+her birthday.  He is applauded by the other guests.
+
+EXT.  FARMLAND - DAY
+
+Roderick and the seller, riding over a prospective
+
+property.  A broker shows them a survey map of the
+
+property.
+
+INT.  SALON - LONDON - NIGHT
+
+A musical evening.
+
+INT.  STATELY HOME - DAY
+
+Roderick buying pictures.
+
+EXT.  RACES - DAY
+
+Roderick laughing and paying a bet.
+
+EXT.  FIELD - DAY
+
+Reviewing the company of troops.
+
+Roderick, the Earl of Crabs, the Countess, Patrick and
+
+Brookside, several princes and noblemen and the Duke of
+
+Rutland.
+
+INT.  ST. JAMES - RECEPTION ROOM - DAY
+
+George III meeting people and stopping to talk to
+
+Roderick.  Present also is the Duke of Rutland.
+
+INT.  COFFEE HOUSE - NIGHT
+
+Roderick clumsily tries to engage in conversation with the
+
+famed Dr. Johnson, on the subject of a book or play, of
+
+the day, and is rebuffed for his trouble.
+
+Laughter, Roderick bristles.
+
+INT.  LONDON CLUB - NIGHT
+
+INT.  CASTLE HACKTON - RODERICK'S STUDY - DAY
+
+Roderick is seated at a large table, stacked high with
+
+bills and letters; his accountant is seated next to him,
+
+aided by a bookkeeper.  Roderick looks at each bill and
+
+his accountant explains the charge.
+
+INT.  CASTLE HACKTON - LONG GALLERY - DAY
+
+Roderick, walking with big strides, leads Brookside by his
+
+ear.  Little Patrick runs alongside, pleading for his
+
+brother.
+
+Roderick ignores him.
+
+He drags Brookside into his study, slamming the door
+
+behind him.
+
+INT.  LIBRARY - DAY
+
+Roderick alone.  Brookside enters with a pistol.
+
+Roderick stares hard at him, then he laughs and sits down.
+
+INT.  CASTLE HACKTON - BROOKSIDE'S ROOM - DAY
+
+Brookside smashing a chair over the head of his governor,
+
+Reverend Hunt.
+
+EXT.  CASTLE HACKTON - GARDEN - DAY
+
+Brookside and Patrick.
+
+INT.  CASTLE HACKTON - BALLROOM - NIGHT
+
+There is a great crowding and tittering as the child comes
+
+in, led by his half-brother, who walks into the dancing-
+
+room in his stockinged feet, leading little Patrick by the
+
+hand, paddling about in the great shoes of the older.
+
+Upon which, the company begins to look at each other and
+
+to titter, and his mother comes up to Lord Brookside with
+
+great dignity, seizes the child to her breast, and says:
+
+Brookside is stunned by his mother's words.
+
+Bursting into tears, Lady Cosgrove leaves the room.
+
+Roderick loses control, and rushes at Brookside, knocking
+
+down Lords, Dukes and Generals, left and right, who try to
+
+interfere.
+
+The company is scandalizes by the entire incident.
+
+INT.  LONDON CLUB - NIGHT
+
+Action as per voice over.  Roderick is shunned.
+
+INT.  ST. JAMES - DAY
+
+The King stares at Roderick, turns on his heel and quickly
+
+leaves the presence-chamber.
+
+Roderick is approached by the Duke of Rutland, who takes
+
+him aside into an alcove.
+
+Roderick begins to sputter.
+
+INT.  LORD WEST'S OFFICE - DAY
+
+Roderick and Lord West.
+
+There is a sleepy coolness in the fat Lord West.  He hears
+
+Roderick with half-shut eyes.  When he finishes his
+
+violent speech, which he has made striding about the room,
+
+Lord West opens one eye, smiles, and says:
+
+So saying, Lord West raises his hand lazily to the bell,
+
+and bows Roderick out.
+
+INT.  CASTLE HACKTON - RODERICK'S STUDY - DAY
+
+Roderick and his accountant going over the bills which he
+
+has heaped on the table.
+
+EXT.  CASTLE HACKTON - GROUNDS - DAY
+
+Roderick walking alone.
+
+INT.  LONDON GAMING CLUB - NIGHT
+
+Roderick at the gaming table.
+
+Roderick loses a large amount of money.
+
+INT.  LONDON OFFICE - INSURANCE BROKER - DAY
+
+Roderick and the broker.
+
+EXT.  STUD FARM - DAY
+
+Roderick buying a horse.
+
+Roderick admires the horse.
+
+EXT.  ROAD - DAY
+
+The horse kicks off one of the horse-boys who tries to
+
+ride him.
+
+EXT.  ROAD - DAY
+
+Roderick riding the horse.  The horse-boy lies in the back
+
+of a wagon.
+
+EXT.  ROAD - NEAR CASTLE HACKTON - DAY
+
+Roderick dismounts and gives the horse to one of the
+
+horse-boys.
+
+EXT.  CASTLE HACKTON - DAY
+
+Patrick rushes out to greet his father.
+
+Roderick picks him up in his arms, and kisses him.
+
+He walks up the steps holding Patrick, who hugs and kisses
+
+him.
+
+INT.  CASTLE HACKTON - DINING ROOM - NIGHT
+
+Roderick is drunk.  Patrick is brought in by his governor,
+
+Hunt, to say good night.  His kisses his mother first,
+
+then approaches Roderick.
+
+He hugs his father.
+
+INT.  RODERICK'S BEDROOM - DAY
+
+Roderick is awakened by his valet and Hunt, the governor.
+
+EXT.  CASTLE HACKTON - STABLES - DAY
+
+Roderick, in a rage, taking a great horse-whip, gallops
+
+off after the child.
+
+EXT.  ROAD - CASTLE HACKTON - DAY
+
+Roderick comes upon a sad procession of farmers, moaning
+
+and howling, the black horse led by the hand, and, on a
+
+door that some of them carry, little Patrick.  He lies in
+
+his little boots and spurs, and his little coat of scarlet
+
+and gold.  His face is quite white, and he smiles as he
+
+holds a hand out to Roderick and says painfully:
+
+Roderick bursts out into tears in reply.
+
+INT.  PATRICK'S BEDROOM - NIGHT
+
+Some doctors around the bed, Roderick and the Countess
+
+anxiously waiting upon them.
+
+INT.  PATRICK'S BEDROOM - DAY
+
+Roderick, Countess and Patrick.
+
+Patrick takes a hand of his mother and of Roderick, in
+
+each of his little clammy ones.
+
+His mother is much affected by these admonitions, and
+
+Roderick is too.
+
+Patrick gives Roderick a ring from his finger, and a
+
+locket to his mother.
+
+He says that these gifts are so that they will not forget
+
+him.
+
+EXT.  CHURCH - GRAVEYARD - DAY
+
+Funeral.
+
+EXT.  CASTLE HACKTON - STABLE - DAY
+
+Roderick enters the stable and, after a few seconds, we
+
+hear a pistol shot.  He exits rapidly, the smoking pistol
+
+still in his hand.
+
+INT.  CASTLE HACKTON - VARIOUS - DAY AND NIGHT
+
+The Countess:  Praying.  Waking up screaming.  Fits of
+
+crying.  Severely depressed.
+
+Countess sees visions.
+
+INT.  RODERICK'S STUDY - DAY
+
+Roderick and his accountant.  Bills, bills, bills.
+
+EXT.  CASTLE HACKTON - DAY
+
+Mother arrives.  Roderick greets her.  Servants unload her
+
+bags.
+
+INT.  CASTLE HACKTON - DAY
+
+Mother supervising kitchen staff.
+
+EXT.  CASTLE HACKTON - GARDEN - DAY
+
+Roderick and his mother.
+
+INT.  CASTLE HACKTON - DRAWING ROOM - NIGHT
+
+Action as per voice over.
+
+INT.  CASTLE HACKTON - RODERICK'S BEDROOM - NIGHT
+
+Actions as per voice over.
+
+INT.  CASTLE HACKTON - RODERICK'S BEDROOM - DAY
+
+Action as per voice over.
+
+INT.  RODERICK'S STUDY - NIGHT
+
+Roderick and his mother holding a letter before a fire,
+
+which slowly brings out the writing in lemon juice between
+
+the widely-spaced lines of directions to her milliner.
+
+INT.  CASTLE HACKTON - DINING ROOM - NIGHT
+
+Roderick, and the Countess and mother, at a silent dinner.
+
+INT.  CASTLE HACKTON - VARIOUS - DAY AND NIGHT
+
+A few cuts showing Mother keeping an eye on the Countess.
+
+EXT.  CASTLE HACKTON - GARDENS - DAY
+
+Roderick walking with the Countess.
+
+Roderick kisses her.
+
+INT.  CASTLE HACKTON - NIGHT
+
+Roderick and his mother.
+
+EXT.  CASTLE HACKTON - DAY
+
+Arrival of Mr. Newcombe, the money-broker.
+
+INT.  RODERICK'S STUDY - DAY
+
+Roderick and the money-broker, Mr. Newcombe.
+
+INT.  CASTLE HACKTON - DAY
+
+Roderick and his mother.
+
+INT.  CASTLE HACKTON - COUNTESS' BEDROOM
+
+Roderick and the Countess.
+
+She takes his hand and kisses it.
+
+INT.  CASTLE HACKTON - DAY
+
+Mother and Roderick.
+
+EXT.  COUNTRY ROAD - DAY
+
+Roderick's carriage moving along.
+
+INT.  COACH - DAY
+
+The Countess lays her head on Roderick's shoulder and
+
+smiles.
+
+EXT.  INN - DUSK
+
+The carriage stops and they disembark.
+
+INT.  INN - NIGHT
+
+Roderick and his wife at dinner.
+
+INT.  BEDROOM - NIGHT
+
+Roderick and his wife making love.
+
+EXT.  GRAY'S INN OFFICE - DAY
+
+The coach drives up.
+
+INT.  STAIRCASE - DAY
+
+Roderick and the Countess looking for the office.
+
+They climb up dirty backstairs, lit by a feeble lamp, and
+
+the dim sky of a dismal London afternoon.
+
+The Countess seems agitated and faint.
+
+When they get to the door, she stops in front of it.
+
+The Countess has put herself before the door in a
+
+theatrical attitude and takes Roderick's hand.
+
+He pushes her away to one side.
+
+She jumps at the bell, which is quickly answered by a
+
+moldy-looking gentleman in an unpowered wig.
+
+She stalks down the passage, muttering:  "Old Fool."
+
+INT.  MR. TAPEWELL'S OFFICE - DAY
+
+Tapewell is in his musty room, surrounded by his
+
+parchments and tin boxes.
+
+He advances and bows, begs her ladyship to be seated, and
+
+points towards a chair for Roderick, which he takes,
+
+rather wondering at the lawyer's insolence.
+
+The lawyer retreats to a side-door, saying he will be back
+
+in a moment.
+
+In the next moment, he reenters, bringing with him another
+
+layer, six constables in red waist-coats, with bludgeons
+
+and pistols, and Lord Brookside.
+
+Lady Cosgrove flings herself into the arms of her son,
+
+crying and whimpering and calling him her savior, her
+
+preserver, her gallant knight.
+
+Then, turning to Roderick, she pours out a flood of
+
+invective which quite astonishes him.
+
+Tapewell bounds back behind the constables, seeing a
+
+threatening look in Roderick's eye.
+
+The Countess continues in a strain of incoherent fury,
+
+screaming against Roderick, and against his mother, and
+
+always beginning and ending the sentence with the word
+
+"fool."
+
+He draws his sword, placing his back to the door.
+
+The Countess and the bailiffs move away.
+
+As Brookside says this, he backs into the next room.
+
+The lawyer follows him, leaving Roderick alone in the
+
+company of the constables who are all armed to the teeth.
+
+Roderick puts his sword down on the lawyer's desk.
+
+Roderick sits down and folds his arms quite peaceably.
+
+EXT.  COFFEE HOUSE - NEAR GRAY'S INN - DAY
+
+INT.  RODERICK'S ROOM IN COFFEE HOUSE - DAY
+
+Tapewell talking to Roderick.
+
+There is a knock at the door and Roderick opens it.
+
+Brookside enters with four constables armed with pistols.
+
+The dialogue for this scene has to be written.
+
+Brookside has gone against the bargain, and has decided to
+
+have Roderick arrested upon one of the many writs out
+
+against him for debt.
+
+Mr. Tapewell is surprised and complains weakly that
+
+Brookside is acting in bad faith.
+
+Brookside brushes aside his objections.
+
+Roderick is defeated, and meekly sits down in a chair.
+
+The following lines are read over Roderick being shackled
+
+and led out of the room.
+
+EXT.  FLEET PRISON - DAY
+
+His mother, now very old and hobbled with arthritis,
+
+enters the prison, carrying a basket on her arm.
+
+INT.  CASTLE HACKTON - COUNTESS' STUDY
+
+Signing a payment draft, the Countess sighs and gazes out
+
+of the large window.
+
+INT.  CASTLE HACKTON - STUDY - DAY
+
+Brookside tearing up the payment draft presented to him by
+
+his accountant.
+
+INT.  FLEET PRISON - DAY
+
+Roderick, now grey-haired, blacking boots.
+
+INT.  FLEET PRISON - DAY
+
+Roderick and his mother.  Action as per voice over.
+
+TITLE CARD
+

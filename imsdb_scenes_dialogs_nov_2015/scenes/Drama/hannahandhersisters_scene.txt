@@ -1,0 +1,3820 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Hannah and Her Sisters
+
+As the last credit appears, the song ends in a crescendo and
+
+the screen fades to total black.
+
+Immediately, a new melody begins, an uptempo jazz number, as
+
+a title appears on the screen.
+
+INT. HANNAH'S APARTMENT - NIGHT
+
+A full face of Lee, wearing a gray sweater and leaning
+
+against the dining room doorway.  She gazes into the camera
+
+with a half-smile on her face as Elliot speaks over the
+
+screen.
+
+Lee glances over her shoulder, then turns from the doorway
+
+and walks away.  The camera follows her, moving across a
+
+book-and-photograph-filled bookshelf that obscures her from
+
+view as she walks into a crowded, comfortable vestibule.
+
+People, some holding drinks, some just entering the
+
+apartment, surround her.  Everyone is talking at once,
+
+carrying on easy, familiar conversation.
+
+Lee smiles at the various people, exchanging greetings.
+
+Two more guests enter the apartment; the vestibule is full
+
+now.  Still walking, Lee lightly hugs one of the children as
+
+she continues on her way towards the living room.  Elliot's
+
+voice, as well as the jazzy music, is heard.
+
+Lee walks into the living room, turning her head back for a
+
+moment to talk to the child she has just hugged.
+
+The camera is still moving with Lee as she smiles and stops
+
+to chat with her mother.  Elliot's voice, as well as the
+
+music, continues over the low din of warm conversation.
+
+Lee starts to walk off again, finishing her conversation
+
+with her mother.  She passes several other guests, then
+
+turns to greet April, giving her a warm, brief hug.
+
+Elliot's voice-over continues as he is actually seen,
+
+standing in a doorway having a conversation with a gesturing,
+
+rotund man.  Both are holding drinks as Lee, carrying a tray
+
+of hors d'oeuvres and two drinks, walks between them.  The
+
+space is very tight; the men hold up their drinks to make
+
+room for her.
+
+Elliot watches Lee walk off; the other man, oblivious,
+
+continues to talk.  Elliot reluctantly returns to the
+
+conversation, but he can't help turning his head to gaze at
+
+the offscreen Lee as the other man chatters on.
+
+The camera resumes following a smiling Lee.  She has just
+
+put down the tray and drinks near April, and briskly and
+
+obliviously, she walks past a doorway where Elliot, still
+
+ruminating, watches her, entranced.
+
+The camera stays with Elliot, who is still watching the
+
+offscreen Lee.  In the background, guests continue to
+
+chatter warmly with each other.
+
+Hannah, carrying a tray of hors d'oeuvres, walks up behind
+
+the distracted Elliot.
+
+Elliot returns from his reveries with a start.
+
+Elliot, taking one of the hors d'oeuvres, starts nibbling as
+
+well as he and Hannah walk past the bookshelf into the
+
+living room.
+
+Elliot and Hannah, eating and talking, walk past a hallway
+
+and offscreen as Holly appears, walking down the hallway.
+
+She holds a drink and a plate of hors d'oeuvres; she stands
+
+at the entrance to the hallway, eating and looking at the
+
+offscreen guests.
+
+Holly, standing in the hallway onscreen, swallows loudly.
+
+Holly takes a sip of her drink as Hannah and Elliot walk
+
+over to her.
+
+Holly and Hannah begin to laugh.
+
+Holly and Hannah walk off; Elliot watches them leave.
+
+INT. HANNAH'S KITCHEN - NIGHT
+
+Hannah, licking her fingers, walks past a memo-cluttered
+
+refrigerator to the stove as Holly, behind her, begins to
+
+speak.  The faint sounds of music are still heard.
+
+As Holly talks, sipping her drink, Hannah busily works in
+
+the kitchen, which contains a large center table stacked
+
+with bowls and plates of food, hanging pots and pans, and
+
+general party clutter.  She walks on-and-offscreen as she
+
+talks and listens to her sister.
+
+Hannah, who'd been mashing some food in a bowl on a nearby
+
+counter, hesitates momentarily.  She turns to Holly.
+
+Hannah, licking her fingers, walks past Holly.
+
+A timer goes off.  Hannah walks past Holly to attend to some
+
+food on a different stove.  Holly turns to face her.  Only
+
+Holly is seen as she talks to the offscreen Hannah, the
+
+camera moving in closer on her face.  As Holly speaks, she
+
+distractedly nibbles an hors d'oeuvre.  In the background,
+
+her parents can be heard singing in the living room.
+
+Holly pops another hors d'oeuvre into her mouth as the
+
+background singing gets louder and the film cuts to:
+
+INT. HANNAH'S LIVING ROOM - NIGHT
+
+The living room is crowded with family and guests sitting
+
+comfortably on chairs near the piano, where Evan, Hannah's
+
+father, plays "Bewitched" as Hannah's mother, Norma, sits
+
+nearby, accompanying him in their duet.  A child is sprawled
+
+out under a blanket on a sofa; some guests chatter quietly;
+
+others drink and eat, listening.
+
+As they continue to sing, the film cuts back to the kitchen,
+
+where Lee, carrying some glasses, enters through the doorway.
+
+Lee walks over to her sisters, putting the glasses down on a
+
+counter.  Hannah is scooping seeds out of a cantaloupe.
+
+Holly, leaning on the table, sips her drink.  The music from
+
+the living room is softly heard as the three sisters chat
+
+comfortably and easily with each other.
+
+The sisters all talk at once; Hannah is still working at the
+
+sink.
+
+Lee leaves the kitchen.  Holly, puffing on her cigarette,
+
+watches her go.
+
+Hannah shakes her head in disapproval while Holly angrily
+
+takes another sip of her drink.
+
+And the film cuts briefly back to the living room, where
+
+Evan is still playing the piano and singing.  The camera
+
+moves past him and a few guests to Norma, who is
+
+enthusiastically singing along, looking at Evan and moving
+
+her hands.
+
+INT. HANNAH'S DINING ROOM - NIGHT
+
+The table is beautifully set for Thanksgiving dinner,
+
+complete with candles, flowers, cut crystal, china, and
+
+silver.  Hannah's children are playing in the room as Hannah
+
+enters, carrying a huge roast turkey.  Behind her is Holly,
+
+carrying a casserole.  Hannah's parents can still be heard
+
+singing in the background.
+
+As the sisters talk, the piano music stops.  There's the
+
+sound of light applause as Evan begins a new song, faintly
+
+heard in the dining room.
+
+The film cuts to April, standing in the doorway of the
+
+dining room and holding a drink.
+
+The camera moves with April as she walks over to the table,
+
+where Hannah and Holly are lighting candles.
+
+Holly groans, looking at her sister, while April sips her
+
+drink and nods.
+
+Hannah screams with laughter as she walks toward the end of
+
+the table, past a gleeful Holly, who points her finger at
+
+Hannah as she passes.  Hannah, still laughing, playfully
+
+pushes the accusing finger away.
+
+She walks over to a nearby china cabinet.
+
+As Holly continues to tease her sister, Hannah opens a
+
+drawer in the cabinet.  She takes out two apples decorated
+
+with paper turkey heads and tails and hands them to April.
+
+April starts to put the turkey apples on the table.  A
+
+bemused Hannah takes two more out of the cabinet and places
+
+one of them on the table as well.
+
+While Holly is talking, Hannah hands her the last turkey
+
+apple, accidentally sticking her with one of the toothpicks
+
+that keeps the decorations in place.
+
+The film cuts to a short hallway leading to a bathroom in
+
+Hannah's apartment.  In the foreground is a standing lamp.
+
+In the background, Elliot is seen walking inside the
+
+bathroom, looking around the room.  Light piano music is
+
+dimly heard.
+
+He walks out of the bathroom, moving down the hallway
+
+towards the camera.
+
+Elliot walks into the bedroom as Lee continues to talk
+
+offscreen.  The camera, leaving Elliot, moves across the
+
+room, past a wall of framed paintings, a headboard and bed,
+
+a night table and lamp, revealing Lee. She is flipping
+
+through a book by a curtained window.
+
+The camera stays with Lee as she walks around the room, past
+
+another curtained window, a television set, and a rolltop
+
+desk.  She absently flips through the book as she talks to
+
+the offscreen Elliot.
+
+Lee puts the book she's been holding down on the desk, only
+
+to pick up another one.  She looks at the offscreen Elliot.
+
+She reacts.  The camera moves to a blushing Elliot, following
+
+him now as he walks across the room.
+
+As Lee speaks, Elliot parts a hanging curtain against the
+
+wall to reveal a stereo and some records.  He looks at the
+
+offscreen Lee.
+
+As Elliot reaches inside the stereo shelf, grabbing a bottle
+
+of antihistamines, the camera moves back to Lee, who sits
+
+down on the bed.  She is still holding a book.
+
+Elliot walks over to Lee; he sits down on a footstool in
+
+front of her.
+
+She chuckles; Elliot smiles and chuckles with her.
+
+Elliot turns in the direction of his wife's voice.
+
+Hannah, eating a carrot stick, enters the bedroom.  The
+
+camera stays with her momentarily as she walks towards
+
+Elliot and Lee.
+
+INT. DINING ROOM - NIGHT
+
+Everyone is seated around the table for Thanksgiving dinner.
+
+Facing the camera are Holly, Lee, Norma, and Hannah.  She
+
+sits to the left of Elliot, who's at the head of the table.
+
+On his right is Evan; April sits next to him.  She and the
+
+other guests sit with their backs to the screen.  The table
+
+overflows with food, floral decorations, and candles.  In
+
+the background, the children sit at a separate table; a maid
+
+serves them turkey.  The guests chatter comfortably among
+
+themselves as they eat.
+
+Evan continues to clank his glass to get everyone's attention.
+
+Resigned, Holly puts down her silverware.  Lee smothers a
+
+laugh.  Norma, reacting, glances at Holly and Lee.  Everyone
+
+knows what's coming.
+
+Holly laughs.  Lee glances over to her, reacting.  Hannah,
+
+embarrassed, reacts and sits with her hands on her face.
+
+Lee and the rest of the guests put down their silverware.
+
+They look at Evan, listening.
+
+Hannah, embarrassed, makes a victory sign.
+
+Lee and Holly try to suppress their laughter.  Norma glares
+
+at them.
+
+Elliot wraps his arm around Hannah; he pulls her towards him
+
+affectionately and kisses her on the cheek.  She hugs him
+
+back.
+
+Mavis the maid exits, carrying some trays, as the group
+
+starts to cheer and applaud.  Holly waves her napkin at
+
+April, then holds up her wine glass.
+
+The group continues to cheer as they all toast Hannah.  She
+
+reacts, smiling but embarrassed.
+
+The guests, sipping their wine, quiet down as Norma continues
+
+to speak.  Lee and Holly unsuccessfully try to contain their
+
+laughter.  Mavis reenters the dining room to serve more food
+
+to the children.
+
+Norma toasts her daughter; everyone follows her.  The
+
+applause and cheers begin anew.  Hannah, reacting, chuckles.
+
+A few guests sip their wine.  They all quiet down as Hannah
+
+starts her speech, glancing around the table and gesturing.
+
+Hannah tenderly takes Elliot's hand as she looks around the
+
+table.  He, in turn, kneads her shoulder, chuckling with
+
+equal tenderness.
+
+Hannah, still embarrassed, looks down at a plate.  The group
+
+applauds once more, toasting and drinking, and warmly
+
+sounding their approval.
+
+Classical string music plays as the film cuts to:
+
+EXT. MANHATTAN STREET - NIGHT
+
+A taxi moves down Broadway towards the camera, passing a
+
+truck on the right, the Winter Garden marquee advertising
+
+Cats, and several buildings, and as the taxi moves offscreen,
+
+the classical music still playing, the movie cuts to the
+
+taxi's backseat.  Lee sits by the window, leaning her head
+
+in her hand, a reflective look on her face.  Her voice is
+
+heard over the screen.
+
+INT. FREDERICK'S LOFT - NIGHT
+
+Lee stirs a cup of coffee on the counter of the loft's
+
+modern kitchen area; a nearby vase hold flowers.  She walks
+
+across the loft, with its high ceilings and beige walls,
+
+holding her coffee.
+
+Lee continues to walk, past a modern chaise, a bookcase,
+
+some sofas, two columns.  Lamps hang down from the ceiling.
+
+The classical music still plays in the background.  Lee
+
+stops at a plastic-enclosed work area.  Frederick can be
+
+seen working at a drawing board on the other side of the
+
+clear plastic screen.
+
+The background music stops.
+
+As Lee walks over to the drawing board where Frederick is
+
+sitting, he is seen intently cleaning some paintbrushes with
+
+a rag.  Lee stands by him, leaning over the board, and looks
+
+directly at him.  The table is filled with cans of brushes
+
+and artist's equipment.
+
+Frederick and Lee embrace; Lee sighs.
+
+Lee kisses Frederick twice, then releases him and walks out
+
+of the work area.
+
+Lee walks over to the loft's stereo area, pulling up the
+
+sleeves of her sweater as Frederick talks.
+
+Lee picks up a book from the stereo shelf.  She leans back
+
+against the unit, glancing through its pages.
+
+Frederick, leaving his work area, walks past Lee; his hands
+
+are in his pockets.
+
+The camera stays with Frederick as he walks into the loft's
+
+bedroom area.
+
+He sits down at the foot of the bed and starts taking off
+
+his shoes.
+
+Lee sits down next to Frederick; he takes her hand.
+
+Lee kisses Frederick back on the cheek.  They embrace.
+
+Frederick laughs; their embrace gets tighter.
+
+Upbeat jazz plays in the background and continues as the
+
+film cuts to:
+
+INT. TV STUDIO CORRIDOR - NIGHT
+
+Metal elevator doors open and Mickey Sachs, a high-powered
+
+television producer, walks out, deep in conversation with
+
+his assistants, Paul and Larry.  As the elevator operator
+
+begins to reclose the door with his passengers, Mickey, his
+
+assistants fast behind, walks down an office corridor past
+
+busy groups of studio personnel.  Indistinct conversation,
+
+as well as the jazz, is heard in the background as the trio
+
+talk.
+
+The trio pass Mary, another assistant, in conversation with
+
+two other co-workers.  She holds a clipboard.
+
+Without missing a beat, he takes Mary's wrist and continues
+
+walking.
+
+A foursome now, they briskly walk past a man and a woman
+
+going over a script.  Mary and Mickey lead; Paul and Larry
+
+follow.
+
+As the group walks through a large doorway, Larry catches up
+
+to Mickey.
+
+The group turns right into a new corridor, briefly off the
+
+screen.  As they scurry off, their voices are heard.
+
+They are all now seen walking down the new corridor towards
+
+the camera.  The corridor is crowded with busy TV personnel.
+
+The group continues to talk frantically as people hurry past
+
+them.  One man pushes rudely past Mary as he walks; she
+
+looks back at him briefly.
+
+Mary checks her wristwatch as they rush down the corridor.
+
+As the group briskly walks past an open door, Gail, another
+
+assistant, runs out, brandishing her glasses.
+
+Gail runs in front of the group.  Without missing a step,
+
+she faces Mickey and walks backwards, gesturing and talking
+
+frantically.
+
+The fast-tracking group turns the corner.  Gail pats Mickey's
+
+back; she gestures in exasperation.
+
+He is interrupted by Ed Smythe, an official from the
+
+Standards and Practices Department, who's been standing in
+
+the corridor waiting for Mickey.  Mickey stops and shakes
+
+Ed's hand as if he'd known the official would be there.
+
+Gail stops by his side while the others walk into a
+
+background studio doorway that is busy with scurrying
+
+personnel.
+
+A writer, holding a script, walks out of the background
+
+studio, looking around.
+
+Mickey, Gail, and Ed turn towards the writer.
+
+Mickey and Gail walk over to the angry writer, Ed forgotten
+
+with this new crisis.
+
+Mickey, Gail, and the writer start walking down a corridor
+
+adjacent to the studio.
+
+The writer reacts angrily.  Gail tries to get Mickey's
+
+attention as they walk.
+
+Mickey, still in surprised shock, turns away from the angry
+
+writer.  He stands by an open dressing room, where Ron, an
+
+actor, slouches, dazed, in a chair facing a makeup mirror.
+
+People mill in the background behind the actor.
+
+Mickey, remembering Ron, runs into the dressing room.  Gail
+
+follows him.  Inside, a man and a woman talk, ignoring Ron.
+
+They share a drink in a paper cup.  The woman looks back at
+
+Ron; she gestures with disgust.
+
+Ron coughs.
+
+Gail walks around the chair.  The camera shows she and
+
+Mickey talking to Ron through the reflection in the cluttered
+
+makeup mirror.
+
+Ron sighs.
+
+Mickey, as reflected in the mirror, starts to pace as the
+
+movie cuts to:
+
+EXT. BEVERLY HILLS BOULEVARD - DAY
+
+Norman, a Los Angeles TV producer and Mickey's former
+
+partner, is driving down a peaceful street lined with palm
+
+trees.  He's wearing sunglasses and headphones.  He clicks
+
+his fingers in time to the music only he hears on his
+
+Walkman.  He's smiling contentedly while Mickey talks over
+
+the sun-filled scene.  The continuous background jazz plays
+
+louder.
+
+INT. HANNAH'S APARTMENT FOYER - DAY
+
+As Mickey finishes his ruminations, Hannah is seen walking
+
+towards her front door.  She opens it, her back to the
+
+camera.  Mickey stands there holding two boxed gifts.  The
+
+jazz stops.
+
+Hannah nods as Mickey comes inside.  She closes the door
+
+behind him.
+
+Hannah continues to nod patiently, patting Mickey on the
+
+back, as they make their way across the foyer into the den,
+
+where the twins are playing.  Mickey wears his coat.
+
+Her voice trails off as Mickey walks over to the twins.
+
+Hannah's twins greet Mickey with cries of "Hi, Daddy!" and
+
+indistinct chatter.
+
+Mickey hands a gift to each twin.  They grow quiet, suddenly
+
+shy.
+
+The twins put down their gifts, one on the sofa, one on the
+
+coffee table, and hug their father.
+
+Hannah makes room on the coffee table for the gift she is
+
+holding; she places it next to the other one.  The boys
+
+start opening them.
+
+She helps Twin #2 open his present.  It's a football.
+
+Twin #2, panting, runs offscreen to catch the football.
+
+Mickey throws the football.
+
+There's a sound of breaking glass.  Hannah and Mickey react.
+
+EXT. NEW YORK CITY STREET - DAY
+
+Mickey is walking up a West Side street, his hands in his
+
+coat pockets.  Jazz plays in the background as he talks over
+
+the screen.
+
+Mickey pushes open the outside door of Dr. Abel's office, as
+
+the movie cuts to the doctor's consultation room.  The
+
+doctor is framed in the doorway, looking through a file
+
+cabinet.
+
+While Mickey answers him offscreen, Dr. Abel turns and walks
+
+toward him.  The camera follows the doctor's movements from
+
+the other side of the wall, obscuring him briefly.
+
+It moves across a dark examining-room wall to a second
+
+doorway, where Mickey sits on a stool, continuing to talk to
+
+the offscreen Dr. Abel.
+
+Dr. Abel walks back onscreen.  Both he and Mickey are now
+
+seen through the second doorway.  Dr. Abel sniffs and stands
+
+directly in front of the sitting Mickey.  He stares down at
+
+him as Mickey talks.
+
+Dr. Abel chuckles.
+
+An uptempo big-band sound is heard as the movie cuts to
+
+Mickey's examination, beginning with a close-up of Dr. Abel
+
+using an otoscope to examine the ear of a nervous Mickey.
+
+Next is a hearing test.  The film shows the doctors's hands
+
+turning the dials on a sonometer.  Mickey sits on a nearby
+
+high stool, large earphones on his head.  He listens with
+
+such concentration that he squints his eyes.  He holds up a
+
+finger in response to the sounds he hears in his headset.
+
+Finally, the film shows Dr. Abel hitting a large turning
+
+fork with his finger.  He puts the vibrating fork to Mickey's
+
+ear.  Mickey, looking up at the offscreen doctor's face, nods.
+
+The music stops as the film cuts back to Dr. Abel's
+
+consultation room.  Dr. Abel walks from the examining room,
+
+through the consultation room, to a second examining room
+
+across the way.  He talks to the offscreen Mickey as he walks.
+
+Dr. Abel moves offscreen in the second examining room.  The
+
+camera stays focused on the doorway to this room as the
+
+doctor and Mickey talk offscreen.
+
+Dr. Abel briefly passes by the doorway.
+
+Looking preoccupied, Dr. Abel walks back into the
+
+consultation room, holding Mickey's open file.  He strides
+
+over to his desk, revealing a frightened Mickey, sitting in
+
+a chair opposite it.  Still standing, the doctor leans over
+
+the desk, his back to the camera, and makes a few notes in
+
+the file.
+
+Dr. Abel chuckles as he closes Mickey's file and straightens
+
+up.  The camera looks past his back and shoulders to the
+
+anxious Mickey.
+
+Dr. Abel lays his pen across Mickey's closed file.  He walks
+
+around his desk and sits on its edge close to Mickey.
+
+EXT. STREET CORNER - DAY
+
+Mickey stands in a telephone booth on a corner near Dr.
+
+Abel's office; he talks on the phone.  It is raining.  A man
+
+and a woman holding an umbrella pass by; traffic moves
+
+across a nearby intersection.
+
+The film cuts to Dr. Wilkes, on the telephone at his end.
+
+He is in his office; he leans back in his chair, dangling
+
+his stethoscope as he speaks.  Behind him, a chest X-ray is
+
+mounted on a light panel.
+
+The movie cuts back and forth between Mickey in his phone
+
+booth asking questions and Dr. Wilkes in his office answering
+
+them.
+
+INT. MICKEY'S OFFICE - NIGHT
+
+Gail, wearing her glasses, stands behind a crowded but well-
+
+ordered desk.  Two assistants, a man and a woman, stand
+
+around her.
+
+The assistants walk off.  As they leave, Gail calls out
+
+after them.
+
+The telephone starts to ring, Gail pauses, looking offscreen.
+
+She takes off her glasses and squints.
+
+The film cuts to Mickey, who is pacing and wringing his
+
+hands.  He walks over to Gail.  The phone continues to ring.
+
+He starts to pant, looking worriedly around the room.  He
+
+continues to wring his hands as Gail stares at him, concerned.
+
+She sits down and picks up the phone.
+
+Gail hangs up the phone.
+
+He pants and begins to pace around the room.  The camera
+
+follows him as he walks away from Gail.
+
+Mickey sighs.
+
+He sighs again as Gail, frustrated, gestures impatiently to
+
+the papers on the desk.
+
+Mickey begins pacing around the room again.  He wrings his
+
+hands and blows on them.
+
+Sophisticated pop music plays as the film cuts to:
+
+INT. LOFT - DAY
+
+An abstract painting on a wall fills the screen.  Light
+
+laughter is heard, as well as the sophisticated music;
+
+offscreen brunch guests chatter indistinctly.
+
+Holly walks onto the screen in front of the painting.  She
+
+holds an almost empty tray of hors d'oeuvres; she wears a
+
+uniform.
+
+Holly walks past the painting towards the female brunch
+
+guest.  A man walks in front of her.  Chatter, light
+
+laughter, and music are still heard; a party is in progress.
+
+Holly laughs lightly as she walks away from the woman.
+
+Holding her tray, she passes a large oval loft window and
+
+several clusters of brunch guests.  They are eating and
+
+drinking.  No one pays any attention to her.
+
+One of the men, murmuring his thanks, takes a last shrimp
+
+puff as Holly passes.
+
+Holly finally makes her way into the cluttered loft kitchen.
+
+Her tray is empty.
+
+Holly, excited, runs over to April, who is busy taking the
+
+Stroganoff out of the oven.  She wears the same uniform as
+
+Holly: black skirt, white shirt, and black bowtie.
+
+April, holding the Stroganoff, dashes out of the kitchen to
+
+serve the party guests.  Holly calls after her, offscreen,
+
+as David walks past the hurrying April into the kitchen.
+
+David walks over to Holly, who is busy at the pot-and-pan-
+
+covered stove.
+
+As Holly carries the quiche outside to the party, April
+
+comes back into the kitchen from another doorway.  Music, as
+
+well as the chatter of mingling guests, is heard in the
+
+background.
+
+She walks past David to a counter where she begins to fold
+
+napkins.  David leans back against the sink.
+
+Holly enters the kitchen holding out a plate of clams.  She
+
+walks over to David.
+
+They shake hands.
+
+April walks offscreen to another area of the kitchen.  Holly
+
+picks up a napkin from the crowded table.
+
+David walks around the table, putting the plate of clams
+
+down on the already crowded surface.  Holly follows him,
+
+chuckling, throwing her napkin into an offscreen garbage can
+
+as David stops at a small television set near the doorway.
+
+Guests in the other room can be seen chatting together in
+
+clusters.
+
+Canned laughter and miscellaneous chatter is heard from the
+
+television set.  David watches the set, still munching on a
+
+clam, while Holly and April reassure him offscreen.
+
+David checks his wristwatch as Holly walks over to him.
+
+Holly chuckles as David, listening to April, impressed,
+
+walks over to her.  She is standing by the table.
+
+April chuckles as Holly walks back onscreen; she is busy
+
+preparing another tray of hors d'oeuvres.
+
+The three exchange glances.  Holly shrugs.
+
+EXT. MANHATTAN STREET - DAY
+
+A contemporary red building, designed by David, is seen,
+
+squeezed in between two older buildings.  Holly, April, and
+
+David talk offscreen.
+
+The film moves down from the buildings to reveal the trio
+
+sitting in David's Jaguar across the street.  David and
+
+April sit in the front seat; Holly sits scrunched up in
+
+back, her head slightly forward.
+
+David turns and briefly glances at Holly; he then turns back
+
+to April.
+
+David starts the car and the movie cuts to an unfolding
+
+visual excursion through New York City's landmark buildings,
+
+as seen from the trio's point of view in the moving Jaguar.
+
+Inspiring classical music plays in the background.
+
+The series of shots includes the Dakota, complete with
+
+surrounding winter trees, the Graybar building on Lexington
+
+Avenue, an incredibly ornate building on Seventh Avenue and
+
+Fifty-eighth Street, a red-stone church, an old building
+
+with embellished, bulging windows on West Forty-fourth
+
+Street, the Art Deco Chrysler Building, a red-brick building,
+
+Abigail Adams's old stone house, and the Pomander Walk
+
+nestled off Broadway on the Upper West Side.  The group can
+
+be seen walking down the path between the old-fashioned row
+
+houses and shrubbery.  A lamppost sits in the foreground.
+
+It is now dark.  The music continues to play as the film
+
+cuts to the facade of a rococo-style building, complete with
+
+French doors and ornate windows.  The admiring group is
+
+heard offscreen.
+
+The music stops.  The screen, which has been exploring the
+
+rococo building's facade, now shows the equally elegant
+
+building alongside it.
+
+The film moves from the two elegant facade to show an ugly,
+
+ultra-modern structure covered with tiny, diamond-shaped
+
+motifs.
+
+The film moves from the ugly facade to the building's
+
+equally ugly entrance.  A large car is parked right in front
+
+of the building.
+
+The group is now seen walking down the canopied entrance
+
+stairs of an apartment house on the other side of the
+
+street, where they'd been gazing at both the lovely and ugly
+
+facades across the way.  David is in the lead; the women
+
+follow, Holly slightly behind April.
+
+They walk towards the car.
+
+David leans over the roof of the car, looking at the women,
+
+waiting for their decision.
+
+She looks at David.
+
+Both she and April mumble awkwardly.
+
+They get into the car.  Once again Holly's in the backseat.
+
+The classical music begins anew.
+
+The movie cuts briefly to cut to the traffic and lights of a
+
+Manhattan avenue as seen from the moving Jaguar.  It then
+
+moves to a close-up of Holly, sitting in the backseat, her
+
+head near the window.  She is staring straight ahead.
+
+The movie cuts to Holly's point of view: the front seat
+
+where David and April sit, the Jaguar's windshield, and the
+
+passing lights and traffic of the street.  Holly continues
+
+her ruminations as April leans over to say something to David.
+
+The film moves back to Holly in the backseat, still lost in
+
+thought.
+
+The classical music stops and some uptempo jazz begins.  The
+
+screen cuts to black and a title appears.
+
+EXT. STREET OUTSIDE FREDERICK'S LOFT - DAY
+
+The movie briefly holds on a ripped, red, paint-splattered
+
+door as Elliot, wearing a raincoat, appears nearby.  He
+
+looks down the street and the film cuts to his point of
+
+view: Frederick's loft building.
+
+The movie goes back to the impatient Elliot; he's looking
+
+around him.  He glances at his watch as the film cuts back
+
+once again to the loft building, where Lee finally appears,
+
+walking down the street away from Elliot.  A truck passes
+
+down the street.  Lee doesn't see him.  She walks further
+
+and further away; she turns a corner.
+
+Elliot frantically looks around again; then, in a burst of
+
+decision, he runs around a garbage dump, crossing the
+
+street, and still running, he moves down an adjacent street,
+
+past The Canal Lumber Company and several other buildings,
+
+as the film cuts back to Lee, walking down a different
+
+street, oblivious.
+
+The jazz plays on as the movie cuts back and forth between
+
+the fast-moving Elliot, rushing down the SoHo streets, past
+
+a truck waiting for a light to change, past some pedestrians,
+
+some garbage cans, turning corners, and the strolling Lee,
+
+walking up different streets, past different buildings.
+
+Lee eventually crosses a street, lost in thought, looking
+
+right and left, as Elliot, pretending nonchalance, waits on
+
+the corner, looking at his watch.  She looks up in surprise;
+
+the music stops.
+
+They begin to walk down the street.
+
+She shrugs.
+
+They begin to walk again as the movie cuts to the interior
+
+of the Pageant Book & Print Shop, an old, serious bookstore.
+
+A nude print hangs at the end of one of the library shelf-
+
+like bookcases, which are packed, row after row, with books.
+
+An unseen Elliot and Lee carry on a conversation as the
+
+camera moves down an aisle, past the rows of books.  A piano
+
+playing "Bewitched" is heard.  Pictures hang on the aisle
+
+ends of the shelves.
+
+The camera moves past another aisle of books to reveal Lee,
+
+browsing through a shelf.
+
+She walks down a center aisle, the camera still in its
+
+parallel aisle, following her.
+
+Lee stops at the row where Elliot has been browsing.  She is
+
+hidden by a shelf; only Elliot is seen as he talks to the
+
+offscreen Lee.
+
+Elliot starts walking down the center aisle, in the same
+
+direction Lee had walked up.  He continues to talk to her as
+
+she remains offscreen in a nearby row.
+
+Elliot stops walking to browse through some books.
+
+"Bewitched" still plays.
+
+Elliot turns and walks back down the center aisle to a row
+
+of books he'd already passed.
+
+Lee walks over to Elliot in the center aisle.  She looks at
+
+the book.
+
+He hands Lee the book.  She thumbs through it, as the movie
+
+cuts to:
+
+The street outside the bookstore.  Lee, holding the book in
+
+a brown bag, and Elliot are walking out.
+
+A taxi pulls over to the curb; they walk over to it.
+
+Elliot opens the rear door for Lee.  She laughs as she gets
+
+in.
+
+He watches the taxi pull away.
+
+INT. FREDERICK'S LOFT BEDROOM - NIGHT
+
+Lee, in slacks and shirt, is curled up on the bed, her back
+
+to the camera, as she reads the e.e. cummings poem in the
+
+glow of a night-table lamp.  The piano music is still heard.
+
+As Lee continues to read aloud, the movie cuts to Elliot's
+
+darkened den, lit by a light in the hallway.  Elliot enters,
+
+wearing a robe, crossing the room in the dark.
+
+Elliot turns on a light.  The camera stays on his face as he
+
+looks off into the distance, mouthing indistinctly the line
+
+of poetry Lee next reads.
+
+The film leaves Elliot's face and cuts back to the loft,
+
+where Lee, having finished the poem, sits up in the bed,
+
+staring pensively, lost in her thoughts.
+
+Upbeat jazz begins to play and the film cuts to:
+
+The facade of Mount Sinai Hospital.  It is day.  A few cars
+
+whiz by as the film moves inside, to various scenes depicting
+
+Mickey's comprehensive exam.
+
+First is a hearing test, and the movie cuts to a darkened
+
+hearing-test room.  A light goes on, revealing a slouched-
+
+over Mickey sitting in a glass booth.  He is wearing a set
+
+of headphones.  The camera moves back, revealing a technician
+
+at the console on the other side of the booth.  Mickey
+
+signals with his finger when he hears a sound on his headset.
+
+The jazz continues.
+
+Next is an electronystagmography (ENG).  Graph paper rolls
+
+out of a machine, and after a brief glimpse of the rolling
+
+paper, the camera moves over to show Mickey lying terrified,
+
+without his glasses, on a couch, with electrodes stuck all
+
+over his head.
+
+The film then cuts to a BSER test room, where Mickey,
+
+sitting in a corner chair, wears another set of headphones.
+
+An electrode is attached to his forehead; a nearby technician
+
+sits at a computer video screen, looking at a monitoring
+
+graph.
+
+Last but not least is the tomography.  Over the shoulders of
+
+a technician in a booth, a large window displays a huge,
+
+white rotating machine.  It makes a whooshing noise as it
+
+turns.  The camera moves down the giant cranelike device to
+
+reveal Mickey, once again lying down, this time on a table,
+
+his eyes closed, underneath it.
+
+INT. DR. GREY'S OFFICE - DAY
+
+A sitting Dr. Grey, his back to the camera, is examining a
+
+group of X-rays clipped to the light board behind his desk.
+
+The doctor turns his chair around to face a tense Mickey
+
+sitting on the other side of his desk.
+
+Mickey stares at the X-ray, horrified.
+
+EXT. MOUNT SINAI HOSPITAL - DAY
+
+Mickey is seen leaving the hospital.  He strides slowly, his
+
+shoulders slouched, his hands in his pockets.
+
+His voice is heard over the screen as he crosses the street,
+
+continuing his self-absorbed walk on the opposite side.
+
+Occasional traffic goes by.
+
+Mickey brushes against a heavyset man who gives him a nasty
+
+look.  Mickey is so dazed, he doesn't even notice.
+
+INT. MICKEY'S APARTMENT/BEDROOM LOFT - NIGHT
+
+The dark bedroom is abruptly lit as Mickey, lying in his
+
+bed, wakes up with a start and turns on his night-table lamp.
+
+Mickey, still ruminating, stands up.  Fixing his pants, he
+
+walks out of his bedroom loft into a dark upper hallway.
+
+He walks down a spiral staircase into the dark living room.
+
+The film cuts to a flashback of Mickey's past.  Dr. Smith,
+
+sitting behind his desk, faces the camera.  Rows of
+
+periodicals line the wall behind him.
+
+The camera moves to Dr. Smith's point of view: Hannah and
+
+Mickey, sitting on the opposite side of the desk.  They look
+
+stunned.
+
+The camera moves back to the stunned Mickey and Hannah,
+
+following Dr. Smith with their eyes.
+
+Dr. Smith walks back to his high-backed leather chair behind
+
+the desk and sits down.  As he talks, the camera moves
+
+closer and closer to his face.
+
+EXT. GROVE STREET IN GREENWICH VILLAGE - DAY
+
+Mickey and Hannah walk on the sidewalk, oblivious of the
+
+passing pedestrians.  Hannah, crying, blows her nose.
+
+Hannah sobs, clutching her tissue to her face.
+
+Deep in conversation, they cross a tree-lined street.  They
+
+pass a yellow wood-frame house bordered by a wrought-iron
+
+fence.
+
+They walk offscreen and the film cuts to Hannah and Mickey's
+
+living room.  The room is brightly lit; it's cluttered with
+
+pillows and plants.  Norman and Carol, his wife, sit on the
+
+couch drinking coffee.
+
+Mickey walks from the kitchen into the living room, holding
+
+a half-eaten chocolate cake on a serving plate.  The sun
+
+pours through the windows he passes.  Hannah is briefly seen
+
+in the background, preparing more coffee in the kitchen.
+
+Mickey puts the cake down on the coffee table, which is
+
+already crowded with assorted plants, plates, and a bamboo
+
+tray holding utensils and napkins.
+
+Mickey sighs and flops down on an adjoining couch.  He rubs
+
+his forehead.
+
+Norman chuckles.
+
+Hannah walks over to the group, holding a pot of coffee.
+
+She awkwardly steps past Mickey to pour coffee for Norman
+
+and Carol.
+
+Hannah refills Carol's cup.  She puts the pot down on the
+
+coffee table and sits down next to Mickey.
+
+He starts to pace.  Hannah, her hands clasped near her face,
+
+glances briefly at Carol.
+
+Hannah sighs.  Mickey pauses for a moment, collecting his
+
+thoughts.
+
+Mickey stops his pacing and looks at the group.
+
+He starts to pace behind the couch anew.
+
+Norman and Carol remain silent.
+
+Mickey stops pacing and leans on the couch behind Norman.
+
+Mickey, rubbing his hands on his knees, leans back against
+
+the wall.  Norman and Carol turn to each other, reacting.
+
+Carol glances at Norman.
+
+She chuckles nervously.
+
+He takes a sip of coffee.
+
+Hannah reaches for the cake as Carol and Norman exchange
+
+glances, reacting.
+
+The flashback ends.  Mickey is back in the present in his
+
+darkened living room, illuminated by a glow from a window
+
+behind the couch.  A coffee table sits in front of the couch.
+
+Papers are scattered on the floor.  Mickey gets up from the
+
+couch where he'd been sitting.  He paces back and forth as
+
+he talks over the screen.
+
+INT. METROPOLITAN OPERA HOUSE - NIGHT
+
+Manon Lescaut is being performed.  Onstage, the soprano in
+
+the title role sings a mournful aria as she kneels by the
+
+ruins of a wagon.  The background is dark.  The film moves
+
+up to the private boxes in the upper loge.  David and Holly
+
+can be seen from a distance sitting in one of the boxes.
+
+David glances at her; he reaches down for a bottle of wine.
+
+The movie briefly cuts back to the stage.  The soprano is
+
+leaning on a wagon wheel; her voice soars.  Then it's back
+
+to a closer look at Holly and David in their box.  The aria
+
+continues as David hands a smiling Holly a glass.  He
+
+uncorks the wine and pours some in both their glasses.
+
+Holly mouths a thank you, glancing around.  They look at
+
+each other and raise their glasses in a toast.
+
+The opera audience is heard cheering, applauding, and
+
+sounding their "Bravos."
+
+The clapping stops as the movie cuts to Frederick's loft.
+
+It is day.  Lee, wearing a baggy plaid shirt and jeans, has
+
+opened the door for Elliot and his client, wealthy rock star
+
+Dusty Frye.
+
+Lee closes the door behind the men and walks over to Dusty.
+
+Lee chuckles as she looks at him; he is wearing sunglasses,
+
+a red-imprinted T-shirt, and a baggy coat.  She turns and
+
+walks with Frederick, Elliot, and Dusty farther into the
+
+loft, her hands clasped behind her back.
+
+They walk into the living room area of the loft, where
+
+Frederick, his hands in his pockets, neatly attired in vest
+
+sweater and white shirt, stands, waiting.
+
+Frederick covers his face to hide his disgust.
+
+As Dusty talks, the camera follows Elliot, who walks past
+
+the others to examine the drawings more closely.  Two framed
+
+nude drawings of Lee are propped up on an easel.  Elliot
+
+glances admiringly at the drawings, then surreptitiously at
+
+Lee, admiring her body as she converses with an offscreen
+
+Dusty and Frederick.
+
+The camera leaves Elliot to follow the enthusiastic Lee as
+
+she takes Dusty by the arm and starts leading him to the
+
+door.  Frederick follows at a distance.
+
+The camera now moves back to Elliot, still staring at the
+
+nude drawings, as the sounds of Frederick's and Dusty's
+
+footsteps are heard leaving the loft.  He turns and
+
+hesitantly smiles to an offscreen Lee.
+
+He laughs.  Lee, uneasy, looks down.
+
+There's an awkward moment of silence.
+
+The camera follows Lee as she walks quickly to the stereo
+
+unit, pulling a record off the shelf.
+
+She pulls the record out of its jacket and puts it on the
+
+turntable.
+
+Bach's Concerto for Harpsichord fills the room.
+
+The record in place, Lee turns and leans back against the
+
+stereo unit.  She listens to the music, her eyes closed.
+
+The record plays for a few moments in the quiet room, as
+
+Elliot walks over to Lee and leans against the shelf near her.
+
+Lee, smiling, continues to listen to the music, her head
+
+down; Elliot stares at her.
+
+Elliot nods.
+
+There is another moment of silence.  Elliot stares at Lee,
+
+who continues to look down, her arms around her chest.  The
+
+harpsichord plays on.
+
+Lee looks down again; the music plays softly and Elliot
+
+continues to stare at her, thinking.
+
+As Elliot's thoughts are heard over the scene, Lee glances
+
+around the loft, then begins to walk away.  The camera
+
+follows her as she goes past the nude drawings, which become
+
+the focus of attention as Lee walks offscreen.
+
+Lee walks back onscreen, to the bookshelf behind the drawings.
+
+She takes the e.e. cummings book from the shelf and flips
+
+through it as she walks back to Elliot, who is still leaning
+
+by the stereo, still ruminating.
+
+Elliot leaps up, grabs Lee, and kisses her passionately.
+
+Lee, surprised, pushes him away.
+
+He kisses Lee again.  He clumsily turns around; she humps
+
+against the stereo unit.  As Lee pulls away, she smashes
+
+into the turntable.  The needle scratches loudly.  Lee,
+
+shocked, is gasping.  The record, pushed to a different part
+
+of the concerto, now plays a more complicated, faster fugue.
+
+Lee stares at Elliot in shock.
+
+Frederick and Dusty's indistinct voices, raised in argument,
+
+are suddenly heard.  Elliot quickly turns away from Lee.
+
+She tries to compose herself and the film cuts to the loft
+
+entranceway.  Frederick enters the loft first, followed by a
+
+confused Dusty.  They stride across the loft past Lee, who
+
+is standing by the stereo.  Elliot, standing near the nude
+
+drawings, is looking through a book.
+
+The film moves outside the loft building.  Dusty and Elliot
+
+emerge and walk to Dusty's waiting limousine.  Elliot is
+
+rubbing his forehead, anguished.
+
+Dusty settles down in the backseat and closes the door.
+
+Elliot leans down to the chauffeur's window, signaling for
+
+him to start driving.
+
+The limousine drives off.  Elliot runs to a phone booth
+
+across the street.  He picks up the phone and dials.
+
+The film cuts to Frederick in his loft, standing near the
+
+phone.  It rings.  Frederick picks it up.
+
+When no one answers, Frederick, reacting, hangs up, and the
+
+film moves back outside to the phone booth, where Elliot,
+
+the phone receiver to his ear, listens for a moment, then
+
+hangs up.  He walks out of the booth, reacting, then walks
+
+down the sidewalk, where he bumps into a frantic Lee, just
+
+turning the corner.
+
+Elliot mumbles, relieved and confused.
+
+Elliot, uneasy, glances up in the direction of Frederick's
+
+loft.  He leads Lee a few yards up the street, away from any
+
+prying eyes.
+
+She sighs.
+
+Lee looks at him.
+
+She sighs.
+
+She walks off.  Elliot stares after her, grinning.
+
+He laughs.
+
+EXT. STREET CORNER OUTSIDE EVAN AND NORMA'S APARTMENT
+
+BUILDING - DAY
+
+A taxi turns a West Side street corner and stops in front of
+
+Evan and Norma's building, which is decorated with a long
+
+metal awning.  It's an overcast day.
+
+A station wagon on the opposite side of the street pulls
+
+away as Hannah, a white scarf fluttering over her shoulder,
+
+gets out of the cab.  She runs into the building; the taxi
+
+drives away.  A piano plays "Bewitched" over the screen.
+
+INT. EVAN AND NORMA'S APARTMENT - DAY
+
+Evan, his back to the camera, walks to the front door and
+
+opens it to Hannah.
+
+Hannah takes off her shoulder bag and her coat as her
+
+aggravated father walks past her towards the kitchen.  He
+
+passes a wall with an ornate mirror and some framed
+
+photographs.
+
+Through a doorway, Norma can be seen sitting on a chair in
+
+the kitchen.  She wears a robe over a slip and stockings;
+
+she's drinking.  Evan stands in the doorway looking at her;
+
+he doesn't go in.
+
+Hannah hurriedly passes her father and enters the kitchen;
+
+her mother takes a sip of her drink.
+
+Norma reacts, turning to her daughter.  Hannah, however, has
+
+her back turned.  She is busy taking charge in the kitchen
+
+as Evan speaks.  She takes some pills out of a cupboard and
+
+hands them to her mother with a glass of water.
+
+The camera moves to Evan, who continues to tell his story,
+
+ignoring his wife's outburst, as he walks away from the
+
+kitchen doorway into the den.
+
+Evan walks over to the piano, where several framed family
+
+photographs sit in a line on its top.  He picks one up as
+
+Norma speaks offscreen in the kitchen.
+
+The camera moves back to the kitchen as Norma talks.  She is
+
+still glaring offscreen at the doorway where Evan stood
+
+moments before.  She holds the water glass and the pills.
+
+Evan is back in the doorway, listening to Norma, getting
+
+more and more angry.  As he makes a retort, he starts to
+
+walk back to the den and his piano.
+
+Hannah goes back to Norma; she takes the glass of water away.
+
+Hannah, choosing to ignore Evan's remark, hands her mother a
+
+cup of coffee; she puts her mother's hands on the cup.
+
+Norma sips her coffee, softly sobbing.  Hannah, reacting,
+
+walks away from the counter and, capping the bottle of
+
+pills, puts them back in the cupboard.  Evan plays the piano
+
+offscreen.  The camera moves in on Hannah's face as she
+
+reflects, her voice heard over the screen.
+
+The camera leaves Hannah's face as she continues to reflect;
+
+it moves to the den, to the row of family photos on the
+
+piano: one of a present-day Evan and Norma, others where
+
+both Norma and Evan are young, beautiful, hopeful.  The
+
+music plays on.
+
+The film cuts back to the kitchen.  Norma stands up; Hannah
+
+takes her coffee cup and sets it on the counter.
+
+She puts her arm around Hannah's shoulder.  Mother and
+
+daughter walk out of the kitchen.
+
+Norma chuckles.
+
+They stop at the entrance to the den.  Evan can be seen
+
+playing the piano as they continue their conversation.
+
+Norma chortles.  Hannah laughs, touching her mother.  They
+
+walk over to Evan at the piano.
+
+Evan plays a few bars of "You Are Too Beautiful" as mother
+
+and daughter, their backs to the camera, listen.  Norma
+
+leans over the piano; Hannah looks off into the distance,
+
+deep in reflection.  The piano music continues in the
+
+background as the movie cuts to:
+
+Lee walking along a wharf by the waterfront.  The wind blows
+
+her hair; she hugs the e.e. cummings book to her chest.
+
+She, too, is deep in thought.  She stops at the edge of the
+
+wharf; the camera continues to move, to a group of wooden
+
+pilings nearby, lapped by the water.
+
+The piano piece ends and the film is quiet.
+
+INT. HOSPITAL CAT-SCAN ROOM - DAY
+
+The quiet continues as the film cuts to a close-up of a
+
+large, circular CAT-scan module in an antiseptic hospital
+
+room.  A slowly moving stretcher, bearing Mickey's strapped
+
+prone body, begins to enter the round opening of the module.
+
+As the camera pulls back from Mickey, his taped head under
+
+the scan, two technicians can be seen through the window
+
+separating the scanner from the control room.  One of them,
+
+sitting down, taps information into a computer while the
+
+other technician stands nearby, looking from Mickey to the
+
+computer screen.
+
+The movie then cuts briefly to the computer screen, showing
+
+an image of Mickey's skull.  Scan lines bleep over the skull.
+
+The camera moves up from the screen to reveal Mickey once
+
+again, as seen through the window, silent and serious under
+
+the CAT-scan module.
+
+From Mickey's prone form, the film moves to the two
+
+technicians, as seen through the window in the scanner room.
+
+They examine the computer screen and talk indistinctly to
+
+each other.  One of the men, nodding, taps more information
+
+into the computer.
+
+While they're studying the CAT-scan picture, the camera cuts
+
+to a back view of Mickey under the module.  There is a
+
+science-fiction feel to this scene, as if Mickey is lying in
+
+the center of a huge, white, futuristic circle.  The
+
+stretcher, bearing Mickey, slowly moves out of the module.
+
+INT. DR. BROOK'S OFFICE - DAY
+
+Dr. Brooks, holding Mickey's X-rays, walks past a row of
+
+bookshelves to his light panel.  He props up the X-rays.
+
+Dr. Brooks turns to an offscreen Mickey.
+
+The film quickly cuts to a close-up of Mickey's face,
+
+reacting in total despair.  He closes his eyes; he covers
+
+his face with his hand.
+
+As Mickey finishes his speech, the "real" Dr. Brooks is seen
+
+walking into the office.  The previous scene had been a
+
+figment of Mickey's imagination, a nightmare fantasy only.
+
+Holding Mickey's X-rays, the "real" Dr. Brooks walks past
+
+the same row of books to the light panel.
+
+EXT. MOUNT SINAI HOSPITAL - DAY
+
+Once again, Mickey is seen leaving the building, but this
+
+time he bounds down the steps, jumping for joy.  He runs
+
+swirling down the street, clapping his hands, happy with
+
+relief.  Upbeat, uptempo jazz plays in the background.
+
+Several cars pass as Mickey joyfully runs.  Suddenly he
+
+stops, his hand to his mouth, reflecting.
+
+INT. MICKEY'S OFFICE - DAY
+
+Gail sits in a chair in front of a bookshelf.  A sofa, a
+
+coffee table holding periodicals, and an endtable with a
+
+lamp complete the tableau.  Gail's hands are clasped on her
+
+lap.
+
+Mickey, standing behind his desk, his back to the camera,
+
+his coat still on, looks out at the Manhattan skyline.
+
+Gail gets up from her chair.  She walks past Mickey to a
+
+nearby cabinet.  She opens a drawer, rummaging around for
+
+something.  The camera follows her, leaving Mickey briefly.
+
+As Mickey continues to talk offscreen, Gail closes the
+
+cabinet drawer and walks to a file cabinet behind Mickey's
+
+desk.
+
+Gail opens the file cabinet and takes out a pack of gum.
+
+She slams it closed, distracted.
+
+Gail sighs.  She pops a piece of gum into her mouth as
+
+Mickey continues to speak.
+
+Mickey sighs.
+
+The entrance to the St. Regis Hotel, elegant and warmly lit
+
+in the night.  Pedestrians pass.  Baroque harpsichord music
+
+plays over the scene.  The camera moves up the hotel's
+
+facade, past its welcoming flags, to its ornate windows
+
+several floors up.
+
+As the harpsichord continues to play, the film moves inside,
+
+to one of the hotel rooms.  Elliot, his back to the camera,
+
+is opening the door to Lee.
+
+Elliot closes the door behind her as she enters.  They stand
+
+very close to each other, framed by the door and a stark,
+
+subtly striped wallpapered wall.
+
+They walk towards the camera, further into the room.  Elliot
+
+puts his arm around Lee.
+
+The music stops.  The camera follows Lee as she walks
+
+towards the curtained windows, past a fireplace, a mirror,
+
+some innocuous pictures, a delicate table holding a lamp,
+
+the foot of the bed.
+
+She parts a corner of the curtains, looking out the window,
+
+turning when Elliot speaks.
+
+He walks over to Lee by the curtained windows.
+
+He takes Lee into his arms.
+
+They kiss, their figures almost silhouetted in the warm glow
+
+of the room.  Elliot takes Lee's coat off without breaking
+
+the kiss.  They embrace.  They kiss each other lightly, then
+
+stronger, more passionately, their embrace much tighter.
+
+And it's later that night.  The harpsichord music begins to
+
+play again as the camera moves over the bed covers to reveal
+
+Lee, lying contentedly under the sheets, her hair fanned out
+
+on the pillows, one arm near her head.
+
+He enters the screen, sitting down on the edge of the bed
+
+next to Lee.  He holds a cigarette.
+
+Elliot chuckles; they hold hands.
+
+Elliot leans down to Lee; they begin to kiss passionately.
+
+EXT. STREET OUTSIDE FREDERICK'S LOFT - NIGHT
+
+Lee walks along the sidewalk in the rain; she's bareheaded.
+
+The streets are dark.  A car drives by; a pedestrian passes
+
+holding an umbrella.  Lee passes a restaurant well lit
+
+inside by hanging lamps.  The baroque music continues as she
+
+enters the loft, her head soaked.  She closes the door,
+
+touching her soaking hair.
+
+Lee walks through the loft's living room area, unbelting her
+
+coat, towards the bathroom.  She passes Frederick, who sits
+
+at a table in the kitchen area, drinking a cup of coffee and
+
+reading the paper.  A plate with a half-eaten sandwich sits
+
+in front of him.  The music stops.
+
+As he talks, Lee is seen turning on the bathroom light.  She
+
+takes off her coat, hanging it on a hook, then begins to dry
+
+her hair with a towel.
+
+Frederick takes a bite of his sandwich and another sip of
+
+coffee as Lee walks out of the bathroom, tossing the towel
+
+down on the counter.
+
+She takes a kettle and fills it with water.
+
+As Frederick continues his monologue, Lee is busy in the
+
+background: striking a wooden match and lighting a burner on
+
+the stove for the kettle, taking a glass out of the cupboard,
+
+walking into the bathroom for some pills, filling the glass
+
+with water in the kitchen sink, and taking her pills.
+
+He takes a bite of his sandwich and a sip of coffee.  Lee
+
+sets her glass on the kitchen counter and walks towards the
+
+bedroom area.
+
+She starts to take off her wet clothes by the bed.  Frederick
+
+takes off his glasses.  He turns and looks at Lee in surprise.
+
+He pulls Lee down next to him on the bed.
+
+She sighs.
+
+Lee runs into the kitchen, her hands tight around her chest.
+
+Lee, fraught with emotion, briefly puts her outstretched
+
+hands on the refrigerator door, then turns around and leans
+
+against it, hugging herself, her blouse still unbuttoned,
+
+her hair still wet and bedraggled.
+
+Frederick enters the kitchen area and leans against the
+
+counter.
+
+Frederick cringes, reacting.  He puts his hand to his
+
+forehead; he sighs.
+
+Lee turns and faces Frederick in the bathroom doorway.
+
+Frederick furiously shakes Lee away.  He pounds his fist
+
+against a cupboard.  Lee, gasping, moves away.
+
+He puts his hand on his forehead, then turns to the offscreen
+
+Lee.
+
+He walks over to Lee in another area of the kitchen.
+
+Frederick turns away from Lee.  He begins to pace near the
+
+counter.
+
+He loudly pounds his fist on the counter in despair and
+
+frustration, then covers his eyes with his hands in sorrow.
+
+INT. HANNAH'S BEDROOM - NIGHT
+
+Hannah, wearing a plaid shirt, sits up in bed, a book
+
+propped up on her knees.  A cupboard with some bric-a-brac
+
+is mounted behind the night table, which holds a small,
+
+white, warm-glowing lamp and some photographs.  She turns
+
+the page as Elliot, in pajamas and silk bathrobe, enters.
+
+She continues to read her book as he sits down at the edge
+
+of the bed and muses.  His voice is heard over the screen.
+
+Elliot frantically stands up and leaves the room.
+
+Elliot walks quickly into the darkened hallway.
+
+Elliot switches on the light.  He paces back and forth in
+
+front of the piano and an accompanying music stand.  The top
+
+of the piano is filled with family photos; the lamp he
+
+turned on illuminates some framed pictures on the wall and
+
+the piece of sheet music open on the piano.
+
+Elliot stops pacing and checks his wristwatch.
+
+The phone rings.  Elliot jumps.
+
+The movie cuts to Lee, standing in the dark in Frederick's
+
+loft.  She talks softly into the telephone.
+
+Lee hangs up the phone and the movie cuts back to Elliot,
+
+standing in his living room.  Stunned, he slowly lowers the
+
+phone receiver.
+
+Jazz is heard as the movie cuts to the outside of a
+
+university library, the camera focused on a huge replica of
+
+Rodin's Thinker before moving to the front entrance.  Mickey
+
+can be seen emerging from its depths.  He wears his raincoat,
+
+his hands are in his pockets.  He ponders the scene as he
+
+walks past the statue and a small front garden and down the
+
+sidewalk.  Passersby, some holding books, are seen.
+
+The movie next cuts to a sunny day in Central Park.  A male
+
+jogger, seen through some tree branches, runs by.  The
+
+camera moves past him, revealing a pondering Mickey walking
+
+by the reservoir.  He continues to talk over the screen.
+
+Several joggers pass Mickey; he continues to ruminate.
+
+Mickey goes over to the chain-link fence encircling the
+
+reservoir.  He stops walking and looks out over the water.
+
+Mickey continues to look through the fence at the water and
+
+the distant skyline.  A jogger crosses in front of him.
+
+It's very quiet; the soft jazz continues.
+
+The film cuts abruptly to Mickey's flashback of his date
+
+with Holly, beginning with a rock club performance.  The
+
+soft jazz becomes loud, pulsating rock.  Three punkers--a
+
+girl with pink hair, a girl with a spiked mohawk, and a guy
+
+with Stevie Wonder braids and sunglasses--watch and bop
+
+their heads to the sounds of the offscreen rock band, The 39
+
+Steps.
+
+The camera moves to the stage, revealing a sleazy-looking
+
+rock band in the midst of their number.
+
+As the band loudly plays on, the camera moves across the
+
+spellbound audience, sitting at crowded, smoky, small
+
+tables, to reveal a stricken Mickey and a mesmerized Holly
+
+squeezed together at one of them.  A nearby member of the
+
+audience swills beer from a bottle.  Holly, beating time to
+
+the music and enjoying herself, takes a puff of her cigarette.
+
+She wears a wristful of silver bracelets.  She glances at
+
+Mickey impatiently.  He's the only one in the place wearing
+
+a suit.
+
+Holly turns back to the band, who are still in full swing.
+
+The camera moves down the body of the lead singer, singing
+
+into a microphone, from his longish, curly red hair, through
+
+his cut-off red shirt and sweaty torso, to his guitar.  He
+
+wears several silver bracelets on his wrists and gold
+
+bracelets on his upper arm.  The microphone screeches
+
+feedback.
+
+The camera moves back to Holly and the even more stricken-
+
+looking Mickey.  They are crowded in with people.  In the
+
+background, a waitress holds up a tray.  A man drinks from a
+
+glass mug; people chatter indistinctly over the loud band.
+
+The club is noisy, smoky, and thick with people.  Holly
+
+glances at Mickey once again, this time unable to contain
+
+her annoyance.
+
+She opens a vial of cocaine.
+
+Holly holds a short metal straw of cocaine to her nose and
+
+sniffs it.
+
+While Mickey pleads with her, Holly puts her cocaine vial
+
+into her purse.  She holds a finger against one nostril and
+
+sniffs.  She then picks up her lit cigarette and continues
+
+to smoke.
+
+The camera leaves the crowded tables and moves back to the
+
+band.  The lead singers continues to sing with his band,
+
+swaying his body to the music...
+
+...as the film cuts abruptly to outside the rock club.  The
+
+music has stopped.  Mickey and Holly, almost in dark
+
+silhouette, are walking at a fast clip along the sidewalk,
+
+arguing.  They pass some lighted clothing store windows; a
+
+few cars go by in the dark street.
+
+They stop briefly at a street corner and look for oncoming
+
+cars before crossing.  Mickey takes Holly's arm as they walk
+
+across the street towards the camera.
+
+INT. THE CARLYLE CLUB - NIGHT
+
+Bobby Short is playing "I'm In Love Again" on the piano,
+
+accompanied by a bass player.  An Art Deco mural fills the
+
+wall behind him...
+
+...as the camera leaves the musicians and moves to the
+
+conversatively dressed audience.  A far cry from the rock
+
+club atmosphere, the Carlyle is quiet except for Bobby
+
+Short's singing.  The audience at their tables watch him,
+
+some with smiles of pleasure.  A man has his arm around a
+
+woman.  Jewels sparkle in another woman's hair.  The men
+
+wear suits.
+
+Mickey and Holly sit at one of the tables; a candle burns in
+
+its holder on the tabletop.  Holly takes a cigarette from
+
+her purse as she holds her hand to her nose, sniffing.
+
+Mickey keeps shooting glances at Holly; she can't sit still.
+
+Bobby Short continues to sing...
+
+...as Holly lights her cigarette, dropping her matchbook on
+
+the floor.  She bends down to pick it up, then starts to
+
+fidget in her chair.  She gulps her wine; she sniffs.
+
+Mickey tries to watch the offscreen Bobby Short; he crosses
+
+his arms across his chest.
+
+The film cuts back briefly to Bobby Short playing the piano...
+
+...then abruptly cuts to:
+
+EXT. THE CARLYLE HOTEL - NIGHT
+
+A taxi pulls away from the curb as Mickey and Holly walk out
+
+of the hotel through its revolving doors.  Holly stays under
+
+the awning; Mickey walks to the curb and looks angrily back
+
+at her.  People pass by as Mickey walks back and forth from
+
+the curb to Holly, growing angrier and angrier.
+
+A taxi pulls up to the curb.  Mickey and Holly walk up to
+
+its rear door.
+
+He holds the door open for Holly.  She gets in.
+
+Holly slams the door.  Mickey starts to walk along the
+
+sidewalk as the taxi drives off; he passes the hotel and
+
+several evening-lit store windows. "I'm In Love Again"
+
+begins to play in the background as Mickey's voice is heard.
+
+Both a bus and a taxi drive down the street, blocking Mickey
+
+from view.  The music stops and the film cuts to:
+
+A big-band rendition of "You Made Me Love You" begins as the
+
+film cuts to a hotel room.  Elliot and Lee can be seen
+
+dancing cheek to cheek in the reflection of a mirror over a
+
+dresser.  A TV sits in the corner.  A lamp is on one side of
+
+the dresser; on the other side is a bucket with champagne.
+
+Two half-full glasses sit nearby.  Elliot and Lee dance into
+
+view.  Without missing a beat, Elliot picks up one of the
+
+glasses of champagne and hands it to Lee.  She sips.  Elliot
+
+sips, then puts it back down on the dresser.  They embrace
+
+tightly, continuing to dance.
+
+INT. HANNAH'S DINING ROOM - NIGHT
+
+Elliot, Hannah, and the twins sit at the dining room table.
+
+A Christmas tree stands in the corner of the room, next to a
+
+table holding a lamp; a picture hangs on the wall.  The
+
+family has just finished eating; the table is cluttered with
+
+the remains of dinner, including a quart of milk, some
+
+chocolate syrup, and a bottle of ketchup.  Hannah's two
+
+adopted children stand by her chair; she is showing them how
+
+a small camera works.  The children watch her, fascinated,
+
+muttering among themselves.  Elliot looks listless.  He
+
+stares blankly at the table.
+
+The child takes the camera from Hannah, as well as picking
+
+up a second identical one from the table.
+
+The adopted children leave, the twins going off with them.
+
+When they're gone, Hannah takes a sip of her coffee and
+
+looks at Elliot.  She puts down her cup, still watching him.
+
+The camera moves in on their faces as they continue to speak.
+
+Family photos line the mantel behind Hannah's head.
+
+Hannah sighs.  Elliot angrily throws his napkin on the table.
+
+He stands up and begins to pace behind Hannah.
+
+He sits down again, in a chair next to Hannah; the ketchup
+
+bottle sits in front of him.
+
+The camera moves in on Elliot's anguished face.  He talks
+
+over the screen.
+
+He looks down.  Hannah leans over and tenderly puts her hand
+
+on his shoulder.
+
+She touches his hand; Elliot embraces her.
+
+Elliot kisses Hannah again; they embrace tightly.  She
+
+touches his hair.
+
+There is no music.
+
+INT. SOHO CLOTHING BOUTIQUE - DAY
+
+The screen shows a metal staircase next to a large white
+
+column.  Holly's voice can be heard as she and Hannah make
+
+their way up the stairs, moving into view.  A man carrying a
+
+shopping bag walks down the steps; he passes them.  Hannah
+
+and Holly talk as they climb.
+
+Hannah and Holly reach the top of the stairs.  They walk
+
+onto a cavernous, high-tech floor.  Empty bleachers line one
+
+wall; the rest of the floor is filled with racks of clothes
+
+and empty space.
+
+Holly follows Hannah to a rack of blouses.
+
+Holly continues to talk as she follows Hannah across the
+
+floor to a rack of dresses.  Hannah's on one side, flipping
+
+through the hangers.  Holly, on the other side of the same
+
+rack, talks to her sister, not looking at the clothes.
+
+Hannah takes a jacket on a hanger off the rack and looks at
+
+it.  She holds it to her.
+
+Hannah turns to Holly with surprise.  She puts the jacket
+
+back on the rack and stares at her; she inhales.
+
+Hannah begins to look at the rack of clothes on Holly's
+
+side, while her sister stares at her, frowning.
+
+Holly is silent for a moment.  Hannah takes a blouse off the
+
+rack and looks at it.
+
+The two sisters walk away from the rack, Hannah slightly in
+
+the lead.  Behind them are some more racks of clothing and a
+
+large window with closed venetian blinds.
+
+Holly pauses, looking at her sister.  They continue to walk.
+
+They walk over to a table laid out with colorful scarves and
+
+decorated with hurricane lamps bordering its edges.
+
+Holly looks at her sister for a beat.
+
+A female customer, who'd come over to the table, browsing
+
+through the rack of clothes near Hannah, looks up, reacting.
+
+She walks away.
+
+She walks past Holly and briefly looks at a different rack
+
+of clothes beneath the table.
+
+She walks offscreen to a nearby rack; the camera remains
+
+focused on Holly.
+
+Holly chuckles and begins to look through the scarves on the
+
+table.
+
+INT. THEATER - DAY
+
+A group of theater executives, including the producer, the
+
+director, and two assistants, sit in a cluster in the empty
+
+audience, talking; they look up at the offscreen Holly, who
+
+is auditioning on the stage.  She is singing "I'm Old-
+
+Fashioned," accompanied by a piano.
+
+The film moves from the audience to the stage where Holly,
+
+her hands clasped in front of her, continues to sing her
+
+song.  A large group of other hopefuls are seen in the
+
+background behind her.
+
+The camera moves from Holly back to the executives in the
+
+audience.  As it passes the empty audience seats, they are
+
+heard offscreen.
+
+The camera has reached the executives in the audience.  They
+
+are now chattering among themselves, Holly forgotten.
+
+The film cuts back to the stage, where April, handling the
+
+audition pianist some sheet music, prepares herself to sing
+
+"The Way You Look Tonight." The stage is very black, stark,
+
+except for April and the pianist.
+
+EXT. A STREET OUTSIDE THE THEATER - DAY
+
+A theater marquee can be seen on the busy street as Holly
+
+and April walk down the street towards the camera, moving
+
+closer and closer as they talk.  Workmen and various street
+
+noises can be heard indistinctly in the background.
+
+Holly looks away sadly; she shakes her head.
+
+The film cuts to Father Flynn's rectory office.  The Catholic
+
+priest looks out a simple stained-glass window, then turns
+
+to an offscreen Mickey.
+
+The camera moves back to reveal Mickey, his back to the
+
+camera, sitting in front of Father Flynn's desk.  A lamp is
+
+lit in the background; the Father's desk is neat.  The room
+
+is comfortably decorated in wood and leather.
+
+The movie cuts to Mickey's face.  He's very neat in a tie,
+
+sweater, and sports jacket.
+
+The camera cuts back to Father Flynn, who walks over to a
+
+leather armchair next to a table set for tea.  He begins to
+
+pour the tea into china cups.
+
+Father Flynn clasps his hands in his lap.
+
+The film abruptly cuts to the long hallway in Mickey's
+
+parents' apartment.
+
+In the foreground, a section of the living room can be seen,
+
+with a bureau holding a lamp and a framed photo.  The
+
+hallway itself is crowded with pictures and a wall shelf.
+
+At the other end of the hallway, in the background, is
+
+another bureau, with candlesticks on top and a framed
+
+picture on the wall above.  Mickey's mother stands in the
+
+front of this bureau at the hallway's end, screaming at the
+
+top of her lungs, holding her heart dramatically.
+
+She sobs hysterically, staggering offscreen to the bathroom;
+
+she shuts the door.  Mickey walks into view, in the living
+
+room, looking after his shocked mother, who continues to cry
+
+over the scene.
+
+His father walks into view, carrying a teacup and a candy
+
+dish.  He strides past Mickey towards the kitchen.
+
+Mickey's father walks into view; he stands by the stove near
+
+the kitchen doorway, picking up a dirty glass and some bowls
+
+to clean.
+
+Holding the dirty dishes in his hand, Mickey's father looks
+
+at his son.
+
+Mickey's father walks offscreen again, to the kitchen sink.
+
+Mickey's father walks out of the kitchen, past his son, to
+
+the living room.
+
+Mickey stops at the bathroom door at the other end of the
+
+hallway.  He starts to pound it.
+
+Mickey's father comes back on screen; he's carrying a plate
+
+of hors d'oeuvres and an empty glass towards the kitchen.
+
+He stops and looks down the hall at Mickey, who's now
+
+struggling to open the bathroom door.
+
+Mickey, reacting, hits his forehead.
+
+Mickey starts pounding the door again as the movie cuts to:
+
+A beautiful snow-covered church downtown, complete with
+
+courtyard and wrought-iron fence.  A pedestrian walks by
+
+with an umbrella.  A church choir sings a soaring hymn over
+
+the scene.
+
+The music continues as the film moves inside, where the
+
+choir is seen singing behind an altar glowing warm gold.  A
+
+fairly large congregation sits in darkened pews as the film
+
+cuts to the back, where Mickey, his arms crossed, stands
+
+underneath some stained-glass windows, watching and listening
+
+to the inspiring music.
+
+The choir continues to sing as the movie cuts to Father
+
+Flynn in his office.
+
+He picks up some large, heavy books from a shelf near his
+
+window and he walks over to Mickey, who's standing near his
+
+desk, already holding several tomes.  Father Flynn puts the
+
+books on top of Mickey's pile; Mickey, flipping through the
+
+top one, awkwardly carries his bundle to the door.
+
+Next is seen a close-up of a painting of Jesus Christ on the
+
+cross, complete with crown of thorns and holy expression.
+
+His eyes, especially designed to blink as the lights hit
+
+them, open and close repeatedly.  The hymn plays on, loudly,
+
+as the camera moves back, revealing Mickey, standing outside
+
+a barber shop window, looking at the Christ playing and
+
+shuffling from side to side to gets its eyes' 3-D effect.
+
+Smaller inspirational pictures border the bigger, blinking
+
+Christ.  A barber pole with moving stripes stands nearby;
+
+passing traffic is reflected in the window.
+
+Mickey turns from the window, shrugging, and starts to walk
+
+down the street, past a fruit and vegetable store with open-
+
+air-displayed flowers, past several briskly moving
+
+pedestrians.
+
+With the hymn still playing, the screen goes black briefly.
+
+Mickey opens the door, the light from a hallway illuminating
+
+him.  He's just entered his apartment.  He closes the door
+
+and walks through his dark foyer; he carries a brown bag.
+
+He switches on the light, and walking past his spiral
+
+staircase, past several framed pictures on the wall, he
+
+makes his way to his living room coffee table.  Mickey pulls
+
+a crucifix out of the bag; he looks at it, then puts it on
+
+the table near a pile of books and some objets d'art.  He
+
+then takes out a copy of the New Testament, putting it on
+
+top of the crucifix.  Then out comes a framed picture of a
+
+saint.  It too gets put on the growing pile.  But the bag is
+
+not yet empty.  Next comes a large loaf of Wonder Bread and
+
+a large jar of Hellman's mayonnaise.  Mickey sets them on
+
+top of the saint.
+
+EXT. NEW YORK CITY STREET - DAY
+
+Lee is walking down the street, looking around her.  The
+
+sidewalk is fairly crowded with people; the sounds of
+
+traffic are heard.  She passes some office buildings, a
+
+store's large display window; she stops when she sees Hannah.
+
+Her sister is waiting outside the Art Deco facade of a
+
+restaurant; she's looking in the opposite direction.  Lee
+
+taps Hannah on the shoulder; Hannah, surprised, turns and
+
+gasps.
+
+The sisters laugh and embrace each other.
+
+She turns and walks towards the restaurant entrance.
+
+They disappear inside.  The camera follows them, cutting to
+
+the restaurant's interior at the same time the sisters walk
+
+in.  It's a chic, trendy place, with an Art Deco design and
+
+high ceilings.  A waiter in uniform stands near its glass
+
+and metal doors, holding a tray to his chest; a few people
+
+sit at the bar; a large plant in a vase sits in the
+
+foreground.  The sisters walk toward the coatcheck area,
+
+deep in conversation.
+
+Hannah walks offscreen, farther into the coatcheck room.
+
+She talks offscreen as Lee alone is seen, reacting and
+
+speaking as well.  In the background, a waiter crosses over
+
+to the bar, then walks away.
+
+Hannah walks out of the coatcheck room without her coat;
+
+it's Lee's turn to disappear and check her things.  Now only
+
+Hannah can be seen onscreen as the sisters talk.  In the
+
+background, the waiter once again walks over to the bar.
+
+As Hannah answers her sister, Holly can be seen entering the
+
+restaurant and walking over to the coatcheck area, an unlit
+
+cigarette in her mouth, her sunglasses still on her eyes.
+
+Hannah mumbles indistinctly as Holly walks over to her
+
+sisters.
+
+She takes off her gloves and scarf, stuffing them in her bag)
+
+Holly gives her coat to the coatcheck person.
+
+The hostess appears, peeking around the corner of the
+
+coatcheck area.  She signals for the three sisters to follow
+
+her.
+
+Holly takes off her sunglasses; her cigarette still dangles
+
+from her mouth.  Hannah murmurs her sympathy as the trio
+
+follows the hostess into the dining room.
+
+The sisters walk to their seats, at a round table in the
+
+middle of the room; the hostess puts down their menus.
+
+They sit down.  The hostess leaves.  Other diners are seen
+
+in the background; a waiter is taking the order of a couple
+
+sitting on a banquette; other waiters clear off a table.
+
+Diners walk in and out.  A low murmur of conversation, as
+
+well as the faint clatter of dishes, is heard.  The camera
+
+moves closer to the three sisters, circling the table as
+
+Holly speaks.
+
+As the camera slowly circles the table, Hannah is seen
+
+listening to Holly, her hand on her mouth.
+
+Lee, her hand on her mouth, glances briefly at Hannah.  As
+
+Hannah replies to Holly, the camera focuses on Lee's face.
+
+She bites her nails; she looks down, involved in her own
+
+thoughts.
+
+Lee looks up, her hand still on her mouth, watching Hannah,
+
+as the camera slowly moves off her to show Hannah.
+
+The camera is back on Lee.  She looks around tensely, barely
+
+listening to the conversation.  She fidgets.  An empty table
+
+sits in the background.
+
+Holly abruptly picks up her menu.
+
+She puffs intensely on her cigarette as the camera slowly
+
+circles to Hannah's face.  She is equally intense, looking
+
+at both sisters as she speaks.
+
+The camera, slowly circling the table, is back on Lee's face.
+
+While her sisters argue emotionally on her right and left,
+
+she is looking down, biting her lip.  She is outwardly
+
+still, but her face is registering her seething emotions.
+
+She opens her menu, then turns to Lee, reacting suddenly to
+
+her sister, who is rubbing her forehead, looking terribly
+
+upset.
+
+A piano plays "Bewitched" in the background as the film cuts
+
+to a large tree, covered with bright white blossoms.  The
+
+camera moves down the tree to reveal a well-kept, red-brick
+
+brownstone on a pleasant, sunny New York City street.  A man
+
+wearing a summer suit walks by as the film moves inside the
+
+building, to Elliot's analyst's office.  The psychotherapist
+
+sits in a comfortable armchair next to a curtained window.
+
+In front of the window sits a table covered with artifacts
+
+and a large lamp.  The analyst's fingers are touching, his
+
+arms resting on the chair, as he listens to the offscreen
+
+Elliot.
+
+The music stops as the camera moves across the room to
+
+reveal Elliot, sitting in a wooden chair.  He holds a long,
+
+thin cigarette; he wears a gold Rolex watch.  He face is not
+
+yet seen.
+
+Elliot raises his cigarette to take a drag.  The camera
+
+follows the cigarette up to his face.  Elliot looks
+
+thoughtful as the movie cuts to:
+
+EXT. COLUMBIA UNIVERSITY CAMPUS - DAY
+
+Lee, wearing jeans and carrying an armful of books, is
+
+running up a broad set of steps in the sunlight, greeting
+
+other students as she passes.  Elliot continues to talk over
+
+the scene...
+
+...as Lee stops on a portico and turns to greet Doug, a
+
+professor, who is running over to her, calling her name.
+
+They mouth hello, smiling, and begin to walk off together.
+
+The film cuts back to Elliot in his analyst's office.
+
+Elliot takes a last drag on his cigarette.  The camera
+
+follows his hand as he crushes it out in a nearby ashtray.
+
+EXT. CENTRAL PARK - DAY
+
+Hare Krishna music is heard over a sunlit view of the
+
+Manhattan skyline and the green trees of Central Park.  The
+
+camera moves down to reveal a large group of Hare Krishnas
+
+dancing on the broad green lawn among other New Yorkers
+
+enjoying the day.  The leader, holding some pamphlets,
+
+stands by a chain-link fence, a few feet away from his
+
+group, talking to someone on the other side.  It's Mickey,
+
+as the camera soon shows, wearing a short-sleeved shirt, a
+
+paper tucked under his arm.
+
+Mickey walks off, the Hare Krishnas still dancing and
+
+singing on the other side of the fence.  He flips through
+
+the literature as he walks, then looks straight ahead,
+
+pondering.  His voice is heard over the screen.
+
+Mickey puts his hand to his mouth as another title appears
+
+on a black screen.
+
+Bach's Concerto for Harpsichord is heard as the film cuts to
+
+the waterfront at dusk.  A bench faces some wharf pilings;
+
+the water gently laps against them as Lee walks into view,
+
+the wind blowing her hair.  She stands and faces the water
+
+and the distant skyline across the bay.  The view is
+
+contemplative, beautiful in the dim light.
+
+Lee is alone; her hands are in her pockets.  Lee, thinking,
+
+is heard over the scene; the harpsichord music plays in the
+
+background.
+
+The concerto stops and the movie cuts to Holly, leaning into
+
+an open phone booth near a subway entrance.  She wears a
+
+football jacket, jeans, and sneakers; she holds a manuscript
+
+in her arms.  It's a busy corner.  People rush past Holly
+
+towards the subway; others are walking up the station steps.
+
+Holly smokes a cigarette as she talks on the phone to Hannah.
+
+Holly hangs up the phone and takes a drag on her cigarette.
+
+She looks off in the distance, smiling, as the film cuts to:
+
+INT. HANNAH'S APARTMENT - THANKSGIVING - NIGHT
+
+It's Thanksgiving at Hannah's once again.  Guests are
+
+crowded together in the living room, surrounding the piano,
+
+where Evan is sitting and flipping through some sheet music.
+
+Norma stands behind him, leaning against a book-laden wall.
+
+The guests are chattering, enjoying themselves; a lamp glows
+
+on the corner of the piano.  A little boy sitting in a chair
+
+next to Evan is talking animatedly with a girl who is
+
+leaning over the arm of the sofa.  An adult guest talks to
+
+the little boy; another guest takes a sip of wine from a
+
+glass she'd placed on the bookshelf behind her as Evan turns
+
+and addresses the group.
+
+The guests laugh appreciatively.  A woman comes over to Evan
+
+and hands him some wine.
+
+He laughs; the guests laugh with him.
+
+The guest continue to laugh; they are charmed.
+
+Evan continues to laugh with everyone as he starts to play
+
+the piano.  A nearby woman toasts him with her drink.  The
+
+camera moves around the room as he plays, showing the
+
+various guests, chattering over the music.  Some are in
+
+clusters, in private conversations; others listen and watch
+
+the offscreen Evan.  A couple stands by the window; one man
+
+gets up from his chair and walks away.  Some guests sip
+
+their drinks, smiling, as the camera moves back to the piano
+
+and the book-laden wall.  Evan is playing the piano with
+
+exuberance.  Norma, still standing behind him, has a
+
+poignant, wistful expression on her face.  She mouths the
+
+words to the song Evan is playing, "It Could Happen to You."
+
+The woman next to her smiles, enjoying the music, as the
+
+camera continues its exploration, moving to a man standing
+
+in the doorway with a group of children.  Mavis the maid
+
+walks by with a tray of hors d'oeuvres.  The man takes one,
+
+mouthing his thanks, as the camera travels past the open
+
+bookshelf, past two boys in suits who are drinking soda and
+
+munching, to reveal Lee.  She is leaning against another
+
+doorway, a faraway look on her face as she listens to the
+
+music.  Mavis passes in the hall beyond the doorway.  Several
+
+people, deep in conversation, stand nearby as Elliot,
+
+holding a drink, walks up behind her.
+
+Lee slips past Elliot and walks away.  Elliot looks back at
+
+her briefly, then, sipping his drink, he turns and looks
+
+offscreen at the crowd in the living room.
+
+INT. HANNAH'S KITCHEN - NIGHT
+
+Holly is standing in the pantry, preparing some offscreen
+
+food.  Near her is a restaurantlike swinging door with a
+
+glass porthole.  In the foreground, the kitchen table is
+
+crowded with bowls and plates of food.  An open cupboard
+
+separates Holly from the rest of the room.
+
+Hannah walks into view, headed for the refrigerator.  She
+
+carries two tomatoes.
+
+Hannah opens the refrigerator, totally ignoring Holly.
+
+Hannah walks over to the table, gathering up more food.
+
+Holly walks over to the sink and washes her hands.
+
+She dries her hands as Hannah, her arms laden with
+
+vegetables, strides over to her sister.
+
+Hannah storms out a nearby door as Holly turns away from the
+
+sink.
+
+Holly wipes her hand on the towel as Hannah reenters the
+
+kitchen, carrying even more vegetables.
+
+Hannah strides into the pantry area and flops the vegetables
+
+down on the counter.  Holly puts the dishtowel down and
+
+absently straightens some things on the food-laden table.
+
+Hannah angrily gathers up some spices from the table; Holly
+
+walks back onscreen holding a silver ice bucket.  She stops
+
+at the corner of the table and faces Hannah.
+
+Hannah picks up a large bowl and carries it, as well as her
+
+armload of spices, into the pantry area.
+
+Hannah, reacting, puts the spices down on the pantry counter.
+
+Holly turns away.
+
+The film cuts to the dining room doorway.  Guests can be
+
+seen mingling and talking and helping themselves at a buffet
+
+table in the living room.  Lee and Elliot can be heard
+
+offscreen as the camera slowly moves from the doorway across
+
+the empty dining room to reveal them in the midst of an
+
+intense conversation.  The piano, as well as soft chatter,
+
+is heard in the background.
+
+Lee goes over to an open door and closes it quickly.
+
+The door opens and Mavis appears, holding a set of
+
+candlesticks.  She walks over to the dining room table,
+
+which is already decked out with a floral centerpiece,
+
+glassware, and china.  She puts them down as Lee and Elliot
+
+stand awkwardly near the door, waiting for her to leave.
+
+Mavis leaves.  Both Lee and Elliot quickly close the door
+
+behind her and immediately pick up where they'd left off.
+
+They look at each other, reacting, as the film cuts back to
+
+Hannah's kitchen.  Norma's face can be seen in the porthole
+
+window on the other side of the pantry's swinging door.  She
+
+looks around the kitchen, then opens the door and steps
+
+inside.  Holly stands nearby, working in the pantry area.
+
+Holly chuckles.
+
+Norma steps back out of the kitchen, the door swinging shut
+
+behind her.  Holly looks at the door, sipping her wine, as
+
+the movie cuts back to Hannah's living room.  A chubby,
+
+friendly uncle sits on a sofa, one child on his lap and
+
+several others gathered cross-legged around him on the floor.
+
+They lean on the coffee table, which is covered with glasses
+
+and a bowl of chips.  Other guests mingle in the background;
+
+one couple enters the living room, smiling at the scene on
+
+the sofa.  Mavis crosses the well-lit foyer in the background
+
+and opens the door to more guests.  The piano plays on.
+
+The children mutter their enthusiastic agreement, picking up
+
+their "illicit" glasses of beer.
+
+The uncle pours more beer from his bottle into the kids'
+
+outstretched glasses.  They cry indistinctly with excitement.
+
+Laughing, he turns to the little girl sitting on his lap; he
+
+clinks his bottle against the bottle she is holding, which
+
+is almost as big as she is.
+
+The uncle and the children happily drink their beer as the
+
+movie cuts to a wall with subtly patterned wallpaper in
+
+Hannah's bedroom.  Her face moves on to the screen.
+
+Hannah walks towards Elliot; he's in the bathroom standing
+
+over the sink.
+
+Elliot walks from behind the partially closed door to an
+
+offscreen medicine cabinet.
+
+Elliot turns back to the sink, once again obscured by the
+
+partially closed door.
+
+He dries his hands as Hannah, standing behind him, continues
+
+to talk.
+
+He closes the door, briefly obscuring Hannah and himself
+
+from view.
+
+The camera moves behind the closed door, into the bathroom.
+
+He opens the medicine cabinet and puts the aspirin bottle
+
+back.
+
+Elliot slams the medicine cabinet shut.
+
+He leaves.  Hannah watches him go, reacting.  She is stunned.
+
+INT. HANNAH'S LIVING ROOM - ANOTHER NIGHT
+
+The dark hallway is illuminated by light coming from the
+
+offscreen foyer; pictures line the wall.  Piano music is
+
+still heard very softly in the background as Hannah, hugging
+
+herself, walks slowly down the hallway into the living room.
+
+She briefly looks around, lost in thought.  She sits down
+
+heavily, tiredly, on the arm of the couch as the movie cuts
+
+to several framed photographs on the mantel.  One shows
+
+Hannah and Elliot on their wedding day.  Another shows
+
+Elliot, obscured in the shadows.  Yet another has captured
+
+Norma as a young girl.  The camera, however, moves closer
+
+and closer to a photograph showing Hannah, Lee, and Holly,
+
+the three sisters, smiling into the camera.  There is no
+
+sound.
+
+INT. HANNAH'S BEDROOM - NIGHT
+
+The film shows the bedroom night table, holding a small
+
+lamp, a wooden box, a cast-iron fire truck, an ashtray, and
+
+glasses.  Elliot's pajama-clad arm moves into view.  He
+
+turns off the lamp; the room is now pitch-black.
+
+Elliot turns the lamp back on, then turns to Hannah; she is
+
+lying on her side of the bed, partially in shadow.  He leans
+
+over and kisses her.
+
+They begin to kiss passionately as "Bewitched" starts to
+
+play in the background.
+
+"Bewitched" continues as the film cuts to a busy nighttime
+
+New York City street.  Mickey, his hands in his pockets,
+
+walks along the sidewalk, one person among many other
+
+pedestrians.  He pulls his coat tighter around him as he
+
+walks. "Bewitched" continues to play as he passes Tower
+
+Records' neon-lit window.  He glances inside...and sees
+
+Holly, her jacket flung over her shoulders, looking at some
+
+records.
+
+Mickey walks through the revolving doors of Tower Records,
+
+up a few stairs to the selling floor proper, and stops right
+
+in front of Holly.
+
+Holly chuckles and turns to look at more records.  She walks
+
+down the aisle, occasionally glancing at the bins of records.
+
+Mickey walks beside her.
+
+As Mickey continues to speak, Holly walks to another bin of
+
+records, reacting to his words.  She looks offscreen at him,
+
+then down at some records.  The camera follows her.
+
+Mickey walks back onscreen to Holly.  The two of them are
+
+partially obscured by a large white Jazz sign imprinted with
+
+a large red circle as they continue their conversation.
+
+They emerge from behind the Jazz sign, still walking, still
+
+talking.
+
+She picks up a record.
+
+Mickey pulls out a record and looks at it.
+
+Holly looks hopefully at Mickey.
+
+Holly laughs, embarrassed, as Mickey puts the record he's
+
+been looking at back in the bin.
+
+Holly chuckles, looking off for a moment.
+
+There is a brief pause and the movie cuts to:
+
+INT. MICKEY'S APARTMENT - DAY
+
+The screen shows a chaise in Mickey's apartment; an ashtray
+
+on a stand sits nearby.  The camera moves down the chaise,
+
+past several piles of books, to Mickey's coffee table.  He
+
+sits, picking at his fingers and listening, on the edge of
+
+the table in front of Holly, who is sitting cross-legged on
+
+the floor, propped up with a pillow, reading her script aloud.
+
+Holly closes the script and looks up at Mickey.
+
+Mickey smiles and shrugs, not knowing what to say.
+
+Holly, thrilled with Mickey's overwhelming response, stands
+
+up, her hand on her head.
+
+Unable to contain herself, she begins to walk up and down
+
+the room, holding her script.  The camera follows her;
+
+Mickey is now offscreen.
+
+"You Made Me Love You" starts to play as the movie cuts to
+
+the street outside Mickey's apartment house, an old building
+
+complete with a red entrance door and a gray, weather-beaten
+
+facade.  Trees line the sidewalk.  Holly and Mickey emerge
+
+from the door and walk up the street, revealing a whole row
+
+of similar apartment buildings.  They pass a few other
+
+people as they walk.
+
+The film then moves to the outside of a charming glass and
+
+stainedwood cafe.  Through the window, Holly and Mickey can
+
+be seen having lunch.  Holly is talking animatedly; Mickey
+
+takes a sip of coffee.  Some people pass by.
+
+Next, the film cuts to an almost isolated path in Central
+
+Park, complete, with old-fashioned streetlamps and scattered
+
+leaves.  Holly and Mickey stroll into view, deep in
+
+conversation.
+
+The film abruptly cuts to Mickey's flashback, a visual
+
+counterpoint to the story he is telling Holly.  A close-up
+
+of a nervous, perspiring, and panting Mickey alone in his
+
+apartment appears on the screen as his voice is heard.
+
+Mickey raises the barrel of a rifle to his forehead.  He
+
+shuts his eyes tightly.
+
+The camera moves past the desperate Mickey to a mirror on
+
+the wall behind him.  Its reflection shows his spiral
+
+staircase and some standing lamps.  A clock faintly ticks.
+
+The gun goes off with a loud bang.  The mirror shatters.
+
+Mickey, holding the rifle, is seen running over to the
+
+shattered mirror.  The sounds of his excited neighbors,
+
+their shouting, a knocking door, are heard as he continues
+
+his tale.
+
+Mickey, still brandishing the rifle, runs into his sunlit
+
+living room.  He looks around frantically, his shirt loose.
+
+Finally, he throws the rifle down between the sofa and the
+
+coffee table.  The gun goes off a second time.  Mickey,
+
+standing nearby, jumps, his hands flying to his head.  The
+
+doorbell rings; the neighbors begin pounding at the door.
+
+Mickey runs offscreen briefly to answer the door.
+
+He returns onscreen, panting; he looks frantically once
+
+again around the living room.
+
+The film cuts to a West Side street.  It's an overcast day.
+
+Mickey, walking slowly along the sidewalk, passes several
+
+other pedestrians and numerous storefronts, including
+
+Klein's Pharmacy and a "Bar-B-Q" take out.  Occasionally, he
+
+is obscured by a tree trunk on the opposite side of the
+
+street; a few taxis go by as he talks over the scene.
+
+The movie cuts to the exterior of the Metro movie theater,
+
+with its smoked glass entrance doors and its Art Deco feel.
+
+An old publicity photo hangs inside.  Mickey's reflection is
+
+seen at the almost-transparent doors, as well as the
+
+reflection of the street and various cars whizzing by.  His
+
+reflection walks towards the theater entrance; he continues
+
+his story.
+
+Mickey walks into the movie house.  He is seen through the
+
+glass doors, which still reflect the street and traffic
+
+outside.  He makes his way through the lobby into the actual
+
+theater.
+
+The film abruptly cuts to the theater's black-and-white
+
+screen, where the Marx Brothers, in Duck Soup, play the
+
+helmets of several soldiers standing in a line like a live
+
+xylophone.  The sounds of the "xylophone" are heard as the
+
+movie cuts to the darkened theater, where Mickey slowly sits
+
+down in a balcony seat.  The "xylophone" music stops and
+
+changes to "Hidee-hidee-hidee-hidee-hidee-hidee-ho" as sung
+
+by the Marx Brothers and ensemble in the movie.  The singing
+
+continues faintly in the background as Mickey continues his
+
+tale:
+
+The film cuts back to the black-and-white movie screen as
+
+Mickey continues to talk.  The Marx Brothers, as well as the
+
+hundred-odd other cast members in Duck Soup, are kneeling
+
+and bowing as they sing "Hidee-hidee-ho." They kick their
+
+heels up in the air.  They sway back and forth, hands
+
+clasped, singing "Oh-h-h-h-h-h..."
+
+The movie cuts back to Mickey, sitting almost obscured in
+
+the dark theater.  The Oh-h-h-h-h-h's coming from the
+
+offscreen movie are heard as he continues to speak.
+
+As Mickey talks, the film cuts back to the antics of the
+
+Marx Brothers on the black-and-white theater screen.  The
+
+four brothers are now swaying and singing and strutting,
+
+their voices indistinct over Mickey's narration.
+
+The film is back on Mickey's dark form in the audience.
+
+As Mickey continues, the film cuts back to Duck Soup on the
+
+black-and-white screen.  The Marx Brothers are sitting on a
+
+judge's bench, playing banjos and singing with the other
+
+cast members.  They jump down from the bench, still singing.
+
+Their voices swell.
+
+The Marx Brothers kneel, strumming their banjos, and the
+
+movie cuts back to Central Park.  The flashback is over.
+
+Mickey and Holly continue their stroll as "You Made Me Love
+
+You" begins to play in the background.  They pass some
+
+people, a cluster of buildings that look like castles, and
+
+the Manhattan skyline as seen through the trees, as the
+
+camera moves back, farther and farther away from them,
+
+showing a beautiful Central Park, frozen in time.
+
+Holly laughs.
+
+They stroll offscreen. "You Made Me Love You" grows louder
+
+and the film cuts to:
+
+INT. HANNAH'S APARTMENT - THANKSGIVING - NIGHT
+
+A large, perfectly roasted turkey on a serving plate briefly
+
+fills the screen as the camera moves across the food-laden
+
+table in Hannah's kitchen, past an electric mixer, several
+
+bowls, spices, tomatoes, and parsley, to reveal Evan walking
+
+through the doorway.
+
+The sounds of Thanksgiving guests in the other room are
+
+dimly heard; "You Made Me Love You" continues softly in the
+
+background.  Mavis passes the table, licking some food off
+
+her hand.  Hannah, in the background, is busy by the stove.
+
+As Mavis leaves the kitchen, Lee enters, carrying some empty
+
+glasses.
+
+Lee walks off, drying her wet hands in the air.  Hannah, in
+
+a silk dress, moves onscreen, going to the table and pouring
+
+herself a glass of wine as Norma enters the kitchen.
+
+Norma walks over to a glass-doored cabinet and takes out a
+
+bottle of gin.
+
+Norma unscrews the liquor bottle and pours some into her
+
+empty glass as Hannah stops her mashing, reacting.
+
+The movie leaves the kitchen and cuts to the doorway between
+
+the dining room and the living room.  Upbeat jazz plays over
+
+the low din of the party.  Two women stand by the partially
+
+set dining room table, chatting and arranging some plates,
+
+as Elliot strolls into view, sipping a drink.  He passes the
+
+women and walks through the doorway into the living room,
+
+nodding hello to a guest who is walking the other way.
+
+He enters the living room, smiling.  It is crowded with
+
+guests; Hannah's children play in their midst.  One of
+
+Hannah's boys grabs Elliot's arm.  They playfully "spar" for
+
+a moment before Elliot laughingly shakes him off, continuing
+
+on his way into a connecting room.  He stops at the doorway,
+
+looking at the crowd.  The camera shows his point of view:
+
+Guests stand in clusters, enjoying themselves; one woman
+
+chats with a little boy; another woman, carrying a drink,
+
+walks over to a group of other guests.
+
+The film then cuts back briefly to Elliot, holding his drink
+
+and looking straight ahead, as it shows his point of view
+
+once more.  This time he sees a smiling Lee and Doug,
+
+talking animatedly; a few guests are seen in the background.
+
+Elliot's voice is heard over a close-up of the couple.
+
+Lee and Doug kiss each other.  They continue talking.
+
+As Lee takes a sip of her drink, the movie cuts back to
+
+Elliot, standing in the doorway and still staring straight
+
+ahead.  The camera moves in closer to his face as he talks
+
+over the scene.
+
+The film quickly cuts to a brief look at Lee and Doug, still
+
+talking animatedly and smiling.  Lee gently pushes back
+
+Doug's hair.
+
+The camera moves back to Elliot.
+
+After pausing for a moment on Elliot's face, the film cuts
+
+to the foyer, where two boys and a girl gather by the door.
+
+One boy opens it, revealing Holly.  She joyfully enters the
+
+apartment, greeting each child with an enthusiastic kiss.
+
+The jazz ends as the record scratches and stops.  Evan's
+
+rendition of "Isn't It Romantic" is heard on the piano as
+
+Holly, shrugging the strap of her pocketbook off her
+
+shoulder, walks towards the living room.  She is stopped by
+
+three guests--two women, one of them wearing glasses, and a
+
+man--who are coming out of the room.
+
+They kiss.
+
+The movie cuts to Hannah, leaning contentedly against a
+
+doorway into the living room and listening to the offscreen
+
+Evan play the piano.  Elliot, holding his drink, walks over
+
+to her.  They look at each other for a beat; Elliot then
+
+hugs Hannah, pulling her towards him.  She leans her head on
+
+his shoulder, fingering his jacket lapel.  They look
+
+offscreen together, happily, intimately, at the offscreen
+
+guests, as the camera moves across the room, past a few
+
+guests, to reveal Evan sitting at the piano.  Norma sits at
+
+his side, one arm resting on the piano.  She holds a drink
+
+and looks off in the distance, mouthing the words to "Isn't
+
+It Romantic."
+
+The camera then moves to the doorway in the living room,
+
+where a man, holding a drink, enters and joins the happy
+
+crowd.  Evan can be seen in the background, playing his song.
+
+A child plays near the coffee table.
+
+The camera continues to move past the doorway, past a huge
+
+grandfather clock, to a second doorway leading to the den.
+
+Here, more guests are gathered; a child sits in a small
+
+chair by the sofa.  He sips a soda as female guest #2 enters
+
+the room and crouches down next to him, smiling.  She waves
+
+to him.  He waves back as the camera continues to move past
+
+the doorway to reveal Holly, standing in front of a hallway
+
+mirror, fixing her earrings.  Mavis can be seen in the
+
+background, through the doorway into the dining room,
+
+lighting the candles on the table.  She dims the lights,
+
+darkening the room and the hallway where Holly stands in a
+
+warm candlelit glow.  Mavis leaves the dining room and
+
+passes Holly.
+
+Mavis walks off.  Holly, reflected in the mirror, begins
+
+fluffing her hair as Mickey enters and wraps his arms around
+
+her from behind.  The camera stays focused on the mirror;
+
+both Holly and Mickey are now seen in its reflection.
+
+Mickey continues to kiss Holly.  She responds, sighing and
+
+closing her eyes.
+
+Mickey continues to kiss Holly's neck; he chuckles.
+
+The mirror shows Mickey pulling away slightly, reacting.
+
+They look at each other at arm's length, Holly grinning.
+
+Mickey in shock, then embrace and kiss passionately, tighter
+
+and tighter, as the music swells...
+
+And the credits appear, white on a black screen.
+
