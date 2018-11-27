@@ -48,7 +48,8 @@ def main():
     amount = int(sys.argv[3])
     with open(sys.argv[1], 'r') as source:
         m = Markov(n)
-        print m.generate(source.read().lower(), amount)
+        text = ' '.join(source.read().split())
+        print m.generate(text, amount)
 
 if __name__ == "__main__":
     main()
