@@ -6,7 +6,7 @@ from keras.layers import LSTM
 from keras.models import Sequential
 from keras.utils import np_utils
 
-np.random.seed(7)
+np.random.seed(823)
 
 USE_CHARS = True
 
@@ -44,9 +44,9 @@ class NeuralNet:
         self.model.add(Dropout(0.2))
         self.model.add(Dense(self.res_transform.shape[1], activation='softmax'))
         self.model.compile(loss='categorical_crossentropy', optimizer='adam')
-        self.model.fit(self.seq_transform, self.res_transform, epochs=100, batch_size=50)
-        self.model.save_weights('training_weights')
-        #self.model.load_weights('training_weights')
+        #self.model.fit(self.seq_transform, self.res_transform, epochs=100, batch_size=50)
+        #self.model.save_weights('training_weights')
+        self.model.load_weights('training_weights')
 
     def predict(self, key):
         if key not in self.transitions:

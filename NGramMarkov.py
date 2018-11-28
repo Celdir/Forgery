@@ -43,13 +43,42 @@ class Markov:
         return ''.join(gen) if USE_CHARS else ' '.join(gen)
 
 
+def map_reader(fileName):
+	file = open(fileName, 'r')
+	m = {}
+	for line in file:
+		f = line.split('#~ ')
+                f = [s.strip() for s in f]
+		m[f[0]] = f[1:]
+	return m
+
+def files_by_author(author):
+    files = []
+    m = map_reader("map50.txt")
+    for title, vals in m.items():
+        filename = vals[0]
+        for auth in vals[1:]:
+            if auth == author:
+                files.append(filename)
+                break
+    return files
+
 def main():
-    n = int(sys.argv[2])
-    amount = int(sys.argv[3])
-    with open(sys.argv[1], 'r') as source:
-        m = Markov(n)
-        text = ' '.join(source.read().split())
-        print m.generate(text, amount)
+    operation = sys.argv[1]
+    n = int(sys.argv[3])
+    amount = int(sys.argv[4])
+    words = []
+    if operation == '--author':
+        for filename in files_by_author(sys.argv[2]):
+            with open(filename, 'r') as source:
+                words += source.read().split()
+    elif operation == '--file':
+        with open(sys.argv[2], 'r') as source:
+            words += source.read().split()
+
+    m = Markov(n)
+    text = ' '.join(words)
+    print m.generate(text, amount)
 
 if __name__ == "__main__":
     main()
